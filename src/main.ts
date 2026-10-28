@@ -21,8 +21,8 @@ async function bootstrap() {
   SwaggerModule.setup('api/docs', app, document);
 
   const port = process.env.PORT || 4000;
-  await app.listen(port);
-  console.log(`LocaleAura NestJS Backend running on: http://localhost:${port}`);
+  await app.listen(port, '0.0.0.0');
+  console.log(`LocaleAura NestJS Backend running on port ${port}`);
   console.log(`Interactive Judge API Docs: http://localhost:${port}/api/docs`);
 }
 bootstrap();
