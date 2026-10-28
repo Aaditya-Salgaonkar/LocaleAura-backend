@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 358925472,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 158863515,
+    "lat": "40.7146220",
+    "lon": "-73.9534500",
+    "class": "place",
+    "type": "quarter",
+    "place_rank": 20,
+    "importance": 0.5159197799415719,
+    "addresstype": "quarter",
+    "name": "Williamsburg",
+    "display_name": "Williamsburg, Brooklyn, Kings County, New York, 11249, United States",
+    "boundingbox": [
+      "40.7046220",
+      "40.7246220",
+      "-73.9634500",
+      "-73.9434500"
+    ]
+  }
+]

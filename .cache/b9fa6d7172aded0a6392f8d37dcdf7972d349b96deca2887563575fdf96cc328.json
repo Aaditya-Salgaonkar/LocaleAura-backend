@@ -1,0 +1,379 @@
+{
+  "results": [
+    {
+      "name": "Geoffrey Bawa's Residence",
+      "entity_id": "2D827EDA-318E-4C63-9258-EC7CAC5D9D5D",
+      "types": [
+        "urn:entity:place"
+      ],
+      "properties": {
+        "akas": [
+          {
+            "language": "",
+            "value": "Geoffrey Bawa's Residence, 11, 33rd Lane Bagatalle Rd Colombo 00300 Sri Lanka"
+          }
+        ],
+        "address": "11, 33rd Lane Bagatalle Rd Colombo 00300 Sri Lanka",
+        "business_rating": 4.6,
+        "description": "Mid-century Colombo residence preserving an iconic architect's refined living quarters, design archive, and occasional public tours.",
+        "external": {
+          "google_place": {
+            "id": "a87766f5278fb8e4",
+            "place_id": "ChIJ3QAn1mNZ4joR5LiPJ_Vmd6g"
+          }
+        },
+        "geocode": {
+          "name": "Bambalapitiya",
+          "city": "Colombo",
+          "admin1_region": "Western Province",
+          "admin2_region": "Colombo District",
+          "country_code": "LK",
+          "country": "Sri Lanka"
+        },
+        "image": {
+          "url": "https://images.qloo.com/i/2D827EDA-318E-4C63-9258-EC7CAC5D9D5D-420x-auto.jpg"
+        },
+        "is_closed": false,
+        "neighborhood": "Bambalapitiya",
+        "phone": "+94112589212",
+        "price_range": {
+          "currency": "usd"
+        },
+        "website": "http://www.geoffreybawa.com/",
+        "primary_genre": {
+          "id": "urn:tag:genre:place:museum",
+          "name": "Museum",
+          "type": "urn:tag:genre:place",
+          "akas": [
+            {
+              "language": "ar",
+              "value": "\"متحف\""
+            },
+            {
+              "language": "pl",
+              "value": "\"Muzeum\""
+            },
+            {
+              "language": "cs",
+              "value": "\"Muzeum\""
+            },
+            {
+              "language": "sw",
+              "value": "\"Makumbusho\""
+            },
+            {
+              "language": "zh",
+              "value": "\"博物馆\""
+            },
+            {
+              "language": "tr",
+              "value": "\"Müze\""
+            },
+            {
+              "language": "el",
+              "value": "\"Μουσείο\""
+            },
+            {
+              "language": "zh_tw",
+              "value": "\"博物館\""
+            },
+            {
+              "language": "ja",
+              "value": "\"博物館\""
+            },
+            {
+              "language": "ro",
+              "value": "\"Muzeu\""
+            },
+            {
+              "language": "lv",
+              "value": "\"Muzejs\""
+            },
+            {
+              "language": "es_la",
+              "value": "\"Museo\""
+            },
+            {
+              "language": "gl",
+              "value": "\"Museo\""
+            },
+            {
+              "language": "es",
+              "value": "\"Museo\""
+            },
+            {
+              "language": "tl",
+              "value": "\"Museo\""
+            },
+            {
+              "language": "it",
+              "value": "\"Museo\""
+            },
+            {
+              "language": "fi",
+              "value": "\"Museo\""
+            },
+            {
+              "language": "eu",
+              "value": "\"Museo\""
+            },
+            {
+              "language": "es_ar",
+              "value": "\"Museo\""
+            },
+            {
+              "language": "my",
+              "value": "\"ပြတိုက်\""
+            },
+            {
+              "language": "sq",
+              "value": "\"Muze\""
+            },
+            {
+              "language": "he",
+              "value": "\"מוזיאון\""
+            },
+            {
+              "language": "kk",
+              "value": "\"Мұражай\""
+            },
+            {
+              "language": "bg",
+              "value": "\"Музей\""
+            },
+            {
+              "language": "uk",
+              "value": "\"Музей\""
+            },
+            {
+              "language": "ru",
+              "value": "\"Музей\""
+            },
+            {
+              "language": "ta",
+              "value": "\"அருங்காட்சியகம்\""
+            },
+            {
+              "language": "fr",
+              "value": "\"Musée\""
+            },
+            {
+              "language": "fr_ca",
+              "value": "\"Musée\""
+            },
+            {
+              "language": "hr",
+              "value": "\"Muzej\""
+            },
+            {
+              "language": "bs",
+              "value": "\"Muzej\""
+            },
+            {
+              "language": "sl",
+              "value": "\"Muzej\""
+            },
+            {
+              "language": "sr",
+              "value": "\"Музеј\""
+            },
+            {
+              "language": "mk",
+              "value": "\"Музеј\""
+            },
+            {
+              "language": "ca",
+              "value": "\"Museu\""
+            },
+            {
+              "language": "pt_pt",
+              "value": "\"Museu\""
+            },
+            {
+              "language": "pt",
+              "value": "\"Museu\""
+            },
+            {
+              "language": "ms",
+              "value": "\"Muzium\""
+            },
+            {
+              "language": "id",
+              "value": "\"Museum\""
+            },
+            {
+              "language": "sv",
+              "value": "\"Museum\""
+            },
+            {
+              "language": "af",
+              "value": "\"Museum\""
+            },
+            {
+              "language": "en_gb",
+              "value": "\"Museum\""
+            },
+            {
+              "language": "da",
+              "value": "\"Museum\""
+            },
+            {
+              "language": "de",
+              "value": "\"Museum\""
+            },
+            {
+              "language": "nl",
+              "value": "\"Museum\""
+            },
+            {
+              "language": "nb",
+              "value": "\"Museum\""
+            },
+            {
+              "language": "bn",
+              "value": "\"জাদুঘর\""
+            },
+            {
+              "language": "ko",
+              "value": "\"박물관\""
+            },
+            {
+              "language": "vi",
+              "value": "\"Bảo tàng\""
+            },
+            {
+              "language": "th",
+              "value": "\"พิพิธภัณฑ์\""
+            },
+            {
+              "language": "ka",
+              "value": "\"მუზეუმი\""
+            },
+            {
+              "language": "hi",
+              "value": "\"संग्रहालय\""
+            },
+            {
+              "language": "hu",
+              "value": "\"Múzeum\""
+            },
+            {
+              "language": "sk",
+              "value": "\"Múzeum\""
+            },
+            {
+              "language": "lt",
+              "value": "\"Muziejus\""
+            },
+            {
+              "language": "az",
+              "value": "\"Muzey\""
+            },
+            {
+              "language": "km",
+              "value": "\"សារមន្ទីរ\""
+            },
+            {
+              "language": "te",
+              "value": "\"మ్యూజియం\""
+            },
+            {
+              "language": "et",
+              "value": "\"Muuseum\""
+            },
+            {
+              "language": "lo",
+              "value": "\"ພິພິທະພັນ\""
+            }
+          ]
+        }
+      },
+      "popularity": 0.5157852547136976,
+      "disambiguation": "11, 33rd Lane Bagatalle Rd Colombo 00300 Sri Lanka",
+      "location": {
+        "lat": 6.9014150999999995,
+        "lon": 79.85789849999999
+      },
+      "tags": [
+        {
+          "name": "Archive",
+          "tag_id": "urn:tag:category:place:archive",
+          "type": "urn:tag:category:place",
+          "value": "urn:tag:category:place:archive"
+        },
+        {
+          "name": "Art center",
+          "tag_id": "urn:tag:category:place:art_center",
+          "type": "urn:tag:category:place",
+          "value": "urn:tag:category:place:art_center"
+        },
+        {
+          "name": "Art center",
+          "tag_id": "urn:tag:genre:place:art_center",
+          "type": "urn:tag:genre:place",
+          "value": "urn:tag:genre:place:art_center"
+        },
+        {
+          "name": "Restroom",
+          "tag_id": "urn:tag:amenities:place:restroom",
+          "type": "urn:tag:amenities:place",
+          "value": "urn:tag:amenities:place:restroom"
+        },
+        {
+          "name": "Getting tickets in advance recommended",
+          "tag_id": "urn:tag:planning:place:getting_tickets_in_advance_recommended",
+          "type": "urn:tag:planning:place",
+          "value": "urn:tag:planning:place:getting_tickets_in_advance_recommended"
+        },
+        {
+          "name": "Restaurant",
+          "tag_id": "urn:tag:amenities:place:restaurant",
+          "type": "urn:tag:amenities:place",
+          "value": "urn:tag:amenities:place:restaurant"
+        },
+        {
+          "name": "Place",
+          "tag_id": "urn:tag:genre:place",
+          "type": "urn:tag:genre:place",
+          "value": "urn:tag:genre:place"
+        },
+        {
+          "name": "Museum",
+          "tag_id": "urn:tag:genre:place:museum",
+          "type": "urn:tag:genre:place",
+          "value": "urn:tag:genre:place:museum"
+        },
+        {
+          "name": "Heritage museum",
+          "tag_id": "urn:tag:genre:place:heritage_museum",
+          "type": "urn:tag:genre:place",
+          "value": "urn:tag:genre:place:heritage_museum"
+        },
+        {
+          "name": "Architect",
+          "tag_id": "urn:tag:category:place:architect",
+          "type": "urn:tag:category:place",
+          "value": "urn:tag:category:place:architect"
+        },
+        {
+          "name": "Museum",
+          "tag_id": "urn:tag:category:place:museum",
+          "type": "urn:tag:category:place",
+          "value": "urn:tag:category:place:museum"
+        },
+        {
+          "name": "Heritage museum",
+          "tag_id": "urn:tag:category:place:heritage_museum",
+          "type": "urn:tag:category:place",
+          "value": "urn:tag:category:place:heritage_museum"
+        },
+        {
+          "name": "Tourist attraction",
+          "tag_id": "urn:tag:genre:place:tourist_attraction",
+          "type": "urn:tag:genre:place",
+          "value": "urn:tag:genre:place:tourist_attraction"
+        }
+      ]
+    }
+  ]
+}

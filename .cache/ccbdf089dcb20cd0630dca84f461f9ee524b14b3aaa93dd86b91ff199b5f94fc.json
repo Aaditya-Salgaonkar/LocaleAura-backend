@@ -1,0 +1,32 @@
+{
+  "duration": 24,
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "parents": [
+          {
+            "type": "urn:entity:artist"
+          },
+          {
+            "type": "urn:entity:album"
+          }
+        ],
+        "type": "urn:tag:genre:music",
+        "id": "urn:tag:genre:music:acoustic",
+        "name": "Acoustic",
+        "popularity": 0.9994179,
+        "properties": {
+          "description": "Defined by the absence of electric instrumentation and dependency on acoustics, acoustic music genre includes acoustic versions of songs from other genres. Often characterized by its simplicity and personal/lyrical narratives.",
+          "history": "Derived in the mid-20th century, acoustic music refers generally to music that uses instruments which produce sound through acoustic means, as opposed to electric or electronic means.",
+          "melody": "Often simple and intimate",
+          "performance": "Mostly performed live and can often involve only one or two musicians",
+          "rhythm": "Typically straightforward, can be complex depending on the artist or style",
+          "tempo": "Varies",
+          "vocals": "Can range from soft and smooth to rough and raspy depending on the artist or style"
+        },
+        "tags": []
+      }
+    ]
+  }
+}

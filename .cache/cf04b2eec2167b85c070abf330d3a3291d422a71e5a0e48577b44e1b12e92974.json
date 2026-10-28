@@ -1,0 +1,21 @@
+{
+  "duration": 19,
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "parents": [
+          {
+            "type": "urn:entity:person"
+          }
+        ],
+        "type": "urn:tag:occupation:wikidata",
+        "id": "urn:tag:occupation:wikidata:editorial_cartoonist",
+        "name": "Editorial Cartoonist",
+        "popularity": 0.987584,
+        "properties": {},
+        "tags": []
+      }
+    ]
+  }
+}

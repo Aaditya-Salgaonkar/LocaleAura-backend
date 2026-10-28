@@ -1,0 +1,177 @@
+{
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "tag_id": "urn:tag:style:qloo:exotic",
+        "name": "Exotic",
+        "types": [
+          "urn:entity:artist",
+          "urn:entity:book",
+          "urn:entity:movie",
+          "urn:entity:tv_show"
+        ],
+        "subtype": "urn:tag:style:qloo",
+        "tag_value": "urn:tag:style:qloo:exotic",
+        "popularity": 0.9903368115711637,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:specialty_dish:place:pork_buns",
+        "name": "Pork Buns",
+        "types": [
+          "urn:entity:place"
+        ],
+        "subtype": "urn:tag:specialty_dish:place",
+        "tag_value": "urn:tag:specialty_dish:place:pork_buns",
+        "popularity": 0.9707158209999022,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:specialty_dish:place:beef_tartare",
+        "name": "Beef Tartare",
+        "types": [
+          "urn:entity:place"
+        ],
+        "subtype": "urn:tag:specialty_dish:place",
+        "tag_value": "urn:tag:specialty_dish:place:beef_tartare",
+        "popularity": 0.9953264729939524,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:archetype:qloo:dark_night_of_the_soul",
+        "name": "Dark Night Of The Soul",
+        "types": [
+          "urn:entity:movie",
+          "urn:entity:tv_show",
+          "urn:entity:podcast"
+        ],
+        "subtype": "urn:tag:archetype:qloo",
+        "tag_value": "urn:tag:archetype:qloo:dark_night_of_the_soul",
+        "popularity": 0.9664977631820983,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:hotel_rating:place:four_star",
+        "name": "Four Star",
+        "types": [
+          "urn:entity:place"
+        ],
+        "subtype": "urn:tag:hotel_rating:place",
+        "tag_value": "urn:tag:hotel_rating:place:four_star",
+        "popularity": 0.9998966377907004,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:style:qloo:sultry",
+        "name": "Sultry",
+        "types": [
+          "urn:entity:book",
+          "urn:entity:artist",
+          "urn:entity:movie",
+          "urn:entity:tv_show",
+          "urn:entity:podcast"
+        ],
+        "subtype": "urn:tag:style:qloo",
+        "tag_value": "urn:tag:style:qloo:sultry",
+        "popularity": 0.9943091877851002,
+        "query": {
+          "affinity": 0.9998489437390956
+        }
+      },
+      {
+        "tag_id": "urn:tag:category:qloo:filmmakers",
+        "name": "Filmmakers",
+        "types": [
+          "urn:entity:person"
+        ],
+        "subtype": "urn:tag:category:qloo",
+        "tag_value": "urn:tag:category:qloo:filmmakers",
+        "popularity": 0.990291885139766,
+        "query": {
+          "affinity": 0.9996426062630172
+        }
+      },
+      {
+        "tag_id": "urn:tag:music:qloo:chill",
+        "name": "Chill",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "subtype": "urn:tag:music:qloo",
+        "tag_value": "urn:tag:music:qloo:chill",
+        "popularity": 0.9983082685211963,
+        "query": {
+          "affinity": 0.9995776843684013
+        }
+      },
+      {
+        "tag_id": "urn:tag:occupation:qloo:filmmaker",
+        "name": "Filmmaker",
+        "types": [
+          "urn:entity:person"
+        ],
+        "subtype": "urn:tag:occupation:qloo",
+        "tag_value": "urn:tag:occupation:qloo:filmmaker",
+        "popularity": 0.989167860384988,
+        "query": {
+          "affinity": 0.9995323997735831
+        }
+      },
+      {
+        "tag_id": "urn:tag:music:qloo:genre_blending",
+        "name": "Genre Blending",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "subtype": "urn:tag:music:qloo",
+        "tag_value": "urn:tag:music:qloo:genre_blending",
+        "popularity": 0.9965623425709512,
+        "query": {
+          "affinity": 0.9991673605328892
+        }
+      },
+      {
+        "tag_id": "urn:tag:genre:person:musician",
+        "name": "Musician",
+        "types": [
+          "urn:entity:person"
+        ],
+        "subtype": "urn:tag:genre:person",
+        "tag_value": "urn:tag:genre:person:musician",
+        "popularity": 0.9988677282604376,
+        "query": {
+          "affinity": 0.9991304347826087
+        }
+      },
+      {
+        "tag_id": "urn:tag:keyword:media:surrealism",
+        "name": "surrealism",
+        "types": [
+          "urn:entity:tv_show",
+          "urn:entity:writer",
+          "urn:entity:director",
+          "urn:entity:tv_episode",
+          "urn:entity:actor",
+          "urn:entity:movie"
+        ],
+        "subtype": "urn:tag:keyword:media",
+        "tag_value": "urn:tag:keyword:media:surrealism",
+        "popularity": 0.9978782234014032,
+        "query": {
+          "affinity": 0.9990538676187012
+        }
+      }
+    ]
+  }
+}

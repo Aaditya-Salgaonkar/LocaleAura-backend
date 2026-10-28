@@ -1,0 +1,4495 @@
+{
+  "success": true,
+  "results": {
+    "entities": [
+      {
+        "name": "Ridhi Mehra",
+        "entity_id": "45B51682-1733-466E-B81B-E3AE5F1B9FFD",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [],
+          "image": {
+            "url": "https://images.qloo.com/i/45B51682-1733-466E-B81B-E3AE5F1B9FFD-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Luxury Ethnic Wear",
+            "Bridal Couture",
+            "Modern Lehengas",
+            "Indian Designer Fashion",
+            "Festive Attire"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Luxury Travel",
+            "Formal Socializing",
+            "Cultural Events"
+          ],
+          "brand_type": [
+            "Personal Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Luxury Goods"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Craftsmanship",
+            "Innovation",
+            "Cultural Heritage",
+            "Excellence"
+          ],
+          "description": "Ridhi Mehra is a distinguished designer label that has redefined modern ethnic wear by seamlessly blending traditional Indian craftsmanship with contemporary silhouettes. Known for its sophisticated sarees, intricate lehengas, and elegant anarkalis, the brand caters to the modern woman who values both heritage and fashion-forward design. With a focus on premium materials and exquisite detailing, the label has become a staple for wedding and festive celebrations. The house operates from its base in New Delhi, maintaining a strong presence in the global luxury fashion market.",
+          "key_markets": [
+            "India",
+            "United States",
+            "United Kingdom",
+            "United Arab Emirates"
+          ],
+          "founded_year": 2012,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Female"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Sophisticated",
+            "Elegant",
+            "Romantic",
+            "Regal"
+          ],
+          "personal_style": [
+            "Elegant",
+            "Sophisticated",
+            "Traditional Fusion"
+          ],
+          "similar_brands": [
+            "Papa Don't Preach by Shubhika",
+            "Jade by Monica and Karishma",
+            "Falguni Shane Peacock"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Young Adults",
+            "Adults",
+            "Middle-Aged"
+          ],
+          "audience_identity": "People who prioritize elegance and craftsmanship for grand celebrations and milestone events, often seeking a balance between traditional heritage and contemporary design sensibilities.",
+          "competitor_brands": [
+            "Anita Dongre",
+            "Sabyasachi",
+            "Tarun Tahiliani",
+            "Manish Malhotra",
+            "Anamika Khanna"
+          ],
+          "customer_segments": [
+            "Modern Indian Brides",
+            "Socialites",
+            "Luxury Fashion Consumers"
+          ],
+          "influencer_appeal": [
+            "Bollywood Stylists",
+            "Fashion Influencers",
+            "Bridal Bloggers",
+            "Socialites"
+          ],
+          "products_services": [
+            "Sarees",
+            "Lehengas",
+            "Anarkalis",
+            "Gowns",
+            "Dupattas"
+          ],
+          "short_description": "Ridhi Mehra is a designer brand specializing in luxury ethnic wear including sarees, lehengas, anarkalis, and festive and wedding attire.",
+          "style_description": "A refined aesthetic that harmonizes intricate artisanal embroidery with sleek, modern cuts and luxurious fabrics.",
+          "cultural_relevance": [
+            "South Asian Wedding Culture",
+            "Modern Ethnic Fashion"
+          ],
+          "known_partnerships": [],
+          "market_positioning": "Premium contemporary Indian designer label specializing in luxury wedding and festive occasion wear.",
+          "short_descriptions": [
+            {
+              "value": "A luxury design house blending traditional Indian aesthetics with contemporary silhouettes for weddings and festive occasions.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Une maison de couture de luxe mêlant esthétique traditionnelle indienne et silhouettes contemporaines pour les mariages et occasions festives.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Una casa de moda de lujo que fusiona la estética tradicional india con siluetas contemporáneas para bodas y ocasiones festivas.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Ein Luxus-Modehaus, das traditionelle indische Ästhetik mit modernen Silhouetten für Hochzeiten und festliche Anlässe verbindet.",
+              "languages": [
+                "de"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 3000,
+          "price_range_usd_min": 400,
+          "target_income_level": [
+            "Medium to High",
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Intricate Embroidery",
+            "Flowing Silhouettes",
+            "Vibrant Color Palettes",
+            "Modernized Traditional Motifs"
+          ],
+          "category_description": "A designer label focusing on luxury occasion wear that reinterprets traditional Indian garments through a modern, fashion-forward lens.",
+          "headquarters_address": "New Delhi, India",
+          "interest_adjacencies": [
+            "Luxury Fashion",
+            "Bridal Styling",
+            "Event Planning",
+            "Traditional Embroidery",
+            "Cultural Celebrations"
+          ],
+          "situational_contexts": "Weddings, festive celebrations, formal gala evenings, and high-profile social gatherings where refined ethnic attire is required.",
+          "aspirational_lifestyle": [
+            "Destination Weddings",
+            "Red Carpet Events",
+            "High-Society Glamour"
+          ],
+          "sustainability_initiatives": [],
+          "cultural_context_description": "The brand is deeply rooted in the vibrant and ceremonial atmosphere of Indian wedding culture and elevated ethnic celebrations.",
+          "target_demographics_description": "Targeting affluent women seeking high-end ethnic wear for formal events and wedding celebrations."
+        },
+        "popularity": 0.94824634266244,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:intricate_embroidery",
+            "name": "Intricate Embroidery",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:flowing_silhouettes",
+            "name": "Flowing Silhouettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:vibrant_color_palettes",
+            "name": "Vibrant Color Palettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:modernized_traditional_motifs",
+            "name": "Modernized Traditional Motifs",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:destination_weddings",
+            "name": "Destination Weddings",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:red_carpet_events",
+            "name": "Red Carpet Events",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:high_society_glamour",
+            "name": "High-Society Glamour",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:personal_brand",
+            "name": "Personal Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:anita_dongre",
+            "name": "Anita Dongre",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:sabyasachi",
+            "name": "Sabyasachi",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:tarun_tahiliani",
+            "name": "Tarun Tahiliani",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:manish_malhotra",
+            "name": "Manish Malhotra",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:anamika_khanna",
+            "name": "Anamika Khanna",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:craftsmanship",
+            "name": "Craftsmanship",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:innovation",
+            "name": "Innovation",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:cultural_heritage",
+            "name": "Cultural Heritage",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:excellence",
+            "name": "Excellence",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:south_asian_wedding_culture",
+            "name": "South Asian Wedding Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:modern_ethnic_fashion",
+            "name": "Modern Ethnic Fashion",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:modern_indian_brides",
+            "name": "Modern Indian Brides",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:socialites",
+            "name": "Socialites",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:luxury_fashion_consumers",
+            "name": "Luxury Fashion Consumers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:traditional_indian_textiles",
+            "name": "Traditional Indian Textiles",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:art_deco",
+            "name": "Art Deco",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:floral_motifs",
+            "name": "Floral Motifs",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:elegant",
+            "name": "Elegant",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:romantic",
+            "name": "Romantic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:regal",
+            "name": "Regal",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:luxury",
+            "name": "Luxury",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:designer",
+            "name": "Designer",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ethnic_wear",
+            "name": "Ethnic Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:luxury_goods",
+            "name": "Luxury Goods",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:bollywood_stylists",
+            "name": "Bollywood Stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fashion_influencers",
+            "name": "Fashion Influencers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:bridal_bloggers",
+            "name": "Bridal Bloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:socialites",
+            "name": "Socialites",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:luxury_fashion",
+            "name": "Luxury Fashion",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:bridal_styling",
+            "name": "Bridal Styling",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:event_planning",
+            "name": "Event Planning",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:traditional_embroidery",
+            "name": "Traditional Embroidery",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:cultural_celebrations",
+            "name": "Cultural Celebrations",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:india",
+            "name": "India",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_kingdom",
+            "name": "United Kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_arab_emirates",
+            "name": "United Arab Emirates",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:luxury_ethnic_wear",
+            "name": "Luxury Ethnic Wear",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:bridal_couture",
+            "name": "Bridal Couture",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:modern_lehengas",
+            "name": "Modern Lehengas",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:indian_designer_fashion",
+            "name": "Indian Designer Fashion",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:festive_attire",
+            "name": "Festive Attire",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:luxury_travel",
+            "name": "Luxury Travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:formal_socializing",
+            "name": "Formal Socializing",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:cultural_events",
+            "name": "Cultural Events",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:silk",
+            "name": "Silk",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:georgette",
+            "name": "Georgette",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:chiffon",
+            "name": "Chiffon",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:organza",
+            "name": "Organza",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:elegant",
+            "name": "Elegant",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:traditional_fusion",
+            "name": "Traditional Fusion",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:ethnic_wear",
+            "name": "Ethnic Wear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:bridal_wear",
+            "name": "Bridal Wear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:sarees",
+            "name": "Sarees",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:lehengas",
+            "name": "Lehengas",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:anarkalis",
+            "name": "Anarkalis",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:gowns",
+            "name": "Gowns",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:dupattas",
+            "name": "Dupattas",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:wholesale",
+            "name": "Wholesale",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:online_marketplace",
+            "name": "Online Marketplace",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:belted_saree",
+            "name": "Belted Saree",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:embroidered_anarkali",
+            "name": "Embroidered Anarkali",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:papa_don_t_preach_by_shubhika",
+            "name": "Papa Don't Preach by Shubhika",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:jade_by_monica_and_karishma",
+            "name": "Jade by Monica and Karishma",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:falguni_shane_peacock",
+            "name": "Falguni Shane Peacock",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:middle_aged",
+            "name": "Middle-Aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9638136428982158,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "instagram": [
+            {
+              "id": "ridhimehraofficial"
+            }
+          ]
+        }
+      },
+      {
+        "name": "House Of Masaba",
+        "entity_id": "5A7C82FA-3633-41DB-BF23-4DC3979D8AF8",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [],
+          "image": {
+            "url": "https://images.qloo.com/i/5A7C82FA-3633-41DB-BF23-4DC3979D8AF8-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Fusion",
+            "Print",
+            "Ethnic",
+            "Bridal",
+            "India-Proud"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Wedding Season",
+            "Festive Celebrations",
+            "Social Networking",
+            "Travel",
+            "Cultural Events"
+          ],
+          "brand_type": [
+            "Product Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Fine Jewelry"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Authenticity",
+            "Inclusivity",
+            "Heritage",
+            "Innovation",
+            "Creativity"
+          ],
+          "description": "House of Masaba is a pioneering Indian fashion label celebrated for its distinct, print-forward aesthetic that fuses traditional Indian craftsmanship with modern global sensibilities. The brand offers an extensive portfolio including bridal couture, festive wear, menswear, and fine jewelry, catering to a style-conscious, culturally-rooted audience. Known for its bold motifs and vibrant color palettes, the label has successfully carved a niche in the luxury and premium segment. It reflects a modern vision of Indian identity, bridging the gap between historical heritage and contemporary street-style fashion.",
+          "key_markets": [
+            "India",
+            "United Arab Emirates",
+            "United Kingdom",
+            "United States"
+          ],
+          "founded_year": 2009,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Female",
+            "Male",
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Bold",
+            "Vibrant",
+            "Playful",
+            "Sophisticated",
+            "Empowering"
+          ],
+          "personal_style": [
+            "Eclectic",
+            "Bold",
+            "Fusion",
+            "Modern Ethnic"
+          ],
+          "similar_brands": [
+            "Payal Khandwala",
+            "Abraham & Thakore",
+            "Raw Mango",
+            "Anamika Khanna",
+            "Bodice"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Young Adults",
+            "Adults"
+          ],
+          "audience_identity": "People who value vibrant self-expression and celebrate modern Indian heritage through bold, unconventional aesthetics that bridge traditional craftsmanship with contemporary flair.",
+          "competitor_brands": [
+            "Sabyasachi",
+            "Anita Dongre",
+            "Tarun Tahiliani",
+            "Ritu Kumar",
+            "Raw Mango"
+          ],
+          "customer_segments": [
+            "Fashion-Forward Millennials",
+            "Modern Brides",
+            "Urban Festive Shoppers",
+            "Global Indian Diaspora"
+          ],
+          "influencer_appeal": [
+            "Bollywood Celebrities",
+            "Fashion Stylists",
+            "Lifestyle Content Creators",
+            "Bridal Influencers",
+            "Cultural Critics"
+          ],
+          "products_services": [
+            "Lehengas",
+            "Sarees",
+            "Kaftans",
+            "Bridal Wear",
+            "Fine Jewelry",
+            "Menswear",
+            "Festive Wear"
+          ],
+          "short_description": "House of Masaba is an India-proud fashion label offering menswear, womenswear, bridal couture, fine jewellery, and festive collections.",
+          "style_description": "A high-energy aesthetic characterized by eclectic, oversized prints, vibrant color-blocking, and contemporary interpretations of traditional Indian silhouettes.",
+          "cultural_relevance": [
+            "Modern Indian Identity",
+            "Bollywood Style",
+            "Fusion Fashion Movement"
+          ],
+          "known_partnerships": [
+            "Netflix",
+            "Nykaa",
+            "Budweiser"
+          ],
+          "market_positioning": "A premium, print-focused Indian heritage brand offering modern luxury occasion wear for the globally-minded, style-conscious consumer.",
+          "short_descriptions": [
+            {
+              "value": "Una vibrante marca de moda india conocida por sus estampados atrevidos, siluetas de fusión y colecciones exclusivas para bodas y fiestas.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Ein lebhaftes indisches Modelabel, das für seine auffälligen Prints, modernen Fusion-Silhouetten und exklusiven Braut- und Festkollektionen bekannt ist.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "A vibrant Indian fashion label known for its bold, unconventional prints, fusion silhouettes, and high-end festive and bridal collections.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Une marque de mode indienne vibrante connue pour ses imprimés audacieux, ses silhouettes fusionnelles et ses collections festives et nuptiales haut de gamme.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 6500,
+          "price_range_usd_min": 250,
+          "target_income_level": [
+            "Medium to High",
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Bold Geometric Prints",
+            "Vibrant Color Palette",
+            "Eclectic Motifs",
+            "Fusion Silhouettes",
+            "Ornate Embellishments"
+          ],
+          "category_description": "A luxury and premium fashion house specializing in vibrant, print-heavy fusion apparel and jewelry that occupies a space between traditional heritage and modern, playful luxury.",
+          "headquarters_address": "Mumbai, Maharashtra, India",
+          "interest_adjacencies": [
+            "Contemporary Art",
+            "Luxury Weddings",
+            "Cultural Tourism",
+            "Textile Design",
+            "Celebrity Style"
+          ],
+          "situational_contexts": "This label is engaged for festive celebrations, weddings, high-profile social events, and elevated daily occasions that call for a distinct, spirited, and culturally-rooted appearance.",
+          "aspirational_lifestyle": [
+            "Global Citizenship",
+            "Artistic Expression",
+            "Cultural Preservation",
+            "Celebrity Status"
+          ],
+          "sustainability_initiatives": [
+            "Slow Fashion"
+          ],
+          "cultural_context_description": "The label thrives at the intersection of modern South Asian pop culture, traditional craftsmanship, and global fashion trends.",
+          "target_demographics_description": "The brand targets fashion-conscious adults, primarily women in the medium-to-high income bracket who prioritize bold, festive, and modern ethnic attire."
+        },
+        "popularity": 0.9644437287043787,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:casual",
+            "name": "Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:formalwear",
+            "name": "Formalwear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:health_and_beauty",
+            "name": "Health & Beauty",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:bold_geometric_prints",
+            "name": "Bold Geometric Prints",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:vibrant_color_palette",
+            "name": "Vibrant Color Palette",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:eclectic_motifs",
+            "name": "Eclectic Motifs",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:fusion_silhouettes",
+            "name": "Fusion Silhouettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:ornate_embellishments",
+            "name": "Ornate Embellishments",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:global_citizenship",
+            "name": "Global Citizenship",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:artistic_expression",
+            "name": "Artistic Expression",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:cultural_preservation",
+            "name": "Cultural Preservation",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:celebrity_status",
+            "name": "Celebrity Status",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:product_brand",
+            "name": "Product Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:capsule",
+            "name": "Capsule",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:drops",
+            "name": "Drops",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:sabyasachi",
+            "name": "Sabyasachi",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:anita_dongre",
+            "name": "Anita Dongre",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:tarun_tahiliani",
+            "name": "Tarun Tahiliani",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:ritu_kumar",
+            "name": "Ritu Kumar",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:raw_mango",
+            "name": "Raw Mango",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:authenticity",
+            "name": "Authenticity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:inclusivity",
+            "name": "Inclusivity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:innovation",
+            "name": "Innovation",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:creativity",
+            "name": "Creativity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:modern_indian_identity",
+            "name": "Modern Indian Identity",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:bollywood_style",
+            "name": "Bollywood Style",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:fusion_fashion_movement",
+            "name": "Fusion Fashion Movement",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:fashion_forward_millennials",
+            "name": "Fashion-Forward Millennials",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:modern_brides",
+            "name": "Modern Brides",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:urban_festive_shoppers",
+            "name": "Urban Festive Shoppers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:global_indian_diaspora",
+            "name": "Global Indian Diaspora",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:indian_heritage",
+            "name": "Indian Heritage",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:pop_art",
+            "name": "Pop Art",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:cultural_motifs",
+            "name": "Cultural Motifs",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:street_style",
+            "name": "Street Style",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:bold",
+            "name": "Bold",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:vibrant",
+            "name": "Vibrant",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:playful",
+            "name": "Playful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:empowering",
+            "name": "Empowering",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+            "name": "Ready-to-Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:designer",
+            "name": "Designer",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:bridal",
+            "name": "Bridal",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fine_jewelry",
+            "name": "Fine Jewelry",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:bollywood_celebrities",
+            "name": "Bollywood Celebrities",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fashion_stylists",
+            "name": "Fashion Stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:lifestyle_content_creators",
+            "name": "Lifestyle Content Creators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:bridal_influencers",
+            "name": "Bridal Influencers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:cultural_critics",
+            "name": "Cultural Critics",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:contemporary_art",
+            "name": "Contemporary Art",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:luxury_weddings",
+            "name": "Luxury Weddings",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:cultural_tourism",
+            "name": "Cultural Tourism",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:textile_design",
+            "name": "Textile Design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:celebrity_style",
+            "name": "Celebrity Style",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:india",
+            "name": "India",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_arab_emirates",
+            "name": "United Arab Emirates",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_kingdom",
+            "name": "United Kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:fusion",
+            "name": "Fusion",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:print",
+            "name": "Print",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:ethnic",
+            "name": "Ethnic",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:bridal",
+            "name": "Bridal",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:india_proud",
+            "name": "India-Proud",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:netflix",
+            "name": "Netflix",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:nykaa",
+            "name": "Nykaa",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:budweiser",
+            "name": "Budweiser",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:wedding_season",
+            "name": "Wedding Season",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:festive_celebrations",
+            "name": "Festive Celebrations",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:social_networking",
+            "name": "Social Networking",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:travel",
+            "name": "Travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:cultural_events",
+            "name": "Cultural Events",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:mainstream",
+            "name": "Mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:silk",
+            "name": "Silk",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:crepe",
+            "name": "Crepe",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:organza",
+            "name": "Organza",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:chiffon",
+            "name": "Chiffon",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:bold",
+            "name": "Bold",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:fusion",
+            "name": "Fusion",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:modern_ethnic",
+            "name": "Modern Ethnic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:bridal_wear",
+            "name": "Bridal Wear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:fine_jewelry",
+            "name": "Fine Jewelry",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:festive_wear",
+            "name": "Festive Wear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:lehengas",
+            "name": "Lehengas",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:sarees",
+            "name": "Sarees",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:kaftans",
+            "name": "Kaftans",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:bridal_wear",
+            "name": "Bridal Wear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:fine_jewelry",
+            "name": "Fine Jewelry",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:menswear",
+            "name": "Menswear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:festive_wear",
+            "name": "Festive Wear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:department_store",
+            "name": "Department Store",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:wholesale",
+            "name": "Wholesale",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:kaftans",
+            "name": "Kaftans",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:printed_lehengas",
+            "name": "Printed Lehengas",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:masaba_sarees",
+            "name": "Masaba Sarees",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:payal_khandwala",
+            "name": "Payal Khandwala",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:abraham_thakore",
+            "name": "Abraham & Thakore",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:raw_mango",
+            "name": "Raw Mango",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:anamika_khanna",
+            "name": "Anamika Khanna",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:bodice",
+            "name": "Bodice",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:slow_fashion",
+            "name": "Slow Fashion",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:male",
+            "name": "Male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9622136421079412,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "houseofmasaba"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "houseofmasaba"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Tarun Tahiliani",
+        "entity_id": "52FF5BCE-935B-471C-A446-55AB3AD941B7",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [],
+          "image": {
+            "url": "https://images.qloo.com/i/52FF5BCE-935B-471C-A446-55AB3AD941B7-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Couture",
+            "Bridal",
+            "Embroidery",
+            "Heritage",
+            "Draping"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Luxury Travel",
+            "Fine Dining",
+            "Social Galas",
+            "Exclusive Events",
+            "Cultural Appreciation"
+          ],
+          "brand_type": [
+            "Personal Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Luxury Retail"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Craftsmanship",
+            "Innovation",
+            "Excellence",
+            "Cultural Preservation",
+            "Artistry"
+          ],
+          "description": "Tarun Tahiliani is a premier Indian luxury house renowned for defining modern couture through the lens of traditional heritage and exquisite craftsmanship. The brand offers a vast range of bridal, occasion, and ready-to-wear pieces that seamlessly bridge the gap between historic Indian textile artistry and contemporary tailored silhouettes. Catering to an affluent global audience, it maintains a strong presence in major Indian metropolitan centers while serving high-end markets worldwide. Through a dedication to structural innovation and intricate detail, the brand remains an authoritative voice in luxury South Asian fashion.",
+          "key_markets": [
+            "India",
+            "United States",
+            "United Kingdom",
+            "United Arab Emirates"
+          ],
+          "founded_year": 1995,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Male",
+            "Female"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Sophisticated",
+            "Opulent",
+            "Regal",
+            "Timeless",
+            "Graceful"
+          ],
+          "personal_style": [
+            "Elegant",
+            "Formal",
+            "Traditionalist",
+            "Polished"
+          ],
+          "similar_brands": [
+            "Ralph & Russo",
+            "Elie Saab",
+            "Naeem Khan",
+            "Falguni Shane Peacock"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Adults",
+            "Middle-Aged"
+          ],
+          "audience_identity": "People who value heritage-inspired luxury and seek sophisticated attire that bridges traditional Indian artistry with modern, global sensibilities for milestone celebrations and formal events.",
+          "competitor_brands": [
+            "Sabyasachi",
+            "Manish Malhotra",
+            "Anita Dongre",
+            "Abu Jani Sandeep Khosla",
+            "Anamika Khanna"
+          ],
+          "customer_segments": [
+            "Luxury Brides",
+            "Affluent Professionals",
+            "Global Indian Diaspora",
+            "High-Net-Worth Individuals"
+          ],
+          "influencer_appeal": [
+            "Bollywood Icons",
+            "Socialites",
+            "Bridal Stylists",
+            "Luxury Lifestyle Bloggers",
+            "Cultural Influencers"
+          ],
+          "products_services": [
+            "Bridal Couture",
+            "Menswear",
+            "Womenswear",
+            "Occasion Wear",
+            "Sarees",
+            "Lehengas",
+            "Sherwanis",
+            "Accessories"
+          ],
+          "short_description": "Tarun Tahiliani is an Indian fashion brand known for designer womenswear and menswear, specializing in couture, bridal, and occasion wear that blends Indian craftsmanship with tailored silhouettes.",
+          "style_description": "A refined aesthetic that harmonizes traditional Indian textile artistry with precise, contemporary architectural forms.",
+          "cultural_relevance": [
+            "Indian Bridal Culture",
+            "South Asian Luxury Fashion",
+            "Global Red Carpet Style"
+          ],
+          "known_partnerships": [],
+          "market_positioning": "Premium designer luxury house positioned at the intersection of Indian cultural heritage and modern sophisticated couture.",
+          "short_descriptions": [
+            {
+              "value": "Une maison de couture de luxe alliant l'artisanat indien traditionnel à une confection moderne et structurée pour les tenues de cérémonie et de mariage.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "A luxury fashion house blending Indian heritage craftsmanship with contemporary, structured tailoring for bridal and occasion wear.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Ein Luxusmodehaus, das traditionelle indische Handwerkskunst mit moderner, strukturierter Schneiderei für Braut- und Abendmode verbindet.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Una firma de moda de lujo que fusiona la artesanía del patrimonio indio con una sastrería contemporánea estructurada para novias y eventos especiales.",
+              "languages": [
+                "es"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 15000,
+          "price_range_usd_min": 500,
+          "target_income_level": [
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Intricate Embroidery",
+            "Draped Silhouettes",
+            "Jewel Tones",
+            "Structured Tailoring",
+            "Opulent Embellishments"
+          ],
+          "category_description": "A luxury couture label specializing in high-end bridal, occasion, and formal wear, renowned for integrating complex Indian embroidery techniques with Western-inspired silhouettes.",
+          "headquarters_address": "New Delhi, India",
+          "interest_adjacencies": [
+            "Luxury Weddings",
+            "Indian Artistry",
+            "High Fashion",
+            "Cultural Heritage",
+            "Couture Design"
+          ],
+          "situational_contexts": "Weddings, high-profile galas, formal ceremonies, and luxury festive occasions where impeccable tailoring and exquisite embroidery are expected.",
+          "aspirational_lifestyle": [
+            "Elite Social Standing",
+            "Artistic Patronage",
+            "Sophisticated Global Travel",
+            "Traditional Grandeur"
+          ],
+          "sustainability_initiatives": [
+            "Handmade Artisanship",
+            "Ethical Sourcing",
+            "Slow Fashion"
+          ],
+          "cultural_context_description": "The brand is deeply embedded in the high-stakes world of Indian wedding culture and the broader movement of elevating traditional South Asian craftsmanship to an international couture standard.",
+          "target_demographics_description": "Affluent adults, primarily high-net-worth individuals, who prioritize premium designer craftsmanship for major life events and formal social obligations."
+        },
+        "popularity": 0.9628417894255056,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion:casual",
+            "name": "Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:formalwear",
+            "name": "Formalwear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:intricate_embroidery",
+            "name": "Intricate Embroidery",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:draped_silhouettes",
+            "name": "Draped Silhouettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:jewel_tones",
+            "name": "Jewel Tones",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:structured_tailoring",
+            "name": "Structured Tailoring",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:opulent_embellishments",
+            "name": "Opulent Embellishments",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:elite_social_standing",
+            "name": "Elite Social Standing",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:artistic_patronage",
+            "name": "Artistic Patronage",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:sophisticated_global_travel",
+            "name": "Sophisticated Global Travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:traditional_grandeur",
+            "name": "Traditional Grandeur",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:personal_brand",
+            "name": "Personal Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:capsule",
+            "name": "Capsule",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:sabyasachi",
+            "name": "Sabyasachi",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:manish_malhotra",
+            "name": "Manish Malhotra",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:anita_dongre",
+            "name": "Anita Dongre",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:abu_jani_sandeep_khosla",
+            "name": "Abu Jani Sandeep Khosla",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:anamika_khanna",
+            "name": "Anamika Khanna",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:craftsmanship",
+            "name": "Craftsmanship",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:innovation",
+            "name": "Innovation",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:excellence",
+            "name": "Excellence",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:cultural_preservation",
+            "name": "Cultural Preservation",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:artistry",
+            "name": "Artistry",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:indian_bridal_culture",
+            "name": "Indian Bridal Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:south_asian_luxury_fashion",
+            "name": "South Asian Luxury Fashion",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:global_red_carpet_style",
+            "name": "Global Red Carpet Style",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:luxury_brides",
+            "name": "Luxury Brides",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:affluent_professionals",
+            "name": "Affluent Professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:global_indian_diaspora",
+            "name": "Global Indian Diaspora",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:high_net_worth_individuals",
+            "name": "High-Net-Worth Individuals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:mughal_architecture",
+            "name": "Mughal Architecture",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:indian_textile_heritage",
+            "name": "Indian Textile Heritage",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:contemporary_structural_design",
+            "name": "Contemporary Structural Design",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:global_art_deco",
+            "name": "Global Art Deco",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:opulent",
+            "name": "Opulent",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:regal",
+            "name": "Regal",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:timeless",
+            "name": "Timeless",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:graceful",
+            "name": "Graceful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:luxury",
+            "name": "Luxury",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:haute_couture",
+            "name": "Haute Couture",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:designer",
+            "name": "Designer",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+            "name": "Ready-to-Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:luxury_retail",
+            "name": "Luxury Retail",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:bollywood_icons",
+            "name": "Bollywood Icons",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:socialites",
+            "name": "Socialites",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:bridal_stylists",
+            "name": "Bridal Stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:luxury_lifestyle_bloggers",
+            "name": "Luxury Lifestyle Bloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:cultural_influencers",
+            "name": "Cultural Influencers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:luxury_weddings",
+            "name": "Luxury Weddings",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:indian_artistry",
+            "name": "Indian Artistry",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:high_fashion",
+            "name": "High Fashion",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:cultural_heritage",
+            "name": "Cultural Heritage",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:couture_design",
+            "name": "Couture Design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:india",
+            "name": "India",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_kingdom",
+            "name": "United Kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_arab_emirates",
+            "name": "United Arab Emirates",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:couture",
+            "name": "Couture",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:bridal",
+            "name": "Bridal",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:embroidery",
+            "name": "Embroidery",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:draping",
+            "name": "Draping",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:luxury_travel",
+            "name": "Luxury Travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:fine_dining",
+            "name": "Fine Dining",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:social_galas",
+            "name": "Social Galas",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:exclusive_events",
+            "name": "Exclusive Events",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:cultural_appreciation",
+            "name": "Cultural Appreciation",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:silk",
+            "name": "Silk",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:chiffon",
+            "name": "Chiffon",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:crepe",
+            "name": "Crepe",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:organza",
+            "name": "Organza",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:velvet",
+            "name": "Velvet",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:elegant",
+            "name": "Elegant",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:formal",
+            "name": "Formal",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:traditionalist",
+            "name": "Traditionalist",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:polished",
+            "name": "Polished",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:bridal_wear",
+            "name": "Bridal Wear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:occasion_wear",
+            "name": "Occasion Wear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:menswear",
+            "name": "Menswear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:womenswear",
+            "name": "Womenswear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:bridal_couture",
+            "name": "Bridal Couture",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:menswear",
+            "name": "Menswear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:womenswear",
+            "name": "Womenswear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:occasion_wear",
+            "name": "Occasion Wear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:sarees",
+            "name": "Sarees",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:lehengas",
+            "name": "Lehengas",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:sherwanis",
+            "name": "Sherwanis",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:wholesale",
+            "name": "Wholesale",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:draped_saree_gowns",
+            "name": "Draped Saree Gowns",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:embroidered_lehengas",
+            "name": "Embroidered Lehengas",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:structured_sherwanis",
+            "name": "Structured Sherwanis",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:corseted_blouses",
+            "name": "Corseted Blouses",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:ralph_russo",
+            "name": "Ralph & Russo",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:elie_saab",
+            "name": "Elie Saab",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:naeem_khan",
+            "name": "Naeem Khan",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:falguni_shane_peacock",
+            "name": "Falguni Shane Peacock",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:handmade_artisanship",
+            "name": "Handmade Artisanship",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:ethical_sourcing",
+            "name": "Ethical Sourcing",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:slow_fashion",
+            "name": "Slow Fashion",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:middle_aged",
+            "name": "Middle-Aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:male",
+            "name": "Male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9613595307905876,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "instagram": [
+            {
+              "id": "taruntahiliani"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Pernia's Pop-up Shop",
+        "entity_id": "426CBF59-C8DE-466F-88D5-5428D0DF0696",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [],
+          "image": {
+            "url": "https://images.qloo.com/i/426CBF59-C8DE-466F-88D5-5428D0DF0696-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Indian Couture",
+            "Designer Wedding Wear",
+            "Luxury Ethnic",
+            "Designer Pret",
+            "Bridal Trousseau"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Wedding Planning",
+            "Socializing",
+            "Festive Celebrations",
+            "High-End Shopping",
+            "Professional Networking"
+          ],
+          "brand_type": [
+            "Retail Brand"
+          ],
+          "industries": [
+            "Retail",
+            "Fashion & Apparel",
+            "Luxury E-commerce"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Craftsmanship",
+            "Curated Excellence",
+            "Tradition",
+            "Luxury",
+            "Accessibility"
+          ],
+          "description": "Pernia's Pop-up Shop is a premier multi-designer platform that serves as a bridge between India's most prestigious luxury designers and a global audience. Established to simplify the process of shopping for high-end ethnic wear, the platform offers a comprehensive selection of bridal trousseaus, festive staples, and contemporary prêt-a-porter pieces. Beyond e-commerce, it provides personalized styling services and physical boutique experiences in major Indian cities. By curating collections from both established couture houses and emerging designers, it occupies a central role in the Indian luxury fashion landscape for celebratory occasions.",
+          "key_markets": [
+            "India",
+            "United Kingdom",
+            "United States",
+            "United Arab Emirates"
+          ],
+          "founded_year": 2012,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Male",
+            "Female"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Glamorous",
+            "Sophisticated",
+            "Celebratory",
+            "Curated",
+            "Aspirational"
+          ],
+          "personal_style": [
+            "Ethnic Chic",
+            "Traditional Glamour",
+            "Modern Indian",
+            "Sophisticated"
+          ],
+          "similar_brands": [
+            "Net-a-Porter",
+            "Farfetch",
+            "Moda Operandi",
+            "Aashni & Co",
+            "Myntra Luxe"
+          ],
+          "ultimate_parent": "Purple Style Labs",
+          "immediate_parent": "Purple Style Labs",
+          "target_age_group": [
+            "Young Adults",
+            "Adults",
+            "Middle-Aged"
+          ],
+          "audience_identity": "People who value traditional Indian craftsmanship combined with modern luxury and seek highly curated, exclusive designer apparel for milestone life events.",
+          "competitor_brands": [
+            "Aza Fashions",
+            "Carma Online Shop",
+            "Ogaan",
+            "Ensemble India",
+            "Jaypore"
+          ],
+          "customer_segments": [
+            "Brides-to-be",
+            "Wedding Guests",
+            "Fashion Enthusiasts",
+            "Luxury Shoppers"
+          ],
+          "influencer_appeal": [
+            "Fashion Influencers",
+            "Celebrity Stylists",
+            "Bridal Bloggers",
+            "Luxury Lifestyle Creators",
+            "Culture Enthusiasts"
+          ],
+          "products_services": [
+            "Lehengas",
+            "Sarees",
+            "Designer Menswear",
+            "Bridal Trousseau",
+            "Fine Jewelry",
+            "Contemporary Clothing",
+            "Formal Silhouettes",
+            "Personal Styling Services",
+            "Custom Alterations",
+            "Designer Accessories"
+          ],
+          "short_description": "An online luxury multi-designer platform offering a diverse range of Indian ethnic clothing, jewelry, and accessories from top designers.",
+          "style_description": "A sophisticated aesthetic that blends rich traditional Indian embroidery and silhouettes with sleek, modern luxury and contemporary design elements.",
+          "cultural_relevance": [
+            "Indian Wedding Culture",
+            "South Asian Heritage",
+            "Bollywood Fashion",
+            "Ethnic Craftsmanship"
+          ],
+          "known_partnerships": [
+            "Manish Malhotra",
+            "Anita Dongre",
+            "Tarun Tahiliani",
+            "Anamika Khanna",
+            "Masaba"
+          ],
+          "market_positioning": "A premium, curator-led multi-designer platform providing accessible luxury and high-end Indian couture for discerning consumers.",
+          "short_descriptions": [
+            {
+              "value": "Una plataforma de lujo que ofrece una cuidada selección de moda étnica india, prendas contemporáneas y joyería de alta gama de los diseñadores más reconocidos.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "A premier luxury multi-designer platform showcasing a curated collection of Indian ethnic wear, contemporary silhouettes, and fine jewelry from top-tier designers.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Eine Luxusplattform, die eine kuratierte Auswahl an indischer Designermode, zeitgenössischen Outfits und hochwertigem Schmuck führender Modeschöpfer bietet.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Une plateforme de luxe proposant une sélection pointue de vêtements ethniques indiens, de silhouettes contemporaines et de joaillerie signée par les meilleurs designers.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 3000,
+          "price_range_usd_min": 150,
+          "target_income_level": [
+            "Medium to High",
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Opulent",
+            "Intricate Detailing",
+            "Vibrant Color Palettes",
+            "Luxury Finishing",
+            "Traditional Motifs"
+          ],
+          "category_description": "A luxury multi-brand e-commerce destination and physical retailer that aggregates India's leading designer labels for wedding, festive, and contemporary fashion.",
+          "headquarters_address": "Mumbai, India",
+          "interest_adjacencies": [
+            "Indian Heritage Fashion",
+            "Luxury Bridal Styling",
+            "Textile Artistry",
+            "Celebrity Style",
+            "Contemporary Ethnic Design"
+          ],
+          "situational_contexts": "Weddings, festive celebrations, formal social gatherings, cocktail parties, and significant cultural ceremonies where high-end ethnic attire is required.",
+          "aspirational_lifestyle": [
+            "Couture Runway Style",
+            "Grand Wedding Celebrations",
+            "Celebrity Red Carpet Fashion",
+            "Exclusive Social Circles"
+          ],
+          "sustainability_initiatives": [],
+          "cultural_context_description": "The brand is deeply rooted in the vibrant world of Indian high-fashion, catering to the cultural significance of traditional attire in major celebrations.",
+          "target_demographics_description": "Affluent individuals, particularly women and men aged 25-50, seeking premium designer occasion wear for high-profile social events."
+        },
+        "popularity": 0.9559763353731925,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:retail:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:opulent",
+            "name": "Opulent",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:intricate_detailing",
+            "name": "Intricate Detailing",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:vibrant_color_palettes",
+            "name": "Vibrant Color Palettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:luxury_finishing",
+            "name": "Luxury Finishing",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:traditional_motifs",
+            "name": "Traditional Motifs",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:couture_runway_style",
+            "name": "Couture Runway Style",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:grand_wedding_celebrations",
+            "name": "Grand Wedding Celebrations",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:celebrity_red_carpet_fashion",
+            "name": "Celebrity Red Carpet Fashion",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:exclusive_social_circles",
+            "name": "Exclusive Social Circles",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:retail_brand",
+            "name": "Retail Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:permanent",
+            "name": "Permanent",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:capsule",
+            "name": "Capsule",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:aza_fashions",
+            "name": "Aza Fashions",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:carma_online_shop",
+            "name": "Carma Online Shop",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:ogaan",
+            "name": "Ogaan",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:ensemble_india",
+            "name": "Ensemble India",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:jaypore",
+            "name": "Jaypore",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:craftsmanship",
+            "name": "Craftsmanship",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:curated_excellence",
+            "name": "Curated Excellence",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:tradition",
+            "name": "Tradition",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:luxury",
+            "name": "Luxury",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:accessibility",
+            "name": "Accessibility",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:indian_wedding_culture",
+            "name": "Indian Wedding Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:south_asian_heritage",
+            "name": "South Asian Heritage",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:bollywood_fashion",
+            "name": "Bollywood Fashion",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:ethnic_craftsmanship",
+            "name": "Ethnic Craftsmanship",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:brides_to_be",
+            "name": "Brides-to-be",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:wedding_guests",
+            "name": "Wedding Guests",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:fashion_enthusiasts",
+            "name": "Fashion Enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:luxury_shoppers",
+            "name": "Luxury Shoppers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:indian_handicrafts",
+            "name": "Indian Handicrafts",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:runway_trends",
+            "name": "Runway Trends",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:traditional_textiles",
+            "name": "Traditional Textiles",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:contemporary_silhouette",
+            "name": "Contemporary Silhouette",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:cultural_heritage",
+            "name": "Cultural Heritage",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:glamorous",
+            "name": "Glamorous",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:celebratory",
+            "name": "Celebratory",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:curated",
+            "name": "Curated",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:aspirational",
+            "name": "Aspirational",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:luxury",
+            "name": "Luxury",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:designer",
+            "name": "Designer",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+            "name": "Ready-to-Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ethnic_wear",
+            "name": "Ethnic Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:bridal",
+            "name": "Bridal",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:retail",
+            "name": "Retail",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:luxury_e_commerce",
+            "name": "Luxury E-commerce",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fashion_influencers",
+            "name": "Fashion Influencers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:celebrity_stylists",
+            "name": "Celebrity Stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:bridal_bloggers",
+            "name": "Bridal Bloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:luxury_lifestyle_creators",
+            "name": "Luxury Lifestyle Creators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:culture_enthusiasts",
+            "name": "Culture Enthusiasts",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:indian_heritage_fashion",
+            "name": "Indian Heritage Fashion",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:luxury_bridal_styling",
+            "name": "Luxury Bridal Styling",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:textile_artistry",
+            "name": "Textile Artistry",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:celebrity_style",
+            "name": "Celebrity Style",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:contemporary_ethnic_design",
+            "name": "Contemporary Ethnic Design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:india",
+            "name": "India",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_kingdom",
+            "name": "United Kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_arab_emirates",
+            "name": "United Arab Emirates",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:indian_couture",
+            "name": "Indian Couture",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:designer_wedding_wear",
+            "name": "Designer Wedding Wear",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:luxury_ethnic",
+            "name": "Luxury Ethnic",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:designer_pret",
+            "name": "Designer Pret",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:bridal_trousseau",
+            "name": "Bridal Trousseau",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:manish_malhotra",
+            "name": "Manish Malhotra",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:anita_dongre",
+            "name": "Anita Dongre",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:tarun_tahiliani",
+            "name": "Tarun Tahiliani",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:anamika_khanna",
+            "name": "Anamika Khanna",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:masaba",
+            "name": "Masaba",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:wedding_planning",
+            "name": "Wedding Planning",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:socializing",
+            "name": "Socializing",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:festive_celebrations",
+            "name": "Festive Celebrations",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:high_end_shopping",
+            "name": "High-End Shopping",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:professional_networking",
+            "name": "Professional Networking",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:mainstream",
+            "name": "Mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:silk",
+            "name": "Silk",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:velvet",
+            "name": "Velvet",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:organza",
+            "name": "Organza",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:chiffon",
+            "name": "Chiffon",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:georgette",
+            "name": "Georgette",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:ethnic_chic",
+            "name": "Ethnic Chic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:traditional_glamour",
+            "name": "Traditional Glamour",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:modern_indian",
+            "name": "Modern Indian",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:jewelry",
+            "name": "Jewelry",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:lehengas",
+            "name": "Lehengas",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:sarees",
+            "name": "Sarees",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:designer_menswear",
+            "name": "Designer Menswear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:bridal_trousseau",
+            "name": "Bridal Trousseau",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:fine_jewelry",
+            "name": "Fine Jewelry",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:contemporary_clothing",
+            "name": "Contemporary Clothing",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:formal_silhouettes",
+            "name": "Formal Silhouettes",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:personal_styling_services",
+            "name": "Personal Styling Services",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:custom_alterations",
+            "name": "Custom Alterations",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:designer_accessories",
+            "name": "Designer Accessories",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:concession",
+            "name": "Concession",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:designer_lehenga",
+            "name": "Designer Lehenga",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:embroidered_saree",
+            "name": "Embroidered Saree",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:designer_sherwani",
+            "name": "Designer Sherwani",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:bridal_ensemble",
+            "name": "Bridal Ensemble",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:net_a_porter",
+            "name": "Net-a-Porter",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:farfetch",
+            "name": "Farfetch",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:moda_operandi",
+            "name": "Moda Operandi",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:aashni_co",
+            "name": "Aashni & Co",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:myntra_luxe",
+            "name": "Myntra Luxe",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:middle_aged",
+            "name": "Middle-Aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:male",
+            "name": "Male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9594976746070121,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "instagram": [
+            {
+              "id": "perniaspopupshop"
+            }
+          ]
+        }
+      },
+      {
+        "name": "The Label Life",
+        "entity_id": "E63D1C7A-0A30-4511-BBA1-5D76A96B2836",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [],
+          "image": {
+            "url": "https://images.qloo.com/i/E63D1C7A-0A30-4511-BBA1-5D76A96B2836-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Curated",
+            "Women's Fashion",
+            "Home Decor",
+            "Styling",
+            "Effortless"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Office Work",
+            "Socializing",
+            "Home Living"
+          ],
+          "brand_type": [
+            "Retail Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Retail",
+            "Home Goods"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Curation",
+            "Accessibility",
+            "Style",
+            "Quality"
+          ],
+          "description": "An online-first fashion brand that offers a curated selection of women's apparel, accessories, and home decor. Founded to provide effortless style, the brand emphasizes a polished and sophisticated aesthetic suitable for the modern woman. With a business model focused on both digital and physical retail presence, it serves a wide customer base across urban centers in India, supported by professional styling services.",
+          "key_markets": [
+            "India"
+          ],
+          "founded_year": 2013,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Female"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Sophisticated",
+            "Playful",
+            "Chic",
+            "Polished"
+          ],
+          "personal_style": [
+            "Chic",
+            "Sophisticated",
+            "Minimalist"
+          ],
+          "similar_brands": [
+            "Marks & Spencer",
+            "Gap",
+            "Anthropologie"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Young Adults",
+            "Adults",
+            "Middle-Aged"
+          ],
+          "audience_identity": "Women who value effortless, curated style and seek to elevate their everyday look with sophisticated yet accessible fashion pieces.",
+          "competitor_brands": [
+            "Zara",
+            "FabAlley",
+            "Westside",
+            "Nicobar"
+          ],
+          "customer_segments": [
+            "Urban Women",
+            "Working Professionals"
+          ],
+          "influencer_appeal": [
+            "Lifestyle Bloggers",
+            "Fashion Stylists",
+            "Urban Professionals",
+            "Celebrity Trendsetters"
+          ],
+          "products_services": [
+            "Dresses",
+            "Tops",
+            "Pants",
+            "Accessories",
+            "Home Decor"
+          ],
+          "short_description": "An online fashion brand curated by Malaika Arora and Bipasha Basu offering trendy women's clothing, accessories, and home decor.",
+          "style_description": "The brand's aesthetic is characterized by clean lines, polished tailoring, and a mix of timeless and trendy elements that provide an elevated look.",
+          "cultural_relevance": [
+            "Contemporary Indian Fashion"
+          ],
+          "known_partnerships": [
+            "Myntra"
+          ],
+          "market_positioning": "Accessible premium-leaning fashion brand offering curated collections for the modern urban woman.",
+          "short_descriptions": [
+            {
+              "value": "An online-first fashion and lifestyle brand offering curated women's apparel, accessories, and home decor designed for effortless elegance.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Eine Lifestyle-Marke, die kuratierte Damenbekleidung, Accessoires und Wohnkultur für einen mühelosen und eleganten Look anbietet.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Marca de moda y estilo de vida que ofrece ropa, accesorios y decoración para el hogar seleccionada para mujeres que buscan una elegancia sin esfuerzo.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Une marque de mode et de style de vie proposant une sélection de vêtements, d'accessoires et de décoration intérieure pour une élégance quotidienne sans effort.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 120,
+          "price_range_usd_min": 18,
+          "target_income_level": [
+            "Medium",
+            "Medium to High"
+          ],
+          "aesthetic_properties": [
+            "Minimalist",
+            "Tailored",
+            "Refined",
+            "Classic"
+          ],
+          "category_description": "A direct-to-consumer fashion brand that combines apparel and home decor with a curated approach to everyday style.",
+          "headquarters_address": "Mumbai, India",
+          "interest_adjacencies": [
+            "Personal Styling",
+            "Home Decor",
+            "Contemporary Fashion",
+            "Wardrobe Curation",
+            "Lifestyle Inspiration"
+          ],
+          "situational_contexts": "This entity is engaged for everyday work settings, social brunches, seasonal wardrobe refreshes, and curated gifting needs.",
+          "aspirational_lifestyle": [
+            "Effortless Chic",
+            "Curated Living",
+            "Professional Success"
+          ],
+          "sustainability_initiatives": [],
+          "cultural_context_description": "Operates within the modern Indian urban fashion and lifestyle space, reflecting contemporary tastes in personal style and home aesthetics.",
+          "target_demographics_description": "Targeting urban women, primarily young adults and professionals, seeking accessible and curated fashion choices."
+        },
+        "popularity": 0.9338119374141818,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:website",
+            "name": "Website",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:casual",
+            "name": "Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear:other",
+            "name": "Other",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:formalwear",
+            "name": "Formalwear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:tailored",
+            "name": "Tailored",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:refined",
+            "name": "Refined",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:classic",
+            "name": "Classic",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:effortless_chic",
+            "name": "Effortless Chic",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:curated_living",
+            "name": "Curated Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:professional_success",
+            "name": "Professional Success",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:retail_brand",
+            "name": "Retail Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:continuous",
+            "name": "Continuous",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:zara",
+            "name": "Zara",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:faballey",
+            "name": "FabAlley",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:westside",
+            "name": "Westside",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:nicobar",
+            "name": "Nicobar",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:curation",
+            "name": "Curation",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:accessibility",
+            "name": "Accessibility",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:style",
+            "name": "Style",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:quality",
+            "name": "Quality",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:contemporary_indian_fashion",
+            "name": "Contemporary Indian Fashion",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:urban_women",
+            "name": "Urban Women",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:working_professionals",
+            "name": "Working Professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:contemporary_urban_trends",
+            "name": "Contemporary Urban Trends",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:playful",
+            "name": "Playful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:chic",
+            "name": "Chic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:polished",
+            "name": "Polished",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:contemporary",
+            "name": "Contemporary",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+            "name": "Ready-to-Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:retail",
+            "name": "Retail",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:home_goods",
+            "name": "Home Goods",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:lifestyle_bloggers",
+            "name": "Lifestyle Bloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fashion_stylists",
+            "name": "Fashion Stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:urban_professionals",
+            "name": "Urban Professionals",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:celebrity_trendsetters",
+            "name": "Celebrity Trendsetters",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:personal_styling",
+            "name": "Personal Styling",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:home_decor",
+            "name": "Home Decor",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:contemporary_fashion",
+            "name": "Contemporary Fashion",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:wardrobe_curation",
+            "name": "Wardrobe Curation",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:lifestyle_inspiration",
+            "name": "Lifestyle Inspiration",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:india",
+            "name": "India",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:curated",
+            "name": "Curated",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:women_s_fashion",
+            "name": "Women's Fashion",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:home_decor",
+            "name": "Home Decor",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:styling",
+            "name": "Styling",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:effortless",
+            "name": "Effortless",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:myntra",
+            "name": "Myntra",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:office_work",
+            "name": "Office Work",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:socializing",
+            "name": "Socializing",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:home_living",
+            "name": "Home Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:mainstream",
+            "name": "Mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:cotton",
+            "name": "Cotton",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:polyester",
+            "name": "Polyester",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:viscose",
+            "name": "Viscose",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:chic",
+            "name": "Chic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:home_decor",
+            "name": "Home Decor",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:dresses",
+            "name": "Dresses",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:tops",
+            "name": "Tops",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:pants",
+            "name": "Pants",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:home_decor",
+            "name": "Home Decor",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:online_marketplace",
+            "name": "Online Marketplace",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:marks_spencer",
+            "name": "Marks & Spencer",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:gap",
+            "name": "Gap",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:anthropologie",
+            "name": "Anthropologie",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:middle_aged",
+            "name": "Middle-Aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium",
+            "name": "Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9593530667741833,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "thelabellife"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "thelabellife"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Shubhika",
+        "entity_id": "3E6AB255-240C-48A2-B4B8-41193F48E6D0",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [],
+          "image": {
+            "url": "https://images.qloo.com/i/3E6AB255-240C-48A2-B4B8-41193F48E6D0-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Bridal Couture",
+            "Handmade",
+            "Contemporary Ethnic",
+            "Artisanal",
+            "Maximalism"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "High-Society Events",
+            "Festive Celebrations",
+            "Travel",
+            "Artistic Expression"
+          ],
+          "brand_type": [
+            "Product Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Luxury Goods",
+            "Jewelry"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Craftsmanship",
+            "Innovation",
+            "Heritage",
+            "Authenticity"
+          ],
+          "description": "Papa Don't Preach is a luxury fashion house that redefines traditional Indian bridal and festive wear through an avant-garde, youthful lens. By blending intricate handmade embroidery with bold, experimental silhouettes, the brand caters to the modern individual who values artisanal craftsmanship and vibrant self-expression. It operates as a boutique luxury label, maintaining a presence in major Indian cities while reaching a global audience through premium e-commerce channels. The brand is celebrated for its highly distinctive, maximalist aesthetic that maintains a deep connection to Indian heritage while pushing the boundaries of contemporary style.",
+          "key_markets": [
+            "India",
+            "United States"
+          ],
+          "founded_year": null,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Female"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Bold",
+            "Joyful",
+            "Playful",
+            "Artistic"
+          ],
+          "personal_style": [
+            "Maximalist",
+            "Bohemian",
+            "Eclectic",
+            "Festive"
+          ],
+          "similar_brands": [
+            "House Of Masaba",
+            "Falguni Shane Peacock",
+            "Raw Mango",
+            "Tarun Tahiliani",
+            "Anamika Khanna"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Young Adults",
+            "Adults"
+          ],
+          "audience_identity": "Individuals who gravitate toward unconventional, high-energy fashion that celebrates self-expression through vibrant colors and intricate, traditional-inspired craftsmanship.",
+          "competitor_brands": [
+            "Sabyasachi",
+            "Anita Dongre",
+            "Manish Malhotra",
+            "Rimple And Harpreet Narula",
+            "Payal Singhal"
+          ],
+          "customer_segments": [
+            "Modern Brides",
+            "Fashion-Forward Socialites",
+            "Luxury Consumers"
+          ],
+          "influencer_appeal": [
+            "Fashion Stylists",
+            "Bridal Influencers",
+            "Lifestyle Content Creators",
+            "Celebrity Stylists",
+            "Luxury Travel Enthusiasts"
+          ],
+          "products_services": [
+            "Lehengas",
+            "Sarees",
+            "Suits",
+            "Jewelry",
+            "Bags",
+            "Shoes"
+          ],
+          "short_description": "Papa Don't Preach by Shubhika is a luxury designer label offering handmade bridal lehengas, sarees, suits, jewelry, and bags.",
+          "style_description": "A maximalist visual language characterized by vivid colors, elaborate hand-embroidery, and daring, contemporary silhouettes.",
+          "cultural_relevance": [
+            "Modern Indian Wedding Culture",
+            "Artisan Preservation",
+            "Global Fusion Fashion"
+          ],
+          "known_partnerships": [
+            "Revolve"
+          ],
+          "market_positioning": "Luxury designer label offering high-end, innovative bridal and festive wear with a bold, artisan-focused aesthetic.",
+          "short_descriptions": [
+            {
+              "value": "A luxury fashion house known for its innovative, handmade bridal and festive wear characterized by vibrant colors and intricate embroidery.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Una firma de lujo reconocida por su innovadora moda nupcial y festiva hecha a mano, que destaca por sus colores vibrantes y bordados intrincados.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Ein Luxus-Modelabel, das für innovative, handgefertigte Braut- und Festmode mit leuchtenden Farben und aufwendigen Stickereien bekannt ist.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Une maison de luxe reconnue pour sa mode nuptiale et festive innovante faite à la main, caractérisée par des couleurs vibrantes et des broderies complexes.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 5000,
+          "price_range_usd_min": 500,
+          "target_income_level": [
+            "Medium to High",
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Vibrant Color Palettes",
+            "Intricate Embroidery",
+            "Experimental Silhouettes",
+            "Bohemian Luxury",
+            "Detailed Ornamentation"
+          ],
+          "category_description": "A luxury designer label that fuses traditional Indian craftsmanship with avant-garde aesthetics to create high-end bridal and festive attire for women.",
+          "headquarters_address": "Mumbai, India",
+          "interest_adjacencies": [
+            "Bridal Couture",
+            "Handicraft",
+            "Maximalist Fashion",
+            "Indian Heritage Design",
+            "Contemporary Festive Wear"
+          ],
+          "situational_contexts": "Designed for festive celebrations, weddings, and high-impact social events where standing out through artistic, maximalist attire is the priority.",
+          "aspirational_lifestyle": [
+            "Luxury Destination Weddings",
+            "Fashion-Forward Global Travel",
+            "Curated Bohemian Luxury"
+          ],
+          "sustainability_initiatives": [
+            "Artisan Welfare",
+            "Handcrafted Production",
+            "Ethical Sourcing"
+          ],
+          "cultural_context_description": "The brand is deeply rooted in the contemporary evolution of Indian wedding culture, blending traditional artisanal techniques with a modern, rebellious aesthetic.",
+          "target_demographics_description": "Primarily targets affluent women in their twenties to forties who seek distinctive, artisan-made luxury fashion for wedding and festive occasions."
+        },
+        "popularity": 0.9167330609754031,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:formalwear",
+            "name": "Formalwear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:casual",
+            "name": "Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear:other",
+            "name": "Other",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:vibrant_color_palettes",
+            "name": "Vibrant Color Palettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:intricate_embroidery",
+            "name": "Intricate Embroidery",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:experimental_silhouettes",
+            "name": "Experimental Silhouettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:bohemian_luxury",
+            "name": "Bohemian Luxury",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:detailed_ornamentation",
+            "name": "Detailed Ornamentation",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:luxury_destination_weddings",
+            "name": "Luxury Destination Weddings",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:fashion_forward_global_travel",
+            "name": "Fashion-Forward Global Travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:curated_bohemian_luxury",
+            "name": "Curated Bohemian Luxury",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:product_brand",
+            "name": "Product Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:capsule",
+            "name": "Capsule",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:sabyasachi",
+            "name": "Sabyasachi",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:anita_dongre",
+            "name": "Anita Dongre",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:manish_malhotra",
+            "name": "Manish Malhotra",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:rimple_and_harpreet_narula",
+            "name": "Rimple And Harpreet Narula",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:payal_singhal",
+            "name": "Payal Singhal",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:craftsmanship",
+            "name": "Craftsmanship",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:innovation",
+            "name": "Innovation",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:authenticity",
+            "name": "Authenticity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:modern_indian_wedding_culture",
+            "name": "Modern Indian Wedding Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:artisan_preservation",
+            "name": "Artisan Preservation",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:global_fusion_fashion",
+            "name": "Global Fusion Fashion",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:modern_brides",
+            "name": "Modern Brides",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:fashion_forward_socialites",
+            "name": "Fashion-Forward Socialites",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:luxury_consumers",
+            "name": "Luxury Consumers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:indian_artistry",
+            "name": "Indian Artistry",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:modern_bohemianism",
+            "name": "Modern Bohemianism",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:traditional_embroidery",
+            "name": "Traditional Embroidery",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:contemporary_street_culture",
+            "name": "Contemporary Street Culture",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:bold",
+            "name": "Bold",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:joyful",
+            "name": "Joyful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:playful",
+            "name": "Playful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:artistic",
+            "name": "Artistic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:luxury",
+            "name": "Luxury",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:designer",
+            "name": "Designer",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+            "name": "Ready-to-Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:bridal",
+            "name": "Bridal",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:luxury_goods",
+            "name": "Luxury Goods",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:jewelry",
+            "name": "Jewelry",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fashion_stylists",
+            "name": "Fashion Stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:bridal_influencers",
+            "name": "Bridal Influencers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:lifestyle_content_creators",
+            "name": "Lifestyle Content Creators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:celebrity_stylists",
+            "name": "Celebrity Stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:luxury_travel_enthusiasts",
+            "name": "Luxury Travel Enthusiasts",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:bridal_couture",
+            "name": "Bridal Couture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:handicraft",
+            "name": "Handicraft",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:maximalist_fashion",
+            "name": "Maximalist Fashion",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:indian_heritage_design",
+            "name": "Indian Heritage Design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:contemporary_festive_wear",
+            "name": "Contemporary Festive Wear",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:india",
+            "name": "India",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:bridal_couture",
+            "name": "Bridal Couture",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:handmade",
+            "name": "Handmade",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:contemporary_ethnic",
+            "name": "Contemporary Ethnic",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:artisanal",
+            "name": "Artisanal",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:maximalism",
+            "name": "Maximalism",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:revolve",
+            "name": "Revolve",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:high_society_events",
+            "name": "High-Society Events",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:festive_celebrations",
+            "name": "Festive Celebrations",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:travel",
+            "name": "Travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:artistic_expression",
+            "name": "Artistic Expression",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:silk",
+            "name": "Silk",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:organza",
+            "name": "Organza",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:tulle",
+            "name": "Tulle",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:metallic_embellishments",
+            "name": "Metallic Embellishments",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:sequins",
+            "name": "Sequins",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:maximalist",
+            "name": "Maximalist",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:bohemian",
+            "name": "Bohemian",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:festive",
+            "name": "Festive",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:bridal_wear",
+            "name": "Bridal Wear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:jewelry",
+            "name": "Jewelry",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:handbags",
+            "name": "Handbags",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:lehengas",
+            "name": "Lehengas",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:sarees",
+            "name": "Sarees",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:suits",
+            "name": "Suits",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:jewelry",
+            "name": "Jewelry",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:bags",
+            "name": "Bags",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:shoes",
+            "name": "Shoes",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:online_marketplace",
+            "name": "Online Marketplace",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:embroidered_lehengas",
+            "name": "Embroidered Lehengas",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:statement_jewelry",
+            "name": "Statement Jewelry",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:handcrafted_accessories",
+            "name": "Handcrafted Accessories",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:house_of_masaba",
+            "name": "House Of Masaba",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:falguni_shane_peacock",
+            "name": "Falguni Shane Peacock",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:raw_mango",
+            "name": "Raw Mango",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:tarun_tahiliani",
+            "name": "Tarun Tahiliani",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:anamika_khanna",
+            "name": "Anamika Khanna",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:artisan_welfare",
+            "name": "Artisan Welfare",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:handcrafted_production",
+            "name": "Handcrafted Production",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:ethical_sourcing",
+            "name": "Ethical Sourcing",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9563778772266323,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "instagram": [
+            {
+              "id": "papadontpreachbyshubhika"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

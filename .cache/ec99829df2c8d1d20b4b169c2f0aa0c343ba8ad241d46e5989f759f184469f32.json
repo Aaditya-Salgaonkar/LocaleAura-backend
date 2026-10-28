@@ -1,0 +1,372 @@
+{
+  "results": [
+    {
+      "name": "Ryuichi Sakamoto",
+      "entity_id": "B0DEDE63-5DE5-4CE6-89A6-08C0DD2756DB",
+      "types": [
+        "urn:entity:artist"
+      ],
+      "properties": {
+        "akas": [],
+        "duration": {},
+        "external": {
+          "facebook": {
+            "id": "ryuichisakamoto"
+          },
+          "instagram": {
+            "id": "skmtgram"
+          },
+          "lastfm": {
+            "id": "ryuichi%20sakamoto",
+            "listeners": 544788,
+            "scrobbles": 10149771
+          },
+          "musicbrainz": {
+            "id": "a7f7df4a-77d8-4f12-8acd-5c60c93f4de8"
+          },
+          "spotify": {
+            "id": "1tcgfoMTT1szjUeaikxRjA"
+          },
+          "twitter": {
+            "id": "ryuichisakamoto"
+          },
+          "wikidata": {
+            "id": "q345494"
+          }
+        },
+        "image": {
+          "url": "https://images.qloo.com/i/B0DEDE63-5DE5-4CE6-89A6-08C0DD2756DB-420x-auto.jpg"
+        },
+        "short_description": "Ryuichi Sakamoto is a Japanese composer, musician, and actor known for his pioneering electronic music and film scores."
+      },
+      "popularity": 0.9496240018083,
+      "disambiguation": "Ryuichi Sakamoto",
+      "tags": [
+        {
+          "name": "Instrumental",
+          "tag_id": "urn:tag:genre:instrumental",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:instrumental"
+        },
+        {
+          "name": "Piano",
+          "tag_id": "urn:tag:genre:piano",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:piano"
+        },
+        {
+          "name": "Ambient",
+          "tag_id": "urn:tag:genre:ambient",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:ambient"
+        },
+        {
+          "name": "Experimental",
+          "tag_id": "urn:tag:genre:experimental",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:experimental"
+        },
+        {
+          "name": "Japanese",
+          "tag_id": "urn:tag:genre:japanese",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:japanese"
+        },
+        {
+          "name": "Eclectic",
+          "tag_id": "urn:tag:audience:qloo:eclectic",
+          "type": "urn:tag:audience:qloo",
+          "value": "urn:tag:audience:qloo:eclectic"
+        },
+        {
+          "name": "Intellectual",
+          "tag_id": "urn:tag:audience:qloo:intellectual",
+          "type": "urn:tag:audience:qloo",
+          "value": "urn:tag:audience:qloo:intellectual"
+        },
+        {
+          "name": "Open-Minded",
+          "tag_id": "urn:tag:audience:qloo:open_minded",
+          "type": "urn:tag:audience:qloo",
+          "value": "urn:tag:audience:qloo:open_minded"
+        },
+        {
+          "name": "Appreciative",
+          "tag_id": "urn:tag:audience:qloo:appreciative",
+          "type": "urn:tag:audience:qloo",
+          "value": "urn:tag:audience:qloo:appreciative"
+        },
+        {
+          "name": "Cultured",
+          "tag_id": "urn:tag:audience:qloo:cultured",
+          "type": "urn:tag:audience:qloo",
+          "value": "urn:tag:audience:qloo:cultured"
+        },
+        {
+          "name": "Innovative",
+          "tag_id": "urn:tag:music:qloo:innovative",
+          "type": "urn:tag:music:qloo",
+          "value": "urn:tag:music:qloo:innovative"
+        },
+        {
+          "name": "Atmospheric",
+          "tag_id": "urn:tag:music:qloo:atmospheric",
+          "type": "urn:tag:music:qloo",
+          "value": "urn:tag:music:qloo:atmospheric"
+        },
+        {
+          "name": "Melodic",
+          "tag_id": "urn:tag:music:qloo:melodic",
+          "type": "urn:tag:music:qloo",
+          "value": "urn:tag:music:qloo:melodic"
+        },
+        {
+          "name": "Experimental",
+          "tag_id": "urn:tag:music:qloo:experimental",
+          "type": "urn:tag:music:qloo",
+          "value": "urn:tag:music:qloo:experimental"
+        },
+        {
+          "name": "Emotive",
+          "tag_id": "urn:tag:music:qloo:emotive",
+          "type": "urn:tag:music:qloo",
+          "value": "urn:tag:music:qloo:emotive"
+        },
+        {
+          "name": "Expressive",
+          "tag_id": "urn:tag:style:qloo:expressive",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:expressive"
+        },
+        {
+          "name": "Minimalist",
+          "tag_id": "urn:tag:style:qloo:minimalist",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:minimalist"
+        },
+        {
+          "name": "Dynamic",
+          "tag_id": "urn:tag:style:qloo:dynamic",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:dynamic"
+        },
+        {
+          "name": "Intimate",
+          "tag_id": "urn:tag:style:qloo:intimate",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:intimate"
+        },
+        {
+          "name": "Innovative",
+          "tag_id": "urn:tag:characteristic:qloo:innovative",
+          "type": "urn:tag:characteristic:qloo",
+          "value": "urn:tag:characteristic:qloo:innovative"
+        },
+        {
+          "name": "Eclectic",
+          "tag_id": "urn:tag:characteristic:qloo:eclectic",
+          "type": "urn:tag:characteristic:qloo",
+          "value": "urn:tag:characteristic:qloo:eclectic"
+        },
+        {
+          "name": "Pioneering",
+          "tag_id": "urn:tag:characteristic:qloo:pioneering",
+          "type": "urn:tag:characteristic:qloo",
+          "value": "urn:tag:characteristic:qloo:pioneering"
+        },
+        {
+          "name": "Versatile",
+          "tag_id": "urn:tag:characteristic:qloo:versatile",
+          "type": "urn:tag:characteristic:qloo",
+          "value": "urn:tag:characteristic:qloo:versatile"
+        },
+        {
+          "name": "Expressive",
+          "tag_id": "urn:tag:characteristic:qloo:expressive",
+          "type": "urn:tag:characteristic:qloo",
+          "value": "urn:tag:characteristic:qloo:expressive"
+        },
+        {
+          "name": "Ambient",
+          "tag_id": "urn:tag:style:qloo:ambient",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:ambient"
+        },
+        {
+          "name": "Synthpop",
+          "tag_id": "urn:tag:style:qloo:synthpop",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:synthpop"
+        },
+        {
+          "name": "Classical Crossover",
+          "tag_id": "urn:tag:style:qloo:classical_crossover",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:classical_crossover"
+        },
+        {
+          "name": "Experimental Electronic",
+          "tag_id": "urn:tag:style:qloo:experimental_electronic",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:experimental_electronic"
+        },
+        {
+          "name": "World Fusion",
+          "tag_id": "urn:tag:style:qloo:world_fusion",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:world_fusion"
+        },
+        {
+          "name": "Electronic",
+          "tag_id": "urn:tag:influence:qloo:electronic",
+          "type": "urn:tag:influence:qloo",
+          "value": "urn:tag:influence:qloo:electronic"
+        },
+        {
+          "name": "Ambient",
+          "tag_id": "urn:tag:influence:qloo:ambient",
+          "type": "urn:tag:influence:qloo",
+          "value": "urn:tag:influence:qloo:ambient"
+        },
+        {
+          "name": "Synthpop",
+          "tag_id": "urn:tag:influence:qloo:synthpop",
+          "type": "urn:tag:influence:qloo",
+          "value": "urn:tag:influence:qloo:synthpop"
+        },
+        {
+          "name": "World Music",
+          "tag_id": "urn:tag:influence:qloo:world_music",
+          "type": "urn:tag:influence:qloo",
+          "value": "urn:tag:influence:qloo:world_music"
+        },
+        {
+          "name": "Film Score",
+          "tag_id": "urn:tag:influence:qloo:film_score",
+          "type": "urn:tag:influence:qloo",
+          "value": "urn:tag:influence:qloo:film_score"
+        },
+        {
+          "name": "Karlheinz Stockhausen",
+          "tag_id": "urn:tag:influenced_by:qloo:karlheinz_stockhausen",
+          "type": "urn:tag:influenced_by:qloo",
+          "value": "urn:tag:influenced_by:qloo:karlheinz_stockhausen"
+        },
+        {
+          "name": "John Cage",
+          "tag_id": "urn:tag:influenced_by:qloo:john_cage",
+          "type": "urn:tag:influenced_by:qloo",
+          "value": "urn:tag:influenced_by:qloo:john_cage"
+        },
+        {
+          "name": "Brian Eno",
+          "tag_id": "urn:tag:influenced_by:qloo:brian_eno",
+          "type": "urn:tag:influenced_by:qloo",
+          "value": "urn:tag:influenced_by:qloo:brian_eno"
+        },
+        {
+          "name": "Yellow Magic Orchestra",
+          "tag_id": "urn:tag:influenced_by:qloo:yellow_magic_orchestra",
+          "type": "urn:tag:influenced_by:qloo",
+          "value": "urn:tag:influenced_by:qloo:yellow_magic_orchestra"
+        },
+        {
+          "name": "Piano",
+          "tag_id": "urn:tag:instrument:qloo:piano",
+          "type": "urn:tag:instrument:qloo",
+          "value": "urn:tag:instrument:qloo:piano"
+        },
+        {
+          "name": "Synthesizer",
+          "tag_id": "urn:tag:instrument:qloo:synthesizer",
+          "type": "urn:tag:instrument:qloo",
+          "value": "urn:tag:instrument:qloo:synthesizer"
+        },
+        {
+          "name": "Keyboards",
+          "tag_id": "urn:tag:instrument:qloo:keyboards",
+          "type": "urn:tag:instrument:qloo",
+          "value": "urn:tag:instrument:qloo:keyboards"
+        },
+        {
+          "name": "Peace",
+          "tag_id": "urn:tag:theme:qloo:peace",
+          "type": "urn:tag:theme:qloo",
+          "value": "urn:tag:theme:qloo:peace"
+        },
+        {
+          "name": "Nature",
+          "tag_id": "urn:tag:theme:qloo:nature",
+          "type": "urn:tag:theme:qloo",
+          "value": "urn:tag:theme:qloo:nature"
+        },
+        {
+          "name": "Technology",
+          "tag_id": "urn:tag:theme:qloo:technology",
+          "type": "urn:tag:theme:qloo",
+          "value": "urn:tag:theme:qloo:technology"
+        },
+        {
+          "name": "Human Emotion",
+          "tag_id": "urn:tag:theme:qloo:human_emotion",
+          "type": "urn:tag:theme:qloo",
+          "value": "urn:tag:theme:qloo:human_emotion"
+        },
+        {
+          "name": "Cultural Fusion",
+          "tag_id": "urn:tag:theme:qloo:cultural_fusion",
+          "type": "urn:tag:theme:qloo",
+          "value": "urn:tag:theme:qloo:cultural_fusion"
+        },
+        {
+          "name": "Electronic",
+          "tag_id": "urn:tag:genre:qloo:electronic",
+          "type": "urn:tag:genre:qloo",
+          "value": "urn:tag:genre:qloo:electronic"
+        },
+        {
+          "name": "Ambient",
+          "tag_id": "urn:tag:genre:qloo:ambient",
+          "type": "urn:tag:genre:qloo",
+          "value": "urn:tag:genre:qloo:ambient"
+        },
+        {
+          "name": "Classical",
+          "tag_id": "urn:tag:genre:qloo:classical",
+          "type": "urn:tag:genre:qloo",
+          "value": "urn:tag:genre:qloo:classical"
+        },
+        {
+          "name": "Experimental",
+          "tag_id": "urn:tag:genre:qloo:experimental",
+          "type": "urn:tag:genre:qloo",
+          "value": "urn:tag:genre:qloo:experimental"
+        },
+        {
+          "name": "Synthpop",
+          "tag_id": "urn:tag:subgenre:qloo:synthpop",
+          "type": "urn:tag:subgenre:qloo",
+          "value": "urn:tag:subgenre:qloo:synthpop"
+        },
+        {
+          "name": "New Wave",
+          "tag_id": "urn:tag:subgenre:qloo:new_wave",
+          "type": "urn:tag:subgenre:qloo",
+          "value": "urn:tag:subgenre:qloo:new_wave"
+        },
+        {
+          "name": "World Music",
+          "tag_id": "urn:tag:subgenre:qloo:world_music",
+          "type": "urn:tag:subgenre:qloo",
+          "value": "urn:tag:subgenre:qloo:world_music"
+        },
+        {
+          "name": "Film Score",
+          "tag_id": "urn:tag:subgenre:qloo:film_score",
+          "type": "urn:tag:subgenre:qloo",
+          "value": "urn:tag:subgenre:qloo:film_score"
+        }
+      ]
+    }
+  ]
+}

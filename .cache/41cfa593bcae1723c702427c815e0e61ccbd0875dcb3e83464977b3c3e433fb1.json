@@ -1,0 +1,336 @@
+{
+  "results": [
+    {
+      "name": "Frank Ocean",
+      "entity_id": "2B134C93-39EB-4A08-A72D-5F8F1167FDAA",
+      "types": [
+        "urn:entity:artist"
+      ],
+      "properties": {
+        "akas": [],
+        "duration": {},
+        "external": {
+          "facebook": {
+            "id": "thefrankocean"
+          },
+          "instagram": {
+            "id": "blonded"
+          },
+          "lastfm": {
+            "id": "frank%20ocean",
+            "listeners": 3620686,
+            "scrobbles": 599877459
+          },
+          "musicbrainz": {
+            "id": "6df08c91-b91d-4b59-95fe-b51a2e1b06d3"
+          },
+          "spotify": {
+            "id": "2h93pZq0e7k5yf4dywlkpM"
+          },
+          "twitter": {
+            "id": "frank_ocean"
+          },
+          "wikidata": {
+            "id": "q357645"
+          }
+        },
+        "image": {
+          "url": "https://images.qloo.com/i/2B134C93-39EB-4A08-A72D-5F8F1167FDAA-420x-auto.jpg"
+        },
+        "short_description": "American singer, songwriter, and rapper known for his unique style blending R&B, soul, and hip hop."
+      },
+      "popularity": 0.9991835660619882,
+      "disambiguation": "Frank Ocean",
+      "tags": [
+        {
+          "name": "Rhythm & Blues",
+          "tag_id": "urn:tag:genre:rhythm_blues",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:rhythm_blues"
+        },
+        {
+          "name": "Hip - Hop",
+          "tag_id": "urn:tag:genre:hip_hop",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:hip_hop"
+        },
+        {
+          "name": "Soul",
+          "tag_id": "urn:tag:genre:soul",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:soul"
+        },
+        {
+          "name": "Loyal",
+          "tag_id": "urn:tag:audience:qloo:loyal",
+          "type": "urn:tag:audience:qloo",
+          "value": "urn:tag:audience:qloo:loyal"
+        },
+        {
+          "name": "Passionate",
+          "tag_id": "urn:tag:audience:qloo:passionate",
+          "type": "urn:tag:audience:qloo",
+          "value": "urn:tag:audience:qloo:passionate"
+        },
+        {
+          "name": "Diverse",
+          "tag_id": "urn:tag:audience:qloo:diverse",
+          "type": "urn:tag:audience:qloo",
+          "value": "urn:tag:audience:qloo:diverse"
+        },
+        {
+          "name": "Thoughtful",
+          "tag_id": "urn:tag:audience:qloo:thoughtful",
+          "type": "urn:tag:audience:qloo",
+          "value": "urn:tag:audience:qloo:thoughtful"
+        },
+        {
+          "name": "Soulful",
+          "tag_id": "urn:tag:music:qloo:soulful",
+          "type": "urn:tag:music:qloo",
+          "value": "urn:tag:music:qloo:soulful"
+        },
+        {
+          "name": "Innovative",
+          "tag_id": "urn:tag:music:qloo:innovative",
+          "type": "urn:tag:music:qloo",
+          "value": "urn:tag:music:qloo:innovative"
+        },
+        {
+          "name": "Emotive",
+          "tag_id": "urn:tag:music:qloo:emotive",
+          "type": "urn:tag:music:qloo",
+          "value": "urn:tag:music:qloo:emotive"
+        },
+        {
+          "name": "Introspective",
+          "tag_id": "urn:tag:music:qloo:introspective",
+          "type": "urn:tag:music:qloo",
+          "value": "urn:tag:music:qloo:introspective"
+        },
+        {
+          "name": "Atmospheric",
+          "tag_id": "urn:tag:music:qloo:atmospheric",
+          "type": "urn:tag:music:qloo",
+          "value": "urn:tag:music:qloo:atmospheric"
+        },
+        {
+          "name": "Intimate",
+          "tag_id": "urn:tag:style:qloo:intimate",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:intimate"
+        },
+        {
+          "name": "Expressive",
+          "tag_id": "urn:tag:style:qloo:expressive",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:expressive"
+        },
+        {
+          "name": "Minimalist",
+          "tag_id": "urn:tag:style:qloo:minimalist",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:minimalist"
+        },
+        {
+          "name": "Innovative",
+          "tag_id": "urn:tag:characteristic:qloo:innovative",
+          "type": "urn:tag:characteristic:qloo",
+          "value": "urn:tag:characteristic:qloo:innovative"
+        },
+        {
+          "name": "Introspective",
+          "tag_id": "urn:tag:characteristic:qloo:introspective",
+          "type": "urn:tag:characteristic:qloo",
+          "value": "urn:tag:characteristic:qloo:introspective"
+        },
+        {
+          "name": "Soulful",
+          "tag_id": "urn:tag:characteristic:qloo:soulful",
+          "type": "urn:tag:characteristic:qloo",
+          "value": "urn:tag:characteristic:qloo:soulful"
+        },
+        {
+          "name": "Emotive",
+          "tag_id": "urn:tag:characteristic:qloo:emotive",
+          "type": "urn:tag:characteristic:qloo",
+          "value": "urn:tag:characteristic:qloo:emotive"
+        },
+        {
+          "name": "Genre-Defying",
+          "tag_id": "urn:tag:characteristic:qloo:genre_defying",
+          "type": "urn:tag:characteristic:qloo",
+          "value": "urn:tag:characteristic:qloo:genre_defying"
+        },
+        {
+          "name": "Alternative R&B",
+          "tag_id": "urn:tag:style:qloo:alternative_r_b",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:alternative_r_b"
+        },
+        {
+          "name": "Neo Soul",
+          "tag_id": "urn:tag:style:qloo:neo_soul",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:neo_soul"
+        },
+        {
+          "name": "Experimental Hip Hop",
+          "tag_id": "urn:tag:style:qloo:experimental_hip_hop",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:experimental_hip_hop"
+        },
+        {
+          "name": "Contemporary R&B",
+          "tag_id": "urn:tag:style:qloo:contemporary_r_b",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:contemporary_r_b"
+        },
+        {
+          "name": "Emotive Soul",
+          "tag_id": "urn:tag:style:qloo:emotive_soul",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:emotive_soul"
+        },
+        {
+          "name": "Alternative R&B",
+          "tag_id": "urn:tag:influence:qloo:alternative_r_b",
+          "type": "urn:tag:influence:qloo",
+          "value": "urn:tag:influence:qloo:alternative_r_b"
+        },
+        {
+          "name": "Neo Soul",
+          "tag_id": "urn:tag:influence:qloo:neo_soul",
+          "type": "urn:tag:influence:qloo",
+          "value": "urn:tag:influence:qloo:neo_soul"
+        },
+        {
+          "name": "Contemporary R&B",
+          "tag_id": "urn:tag:influence:qloo:contemporary_r_b",
+          "type": "urn:tag:influence:qloo",
+          "value": "urn:tag:influence:qloo:contemporary_r_b"
+        },
+        {
+          "name": "Prince",
+          "tag_id": "urn:tag:influenced_by:qloo:prince",
+          "type": "urn:tag:influenced_by:qloo",
+          "value": "urn:tag:influenced_by:qloo:prince"
+        },
+        {
+          "name": "Stevie Wonder",
+          "tag_id": "urn:tag:influenced_by:qloo:stevie_wonder",
+          "type": "urn:tag:influenced_by:qloo",
+          "value": "urn:tag:influenced_by:qloo:stevie_wonder"
+        },
+        {
+          "name": "Kanye West",
+          "tag_id": "urn:tag:influenced_by:qloo:kanye_west",
+          "type": "urn:tag:influenced_by:qloo",
+          "value": "urn:tag:influenced_by:qloo:kanye_west"
+        },
+        {
+          "name": "J Dilla",
+          "tag_id": "urn:tag:influenced_by:qloo:j_dilla",
+          "type": "urn:tag:influenced_by:qloo",
+          "value": "urn:tag:influenced_by:qloo:j_dilla"
+        },
+        {
+          "name": "The Beatles",
+          "tag_id": "urn:tag:influenced_by:qloo:the_beatles",
+          "type": "urn:tag:influenced_by:qloo",
+          "value": "urn:tag:influenced_by:qloo:the_beatles"
+        },
+        {
+          "name": "Vocals",
+          "tag_id": "urn:tag:instrument:qloo:vocals",
+          "type": "urn:tag:instrument:qloo",
+          "value": "urn:tag:instrument:qloo:vocals"
+        },
+        {
+          "name": "Piano",
+          "tag_id": "urn:tag:instrument:qloo:piano",
+          "type": "urn:tag:instrument:qloo",
+          "value": "urn:tag:instrument:qloo:piano"
+        },
+        {
+          "name": "Guitar",
+          "tag_id": "urn:tag:instrument:qloo:guitar",
+          "type": "urn:tag:instrument:qloo",
+          "value": "urn:tag:instrument:qloo:guitar"
+        },
+        {
+          "name": "Love",
+          "tag_id": "urn:tag:theme:qloo:love",
+          "type": "urn:tag:theme:qloo",
+          "value": "urn:tag:theme:qloo:love"
+        },
+        {
+          "name": "Identity",
+          "tag_id": "urn:tag:theme:qloo:identity",
+          "type": "urn:tag:theme:qloo",
+          "value": "urn:tag:theme:qloo:identity"
+        },
+        {
+          "name": "Heartbreak",
+          "tag_id": "urn:tag:theme:qloo:heartbreak",
+          "type": "urn:tag:theme:qloo",
+          "value": "urn:tag:theme:qloo:heartbreak"
+        },
+        {
+          "name": "Self-Discovery",
+          "tag_id": "urn:tag:theme:qloo:self_discovery",
+          "type": "urn:tag:theme:qloo",
+          "value": "urn:tag:theme:qloo:self_discovery"
+        },
+        {
+          "name": "Social Commentary",
+          "tag_id": "urn:tag:theme:qloo:social_commentary",
+          "type": "urn:tag:theme:qloo",
+          "value": "urn:tag:theme:qloo:social_commentary"
+        },
+        {
+          "name": "Alternative R&B",
+          "tag_id": "urn:tag:genre:qloo:alternative_r_b",
+          "type": "urn:tag:genre:qloo",
+          "value": "urn:tag:genre:qloo:alternative_r_b"
+        },
+        {
+          "name": "Neo Soul",
+          "tag_id": "urn:tag:genre:qloo:neo_soul",
+          "type": "urn:tag:genre:qloo",
+          "value": "urn:tag:genre:qloo:neo_soul"
+        },
+        {
+          "name": "Contemporary R&B",
+          "tag_id": "urn:tag:genre:qloo:contemporary_r_b",
+          "type": "urn:tag:genre:qloo",
+          "value": "urn:tag:genre:qloo:contemporary_r_b"
+        },
+        {
+          "name": "Hip Hop",
+          "tag_id": "urn:tag:subgenre:qloo:hip_hop",
+          "type": "urn:tag:subgenre:qloo",
+          "value": "urn:tag:subgenre:qloo:hip_hop"
+        },
+        {
+          "name": "Soul",
+          "tag_id": "urn:tag:subgenre:qloo:soul",
+          "type": "urn:tag:subgenre:qloo",
+          "value": "urn:tag:subgenre:qloo:soul"
+        },
+        {
+          "name": "Pop",
+          "tag_id": "urn:tag:subgenre:qloo:pop",
+          "type": "urn:tag:subgenre:qloo",
+          "value": "urn:tag:subgenre:qloo:pop"
+        },
+        {
+          "name": "Baritone",
+          "tag_id": "urn:tag:artist:qloo:baritone",
+          "type": "urn:tag:artist:qloo",
+          "value": "urn:tag:artist:qloo:baritone"
+        }
+      ]
+    }
+  ]
+}

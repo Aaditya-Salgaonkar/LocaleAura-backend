@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 321709776,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 2245850847,
+    "lat": "34.0896518",
+    "lon": "-118.2693730",
+    "class": "place",
+    "type": "quarter",
+    "place_rank": 20,
+    "importance": 0.45356092873116677,
+    "addresstype": "quarter",
+    "name": "Silver Lake",
+    "display_name": "Silver Lake, Echo Park, Los Angeles, Los Angeles County, California, 90026, United States",
+    "boundingbox": [
+      "34.0796518",
+      "34.0996518",
+      "-118.2793730",
+      "-118.2593730"
+    ]
+  }
+]

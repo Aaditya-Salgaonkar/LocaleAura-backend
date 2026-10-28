@@ -1,0 +1,119 @@
+{
+  "results": [
+    {
+      "name": "Prateek Kuhad",
+      "entity_id": "66AC09AF-75DC-4F04-8511-D47C7E4B368F",
+      "types": [
+        "urn:entity:person"
+      ],
+      "properties": {
+        "akas": [
+          {
+            "language": "s",
+            "value": "Prateek Kuhad"
+          },
+          {
+            "language": "q",
+            "value": "Prateek Kuhad"
+          },
+          {
+            "language": "b",
+            "value": "প্রতীক কুহাদ"
+          },
+          {
+            "language": "n",
+            "value": "প্রতীক কুহাদ"
+          },
+          {
+            "language": "n",
+            "value": "Prateek Kuhad"
+          },
+          {
+            "language": "l",
+            "value": "Prateek Kuhad"
+          },
+          {
+            "language": "e",
+            "value": "Prateek Kuhad"
+          },
+          {
+            "language": "s",
+            "value": "Prateek Kuhad"
+          }
+        ],
+        "external": {
+          "imdb": {
+            "id": "nm8339498"
+          },
+          "musicbrainz": {
+            "id": "810b210f-b461-4f02-aff2-dff91196147e"
+          }
+        },
+        "citizenship": [
+          "India"
+        ],
+        "date_of_birth": "1990-03-03",
+        "image": {
+          "url": "https://images.qloo.com/i/66AC09AF-75DC-4F04-8511-D47C7E4B368F-420x-auto.jpg"
+        },
+        "gender": [
+          "male"
+        ],
+        "work_period_start": "2011-01-01",
+        "short_description": "Indian singer-songwriter"
+      },
+      "popularity": 0.8895641491177526,
+      "disambiguation": "1990-03-03",
+      "tags": [
+        {
+          "name": "Musicians From Jaipur",
+          "tag_id": "urn:tag:wikipedia_category:wikidata:musicians_from_jaipur",
+          "type": "urn:tag:wikipedia_category:wikidata",
+          "value": "urn:tag:wikipedia_category:wikidata:musicians_from_jaipur"
+        },
+        {
+          "name": "New York University Alumni",
+          "tag_id": "urn:tag:wikipedia_category:wikidata:new_york_university_alumni",
+          "type": "urn:tag:wikipedia_category:wikidata",
+          "value": "urn:tag:wikipedia_category:wikidata:new_york_university_alumni"
+        },
+        {
+          "name": "Indian Male Singer-songwriters",
+          "tag_id": "urn:tag:wikipedia_category:wikidata:indian_male_singer_songwriters",
+          "type": "urn:tag:wikipedia_category:wikidata",
+          "value": "urn:tag:wikipedia_category:wikidata:indian_male_singer_songwriters"
+        },
+        {
+          "name": "Mtv Europe Music Award Winners",
+          "tag_id": "urn:tag:wikipedia_category:wikidata:mtv_europe_music_award_winners",
+          "type": "urn:tag:wikipedia_category:wikidata",
+          "value": "urn:tag:wikipedia_category:wikidata:mtv_europe_music_award_winners"
+        },
+        {
+          "name": "Person",
+          "tag_id": "urn:tag:category:wikidata:person",
+          "type": "urn:tag:category:wikidata",
+          "value": "urn:tag:category:wikidata:person"
+        },
+        {
+          "name": "Singer-songwriter",
+          "tag_id": "urn:tag:occupation:person:singer_songwriter",
+          "type": "urn:tag:occupation:person",
+          "value": "urn:tag:occupation:person:singer_songwriter"
+        },
+        {
+          "name": "Indian Singer-songwriters",
+          "tag_id": "urn:tag:wikipedia_category:wikidata:indian_singer_songwriters",
+          "type": "urn:tag:wikipedia_category:wikidata",
+          "value": "urn:tag:wikipedia_category:wikidata:indian_singer_songwriters"
+        },
+        {
+          "name": "Musician",
+          "tag_id": "urn:tag:genre:person:musician",
+          "type": "urn:tag:genre:person",
+          "value": "urn:tag:genre:person:musician"
+        }
+      ]
+    }
+  ]
+}

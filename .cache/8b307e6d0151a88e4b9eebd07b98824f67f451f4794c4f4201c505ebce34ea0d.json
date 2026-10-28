@@ -1,0 +1,21 @@
+{
+  "duration": 19,
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "parents": [
+          {
+            "type": "urn:entity:place"
+          }
+        ],
+        "type": "urn:tag:decor:qloo",
+        "id": "urn:tag:decor:qloo:minimalist",
+        "name": "Minimalist",
+        "popularity": 0.99854964,
+        "properties": {},
+        "tags": []
+      }
+    ]
+  }
+}

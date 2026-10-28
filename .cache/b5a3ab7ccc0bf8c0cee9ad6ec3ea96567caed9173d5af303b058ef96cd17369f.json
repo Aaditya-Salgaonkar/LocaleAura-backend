@@ -1,0 +1,5262 @@
+{
+  "success": true,
+  "results": {
+    "heatmap": [
+      {
+        "location": {
+          "latitude": 19.068832,
+          "longitude": 72.83867,
+          "geohash": "te7u3rr"
+        },
+        "query": {
+          "affinity": 1,
+          "affinity_rank": 0.7560209922263549,
+          "popularity": 0.993103448275862,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.87804,
+          "entity_person_affinity_rank": 0.9738256657872171,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 1,
+          "entity_person_affinity": 0.8689655172413793
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.044113,
+          "longitude": 72.81944,
+          "geohash": "te7u34c"
+        },
+        "query": {
+          "affinity": 0.996551724137931,
+          "affinity_rank": 0.751531258886532,
+          "popularity": 0.996551724137931,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.859159,
+          "entity_person_affinity_rank": 0.9817091100234893,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.996551724137931,
+          "entity_person_affinity": 0.9724137931034482
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.068832,
+          "longitude": 72.82356,
+          "geohash": "te7u3pk"
+        },
+        "query": {
+          "affinity": 0.993103448275862,
+          "affinity_rank": 0.7319702498651047,
+          "popularity": 1,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.81622,
+          "entity_person_affinity_rank": 0.9767336190670141,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9896551724137931,
+          "entity_person_affinity": 0.9137931034482759
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.066086,
+          "longitude": 72.83455,
+          "geohash": "te7u3qu"
+        },
+        "query": {
+          "affinity": 0.9896551724137931,
+          "affinity_rank": 0.7313818878658473,
+          "popularity": 0.9862068965517241,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.821039,
+          "entity_person_affinity_rank": 0.9704734323847897,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.993103448275862,
+          "entity_person_affinity": 0.7241379310344828
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05922,
+          "longitude": 72.829056,
+          "geohash": "te7u3m8"
+        },
+        "query": {
+          "affinity": 0.9862068965517241,
+          "affinity_rank": 0.7278274837121659,
+          "popularity": 0.9896551724137931,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.80635,
+          "entity_person_affinity_rank": 0.9764559558686408,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9827586206896551,
+          "entity_person_affinity": 0.906896551724138
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.83455,
+          "geohash": "te7u3mu"
+        },
+        "query": {
+          "affinity": 0.9827586206896551,
+          "affinity_rank": 0.7275549157170011,
+          "popularity": 0.9827586206896551,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.813495,
+          "entity_person_affinity_rank": 0.9686433033602739,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9862068965517241,
+          "entity_person_affinity": 0.6275862068965518
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.837296,
+          "geohash": "te7u3my"
+        },
+        "query": {
+          "affinity": 0.9793103448275862,
+          "affinity_rank": 0.7246686124407097,
+          "popularity": 0.9655172413793104,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.804975,
+          "entity_person_affinity_rank": 0.9700933330904368,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9793103448275862,
+          "entity_person_affinity": 0.7103448275862069
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.066086,
+          "longitude": 72.82356,
+          "geohash": "te7u3nu"
+        },
+        "query": {
+          "affinity": 0.9758620689655172,
+          "affinity_rank": 0.7221314916862691,
+          "popularity": 0.803448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.786103,
+          "entity_person_affinity_rank": 0.9827506818262318,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9724137931034482,
+          "entity_person_affinity": 0.9896551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.052353,
+          "longitude": 72.824936,
+          "geohash": "te7u3hm"
+        },
+        "query": {
+          "affinity": 0.9724137931034482,
+          "affinity_rank": 0.7172374749430751,
+          "popularity": 0.9724137931034482,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.787531,
+          "entity_person_affinity_rank": 0.9693348380127693,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9758620689655172,
+          "entity_person_affinity": 0.6551724137931034
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.061966,
+          "longitude": 72.829056,
+          "geohash": "te7u3q0"
+        },
+        "query": {
+          "affinity": 0.9689655172413794,
+          "affinity_rank": 0.705419268219446,
+          "popularity": 0.9517241379310345,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.755245,
+          "entity_person_affinity_rank": 0.9726722618651483,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9655172413793104,
+          "entity_person_affinity": 0.8379310344827586
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.071579,
+          "longitude": 72.824936,
+          "geohash": "te7u3pv"
+        },
+        "query": {
+          "affinity": 0.9655172413793104,
+          "affinity_rank": 0.704916963369414,
+          "popularity": 0.9379310344827586,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.7623,
+          "entity_person_affinity_rank": 0.9643868712872449,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9689655172413794,
+          "entity_person_affinity": 0.40344827586206894
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.066086,
+          "longitude": 72.833176,
+          "geohash": "te7u3qg"
+        },
+        "query": {
+          "affinity": 0.9620689655172414,
+          "affinity_rank": 0.6962727516384569,
+          "popularity": 0.9551724137931035,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.735514,
+          "entity_person_affinity_rank": 0.9699989633178195,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9620689655172414,
+          "entity_person_affinity": 0.7068965517241379
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.064713,
+          "longitude": 72.83455,
+          "geohash": "te7u3qs"
+        },
+        "query": {
+          "affinity": 0.9586206896551724,
+          "affinity_rank": 0.6837301147644617,
+          "popularity": 0.9448275862068966,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.707103,
+          "entity_person_affinity_rank": 0.9676869029475139,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9586206896551724,
+          "entity_person_affinity": 0.5758620689655173
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.052353,
+          "longitude": 72.829056,
+          "geohash": "te7u3k2"
+        },
+        "query": {
+          "affinity": 0.9551724137931035,
+          "affinity_rank": 0.6816040261516627,
+          "popularity": 0.9275862068965517,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.699938,
+          "entity_person_affinity_rank": 0.969644070698215,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9551724137931035,
+          "entity_person_affinity": 0.6793103448275862
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.048233,
+          "longitude": 72.820816,
+          "geohash": "te7u35d"
+        },
+        "query": {
+          "affinity": 0.9517241379310345,
+          "affinity_rank": 0.6781912889071771,
+          "popularity": 0.9689655172413794,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.69293,
+          "entity_person_affinity_rank": 0.968292605823033,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9517241379310345,
+          "entity_person_affinity": 0.6068965517241379
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.82631,
+          "geohash": "te7u3jy"
+        },
+        "query": {
+          "affinity": 0.9482758620689655,
+          "affinity_rank": 0.6765416612220898,
+          "popularity": 0.9758620689655172,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.680422,
+          "entity_person_affinity_rank": 0.9767598597290007,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9482758620689655,
+          "entity_person_affinity": 0.9206896551724137
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.0551,
+          "longitude": 72.829056,
+          "geohash": "te7u3kb"
+        },
+        "query": {
+          "affinity": 0.9448275862068966,
+          "affinity_rank": 0.6707897837453084,
+          "popularity": 0.9241379310344827,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.676154,
+          "entity_person_affinity_rank": 0.9669386948478791,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9448275862068966,
+          "entity_person_affinity": 0.5379310344827586
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.070206,
+          "longitude": 72.82219,
+          "geohash": "te7u3pe"
+        },
+        "query": {
+          "affinity": 0.9413793103448276,
+          "affinity_rank": 0.6667481933140452,
+          "popularity": 0.9344827586206896,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.662446,
+          "entity_person_affinity_rank": 0.9707468605419695,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9413793103448276,
+          "entity_person_affinity": 0.7344827586206897
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06334,
+          "longitude": 72.829056,
+          "geohash": "te7u3q2"
+        },
+        "query": {
+          "affinity": 0.9379310344827586,
+          "affinity_rank": 0.6600249602391971,
+          "popularity": 0.8896551724137931,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.64507,
+          "entity_person_affinity_rank": 0.9716543700867885,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9344827586206896,
+          "entity_person_affinity": 0.7965517241379311
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.83592,
+          "geohash": "te7u3mv"
+        },
+        "query": {
+          "affinity": 0.9344827586206896,
+          "affinity_rank": 0.6588278510457801,
+          "popularity": 0.9310344827586207,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.648201,
+          "entity_person_affinity_rank": 0.9655910633965218,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9379310344827586,
+          "entity_person_affinity": 0.503448275862069
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.04686,
+          "longitude": 72.82219,
+          "geohash": "te7u357"
+        },
+        "query": {
+          "affinity": 0.9310344827586207,
+          "affinity_rank": 0.6588069318108855,
+          "popularity": 0.9482758620689655,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.641608,
+          "entity_person_affinity_rank": 0.9721328219452205,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9275862068965517,
+          "entity_person_affinity": 0.8172413793103448
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.048233,
+          "longitude": 72.83043,
+          "geohash": "te7u379"
+        },
+        "query": {
+          "affinity": 0.9275862068965517,
+          "affinity_rank": 0.6577943379544394,
+          "popularity": 0.9586206896551724,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.642938,
+          "entity_person_affinity_rank": 0.9683224836802506,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9310344827586207,
+          "entity_person_affinity": 0.6137931034482759
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.066086,
+          "longitude": 72.83043,
+          "geohash": "te7u3qc"
+        },
+        "query": {
+          "affinity": 0.9241379310344827,
+          "affinity_rank": 0.6474367189392847,
+          "popularity": 0.9137931034482759,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.610502,
+          "entity_person_affinity_rank": 0.975387602142973,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9206896551724137,
+          "entity_person_affinity": 0.8862068965517241
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.052353,
+          "longitude": 72.84004,
+          "geohash": "te7u3s2"
+        },
+        "query": {
+          "affinity": 0.9206896551724137,
+          "affinity_rank": 0.6470527943707274,
+          "popularity": 0.9620689655172414,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.62072,
+          "entity_person_affinity_rank": 0.9642291828502895,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9241379310344827,
+          "entity_person_affinity": 0.39655172413793105
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.0551,
+          "longitude": 72.833176,
+          "geohash": "te7u3kg"
+        },
+        "query": {
+          "affinity": 0.9172413793103448,
+          "affinity_rank": 0.6430432699501896,
+          "popularity": 0.903448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.606,
+          "entity_person_affinity_rank": 0.9691278939087435,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9172413793103448,
+          "entity_person_affinity": 0.6413793103448275
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.829056,
+          "geohash": "te7u3mb"
+        },
+        "query": {
+          "affinity": 0.9137931034482759,
+          "affinity_rank": 0.6382670268194975,
+          "popularity": 0.906896551724138,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.598399,
+          "entity_person_affinity_rank": 0.9650295353510748,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9137931034482759,
+          "entity_person_affinity": 0.4586206896551724
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.071579,
+          "longitude": 72.84004,
+          "geohash": "te7u3xb"
+        },
+        "query": {
+          "affinity": 0.9103448275862069,
+          "affinity_rank": 0.6331967556708326,
+          "popularity": 0.9103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.581602,
+          "entity_person_affinity_rank": 0.9694069581792907,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9103448275862069,
+          "entity_person_affinity": 0.6655172413793103
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.064713,
+          "longitude": 72.83043,
+          "geohash": "te7u3q9"
+        },
+        "query": {
+          "affinity": 0.906896551724138,
+          "affinity_rank": 0.6277707348146153,
+          "popularity": 0.8827586206896552,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.572505,
+          "entity_person_affinity_rank": 0.9652129757478586,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.906896551724138,
+          "entity_person_affinity": 0.47586206896551725
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.064713,
+          "longitude": 72.829056,
+          "geohash": "te7u3q8"
+        },
+        "query": {
+          "affinity": 0.903448275862069,
+          "affinity_rank": 0.6275834370951142,
+          "popularity": 0.8206896551724138,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.563934,
+          "entity_person_affinity_rank": 0.973325191905094,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.903448275862069,
+          "entity_person_affinity": 0.8586206896551725
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.0551,
+          "longitude": 72.84004,
+          "geohash": "te7u3sb"
+        },
+        "query": {
+          "affinity": 0.9,
+          "affinity_rank": 0.6254745698132504,
+          "popularity": 0.8862068965517241,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.562396,
+          "entity_person_affinity_rank": 0.9696975431292777,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.9,
+          "entity_person_affinity": 0.6862068965517242
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06746,
+          "longitude": 72.83043,
+          "geohash": "te7u3r1"
+        },
+        "query": {
+          "affinity": 0.896551724137931,
+          "affinity_rank": 0.6233370878826763,
+          "popularity": 0.8620689655172413,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.553097,
+          "entity_person_affinity_rank": 0.9737608030649522,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8931034482758621,
+          "entity_person_affinity": 0.8620689655172413
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.04686,
+          "longitude": 72.81944,
+          "geohash": "te7u353"
+        },
+        "query": {
+          "affinity": 0.8931034482758621,
+          "affinity_rank": 0.6232223021218846,
+          "popularity": 0.9793103448275862,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.556652,
+          "entity_person_affinity_rank": 0.969924636521275,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.896551724137931,
+          "entity_person_affinity": 0.7
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.071579,
+          "longitude": 72.83043,
+          "geohash": "te7u3rc"
+        },
+        "query": {
+          "affinity": 0.8896551724137931,
+          "affinity_rank": 0.6119236086226081,
+          "popularity": 0.8655172413793103,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.529035,
+          "entity_person_affinity_rank": 0.9698656026879463,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8896551724137931,
+          "entity_person_affinity": 0.6931034482758621
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.048233,
+          "longitude": 72.824936,
+          "geohash": "te7u35t"
+        },
+        "query": {
+          "affinity": 0.8862068965517241,
+          "affinity_rank": 0.6086528067227777,
+          "popularity": 0.8413793103448276,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.517071,
+          "entity_person_affinity_rank": 0.9738178069836362,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8827586206896552,
+          "entity_person_affinity": 0.8655172413793103
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.049606,
+          "longitude": 72.829056,
+          "geohash": "te7u37b"
+        },
+        "query": {
+          "affinity": 0.8827586206896552,
+          "affinity_rank": 0.608447668250133,
+          "popularity": 0.8689655172413793,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.523433,
+          "entity_person_affinity_rank": 0.9669533223990425,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8862068965517241,
+          "entity_person_affinity": 0.5413793103448276
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.0551,
+          "longitude": 72.82768,
+          "geohash": "te7u3hz"
+        },
+        "query": {
+          "affinity": 0.8793103448275862,
+          "affinity_rank": 0.6049860880660436,
+          "popularity": 0.8931034482758621,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.516586,
+          "entity_person_affinity_rank": 0.9653212172442942,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8793103448275862,
+          "entity_person_affinity": 0.4862068965517241
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.044113,
+          "longitude": 72.824936,
+          "geohash": "te7u34v"
+        },
+        "query": {
+          "affinity": 0.8758620689655172,
+          "affinity_rank": 0.6022891112660443,
+          "popularity": 0.9172413793103448,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.511456,
+          "entity_person_affinity_rank": 0.963845000236172,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8758620689655172,
+          "entity_person_affinity": 0.38275862068965516
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.04274,
+          "longitude": 72.81807,
+          "geohash": "te7u348"
+        },
+        "query": {
+          "affinity": 0.8724137931034482,
+          "affinity_rank": 0.6008606843342187,
+          "popularity": 0.9413793103448276,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.506854,
+          "entity_person_affinity_rank": 0.9649480831183498,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8724137931034482,
+          "entity_person_affinity": 0.4482758620689655
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.074326,
+          "longitude": 72.82631,
+          "geohash": "te7u90q"
+        },
+        "query": {
+          "affinity": 0.8689655172413793,
+          "affinity_rank": 0.6002812616322688,
+          "popularity": 0.8,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.502934,
+          "entity_person_affinity_rank": 0.9674487931531879,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8689655172413793,
+          "entity_person_affinity": 0.5517241379310345
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.061966,
+          "longitude": 72.83043,
+          "geohash": "te7u3q1"
+        },
+        "query": {
+          "affinity": 0.8655172413793103,
+          "affinity_rank": 0.599676852162427,
+          "popularity": 0.8172413793103448,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.492111,
+          "entity_person_affinity_rank": 0.9767912983563694,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8655172413793103,
+          "entity_person_affinity": 0.9241379310344827
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.068832,
+          "longitude": 72.833176,
+          "geohash": "te7u3r7"
+        },
+        "query": {
+          "affinity": 0.8620689655172413,
+          "affinity_rank": 0.597411274863365,
+          "popularity": 0.8310344827586207,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.488117,
+          "entity_person_affinity_rank": 0.9752357900008345,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8586206896551725,
+          "entity_person_affinity": 0.8827586206896552
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.052353,
+          "longitude": 72.833176,
+          "geohash": "te7u3k7"
+        },
+        "query": {
+          "affinity": 0.8586206896551725,
+          "affinity_rank": 0.5962801790426699,
+          "popularity": 0.8379310344827586,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.489513,
+          "entity_person_affinity_rank": 0.9710691823899371,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8620689655172413,
+          "entity_person_affinity": 0.7517241379310344
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.052353,
+          "longitude": 72.84416,
+          "geohash": "te7u3s7"
+        },
+        "query": {
+          "affinity": 0.8551724137931035,
+          "affinity_rank": 0.592105333382088,
+          "popularity": 0.9,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.478678,
+          "entity_person_affinity_rank": 0.9716779407666387,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8482758620689655,
+          "entity_person_affinity": 0.8
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.070206,
+          "longitude": 72.833176,
+          "geohash": "te7u3re"
+        },
+        "query": {
+          "affinity": 0.8517241379310345,
+          "affinity_rank": 0.5911095246452684,
+          "popularity": 0.8241379310344827,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.485222,
+          "entity_person_affinity_rank": 0.9626947174800252,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8551724137931035,
+          "entity_person_affinity": 0.3275862068965517
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.075699,
+          "longitude": 72.83455,
+          "geohash": "te7u92s"
+        },
+        "query": {
+          "affinity": 0.8482758620689655,
+          "affinity_rank": 0.5906575852482084,
+          "popularity": 0.896551724137931,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.481988,
+          "entity_person_affinity_rank": 0.9648216965625671,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8517241379310345,
+          "entity_person_affinity": 0.44482758620689655
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.072952,
+          "longitude": 72.83455,
+          "geohash": "te7u92h"
+        },
+        "query": {
+          "affinity": 0.8448275862068966,
+          "affinity_rank": 0.5885816562358598,
+          "popularity": 0.8275862068965517,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.465716,
+          "entity_person_affinity_rank": 0.976008729740073,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8413793103448276,
+          "entity_person_affinity": 0.896551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06746,
+          "longitude": 72.824936,
+          "geohash": "te7u3pj"
+        },
+        "query": {
+          "affinity": 0.8413793103448276,
+          "affinity_rank": 0.586683154117067,
+          "popularity": 0.8517241379310345,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.469202,
+          "entity_person_affinity_rank": 0.9678723682734378,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8448275862068966,
+          "entity_person_affinity": 0.5862068965517241
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.04274,
+          "longitude": 72.81944,
+          "geohash": "te7u349"
+        },
+        "query": {
+          "affinity": 0.8379310344827586,
+          "affinity_rank": 0.5812075323869013,
+          "popularity": 0.9206896551724137,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.457532,
+          "entity_person_affinity_rank": 0.9661298890100366,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8379310344827586,
+          "entity_person_affinity": 0.5206896551724138
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.053726,
+          "longitude": 72.824936,
+          "geohash": "te7u3ht"
+        },
+        "query": {
+          "affinity": 0.8344827586206897,
+          "affinity_rank": 0.5773632926935608,
+          "popularity": 0.8758620689655172,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.453333,
+          "entity_person_affinity_rank": 0.960912463312399,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8344827586206897,
+          "entity_person_affinity": 0.22758620689655173
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06334,
+          "longitude": 72.824936,
+          "geohash": "te7u3nm"
+        },
+        "query": {
+          "affinity": 0.8310344827586207,
+          "affinity_rank": 0.5742169688881669,
+          "popularity": 0.7896551724137931,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.435141,
+          "entity_person_affinity_rank": 0.971397575423612,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8310344827586207,
+          "entity_person_affinity": 0.7758620689655172
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.071579,
+          "longitude": 72.8318,
+          "geohash": "te7u3rf"
+        },
+        "query": {
+          "affinity": 0.8275862068965517,
+          "affinity_rank": 0.5704743577821314,
+          "popularity": 0.7758620689655172,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.429152,
+          "entity_person_affinity_rank": 0.9682190879081518,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8275862068965517,
+          "entity_person_affinity": 0.6
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.072952,
+          "longitude": 72.824936,
+          "geohash": "te7u90j"
+        },
+        "query": {
+          "affinity": 0.8241379310344827,
+          "affinity_rank": 0.5697330542437956,
+          "popularity": 0.03103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9868065967016492,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 1
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.072952,
+          "longitude": 72.833176,
+          "geohash": "te7u925"
+        },
+        "query": {
+          "affinity": 0.8206896551724138,
+          "affinity_rank": 0.5682106724729156,
+          "popularity": 0.19310344827586207,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9841697541259683,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.996551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.072952,
+          "longitude": 72.829056,
+          "geohash": "te7u920"
+        },
+        "query": {
+          "affinity": 0.8172413793103448,
+          "affinity_rank": 0.5680737920259056,
+          "popularity": 0.27241379310344827,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9839326702371843,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.993103448275862
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06746,
+          "longitude": 72.83455,
+          "geohash": "te7u3rh"
+        },
+        "query": {
+          "affinity": 0.8137931034482758,
+          "affinity_rank": 0.5670468611899768,
+          "popularity": 0.5482758620689655,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9821539738534966,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.9862068965517241
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.064713,
+          "longitude": 72.84416,
+          "geohash": "te7u3we"
+        },
+        "query": {
+          "affinity": 0.8103448275862069,
+          "affinity_rank": 0.5669612584207977,
+          "popularity": 0.27241379310344827,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9820057055080097,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.9827586206896551
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.064713,
+          "longitude": 72.82631,
+          "geohash": "te7u3nw"
+        },
+        "query": {
+          "affinity": 0.8068965517241379,
+          "affinity_rank": 0.5668271362043961,
+          "popularity": 0.12758620689655173,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9817733990147783,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.9758620689655172
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.0551,
+          "longitude": 72.82631,
+          "geohash": "te7u3hy"
+        },
+        "query": {
+          "affinity": 0.803448275862069,
+          "affinity_rank": 0.5667668499410333,
+          "popularity": 0.8068965517241379,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.416539,
+          "entity_person_affinity_rank": 0.9717505854800939,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8206896551724138,
+          "entity_person_affinity": 0.803448275862069
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.041367,
+          "longitude": 72.84004,
+          "geohash": "te7u3d2"
+        },
+        "query": {
+          "affinity": 0.8,
+          "affinity_rank": 0.566580297331038,
+          "popularity": 0.6448275862068965,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.981345861544839,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.9689655172413794
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.074326,
+          "longitude": 72.83592,
+          "geohash": "te7u92m"
+        },
+        "query": {
+          "affinity": 0.7965517241379311,
+          "affinity_rank": 0.56603225616243,
+          "popularity": 0.5482758620689655,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9803966263961705,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.9655172413793104
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.056473,
+          "longitude": 72.824936,
+          "geohash": "te7u3jj"
+        },
+        "query": {
+          "affinity": 0.7931034482758621,
+          "affinity_rank": 0.5659586046854358,
+          "popularity": 0.4068965517241379,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9802690582959641,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.9620689655172414
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.070206,
+          "longitude": 72.84004,
+          "geohash": "te7u3x8"
+        },
+        "query": {
+          "affinity": 0.7896551724137931,
+          "affinity_rank": 0.5658222283264781,
+          "popularity": 0.8344827586206897,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.416884,
+          "entity_person_affinity_rank": 0.9690917445244297,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8241379310344827,
+          "entity_person_affinity": 0.6379310344827587
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06334,
+          "longitude": 72.84416,
+          "geohash": "te7u3w7"
+        },
+        "query": {
+          "affinity": 0.7862068965517242,
+          "affinity_rank": 0.5655232079210779,
+          "popularity": 0.3620689655172414,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9795149289786452,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.9551724137931035
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.071579,
+          "longitude": 72.83455,
+          "geohash": "te7u3ru"
+        },
+        "query": {
+          "affinity": 0.7827586206896552,
+          "affinity_rank": 0.5654738615563829,
+          "popularity": 0.6551724137931034,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9794294585678246,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.9517241379310345
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.075699,
+          "longitude": 72.833176,
+          "geohash": "te7u92e"
+        },
+        "query": {
+          "affinity": 0.7793103448275862,
+          "affinity_rank": 0.5653834440382267,
+          "popularity": 0.07931034482758621,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9792728508324838,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.9482758620689655
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.077072,
+          "longitude": 72.833176,
+          "geohash": "te7u92g"
+        },
+        "query": {
+          "affinity": 0.7758620689655172,
+          "affinity_rank": 0.5653036848677803,
+          "popularity": 0.07931034482758621,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9791347038969009,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.9448275862068966
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.061966,
+          "longitude": 72.833176,
+          "geohash": "te7u3q5"
+        },
+        "query": {
+          "affinity": 0.7724137931034483,
+          "affinity_rank": 0.5650138335276906,
+          "popularity": 0.8137931034482758,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.414602,
+          "entity_person_affinity_rank": 0.9693935897566803,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8172413793103448,
+          "entity_person_affinity": 0.6620689655172414
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.075699,
+          "longitude": 72.82631,
+          "geohash": "te7u90w"
+        },
+        "query": {
+          "affinity": 0.7689655172413793,
+          "affinity_rank": 0.5649707885886052,
+          "popularity": 0.30689655172413793,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9785581106277191,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.9413793103448276
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.061966,
+          "longitude": 72.824936,
+          "geohash": "te7u3nj"
+        },
+        "query": {
+          "affinity": 0.7655172413793103,
+          "affinity_rank": 0.5645942113689135,
+          "popularity": 0.12758620689655173,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9779058597502401,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.9379310344827586
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.82768,
+          "geohash": "te7u3jz"
+        },
+        "query": {
+          "affinity": 0.7620689655172413,
+          "affinity_rank": 0.5644377812785575,
+          "popularity": 0.1793103448275862,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9776349148859109,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.9344827586206896
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06746,
+          "longitude": 72.8318,
+          "geohash": "te7u3r4"
+        },
+        "query": {
+          "affinity": 0.7586206896551724,
+          "affinity_rank": 0.5643589328875428,
+          "popularity": 0.593103448275862,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9774983454665784,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.9310344827586207
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.070206,
+          "longitude": 72.82631,
+          "geohash": "te7u3pw"
+        },
+        "query": {
+          "affinity": 0.7551724137931034,
+          "affinity_rank": 0.5641267517714208,
+          "popularity": 0.496551724137931,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.977096195976897,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.9275862068965517
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.068832,
+          "longitude": 72.837296,
+          "geohash": "te7u3rq"
+        },
+        "query": {
+          "affinity": 0.7517241379310344,
+          "affinity_rank": 0.5638766191052303,
+          "popularity": 0.8482758620689655,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.413275,
+          "entity_person_affinity_rank": 0.9679349946935187,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8103448275862069,
+          "entity_person_affinity": 0.5896551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.053726,
+          "longitude": 72.82631,
+          "geohash": "te7u3hw"
+        },
+        "query": {
+          "affinity": 0.7482758620689656,
+          "affinity_rank": 0.5637551711077905,
+          "popularity": 0.03103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9764525993883792,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.903448275862069
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.077072,
+          "longitude": 72.837296,
+          "geohash": "te7u92y"
+        },
+        "query": {
+          "affinity": 0.7448275862068966,
+          "affinity_rank": 0.563268555306952,
+          "popularity": 0,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.975609756097561,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.8896551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.04274,
+          "longitude": 72.84279,
+          "geohash": "te7u3dd"
+        },
+        "query": {
+          "affinity": 0.7413793103448276,
+          "affinity_rank": 0.5628698561873313,
+          "popularity": 0.8724137931034482,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.414257,
+          "entity_person_affinity_rank": 0.9644869392527106,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8137931034482758,
+          "entity_person_affinity": 0.41379310344827586
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.0551,
+          "longitude": 72.84691,
+          "geohash": "te7u3sv"
+        },
+        "query": {
+          "affinity": 0.7379310344827587,
+          "affinity_rank": 0.562640708191164,
+          "popularity": 0.12758620689655173,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9745222929936306,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.8793103448275862
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.053726,
+          "longitude": 72.84691,
+          "geohash": "te7u3st"
+        },
+        "query": {
+          "affinity": 0.7344827586206897,
+          "affinity_rank": 0.5624876573608613,
+          "popularity": 0.19310344827586207,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9742572011794057,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.8758620689655172
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.045486,
+          "longitude": 72.82768,
+          "geohash": "te7u35p"
+        },
+        "query": {
+          "affinity": 0.7310344827586207,
+          "affinity_rank": 0.5622662561275621,
+          "popularity": 0.22758620689655173,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9738737229944732,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.8724137931034482
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05098,
+          "longitude": 72.83043,
+          "geohash": "te7u3k1"
+        },
+        "query": {
+          "affinity": 0.7275862068965517,
+          "affinity_rank": 0.5618985242539527,
+          "popularity": 0.6275862068965518,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9732367927058192,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.8551724137931035
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.068832,
+          "longitude": 72.824936,
+          "geohash": "te7u3pm"
+        },
+        "query": {
+          "affinity": 0.7241379310344828,
+          "affinity_rank": 0.5618831488141068,
+          "popularity": 0.593103448275862,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9732101616628175,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.8517241379310345
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.84416,
+          "geohash": "te7u3tg"
+        },
+        "query": {
+          "affinity": 0.7206896551724138,
+          "affinity_rank": 0.5618807256302579,
+          "popularity": 0.4793103448275862,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.973205964585275,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.8482758620689655
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.074326,
+          "longitude": 72.83043,
+          "geohash": "te7u923"
+        },
+        "query": {
+          "affinity": 0.7172413793103448,
+          "affinity_rank": 0.5616580804400313,
+          "popularity": 0.03103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9728203318037416,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.8413793103448276
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.061966,
+          "longitude": 72.84691,
+          "geohash": "te7u3wj"
+        },
+        "query": {
+          "affinity": 0.7137931034482758,
+          "affinity_rank": 0.5615345986748028,
+          "popularity": 0.5482758620689655,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9726064551125576,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.8344827586206897
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.056473,
+          "longitude": 72.82356,
+          "geohash": "te7u3jh"
+        },
+        "query": {
+          "affinity": 0.7103448275862069,
+          "affinity_rank": 0.5612914352394267,
+          "popularity": 0.2655172413793103,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9721852836879433,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.8275862068965517
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.078445,
+          "longitude": 72.83592,
+          "geohash": "te7u93j"
+        },
+        "query": {
+          "affinity": 0.7068965517241379,
+          "affinity_rank": 0.5612827289265978,
+          "popularity": 0.4413793103448276,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.972170203911777,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.8241379310344827
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.057846,
+          "longitude": 72.84691,
+          "geohash": "te7u3tm"
+        },
+        "query": {
+          "affinity": 0.7034482758620689,
+          "affinity_rank": 0.5612684751624925,
+          "popularity": 0.6103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9721455156681474,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.8206896551724138
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.82356,
+          "geohash": "te7u3ju"
+        },
+        "query": {
+          "affinity": 0.7,
+          "affinity_rank": 0.5612206020697935,
+          "popularity": 0.6793103448275862,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.405011,
+          "entity_person_affinity_rank": 0.9696931082085589,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.803448275862069,
+          "entity_person_affinity": 0.6827586206896552
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.041367,
+          "longitude": 72.84279,
+          "geohash": "te7u3d6"
+        },
+        "query": {
+          "affinity": 0.696551724137931,
+          "affinity_rank": 0.5611843696699577,
+          "popularity": 0.2206896551724138,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9719998406818816,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.8103448275862069
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06334,
+          "longitude": 72.83455,
+          "geohash": "te7u3qk"
+        },
+        "query": {
+          "affinity": 0.6931034482758621,
+          "affinity_rank": 0.5611581097333838,
+          "popularity": 0.8586206896551725,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.409404,
+          "entity_person_affinity_rank": 0.9651470338715205,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8068965517241379,
+          "entity_person_affinity": 0.4689655172413793
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.061966,
+          "longitude": 72.82356,
+          "geohash": "te7u3nh"
+        },
+        "query": {
+          "affinity": 0.6896551724137931,
+          "affinity_rank": 0.5609074817397808,
+          "popularity": 0.4896551724137931,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9715202567188127,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.7931034482758621
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05098,
+          "longitude": 72.83867,
+          "geohash": "te7u3kp"
+        },
+        "query": {
+          "affinity": 0.6862068965517242,
+          "affinity_rank": 0.5609063078658565,
+          "popularity": 0.27241379310344827,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9715182235095341,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.7896551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.044113,
+          "longitude": 72.84004,
+          "geohash": "te7u3db"
+        },
+        "query": {
+          "affinity": 0.6827586206896552,
+          "affinity_rank": 0.5608245532318255,
+          "popularity": 0.4413793103448276,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9713766203296381,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.7724137931034483
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.061966,
+          "longitude": 72.8318,
+          "geohash": "te7u3q4"
+        },
+        "query": {
+          "affinity": 0.6793103448275862,
+          "affinity_rank": 0.5607997508922362,
+          "popularity": 0.25862068965517243,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9713336614173229,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.7655172413793103
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.85103,
+          "geohash": "te7u3vb"
+        },
+        "query": {
+          "affinity": 0.6758620689655173,
+          "affinity_rank": 0.5607916643511799,
+          "popularity": 0.6172413793103448,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.971319655117356,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.7620689655172413
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.078445,
+          "longitude": 72.83043,
+          "geohash": "te7u931"
+        },
+        "query": {
+          "affinity": 0.6724137931034483,
+          "affinity_rank": 0.5606584348736868,
+          "popularity": 0.19310344827586207,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9710888948932721,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.7551724137931034
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.077072,
+          "longitude": 72.829056,
+          "geohash": "te7u92b"
+        },
+        "query": {
+          "affinity": 0.6689655172413793,
+          "affinity_rank": 0.5606309453129082,
+          "popularity": 0.07931034482758621,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9710412815773259,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.7482758620689656
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.057846,
+          "longitude": 72.8318,
+          "geohash": "te7u3m6"
+        },
+        "query": {
+          "affinity": 0.6655172413793103,
+          "affinity_rank": 0.5604760221915714,
+          "popularity": 0.03103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9707729468599033,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.7379310344827587
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06334,
+          "longitude": 72.8318,
+          "geohash": "te7u3q6"
+        },
+        "query": {
+          "affinity": 0.6620689655172414,
+          "affinity_rank": 0.5604430487252874,
+          "popularity": 0.30689655172413793,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9707158351409978,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.7310344827586207
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.075699,
+          "longitude": 72.84004,
+          "geohash": "te7u988"
+        },
+        "query": {
+          "affinity": 0.6586206896551724,
+          "affinity_rank": 0.5603586315204374,
+          "popularity": 0.23448275862068965,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9705696202531646,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.7275862068965517
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.83043,
+          "geohash": "te7u3mc"
+        },
+        "query": {
+          "affinity": 0.6551724137931034,
+          "affinity_rank": 0.56014039601293,
+          "popularity": 0,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9701916252661462,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.7172413793103448
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.071579,
+          "longitude": 72.82356,
+          "geohash": "te7u3pu"
+        },
+        "query": {
+          "affinity": 0.6517241379310345,
+          "affinity_rank": 0.5600977049114433,
+          "popularity": 0.39655172413793105,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9701176821093401,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.7137931034482758
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.068832,
+          "longitude": 72.82219,
+          "geohash": "te7u3p7"
+        },
+        "query": {
+          "affinity": 0.6482758620689655,
+          "affinity_rank": 0.5600044094728124,
+          "popularity": 0.1103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.969956089669517,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.7034482758620689
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06334,
+          "longitude": 72.83043,
+          "geohash": "te7u3q3"
+        },
+        "query": {
+          "affinity": 0.6448275862068965,
+          "affinity_rank": 0.5599696476861806,
+          "popularity": 0,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.969895880488909,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.696551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.077072,
+          "longitude": 72.83592,
+          "geohash": "te7u92v"
+        },
+        "query": {
+          "affinity": 0.6413793103448275,
+          "affinity_rank": 0.5598130711274091,
+          "popularity": 0.25517241379310346,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9696246819338422,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.6758620689655173
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.04274,
+          "longitude": 72.82356,
+          "geohash": "te7u34s"
+        },
+        "query": {
+          "affinity": 0.6379310344827587,
+          "affinity_rank": 0.5597657154489348,
+          "popularity": 0.3310344827586207,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9695426594926979,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.6724137931034483
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.057846,
+          "longitude": 72.83043,
+          "geohash": "te7u3m3"
+        },
+        "query": {
+          "affinity": 0.6344827586206897,
+          "affinity_rank": 0.5596901433085313,
+          "popularity": 0.1103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9694117647058823,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.6689655172413793
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06334,
+          "longitude": 72.84279,
+          "geohash": "te7u3w6"
+        },
+        "query": {
+          "affinity": 0.6310344827586207,
+          "affinity_rank": 0.5596240852960848,
+          "popularity": 0.6724137931034483,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.969297348872078,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.6517241379310345
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.04274,
+          "longitude": 72.84004,
+          "geohash": "te7u3d8"
+        },
+        "query": {
+          "affinity": 0.6275862068965518,
+          "affinity_rank": 0.5594356576913619,
+          "popularity": 0.5793103448275863,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9689709826871495,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.6310344827586207
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06334,
+          "longitude": 72.82768,
+          "geohash": "te7u3nr"
+        },
+        "query": {
+          "affinity": 0.6241379310344828,
+          "affinity_rank": 0.5592435068921828,
+          "popularity": 0.2206896551724138,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9686381677402564,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.6241379310344828
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.056473,
+          "longitude": 72.84004,
+          "geohash": "te7u3t0"
+        },
+        "query": {
+          "affinity": 0.6206896551724138,
+          "affinity_rank": 0.5592361316778001,
+          "popularity": 0.45517241379310347,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9686253934942287,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.6206896551724138
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.074326,
+          "longitude": 72.837296,
+          "geohash": "te7u92q"
+        },
+        "query": {
+          "affinity": 0.6172413793103448,
+          "affinity_rank": 0.5591808207457173,
+          "popularity": 0.18620689655172415,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9685295921496473,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.6172413793103448
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.074326,
+          "longitude": 72.82356,
+          "geohash": "te7u90k"
+        },
+        "query": {
+          "affinity": 0.6137931034482759,
+          "affinity_rank": 0.5590579834331227,
+          "popularity": 0.12758620689655173,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9683168316831683,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.6103448275862069
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.049606,
+          "longitude": 72.82768,
+          "geohash": "te7u35z"
+        },
+        "query": {
+          "affinity": 0.6103448275862069,
+          "affinity_rank": 0.5590326611279375,
+          "popularity": 0.03103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9682729721640227,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.603448275862069
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.041367,
+          "longitude": 72.81807,
+          "geohash": "te7u342"
+        },
+        "query": {
+          "affinity": 0.6068965517241379,
+          "affinity_rank": 0.5587601397755433,
+          "popularity": 0.6586206896551724,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9678009513355286,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.5827586206896552
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.824936,
+          "geohash": "te7u3jv"
+        },
+        "query": {
+          "affinity": 0.603448275862069,
+          "affinity_rank": 0.5586621147407772,
+          "popularity": 0.3793103448275862,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9676311669948999,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.5689655172413793
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.044113,
+          "longitude": 72.83867,
+          "geohash": "te7u36z"
+        },
+        "query": {
+          "affinity": 0.6,
+          "affinity_rank": 0.5585737914619993,
+          "popularity": 0.3413793103448276,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9674781865885654,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.5620689655172414
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.064713,
+          "longitude": 72.82219,
+          "geohash": "te7u3ne"
+        },
+        "query": {
+          "affinity": 0.596551724137931,
+          "affinity_rank": 0.5585697824019187,
+          "popularity": 0.16551724137931034,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9674712426928154,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.5586206896551724
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.066086,
+          "longitude": 72.84691,
+          "geohash": "te7u3wv"
+        },
+        "query": {
+          "affinity": 0.593103448275862,
+          "affinity_rank": 0.5584826133337556,
+          "popularity": 0.3620689655172414,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9673202614379085,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.5482758620689655
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.057846,
+          "longitude": 72.83592,
+          "geohash": "te7u3mm"
+        },
+        "query": {
+          "affinity": 0.5896551724137931,
+          "affinity_rank": 0.5584751473308731,
+          "popularity": 0.30689655172413793,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9673073299415865,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.5448275862068965
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06746,
+          "longitude": 72.82356,
+          "geohash": "te7u3ph"
+        },
+        "query": {
+          "affinity": 0.5862068965517241,
+          "affinity_rank": 0.5582362268033589,
+          "popularity": 0.15862068965517243,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9668935074489609,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.5344827586206896
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.078445,
+          "longitude": 72.83455,
+          "geohash": "te7u93h"
+        },
+        "query": {
+          "affinity": 0.5827586206896552,
+          "affinity_rank": 0.5581108514452764,
+          "popularity": 0.6482758620689655,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9666763509587447,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.5310344827586206
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.045486,
+          "longitude": 72.84691,
+          "geohash": "te7u3ej"
+        },
+        "query": {
+          "affinity": 0.5793103448275863,
+          "affinity_rank": 0.5581052602166382,
+          "popularity": 0.12758620689655173,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9666666666666667,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.5275862068965518
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.064713,
+          "longitude": 72.83867,
+          "geohash": "te7u3qx"
+        },
+        "query": {
+          "affinity": 0.5758620689655173,
+          "affinity_rank": 0.5577259044673603,
+          "popularity": 0.27241379310344827,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9660096032347738,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.5172413793103449
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.056473,
+          "longitude": 72.845535,
+          "geohash": "te7u3th"
+        },
+        "query": {
+          "affinity": 0.5724137931034483,
+          "affinity_rank": 0.5576798483370893,
+          "popularity": 0.38275862068965516,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9659298316771445,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.5137931034482759
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.064713,
+          "longitude": 72.83592,
+          "geohash": "te7u3qt"
+        },
+        "query": {
+          "affinity": 0.5689655172413793,
+          "affinity_rank": 0.5574588496523828,
+          "popularity": 0.6689655172413793,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9655470507268271,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.5
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.070206,
+          "longitude": 72.83592,
+          "geohash": "te7u3rt"
+        },
+        "query": {
+          "affinity": 0.5655172413793104,
+          "affinity_rank": 0.5573176125818318,
+          "popularity": 0.19310344827586207,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9653024209447204,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.4827586206896552
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.0551,
+          "longitude": 72.83043,
+          "geohash": "te7u3kc"
+        },
+        "query": {
+          "affinity": 0.5620689655172414,
+          "affinity_rank": 0.5572986645968615,
+          "popularity": 0.3310344827586207,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9652696020720509,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.4793103448275862
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.074326,
+          "longitude": 72.83455,
+          "geohash": "te7u92k"
+        },
+        "query": {
+          "affinity": 0.5586206896551724,
+          "affinity_rank": 0.5571774130884714,
+          "popularity": 0.23448275862068965,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9650595882990248,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.46206896551724136
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.061966,
+          "longitude": 72.82768,
+          "geohash": "te7u3np"
+        },
+        "query": {
+          "affinity": 0.5551724137931034,
+          "affinity_rank": 0.5571350860346298,
+          "popularity": 0.3413793103448276,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9649862756912365,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.4517241379310345
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.070206,
+          "longitude": 72.83043,
+          "geohash": "te7u3r9"
+        },
+        "query": {
+          "affinity": 0.5517241379310345,
+          "affinity_rank": 0.5570899133983188,
+          "popularity": 0.7068965517241379,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.393162,
+          "entity_person_affinity_rank": 0.9714240286771508,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7931034482758621,
+          "entity_person_affinity": 0.7793103448275862
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.052353,
+          "longitude": 72.837296,
+          "geohash": "te7u3kq"
+        },
+        "query": {
+          "affinity": 0.5482758620689655,
+          "affinity_rank": 0.5570161386973963,
+          "popularity": 0.03103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.964780252859723,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.4379310344827586
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.078445,
+          "longitude": 72.837296,
+          "geohash": "te7u93n"
+        },
+        "query": {
+          "affinity": 0.5448275862068965,
+          "affinity_rank": 0.5569790249648428,
+          "popularity": 0.3896551724137931,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9647159699892818,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.43103448275862066
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.070206,
+          "longitude": 72.82356,
+          "geohash": "te7u3ps"
+        },
+        "query": {
+          "affinity": 0.5413793103448276,
+          "affinity_rank": 0.556905953899444,
+          "popularity": 0.5310344827586206,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.964589407191448,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.4241379310344828
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.845535,
+          "geohash": "te7u3tu"
+        },
+        "query": {
+          "affinity": 0.5379310344827586,
+          "affinity_rank": 0.5568818973251739,
+          "popularity": 0.3275862068965517,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.964547739982556,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.4206896551724138
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.056473,
+          "longitude": 72.84691,
+          "geohash": "te7u3tj"
+        },
+        "query": {
+          "affinity": 0.5344827586206896,
+          "affinity_rank": 0.5568378246170307,
+          "popularity": 0.19310344827586207,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9644714038128249,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.4103448275862069
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.048233,
+          "longitude": 72.82219,
+          "geohash": "te7u35e"
+        },
+        "query": {
+          "affinity": 0.5310344827586206,
+          "affinity_rank": 0.556591286105503,
+          "popularity": 0.30344827586206896,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9640443865848366,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.3931034482758621
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05922,
+          "longitude": 72.84416,
+          "geohash": "te7u3te"
+        },
+        "query": {
+          "affinity": 0.5275862068965518,
+          "affinity_rank": 0.5565268652119367,
+          "popularity": 0.12758620689655173,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9639328063241107,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.3896551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.074326,
+          "longitude": 72.84279,
+          "geohash": "te7u986"
+        },
+        "query": {
+          "affinity": 0.5241379310344828,
+          "affinity_rank": 0.5564642129398718,
+          "popularity": 0.4413793103448276,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9638242894056847,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.3793103448275862
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.0551,
+          "longitude": 72.845535,
+          "geohash": "te7u3su"
+        },
+        "query": {
+          "affinity": 0.5206896551724138,
+          "affinity_rank": 0.5564529109613817,
+          "popularity": 0.40344827586206894,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9638047138047138,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.3758620689655172
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05922,
+          "longitude": 72.83592,
+          "geohash": "te7u3mt"
+        },
+        "query": {
+          "affinity": 0.5172413793103449,
+          "affinity_rank": 0.5564333810826573,
+          "popularity": 0.7793103448275862,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.401201,
+          "entity_person_affinity_rank": 0.9617768595041323,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.8,
+          "entity_person_affinity": 0.27586206896551724
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.064713,
+          "longitude": 72.8318,
+          "geohash": "te7u3qd"
+        },
+        "query": {
+          "affinity": 0.5137931034482759,
+          "affinity_rank": 0.5563856663098117,
+          "popularity": 0.3724137931034483,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9636882426516573,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.3689655172413793
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.052353,
+          "longitude": 72.8318,
+          "geohash": "te7u3k6"
+        },
+        "query": {
+          "affinity": 0.5103448275862069,
+          "affinity_rank": 0.5563593836815953,
+          "popularity": 0.5724137931034483,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.96364271980423,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.36551724137931035
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.070206,
+          "longitude": 72.83867,
+          "geohash": "te7u3rx"
+        },
+        "query": {
+          "affinity": 0.506896551724138,
+          "affinity_rank": 0.5562876955918136,
+          "popularity": 0.7724137931034483,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.399833,
+          "entity_person_affinity_rank": 0.9627880043886383,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7965517241379311,
+          "entity_person_affinity": 0.3310344827586207
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.0551,
+          "longitude": 72.83455,
+          "geohash": "te7u3ku"
+        },
+        "query": {
+          "affinity": 0.503448275862069,
+          "affinity_rank": 0.5561506889928192,
+          "popularity": 0.19310344827586207,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.96328125,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.3482758620689655
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05098,
+          "longitude": 72.833176,
+          "geohash": "te7u3k5"
+        },
+        "query": {
+          "affinity": 0.5,
+          "affinity_rank": 0.5559542805029216,
+          "popularity": 0.12413793103448276,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9629410605164597,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.3413793103448276
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.066086,
+          "longitude": 72.845535,
+          "geohash": "te7u3wu"
+        },
+        "query": {
+          "affinity": 0.496551724137931,
+          "affinity_rank": 0.5558039516535083,
+          "popularity": 0.16551724137931034,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9626806833114323,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.32413793103448274
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.049606,
+          "longitude": 72.82219,
+          "geohash": "te7u35g"
+        },
+        "query": {
+          "affinity": 0.49310344827586206,
+          "affinity_rank": 0.5557879704940154,
+          "popularity": 0.07586206896551724,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9626530031312268,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.32068965517241377
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.044113,
+          "longitude": 72.820816,
+          "geohash": "te7u34f"
+        },
+        "query": {
+          "affinity": 0.4896551724137931,
+          "affinity_rank": 0.5556604050525263,
+          "popularity": 0.43448275862068964,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9624320533052778,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.3137931034482759
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.057846,
+          "longitude": 72.833176,
+          "geohash": "te7u3m7"
+        },
+        "query": {
+          "affinity": 0.4862068965517241,
+          "affinity_rank": 0.5556564930629446,
+          "popularity": 0.07931034482758621,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9624252775405636,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.3103448275862069
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.057846,
+          "longitude": 72.82768,
+          "geohash": "te7u3jr"
+        },
+        "query": {
+          "affinity": 0.4827586206896552,
+          "affinity_rank": 0.5556453718516698,
+          "popularity": 0.6724137931034483,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9624060150375939,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.30689655172413793
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.041367,
+          "longitude": 72.83867,
+          "geohash": "te7u36r"
+        },
+        "query": {
+          "affinity": 0.4793103448275862,
+          "affinity_rank": 0.5555915670853987,
+          "popularity": 0.30689655172413793,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9623128224487228,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.30344827586206896
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.071579,
+          "longitude": 72.837296,
+          "geohash": "te7u3ry"
+        },
+        "query": {
+          "affinity": 0.47586206896551725,
+          "affinity_rank": 0.5555771603578359,
+          "popularity": 0,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9622878692646134,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.3
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.049606,
+          "longitude": 72.837296,
+          "geohash": "te7u37y"
+        },
+        "query": {
+          "affinity": 0.4724137931034483,
+          "affinity_rank": 0.5555535167525688,
+          "popularity": 0.45517241379310347,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9622469173390166,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.29310344827586204
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.053726,
+          "longitude": 72.849655,
+          "geohash": "te7u3sx"
+        },
+        "query": {
+          "affinity": 0.4689655172413793,
+          "affinity_rank": 0.5553128062887764,
+          "popularity": 0.12758620689655173,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9618299945858149,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.28620689655172415
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.061966,
+          "longitude": 72.82219,
+          "geohash": "te7u3n5"
+        },
+        "query": {
+          "affinity": 0.46551724137931033,
+          "affinity_rank": 0.5553106270483111,
+          "popularity": 0.296551724137931,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.961826220030607,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.2827586206896552
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.045486,
+          "longitude": 72.841415,
+          "geohash": "te7u3e1"
+        },
+        "query": {
+          "affinity": 0.46206896551724136,
+          "affinity_rank": 0.5552970758030373,
+          "popularity": 0.3482758620689655,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.961802748585287,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.2793103448275862
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.045486,
+          "longitude": 72.81807,
+          "geohash": "te7u350"
+        },
+        "query": {
+          "affinity": 0.4586206896551724,
+          "affinity_rank": 0.5552596277437862,
+          "popularity": 0.5137931034482759,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9617378866440193,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.27241379310344827
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05922,
+          "longitude": 72.837296,
+          "geohash": "te7u3mw"
+        },
+        "query": {
+          "affinity": 0.45517241379310347,
+          "affinity_rank": 0.5551965009381362,
+          "popularity": 0.3620689655172414,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9616285478093138,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.2620689655172414
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.056473,
+          "longitude": 72.83043,
+          "geohash": "te7u3m1"
+        },
+        "query": {
+          "affinity": 0.4517241379310345,
+          "affinity_rank": 0.5551641436366095,
+          "popularity": 0.3931034482758621,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9615725033190736,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.25862068965517243
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.056473,
+          "longitude": 72.8524,
+          "geohash": "te7u3v1"
+        },
+        "query": {
+          "affinity": 0.4482758620689655,
+          "affinity_rank": 0.5551515109737721,
+          "popularity": 0.30689655172413793,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9615506229052045,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.25517241379310346
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.052353,
+          "longitude": 72.83592,
+          "geohash": "te7u3km"
+        },
+        "query": {
+          "affinity": 0.44482758620689655,
+          "affinity_rank": 0.5551444896054094,
+          "popularity": 0.12758620689655173,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9615384615384616,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.2517241379310345
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.039993,
+          "longitude": 72.81944,
+          "geohash": "te7u341"
+        },
+        "query": {
+          "affinity": 0.4413793103448276,
+          "affinity_rank": 0.5551290438973749,
+          "popularity": 0.38275862068965516,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.961511708787387,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.2482758620689655
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.0551,
+          "longitude": 72.8318,
+          "geohash": "te7u3kf"
+        },
+        "query": {
+          "affinity": 0.4379310344827586,
+          "affinity_rank": 0.5550375844542967,
+          "popularity": 0.4241379310344828,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9613532963851437,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.24482758620689654
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.049606,
+          "longitude": 72.820816,
+          "geohash": "te7u35f"
+        },
+        "query": {
+          "affinity": 0.43448275862068964,
+          "affinity_rank": 0.5549609707658704,
+          "popularity": 0.19310344827586207,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.961220597584234,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.2413793103448276
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.056473,
+          "longitude": 72.829056,
+          "geohash": "te7u3m0"
+        },
+        "query": {
+          "affinity": 0.43103448275862066,
+          "affinity_rank": 0.5548119854105317,
+          "popularity": 0.8448275862068966,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.38757,
+          "entity_person_affinity_rank": 0.9714362674362675,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7862068965517242,
+          "entity_person_affinity": 0.7827586206896552
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.056473,
+          "longitude": 72.83592,
+          "geohash": "te7u3mj"
+        },
+        "query": {
+          "affinity": 0.42758620689655175,
+          "affinity_rank": 0.5547783020228644,
+          "popularity": 0.29310344827586204,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9609042060403928,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.22413793103448276
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.0551,
+          "longitude": 72.824936,
+          "geohash": "te7u3hv"
+        },
+        "query": {
+          "affinity": 0.4241379310344828,
+          "affinity_rank": 0.5546784481439437,
+          "popularity": 0.7689655172413793,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.385747,
+          "entity_person_affinity_rank": 0.9729321692714812,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7827586206896552,
+          "entity_person_affinity": 0.8448275862068966
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.8524,
+          "geohash": "te7u3vc"
+        },
+        "query": {
+          "affinity": 0.4206896551724138,
+          "affinity_rank": 0.5546240601275647,
+          "popularity": 0.7,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9606370512410781,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.2206896551724138
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.071579,
+          "longitude": 72.83592,
+          "geohash": "te7u3rv"
+        },
+        "query": {
+          "affinity": 0.41724137931034483,
+          "affinity_rank": 0.5542594269767183,
+          "popularity": 0.2655172413793103,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9600054880976882,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.21724137931034482
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06746,
+          "longitude": 72.84691,
+          "geohash": "te7u3xj"
+        },
+        "query": {
+          "affinity": 0.41379310344827586,
+          "affinity_rank": 0.5542562584220406,
+          "popularity": 0,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.96,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.21379310344827587
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.068832,
+          "longitude": 72.83592,
+          "geohash": "te7u3rm"
+        },
+        "query": {
+          "affinity": 0.4103448275862069,
+          "affinity_rank": 0.5542029696749566,
+          "popularity": 0.03103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9599077011825786,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.2103448275862069
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.074326,
+          "longitude": 72.833176,
+          "geohash": "te7u927"
+        },
+        "query": {
+          "affinity": 0.4068965517241379,
+          "affinity_rank": 0.5541893374454435,
+          "popularity": 0.5206896551724138,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9598840894684416,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.20689655172413793
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.833176,
+          "geohash": "te7u3mg"
+        },
+        "query": {
+          "affinity": 0.40344827586206894,
+          "affinity_rank": 0.554085970348825,
+          "popularity": 0.296551724137931,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9597050524052675,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.20344827586206896
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.074326,
+          "longitude": 72.84004,
+          "geohash": "te7u982"
+        },
+        "query": {
+          "affinity": 0.4,
+          "affinity_rank": 0.554081661819489,
+          "popularity": 0.4793103448275862,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9596975898135517,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.2
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05098,
+          "longitude": 72.829056,
+          "geohash": "te7u3k0"
+        },
+        "query": {
+          "affinity": 0.39655172413793105,
+          "affinity_rank": 0.5538992822880953,
+          "popularity": 0.5413793103448276,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9593816991989169,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.19655172413793104
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.044113,
+          "longitude": 72.84416,
+          "geohash": "te7u3dg"
+        },
+        "query": {
+          "affinity": 0.3931034482758621,
+          "affinity_rank": 0.5538768053787259,
+          "popularity": 0.19310344827586207,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.959342768049892,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.19310344827586207
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.077072,
+          "longitude": 72.82356,
+          "geohash": "te7u90u"
+        },
+        "query": {
+          "affinity": 0.3896551724137931,
+          "affinity_rank": 0.5536310584155091,
+          "popularity": 0.07931034482758621,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9589171218237948,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.18620689655172415
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.041367,
+          "longitude": 72.841415,
+          "geohash": "te7u3d3"
+        },
+        "query": {
+          "affinity": 0.38620689655172413,
+          "affinity_rank": 0.5536195075507363,
+          "popularity": 0.4068965517241379,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.958897115139137,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.18275862068965518
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.049606,
+          "longitude": 72.83043,
+          "geohash": "te7u37c"
+        },
+        "query": {
+          "affinity": 0.38275862068965516,
+          "affinity_rank": 0.5534422832824404,
+          "popularity": 0.5482758620689655,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9585901537021143,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.1793103448275862
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06746,
+          "longitude": 72.82631,
+          "geohash": "te7u3pn"
+        },
+        "query": {
+          "affinity": 0.3793103448275862,
+          "affinity_rank": 0.5534298523161296,
+          "popularity": 0.5793103448275863,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9585686226368769,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.17586206896551723
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.041367,
+          "longitude": 72.84416,
+          "geohash": "te7u3d7"
+        },
+        "query": {
+          "affinity": 0.3758620689655172,
+          "affinity_rank": 0.5533704463885133,
+          "popularity": 0.5344827586206896,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9584657285519745,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.1724137931034483
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.075699,
+          "longitude": 72.837296,
+          "geohash": "te7u92w"
+        },
+        "query": {
+          "affinity": 0.3724137931034483,
+          "affinity_rank": 0.5533437726842235,
+          "popularity": 0.12758620689655173,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9584195283409186,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.16896551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06746,
+          "longitude": 72.83867,
+          "geohash": "te7u3rp"
+        },
+        "query": {
+          "affinity": 0.3689655172413793,
+          "affinity_rank": 0.5532610992713171,
+          "popularity": 0.42758620689655175,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9582763337893296,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.16551724137931034
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.070206,
+          "longitude": 72.83455,
+          "geohash": "te7u3rs"
+        },
+        "query": {
+          "affinity": 0.36551724137931035,
+          "affinity_rank": 0.5530835156877493,
+          "popularity": 0.3724137931034483,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9579687499999999,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.15862068965517243
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.066086,
+          "longitude": 72.84004,
+          "geohash": "te7u3wb"
+        },
+        "query": {
+          "affinity": 0.3620689655172414,
+          "affinity_rank": 0.5530502578597428,
+          "popularity": 0.03103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9579111457521434,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.15517241379310345
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.056473,
+          "longitude": 72.841415,
+          "geohash": "te7u3t1"
+        },
+        "query": {
+          "affinity": 0.3586206896551724,
+          "affinity_rank": 0.5528707509978533,
+          "popularity": 0.03103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9576002307470436,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.15172413793103448
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05098,
+          "longitude": 72.82219,
+          "geohash": "te7u3h5"
+        },
+        "query": {
+          "affinity": 0.35517241379310344,
+          "affinity_rank": 0.5526425345001332,
+          "popularity": 0,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9572049481778669,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.1482758620689655
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05922,
+          "longitude": 72.84691,
+          "geohash": "te7u3tt"
+        },
+        "query": {
+          "affinity": 0.35172413793103446,
+          "affinity_rank": 0.552526254955852,
+          "popularity": 0.3310344827586207,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9570035460992907,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.14482758620689656
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.045486,
+          "longitude": 72.81944,
+          "geohash": "te7u351"
+        },
+        "query": {
+          "affinity": 0.3482758620689655,
+          "affinity_rank": 0.5525116009434543,
+          "popularity": 0.45517241379310347,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9569781646052833,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.1413793103448276
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06746,
+          "longitude": 72.84828,
+          "geohash": "te7u3xn"
+        },
+        "query": {
+          "affinity": 0.3448275862068966,
+          "affinity_rank": 0.5524803096321657,
+          "popularity": 0.23448275862068965,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.956923966464296,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.13793103448275862
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.071579,
+          "longitude": 72.82219,
+          "geohash": "te7u3pg"
+        },
+        "query": {
+          "affinity": 0.3413793103448276,
+          "affinity_rank": 0.5524730600725271,
+          "popularity": 0,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9569114098586694,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.13448275862068965
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.053726,
+          "longitude": 72.82219,
+          "geohash": "te7u3he"
+        },
+        "query": {
+          "affinity": 0.33793103448275863,
+          "affinity_rank": 0.5524558728531815,
+          "popularity": 0.07931034482758621,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9568816407215222,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.1310344827586207
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.039993,
+          "longitude": 72.841415,
+          "geohash": "te7u3d1"
+        },
+        "query": {
+          "affinity": 0.33448275862068966,
+          "affinity_rank": 0.552251727115122,
+          "popularity": 0.7275862068965517,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9565280499310544,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.12758620689655173
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.064713,
+          "longitude": 72.833176,
+          "geohash": "te7u3qe"
+        },
+        "query": {
+          "affinity": 0.3310344827586207,
+          "affinity_rank": 0.5521145517767421,
+          "popularity": 0.8793103448275862,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.388948,
+          "entity_person_affinity_rank": 0.9634509314184617,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7896551724137931,
+          "entity_person_affinity": 0.35517241379310344
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.04274,
+          "longitude": 72.841415,
+          "geohash": "te7u3d9"
+        },
+        "query": {
+          "affinity": 0.3275862068965517,
+          "affinity_rank": 0.5517330348808785,
+          "popularity": 0.03103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9556296486278533,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.12413793103448276
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.045486,
+          "longitude": 72.84004,
+          "geohash": "te7u3e0"
+        },
+        "query": {
+          "affinity": 0.32413793103448274,
+          "affinity_rank": 0.5516902572256424,
+          "popularity": 0.4068965517241379,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9555555555555555,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.1206896551724138
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.061966,
+          "longitude": 72.83592,
+          "geohash": "te7u3qj"
+        },
+        "query": {
+          "affinity": 0.32068965517241377,
+          "affinity_rank": 0.5516734859759928,
+          "popularity": 0.35517241379310344,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9555265068990559,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.11724137931034483
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.064713,
+          "longitude": 72.849655,
+          "geohash": "te7u3wx"
+        },
+        "query": {
+          "affinity": 0.31724137931034485,
+          "affinity_rank": 0.5516538083450117,
+          "popularity": 0,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9554924242424242,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.11379310344827587
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.052353,
+          "longitude": 72.84279,
+          "geohash": "te7u3s6"
+        },
+        "query": {
+          "affinity": 0.3137931034482759,
+          "affinity_rank": 0.5515388301164128,
+          "popularity": 0.23448275862068965,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9552932761087267,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.10689655172413794
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.039993,
+          "longitude": 72.83867,
+          "geohash": "te7u36p"
+        },
+        "query": {
+          "affinity": 0.3103448275862069,
+          "affinity_rank": 0.5515152607334257,
+          "popularity": 0.03103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9552524527398899,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.10344827586206896
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05922,
+          "longitude": 72.845535,
+          "geohash": "te7u3ts"
+        },
+        "query": {
+          "affinity": 0.30689655172413793,
+          "affinity_rank": 0.5514628597315585,
+          "popularity": 0.39655172413793105,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9551616915422885,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.1
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.061966,
+          "longitude": 72.85103,
+          "geohash": "te7u3y0"
+        },
+        "query": {
+          "affinity": 0.30344827586206896,
+          "affinity_rank": 0.5514593327738616,
+          "popularity": 0.16551724137931034,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9551555826723612,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.09655172413793103
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.068832,
+          "longitude": 72.83455,
+          "geohash": "te7u3rk"
+        },
+        "query": {
+          "affinity": 0.3,
+          "affinity_rank": 0.5512244619717005,
+          "popularity": 0.25862068965517243,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9547487745098039,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.09310344827586207
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05922,
+          "longitude": 72.82356,
+          "geohash": "te7u3js"
+        },
+        "query": {
+          "affinity": 0.296551724137931,
+          "affinity_rank": 0.5510094684133076,
+          "popularity": 0.1103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9543763947433672,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.0896551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.066086,
+          "longitude": 72.849655,
+          "geohash": "te7u3wz"
+        },
+        "query": {
+          "affinity": 0.29310344827586204,
+          "affinity_rank": 0.5509990784522018,
+          "popularity": 0.03103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9543583988028432,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.08620689655172414
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.045486,
+          "longitude": 72.824936,
+          "geohash": "te7u35j"
+        },
+        "query": {
+          "affinity": 0.2896551724137931,
+          "affinity_rank": 0.5508033534652357,
+          "popularity": 0.07931034482758621,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9540193931811073,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.07931034482758621
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.84828,
+          "geohash": "te7u3ty"
+        },
+        "query": {
+          "affinity": 0.28620689655172415,
+          "affinity_rank": 0.5507569044206971,
+          "popularity": 0.4068965517241379,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9539389410760034,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.07241379310344828
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.068832,
+          "longitude": 72.83043,
+          "geohash": "te7u3r3"
+        },
+        "query": {
+          "affinity": 0.2827586206896552,
+          "affinity_rank": 0.5505801033673977,
+          "popularity": 0.23103448275862068,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9536327126688572,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.06551724137931035
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.070206,
+          "longitude": 72.84279,
+          "geohash": "te7u3xd"
+        },
+        "query": {
+          "affinity": 0.2793103448275862,
+          "affinity_rank": 0.5505494394331932,
+          "popularity": 0.07931034482758621,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9535796011768551,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.06206896551724138
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.044113,
+          "longitude": 72.841415,
+          "geohash": "te7u3dc"
+        },
+        "query": {
+          "affinity": 0.27586206896551724,
+          "affinity_rank": 0.5504534162430611,
+          "popularity": 0,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9534132841328413,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.05517241379310345
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.045486,
+          "longitude": 72.83043,
+          "geohash": "te7u371"
+        },
+        "query": {
+          "affinity": 0.27241379310344827,
+          "affinity_rank": 0.5503093198558177,
+          "popularity": 0.6310344827586207,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9531637018689486,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.05172413793103448
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06334,
+          "longitude": 72.833176,
+          "geohash": "te7u3q7"
+        },
+        "query": {
+          "affinity": 0.2689655172413793,
+          "affinity_rank": 0.5502278421228152,
+          "popularity": 0.5241379310344828,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9530225782957028,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.04827586206896552
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.04686,
+          "longitude": 72.841415,
+          "geohash": "te7u3e3"
+        },
+        "query": {
+          "affinity": 0.2655172413793103,
+          "affinity_rank": 0.5501544267774956,
+          "popularity": 0.07931034482758621,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.952895419187554,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.04482758620689655
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.064713,
+          "longitude": 72.84828,
+          "geohash": "te7u3ww"
+        },
+        "query": {
+          "affinity": 0.2620689655172414,
+          "affinity_rank": 0.5499671512041088,
+          "popularity": 0.18275862068965518,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9525710483794315,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.041379310344827586
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.052353,
+          "longitude": 72.83867,
+          "geohash": "te7u3kr"
+        },
+        "query": {
+          "affinity": 0.25862068965517243,
+          "affinity_rank": 0.549522600668513,
+          "popularity": 0.16206896551724137,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9518010642652477,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.03793103448275862
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05098,
+          "longitude": 72.82356,
+          "geohash": "te7u3hh"
+        },
+        "query": {
+          "affinity": 0.25517241379310346,
+          "affinity_rank": 0.5492731267552758,
+          "popularity": 0.28620689655172415,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9513689627723579,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.034482758620689655
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06334,
+          "longitude": 72.845535,
+          "geohash": "te7u3wk"
+        },
+        "query": {
+          "affinity": 0.2517241379310345,
+          "affinity_rank": 0.5490810910947297,
+          "popularity": 0.18620689655172415,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9510363472514268,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.03103448275862069
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.053726,
+          "longitude": 72.82356,
+          "geohash": "te7u3hs"
+        },
+        "query": {
+          "affinity": 0.2482758620689655,
+          "affinity_rank": 0.5489773146376675,
+          "popularity": 0.7827586206896552,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9508566011551657,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.027586206896551724
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.079819,
+          "longitude": 72.83043,
+          "geohash": "te7u933"
+        },
+        "query": {
+          "affinity": 0.24482758620689654,
+          "affinity_rank": 0.5484213137007876,
+          "popularity": 0.32413793103448274,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9498935792834339,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.02413793103448276
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05922,
+          "longitude": 72.824936,
+          "geohash": "te7u3jt"
+        },
+        "query": {
+          "affinity": 0.2413793103448276,
+          "affinity_rank": 0.5483588182689583,
+          "popularity": 0.17586206896551723,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9497853340202644,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.020689655172413793
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.0551,
+          "longitude": 72.84828,
+          "geohash": "te7u3sy"
+        },
+        "query": {
+          "affinity": 0.23793103448275862,
+          "affinity_rank": 0.5477187133716082,
+          "popularity": 0.23448275862068965,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9486766398158804,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.017241379310344827
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05098,
+          "longitude": 72.8318,
+          "geohash": "te7u3k4"
+        },
+        "query": {
+          "affinity": 0.23448275862068965,
+          "affinity_rank": 0.5472441822250623,
+          "popularity": 0.5448275862068965,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9478547277602891,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.013793103448275862
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.061966,
+          "longitude": 72.83867,
+          "geohash": "te7u3qp"
+        },
+        "query": {
+          "affinity": 0.23103448275862068,
+          "affinity_rank": 0.547098561574579,
+          "popularity": 0.4379310344827586,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9476025053950209,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.010344827586206896
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.066086,
+          "longitude": 72.83592,
+          "geohash": "te7u3qv"
+        },
+        "query": {
+          "affinity": 0.22758620689655173,
+          "affinity_rank": 0.5470363385256657,
+          "popularity": 0.2517241379310345,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.947494731912901,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.006896551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.82219,
+          "geohash": "te7u3jg"
+        },
+        "query": {
+          "affinity": 0.22413793103448276,
+          "affinity_rank": 0.5466678720147137,
+          "popularity": 0.7413793103448276,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.369205,
+          "entity_person_affinity_rank": 0.9698523452091483,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7758620689655172,
+          "entity_person_affinity": 0.6896551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.072952,
+          "longitude": 72.845535,
+          "geohash": "te7u98h"
+        },
+        "query": {
+          "affinity": 0.2206896551724138,
+          "affinity_rank": 0.5464790979835995,
+          "popularity": 0.1103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9465295629820052,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0.0034482758620689655
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.049606,
+          "longitude": 72.82631,
+          "geohash": "te7u35y"
+        },
+        "query": {
+          "affinity": 0.21724137931034482,
+          "affinity_rank": 0.545547937250671,
+          "popularity": 0.7655172413793103,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.368334,
+          "entity_person_affinity_rank": 0.9679800764920394,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7724137931034483,
+          "entity_person_affinity": 0.593103448275862
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.056473,
+          "longitude": 72.83455,
+          "geohash": "te7u3mh"
+        },
+        "query": {
+          "affinity": 0.21379310344827587,
+          "affinity_rank": 0.544327340900606,
+          "popularity": 0.8551724137931035,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.370448,
+          "entity_person_affinity_rank": 0.9628762382524766,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7793103448275862,
+          "entity_person_affinity": 0.33448275862068966
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.04686,
+          "longitude": 72.84279,
+          "geohash": "te7u3e6"
+        },
+        "query": {
+          "affinity": 0.2103448275862069,
+          "affinity_rank": 0.541109667876857,
+          "popularity": 0.03103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": null,
+          "entity_person_affinity_rank": 0.9372294372294372,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": null,
+          "entity_person_affinity": 0
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.053726,
+          "longitude": 72.82768,
+          "geohash": "te7u3hx"
+        },
+        "query": {
+          "affinity": 0.20689655172413793,
+          "affinity_rank": 0.5397532932761225,
+          "popularity": 0.7241379310344828,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.349573,
+          "entity_person_affinity_rank": 0.9725471555133027,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7689655172413793,
+          "entity_person_affinity": 0.8310344827586207
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.041367,
+          "longitude": 72.82356,
+          "geohash": "te7u34k"
+        },
+        "query": {
+          "affinity": 0.20344827586206896,
+          "affinity_rank": 0.534177103346747,
+          "popularity": 0.7551724137931034,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.346779,
+          "entity_person_affinity_rank": 0.9616823354774864,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7655172413793103,
+          "entity_person_affinity": 0.2655172413793103
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06746,
+          "longitude": 72.82768,
+          "geohash": "te7u3pp"
+        },
+        "query": {
+          "affinity": 0.2,
+          "affinity_rank": 0.5339512208942861,
+          "popularity": 0.6379310344827587,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.338567,
+          "entity_person_affinity_rank": 0.969341038727109,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7620689655172413,
+          "entity_person_affinity": 0.6586206896551724
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.075699,
+          "longitude": 72.8318,
+          "geohash": "te7u92d"
+        },
+        "query": {
+          "affinity": 0.19655172413793104,
+          "affinity_rank": 0.5268651762947751,
+          "popularity": 0.7137931034482758,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.314038,
+          "entity_person_affinity_rank": 0.9765128451637025,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7551724137931034,
+          "entity_person_affinity": 0.9103448275862069
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.066086,
+          "longitude": 72.824936,
+          "geohash": "te7u3nv"
+        },
+        "query": {
+          "affinity": 0.19310344827586207,
+          "affinity_rank": 0.5258434383791154,
+          "popularity": 0.6827586206896552,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.311813,
+          "entity_person_affinity_rank": 0.9762351086194814,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7517241379310344,
+          "entity_person_affinity": 0.9
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.070206,
+          "longitude": 72.8318,
+          "geohash": "te7u3rd"
+        },
+        "query": {
+          "affinity": 0.1896551724137931,
+          "affinity_rank": 0.5242686233605055,
+          "popularity": 0.7482758620689656,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.316406,
+          "entity_person_affinity_rank": 0.9677846153846155,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7586206896551724,
+          "entity_person_affinity": 0.5793103448275863
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05098,
+          "longitude": 72.82768,
+          "geohash": "te7u3hp"
+        },
+        "query": {
+          "affinity": 0.18620689655172415,
+          "affinity_rank": 0.5185228486514208,
+          "popularity": 0.7448275862068966,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.298762,
+          "entity_person_affinity_rank": 0.9713543991703696,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7482758620689656,
+          "entity_person_affinity": 0.7689655172413793
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.061966,
+          "longitude": 72.841415,
+          "geohash": "te7u3w1"
+        },
+        "query": {
+          "affinity": 0.18275862068965518,
+          "affinity_rank": 0.5127757311105743,
+          "popularity": 0.8103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.291606,
+          "entity_person_affinity_rank": 0.9644328937034967,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7448275862068966,
+          "entity_person_affinity": 0.4068965517241379
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.060593,
+          "longitude": 72.8318,
+          "geohash": "te7u3mf"
+        },
+        "query": {
+          "affinity": 0.1793103448275862,
+          "affinity_rank": 0.5107236236202913,
+          "popularity": 0.696551724137931,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.285525,
+          "entity_person_affinity_rank": 0.9654872774549602,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7413793103448276,
+          "entity_person_affinity": 0.496551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.068832,
+          "longitude": 72.84004,
+          "geohash": "te7u3x2"
+        },
+        "query": {
+          "affinity": 0.17586206896551723,
+          "affinity_rank": 0.5096632859042478,
+          "popularity": 0.7379310344827587,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.283234,
+          "entity_person_affinity_rank": 0.9651809910956253,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7379310344827587,
+          "entity_person_affinity": 0.4724137931034483
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06746,
+          "longitude": 72.837296,
+          "geohash": "te7u3rn"
+        },
+        "query": {
+          "affinity": 0.1724137931034483,
+          "affinity_rank": 0.5074819484392629,
+          "popularity": 0.7620689655172413,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.278049,
+          "entity_person_affinity_rank": 0.9650228273495959,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7344827586206897,
+          "entity_person_affinity": 0.45517241379310347
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.070206,
+          "longitude": 72.829056,
+          "geohash": "te7u3r8"
+        },
+        "query": {
+          "affinity": 0.16896551724137931,
+          "affinity_rank": 0.5070809627113727,
+          "popularity": 0.7103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.275597,
+          "entity_person_affinity_rank": 0.9664926169221266,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7310344827586207,
+          "entity_person_affinity": 0.5241379310344828
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.068832,
+          "longitude": 72.8318,
+          "geohash": "te7u3r6"
+        },
+        "query": {
+          "affinity": 0.16551724137931034,
+          "affinity_rank": 0.5050655417054459,
+          "popularity": 0.6655172413793103,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.274237,
+          "entity_person_affinity_rank": 0.9629158638407193,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7275862068965517,
+          "entity_person_affinity": 0.33793103448275863
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.052353,
+          "longitude": 72.82768,
+          "geohash": "te7u3hr"
+        },
+        "query": {
+          "affinity": 0.16206896551724137,
+          "affinity_rank": 0.5013203243720471,
+          "popularity": 0.49310344827586206,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.248366,
+          "entity_person_affinity_rank": 0.979612992398065,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7137931034482758,
+          "entity_person_affinity": 0.9586206896551724
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05922,
+          "longitude": 72.82631,
+          "geohash": "te7u3jw"
+        },
+        "query": {
+          "affinity": 0.15862068965517243,
+          "affinity_rank": 0.5012019484315526,
+          "popularity": 0.7172413793103448,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.258443,
+          "entity_person_affinity_rank": 0.9692460317460316,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7206896551724138,
+          "entity_person_affinity": 0.6482758620689655
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.057846,
+          "longitude": 72.829056,
+          "geohash": "te7u3m2"
+        },
+        "query": {
+          "affinity": 0.15517241379310345,
+          "affinity_rank": 0.5011477768541058,
+          "popularity": 0.5758620689655173,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.256048,
+          "entity_person_affinity_rank": 0.9715083390227252,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7172413793103448,
+          "entity_person_affinity": 0.7862068965517242
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.053726,
+          "longitude": 72.829056,
+          "geohash": "te7u3k8"
+        },
+        "query": {
+          "affinity": 0.15172413793103448,
+          "affinity_rank": 0.5011017140825135,
+          "popularity": 0.5862068965517241,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.259363,
+          "entity_person_affinity_rank": 0.9680805087361857,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7241379310344828,
+          "entity_person_affinity": 0.596551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06746,
+          "longitude": 72.833176,
+          "geohash": "te7u3r5"
+        },
+        "query": {
+          "affinity": 0.1482758620689655,
+          "affinity_rank": 0.4923138464278859,
+          "popularity": 0.7931034482758621,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.241277,
+          "entity_person_affinity_rank": 0.9646407170552393,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7103448275862069,
+          "entity_person_affinity": 0.42758620689655175
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.061966,
+          "longitude": 72.83455,
+          "geohash": "te7u3qh"
+        },
+        "query": {
+          "affinity": 0.14482758620689656,
+          "affinity_rank": 0.48928107635196194,
+          "popularity": 0.7517241379310344,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.235077,
+          "entity_person_affinity_rank": 0.9634119778620437,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7068965517241379,
+          "entity_person_affinity": 0.35172413793103446
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.056473,
+          "longitude": 72.85103,
+          "geohash": "te7u3v0"
+        },
+        "query": {
+          "affinity": 0.1413793103448276,
+          "affinity_rank": 0.4811662303095858,
+          "popularity": 0.7034482758620689,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.214761,
+          "entity_person_affinity_rank": 0.9638507457169787,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7034482758620689,
+          "entity_person_affinity": 0.38620689655172413
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.071579,
+          "longitude": 72.82631,
+          "geohash": "te7u3py"
+        },
+        "query": {
+          "affinity": 0.13793103448275862,
+          "affinity_rank": 0.48050377129973754,
+          "popularity": 0.6413793103448275,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.211887,
+          "entity_person_affinity_rank": 0.9651020591673412,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.7,
+          "entity_person_affinity": 0.46551724137931033
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06334,
+          "longitude": 72.82356,
+          "geohash": "te7u3nk"
+        },
+        "query": {
+          "affinity": 0.13448275862068965,
+          "affinity_rank": 0.47674529858842324,
+          "popularity": 0.4862068965517241,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.203288,
+          "entity_person_affinity_rank": 0.9644947188124464,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.696551724137931,
+          "entity_person_affinity": 0.41724137931034483
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.0551,
+          "longitude": 72.849655,
+          "geohash": "te7u3sz"
+        },
+        "query": {
+          "affinity": 0.1310344827586207,
+          "affinity_rank": 0.47394028468543314,
+          "popularity": 0.6931034482758621,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.18962,
+          "entity_person_affinity_rank": 0.971291866028708,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6862068965517242,
+          "entity_person_affinity": 0.7586206896551724
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05922,
+          "longitude": 72.83043,
+          "geohash": "te7u3m9"
+        },
+        "query": {
+          "affinity": 0.12758620689655173,
+          "affinity_rank": 0.4734977830935309,
+          "popularity": 0.4724137931034483,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.195096,
+          "entity_person_affinity_rank": 0.9647319629181781,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6931034482758621,
+          "entity_person_affinity": 0.43448275862068964
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.04274,
+          "longitude": 72.824936,
+          "geohash": "te7u34t"
+        },
+        "query": {
+          "affinity": 0.12413793103448276,
+          "affinity_rank": 0.4730813849758482,
+          "popularity": 0.5172413793103449,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.187933,
+          "entity_person_affinity_rank": 0.970875,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6793103448275862,
+          "entity_person_affinity": 0.7448275862068966
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06334,
+          "longitude": 72.849655,
+          "geohash": "te7u3wr"
+        },
+        "query": {
+          "affinity": 0.1206896551724138,
+          "affinity_rank": 0.4725801958864316,
+          "popularity": 0.7310344827586207,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.192251,
+          "entity_person_affinity_rank": 0.9653293424662791,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6896551724137931,
+          "entity_person_affinity": 0.4896551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05922,
+          "longitude": 72.83455,
+          "geohash": "te7u3ms"
+        },
+        "query": {
+          "affinity": 0.11724137931034483,
+          "affinity_rank": 0.4703338401032796,
+          "popularity": 0.6241379310344828,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.188301,
+          "entity_person_affinity_rank": 0.9637769170168068,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6827586206896552,
+          "entity_person_affinity": 0.3724137931034483
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.053726,
+          "longitude": 72.83043,
+          "geohash": "te7u3k9"
+        },
+        "query": {
+          "affinity": 0.11379310344827587,
+          "affinity_rank": 0.46905085980005357,
+          "popularity": 0.6896551724137931,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.172181,
+          "entity_person_affinity_rank": 0.9767542699238617,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6689655172413793,
+          "entity_person_affinity": 0.9172413793103448
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.071579,
+          "longitude": 72.83867,
+          "geohash": "te7u3rz"
+        },
+        "query": {
+          "affinity": 0.1103448275862069,
+          "affinity_rank": 0.4670127546386559,
+          "popularity": 0.6620689655172414,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.181295,
+          "entity_person_affinity_rank": 0.9626479522363047,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6724137931034483,
+          "entity_person_affinity": 0.31724137931034485
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.039993,
+          "longitude": 72.84004,
+          "geohash": "te7u3d0"
+        },
+        "query": {
+          "affinity": 0.10689655172413794,
+          "affinity_rank": 0.4635934450812576,
+          "popularity": 0.7965517241379311,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.182027,
+          "entity_person_affinity_rank": 0.953540388548057,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6758620689655173,
+          "entity_person_affinity": 0.05862068965517241
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05922,
+          "longitude": 72.82219,
+          "geohash": "te7u3je"
+        },
+        "query": {
+          "affinity": 0.10344827586206896,
+          "affinity_rank": 0.46255090412799876,
+          "popularity": 0.7344827586206897,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.160914,
+          "entity_person_affinity_rank": 0.9720996951766182,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6620689655172414,
+          "entity_person_affinity": 0.8137931034482758
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.072952,
+          "longitude": 72.82631,
+          "geohash": "te7u90n"
+        },
+        "query": {
+          "affinity": 0.1,
+          "affinity_rank": 0.4611358431258726,
+          "popularity": 0.5896551724137931,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.153913,
+          "entity_person_affinity_rank": 0.9756345177664976,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6551724137931034,
+          "entity_person_affinity": 0.8931034482758621
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06746,
+          "longitude": 72.83592,
+          "geohash": "te7u3rj"
+        },
+        "query": {
+          "affinity": 0.09655172413793103,
+          "affinity_rank": 0.46095527396155334,
+          "popularity": 0.7206896551724138,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.161649,
+          "entity_person_affinity_rank": 0.9674562154506348,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6655172413793103,
+          "entity_person_affinity": 0.5551724137931034
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.066086,
+          "longitude": 72.8318,
+          "geohash": "te7u3qf"
+        },
+        "query": {
+          "affinity": 0.09310344827586207,
+          "affinity_rank": 0.4571277496436011,
+          "popularity": 0.5655172413793104,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.157895,
+          "entity_person_affinity_rank": 0.9618347338935574,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6586206896551724,
+          "entity_person_affinity": 0.2896551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.066086,
+          "longitude": 72.837296,
+          "geohash": "te7u3qy"
+        },
+        "query": {
+          "affinity": 0.0896551724137931,
+          "affinity_rank": 0.4534465271506983,
+          "popularity": 0.7586206896551724,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.145295,
+          "entity_person_affinity_rank": 0.9654176171562893,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6517241379310345,
+          "entity_person_affinity": 0.49310344827586206
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.056473,
+          "longitude": 72.833176,
+          "geohash": "te7u3m5"
+        },
+        "query": {
+          "affinity": 0.08620689655172414,
+          "affinity_rank": 0.451044220018188,
+          "popularity": 0.603448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.135602,
+          "entity_person_affinity_rank": 0.9692261904761905,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6413793103448275,
+          "entity_person_affinity": 0.6448275862068965
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.053726,
+          "longitude": 72.83867,
+          "geohash": "te7u3kx"
+        },
+        "query": {
+          "affinity": 0.08275862068965517,
+          "affinity_rank": 0.4506184575782953,
+          "popularity": 0.6068965517241379,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.138985,
+          "entity_person_affinity_rank": 0.964800289746811,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6482758620689655,
+          "entity_person_affinity": 0.4413793103448276
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.075699,
+          "longitude": 72.82356,
+          "geohash": "te7u90s"
+        },
+        "query": {
+          "affinity": 0.07931034482758621,
+          "affinity_rank": 0.4504637735630266,
+          "popularity": 0.6206896551724138,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.135802,
+          "entity_person_affinity_rank": 0.9676043928380377,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6448275862068965,
+          "entity_person_affinity": 0.5655172413793104
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.052353,
+          "longitude": 72.82356,
+          "geohash": "te7u3hk"
+        },
+        "query": {
+          "affinity": 0.07586206896551724,
+          "affinity_rank": 0.4449551220939387,
+          "popularity": 0.47586206896551725,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.120859,
+          "entity_person_affinity_rank": 0.9690540075679396,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6379310344827587,
+          "entity_person_affinity": 0.6344827586206897
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.048233,
+          "longitude": 72.81944,
+          "geohash": "te7u359"
+        },
+        "query": {
+          "affinity": 0.07241379310344828,
+          "affinity_rank": 0.43570505152616784,
+          "popularity": 0.6,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.10616,
+          "entity_person_affinity_rank": 0.9610950545921643,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6344827586206897,
+          "entity_person_affinity": 0.23103448275862068
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05098,
+          "longitude": 72.82631,
+          "geohash": "te7u3hn"
+        },
+        "query": {
+          "affinity": 0.06896551724137931,
+          "affinity_rank": 0.43350099464478387,
+          "popularity": 0.5,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.100756,
+          "entity_person_affinity_rank": 0.9611002398687035,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6275862068965518,
+          "entity_person_affinity": 0.23448275862068965
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.057846,
+          "longitude": 72.84828,
+          "geohash": "te7u3tq"
+        },
+        "query": {
+          "affinity": 0.06551724137931035,
+          "affinity_rank": 0.4317928895536004,
+          "popularity": 0.6137931034482759,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.103704,
+          "entity_person_affinity_rank": 0.9539682539682539,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6310344827586207,
+          "entity_person_affinity": 0.07586206896551724
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.072952,
+          "longitude": 72.8318,
+          "geohash": "te7u924"
+        },
+        "query": {
+          "affinity": 0.06206896551724138,
+          "affinity_rank": 0.4314647446376348,
+          "popularity": 0.6344827586206897,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.095734,
+          "entity_person_affinity_rank": 0.9611344663624496,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6241379310344828,
+          "entity_person_affinity": 0.23793103448275862
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06334,
+          "longitude": 72.82219,
+          "geohash": "te7u3n7"
+        },
+        "query": {
+          "affinity": 0.05862068965517241,
+          "affinity_rank": 0.42905796577948296,
+          "popularity": 0.4689655172413793,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.078996,
+          "entity_person_affinity_rank": 0.9719770862362594,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6103448275862069,
+          "entity_person_affinity": 0.8068965517241379
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06334,
+          "longitude": 72.83592,
+          "geohash": "te7u3qm"
+        },
+        "query": {
+          "affinity": 0.05517241379310345,
+          "affinity_rank": 0.42901213383646647,
+          "popularity": 0.5103448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.088596,
+          "entity_person_affinity_rank": 0.9622648213619487,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6206896551724138,
+          "entity_person_affinity": 0.296551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.071579,
+          "longitude": 72.833176,
+          "geohash": "te7u3rg"
+        },
+        "query": {
+          "affinity": 0.05172413793103448,
+          "affinity_rank": 0.4287465873884933,
+          "popularity": 0.6862068965517242,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.086614,
+          "entity_person_affinity_rank": 0.9635963680614059,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6137931034482759,
+          "entity_person_affinity": 0.3620689655172414
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05922,
+          "longitude": 72.8318,
+          "geohash": "te7u3md"
+        },
+        "query": {
+          "affinity": 0.04827586206896552,
+          "affinity_rank": 0.42719121524366027,
+          "popularity": 0.2896551724137931,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.088402,
+          "entity_person_affinity_rank": 0.9579984999464267,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6172413793103448,
+          "entity_person_affinity": 0.16206896551724137
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.066086,
+          "longitude": 72.82631,
+          "geohash": "te7u3ny"
+        },
+        "query": {
+          "affinity": 0.04482758620689655,
+          "affinity_rank": 0.4239614876626956,
+          "popularity": 0.503448275862069,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.074919,
+          "entity_person_affinity_rank": 0.9635703153648697,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.603448275862069,
+          "entity_person_affinity": 0.3586206896551724
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06334,
+          "longitude": 72.837296,
+          "geohash": "te7u3qq"
+        },
+        "query": {
+          "affinity": 0.041379310344827586,
+          "affinity_rank": 0.42373954470800806,
+          "popularity": 0.5620689655172414,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.067107,
+          "entity_person_affinity_rank": 0.9708386683738797,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.593103448275862,
+          "entity_person_affinity": 0.7413793103448276
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.077072,
+          "longitude": 72.83455,
+          "geohash": "te7u92u"
+        },
+        "query": {
+          "affinity": 0.03793103448275862,
+          "affinity_rank": 0.42341759023215214,
+          "popularity": 0.35172413793103446,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.055172,
+          "entity_person_affinity_rank": 0.9819850441876274,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.5862068965517241,
+          "entity_person_affinity": 0.9793103448275862
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.056473,
+          "longitude": 72.82768,
+          "geohash": "te7u3jp"
+        },
+        "query": {
+          "affinity": 0.034482758620689655,
+          "affinity_rank": 0.4222089335761203,
+          "popularity": 0.4517241379310345,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.069892,
+          "entity_person_affinity_rank": 0.9643044521061309,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.596551724137931,
+          "entity_person_affinity": 0.4
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.0551,
+          "longitude": 72.85103,
+          "geohash": "te7u3ub"
+        },
+        "query": {
+          "affinity": 0.03103448275862069,
+          "affinity_rank": 0.4219218547348881,
+          "popularity": 0.506896551724138,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.070334,
+          "entity_person_affinity_rank": 0.9631592554291625,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6,
+          "entity_person_affinity": 0.3448275862068966
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.064713,
+          "longitude": 72.837296,
+          "geohash": "te7u3qw"
+        },
+        "query": {
+          "affinity": 0.027586206896551724,
+          "affinity_rank": 0.42149354057771515,
+          "popularity": 0.5379310344827586,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.078303,
+          "entity_person_affinity_rank": 0.9541411042944786,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.6068965517241379,
+          "entity_person_affinity": 0.08275862068965517
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.06746,
+          "longitude": 72.82219,
+          "geohash": "te7u3p5"
+        },
+        "query": {
+          "affinity": 0.02413793103448276,
+          "affinity_rank": 0.4181738679424133,
+          "popularity": 0.46551724137931033,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.053867,
+          "entity_person_affinity_rank": 0.9704456002249086,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.5827586206896552,
+          "entity_person_affinity": 0.7206896551724138
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.056473,
+          "longitude": 72.83867,
+          "geohash": "te7u3mp"
+        },
+        "query": {
+          "affinity": 0.020689655172413793,
+          "affinity_rank": 0.4145079031662363,
+          "popularity": 0.5689655172413793,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.053623,
+          "entity_person_affinity_rank": 0.9617098571082586,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.5793103448275863,
+          "entity_person_affinity": 0.2689655172413793
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05098,
+          "longitude": 72.837296,
+          "geohash": "te7u3kn"
+        },
+        "query": {
+          "affinity": 0.017241379310344827,
+          "affinity_rank": 0.41449606991340127,
+          "popularity": 0.43103448275862066,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.056296,
+          "entity_person_affinity_rank": 0.9590078716768156,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.5896551724137931,
+          "entity_person_affinity": 0.1896551724137931
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.061966,
+          "longitude": 72.837296,
+          "geohash": "te7u3qn"
+        },
+        "query": {
+          "affinity": 0.013793103448275862,
+          "affinity_rank": 0.4131026419936401,
+          "popularity": 0.5275862068965518,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.044214,
+          "entity_person_affinity_rank": 0.9676766842800528,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.5724137931034483,
+          "entity_person_affinity": 0.5724137931034483
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.053726,
+          "longitude": 72.83455,
+          "geohash": "te7u3ks"
+        },
+        "query": {
+          "affinity": 0.010344827586206896,
+          "affinity_rank": 0.4115442255671709,
+          "popularity": 0.3586206896551724,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.042424,
+          "entity_person_affinity_rank": 0.9656493592284316,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.5689655172413793,
+          "entity_person_affinity": 0.506896551724138
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.053726,
+          "longitude": 72.837296,
+          "geohash": "te7u3kw"
+        },
+        "query": {
+          "affinity": 0.006896551724137931,
+          "affinity_rank": 0.411483996587946,
+          "popularity": 0.7862068965517242,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.042005,
+          "entity_person_affinity_rank": 0.9659208289616019,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.5655172413793104,
+          "entity_person_affinity": 0.5103448275862069
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.05922,
+          "longitude": 72.833176,
+          "geohash": "te7u3me"
+        },
+        "query": {
+          "affinity": 0.0034482758620689655,
+          "affinity_rank": 0.4093379131470839,
+          "popularity": 0.4206896551724138,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.047328,
+          "entity_person_affinity_rank": 0.9553410195860536,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.5758620689655173,
+          "entity_person_affinity": 0.1103448275862069
+        }
+      },
+      {
+        "location": {
+          "latitude": 19.053726,
+          "longitude": 72.84004,
+          "geohash": "te7u3s8"
+        },
+        "query": {
+          "affinity": 0,
+          "affinity_rank": 0.40040794114368616,
+          "popularity": 0.6517241379310345,
+          "entity_place_affinity_rank": null,
+          "entity_brand_affinity_rank": 0.027027,
+          "entity_person_affinity_rank": 0.9537681447603897,
+          "entity_place_affinity": null,
+          "entity_brand_affinity": 0.5620689655172414,
+          "entity_person_affinity": 0.06896551724137931
+        }
+      }
+    ]
+  },
+  "query": {
+    "localities": {
+      "filter": [
+        {
+          "entity_id": "D3F2DF74-46E3-4C22-9B65-3F09F7175C41",
+          "name": "Bandra West",
+          "subtype": "urn:entity:locality",
+          "location": {
+            "lat": 19.0583358,
+            "lon": 72.8302669
+          },
+          "popularity": 0.98079884,
+          "disambiguation": "Bandra West, H/W Ward, Zone 3, Mumbai, Mumbai, Maharashtra, India"
+        }
+      ]
+    }
+  }
+}

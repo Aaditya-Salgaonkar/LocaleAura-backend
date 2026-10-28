@@ -1,0 +1,167 @@
+{
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "tag_id": "urn:tag:hotel_rating:place:five_star",
+        "name": "Five Star",
+        "types": [
+          "urn:entity:place"
+        ],
+        "subtype": "urn:tag:hotel_rating:place",
+        "tag_value": "urn:tag:hotel_rating:place:five_star",
+        "popularity": 0.9997290276427934,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:style:qloo:exotic",
+        "name": "Exotic",
+        "types": [
+          "urn:entity:artist",
+          "urn:entity:book",
+          "urn:entity:movie",
+          "urn:entity:tv_show"
+        ],
+        "subtype": "urn:tag:style:qloo",
+        "tag_value": "urn:tag:style:qloo:exotic",
+        "popularity": 0.9903368115711637,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:genre:media:indian_literature",
+        "name": "Indian Literature",
+        "types": [
+          "urn:entity:book",
+          "urn:entity:author"
+        ],
+        "subtype": "urn:tag:genre:media",
+        "tag_value": "urn:tag:genre:media:indian_literature",
+        "popularity": 0.9992667252385853,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:specialty_dish:place:pork_buns",
+        "name": "Pork Buns",
+        "types": [
+          "urn:entity:place"
+        ],
+        "subtype": "urn:tag:specialty_dish:place",
+        "tag_value": "urn:tag:specialty_dish:place:pork_buns",
+        "popularity": 0.9707158209999022,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:aesthetic_property:qloo:detailed_embroidery",
+        "name": "Detailed Embroidery",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:aesthetic_property:qloo",
+        "tag_value": "urn:tag:aesthetic_property:qloo:detailed_embroidery",
+        "popularity": 0.9870075430849975,
+        "query": {
+          "affinity": 0.9999344763568855
+        }
+      },
+      {
+        "tag_id": "urn:tag:lifestyle:qloo:artistic_pursuit",
+        "name": "Artistic Pursuit",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:lifestyle:qloo",
+        "tag_value": "urn:tag:lifestyle:qloo:artistic_pursuit",
+        "popularity": 0.9939043786462473,
+        "query": {
+          "affinity": 0.9998946747556454
+        }
+      },
+      {
+        "tag_id": "urn:tag:product_service:qloo:ready_to_wear",
+        "name": "Ready To Wear",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:product_service:qloo",
+        "tag_value": "urn:tag:product_service:qloo:ready_to_wear",
+        "popularity": 0.9955611586181069,
+        "query": {
+          "affinity": 0.9998810998266039
+        }
+      },
+      {
+        "tag_id": "urn:tag:customer_segment:qloo:bridal",
+        "name": "Bridal",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:customer_segment:qloo",
+        "tag_value": "urn:tag:customer_segment:qloo:bridal",
+        "popularity": 0.976571893978596,
+        "query": {
+          "affinity": 0.9998731309469868
+        }
+      },
+      {
+        "tag_id": "urn:tag:customer_segment:qloo:luxury_fashion_enthusiasts",
+        "name": "Luxury Fashion Enthusiasts",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:customer_segment:qloo",
+        "tag_value": "urn:tag:customer_segment:qloo:luxury_fashion_enthusiasts",
+        "popularity": 0.9951357712886487,
+        "query": {
+          "affinity": 0.999852752953436
+        }
+      },
+      {
+        "tag_id": "urn:tag:customer_identity:qloo:fashion_connoisseurs",
+        "name": "fashion connoisseurs",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:customer_identity:qloo",
+        "tag_value": "urn:tag:customer_identity:qloo:fashion_connoisseurs",
+        "popularity": 0.9842504242215381,
+        "query": {
+          "affinity": 0.9998522189887231
+        }
+      },
+      {
+        "tag_id": "urn:tag:customer_identity:qloo:cultural_aficionados",
+        "name": "Cultural Aficionados",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:customer_identity:qloo",
+        "tag_value": "urn:tag:customer_identity:qloo:cultural_aficionados",
+        "popularity": 0.9650979789877225,
+        "query": {
+          "affinity": 0.9998320864195227
+        }
+      },
+      {
+        "tag_id": "urn:tag:influencer_appeal:qloo:fashion_stylists",
+        "name": "Fashion Stylists",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:influencer_appeal:qloo",
+        "tag_value": "urn:tag:influencer_appeal:qloo:fashion_stylists",
+        "popularity": 0.9990903183069082,
+        "query": {
+          "affinity": 0.9997580157289776
+        }
+      }
+    ]
+  }
+}

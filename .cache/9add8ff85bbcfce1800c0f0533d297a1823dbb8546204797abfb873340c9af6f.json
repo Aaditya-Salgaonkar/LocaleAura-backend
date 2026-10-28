@@ -1,0 +1,1248 @@
+{
+  "results": [
+    {
+      "name": "Indian Ocean",
+      "entity_id": "28E7757D-DBB6-4427-A67D-39FF08A4CCB5",
+      "types": [
+        "urn:entity:place"
+      ],
+      "properties": {
+        "akas": [
+          {
+            "language": "",
+            "value": "Indian Ocean, 4 W Cliff Rd Bournemouth BH2 5EY United Kingdom"
+          }
+        ],
+        "address": "4 W Cliff Rd Bournemouth BH2 5EY United Kingdom",
+        "business_rating": 4.3,
+        "description": "Contemporary Indian restaurant near Bournemouth's West Cliff offering classic dishes and lively red-and-white interiors.",
+        "external": {
+          "opentable": {
+            "id": "191760",
+            "url": "https://www.opentable.co.uk/restaurant/profile/191760"
+          },
+          "tripadvisor": {
+            "id": "d945922",
+            "rating": 4,
+            "rating_count": 1063
+          },
+          "google_place": {
+            "id": "31cfe742a19a9621",
+            "place_id": "ChIJy_Vq5cehc0gRIZaaoULnzzE"
+          }
+        },
+        "geocode": {
+          "name": "Bournemouth",
+          "city": "Bournemouth",
+          "admin1_region": "England",
+          "admin2_region": "Bournemouth, Christchurch and Poole",
+          "country_code": "GB",
+          "country": "United Kingdom"
+        },
+        "hours": {
+          "sunday": [
+            {
+              "closed": false,
+              "opens": "T17:00:00",
+              "closes": "T23:00:00"
+            }
+          ],
+          "monday": [
+            {
+              "closed": false,
+              "opens": "T17:00:00",
+              "closes": "T23:00:00"
+            }
+          ],
+          "tuesday": [
+            {
+              "closed": false,
+              "opens": "T17:00:00",
+              "closes": "T23:00:00"
+            }
+          ],
+          "wednesday": [
+            {
+              "closed": false,
+              "opens": "T17:00:00",
+              "closes": "T23:00:00"
+            }
+          ],
+          "thursday": [
+            {
+              "closed": false,
+              "opens": "T17:00:00",
+              "closes": "T23:00:00"
+            }
+          ],
+          "friday": [
+            {
+              "closed": false,
+              "opens": "T17:00:00",
+              "closes": "T23:00:00"
+            }
+          ],
+          "saturday": [
+            {
+              "closed": false,
+              "opens": "T17:00:00",
+              "closes": "T23:00:00"
+            }
+          ]
+        },
+        "image": {
+          "url": "https://images.qloo.com/i/28E7757D-DBB6-4427-A67D-39FF08A4CCB5-420x-auto.jpg"
+        },
+        "is_closed": false,
+        "neighborhood": "Bournemouth",
+        "phone": "+441202311222",
+        "price_level": 2,
+        "price_range": {
+          "currency": "usd"
+        },
+        "website": "https://www.indianoceanrestaurant.co.uk/",
+        "specialty_dishes": [
+          {
+            "id": "urn:tag:specialty_dish:place:biryani",
+            "name": "Biryani",
+            "type": "urn:tag:specialty_dish:place",
+            "weight": 1
+          },
+          {
+            "id": "urn:tag:specialty_dish:place:butter_chicken",
+            "name": "Butter Chicken",
+            "type": "urn:tag:specialty_dish:place",
+            "weight": 0.6666666666666666
+          },
+          {
+            "id": "urn:tag:specialty_dish:place:sizzling_curried_chicken_tikka_masala",
+            "name": "Sizzling Curried Chicken Tikka Masala",
+            "type": "urn:tag:specialty_dish:place",
+            "weight": 0.3333333333333333
+          }
+        ],
+        "good_for": [
+          {
+            "id": "urn:tag:children:place:good_kids",
+            "name": "Good for kids",
+            "type": "urn:tag:children:place",
+            "weight": 0.5
+          }
+        ],
+        "primary_genre": {
+          "id": "urn:tag:genre:place:restaurant:indian",
+          "name": "Indian restaurant",
+          "type": "urn:tag:genre:place",
+          "akas": [
+            {
+              "language": "nb",
+              "value": "\"Indisk\""
+            },
+            {
+              "language": "id",
+              "value": "\"India\""
+            },
+            {
+              "language": "et",
+              "value": "\"India\""
+            },
+            {
+              "language": "sv",
+              "value": "\"Indisk restaurang\""
+            },
+            {
+              "language": "en_gb",
+              "value": "\"Indian\""
+            },
+            {
+              "language": "ro",
+              "value": "\"Indian\""
+            },
+            {
+              "language": "tl",
+              "value": "\"Indian\""
+            },
+            {
+              "language": "da",
+              "value": "\"Indisk restaurant\""
+            },
+            {
+              "language": "lo",
+              "value": "\"ຮ້ານອາຫານອິນເດຍ\""
+            },
+            {
+              "language": "sq",
+              "value": "\"Restorant indian\""
+            },
+            {
+              "language": "ms",
+              "value": "\"Restoran India\""
+            },
+            {
+              "language": "el",
+              "value": "\"Ινδικό εστιατόριο\""
+            },
+            {
+              "language": "hu",
+              "value": "\"Indiai\""
+            },
+            {
+              "language": "bg",
+              "value": "\"Индийски ресторант\""
+            },
+            {
+              "language": "ka",
+              "value": "\"ინდური რესტორანი\""
+            },
+            {
+              "language": "km",
+              "value": "\"ភោជនីយដ្ឋានឥណ្ឌា\""
+            },
+            {
+              "language": "te",
+              "value": "\"భారతీయ\""
+            },
+            {
+              "language": "ca",
+              "value": "\"Restaurant indi\""
+            },
+            {
+              "language": "lv",
+              "value": "\"Indiešu\""
+            },
+            {
+              "language": "tr",
+              "value": "\"Hint restoranı\""
+            },
+            {
+              "language": "ta",
+              "value": "\"இந்திய உணவகம்\""
+            },
+            {
+              "language": "fr",
+              "value": "\"Indien\""
+            },
+            {
+              "language": "fr_ca",
+              "value": "\"Indien\""
+            },
+            {
+              "language": "ar",
+              "value": "\"مطعم هندي\""
+            },
+            {
+              "language": "kk",
+              "value": "\"Үнді\""
+            },
+            {
+              "language": "he",
+              "value": "\"הודי\""
+            },
+            {
+              "language": "vi",
+              "value": "\"Ấn Độ\""
+            },
+            {
+              "language": "th",
+              "value": "\"ร้านอาหารอินเดีย\""
+            },
+            {
+              "language": "hi",
+              "value": "\"भारतीय रेस्तरां\""
+            },
+            {
+              "language": "ko",
+              "value": "\"인도식\""
+            },
+            {
+              "language": "sl",
+              "value": "\"Indijska\""
+            },
+            {
+              "language": "ru",
+              "value": "\"Индийский ресторан\""
+            },
+            {
+              "language": "bn",
+              "value": "\"ভারতীয়\""
+            },
+            {
+              "language": "pl",
+              "value": "\"Indyjska\""
+            },
+            {
+              "language": "gl",
+              "value": "\"Indio\""
+            },
+            {
+              "language": "es",
+              "value": "\"Indio\""
+            },
+            {
+              "language": "es_la",
+              "value": "\"Indio\""
+            },
+            {
+              "language": "es_ar",
+              "value": "\"Indio\""
+            },
+            {
+              "language": "mk",
+              "value": "\"Индиски\""
+            },
+            {
+              "language": "af",
+              "value": "\"Indiese restaurant\""
+            },
+            {
+              "language": "zh",
+              "value": "\"印度餐厅\""
+            },
+            {
+              "language": "sk",
+              "value": "\"Indická\""
+            },
+            {
+              "language": "sw",
+              "value": "\"Hindi\""
+            },
+            {
+              "language": "pt",
+              "value": "\"Indiano\""
+            },
+            {
+              "language": "it",
+              "value": "\"Indiano\""
+            },
+            {
+              "language": "pt_pt",
+              "value": "\"Indiano\""
+            },
+            {
+              "language": "my",
+              "value": "\"အိန္ဒိယစားသောက်ဆိုင်\""
+            },
+            {
+              "language": "sr",
+              "value": "\"Индијски ресторан\""
+            },
+            {
+              "language": "fi",
+              "value": "\"Intialainen\""
+            },
+            {
+              "language": "zh_tw",
+              "value": "\"印度料理\""
+            },
+            {
+              "language": "eu",
+              "value": "\"Indiar jatetxea\""
+            },
+            {
+              "language": "az",
+              "value": "\"Hind\""
+            },
+            {
+              "language": "de",
+              "value": "\"Indisch\""
+            },
+            {
+              "language": "nl",
+              "value": "\"Indisch\""
+            },
+            {
+              "language": "uk",
+              "value": "\"Індійський\""
+            },
+            {
+              "language": "hr",
+              "value": "\"Indijski\""
+            },
+            {
+              "language": "cs",
+              "value": "\"Indická restaurace\""
+            },
+            {
+              "language": "lt",
+              "value": "\"Indų restoranas\""
+            },
+            {
+              "language": "bs",
+              "value": "\"Indijski restoran\""
+            },
+            {
+              "language": "ja",
+              "value": "\"インド料理店\""
+            }
+          ]
+        }
+      },
+      "popularity": 0.9288772969513402,
+      "disambiguation": "4 W Cliff Rd Bournemouth BH2 5EY United Kingdom",
+      "location": {
+        "lat": 50.7167015,
+        "lon": -1.8828536999999999
+      },
+      "tags": [
+        {
+          "name": "Takeout",
+          "tag_id": "urn:tag:service_type:qloo:takeout",
+          "type": "urn:tag:service_type:qloo",
+          "value": "urn:tag:service_type:qloo:takeout"
+        },
+        {
+          "name": "Halal",
+          "tag_id": "urn:tag:dietary_option:qloo:halal",
+          "type": "urn:tag:dietary_option:qloo",
+          "value": "urn:tag:dietary_option:qloo:halal"
+        },
+        {
+          "name": "Lgbtq+ friendly",
+          "tag_id": "urn:tag:inclusivity:place:lgbtq_friendly",
+          "type": "urn:tag:inclusivity:place",
+          "value": "urn:tag:inclusivity:place:lgbtq_friendly"
+        },
+        {
+          "name": "Spirits",
+          "tag_id": "urn:tag:beverage_offering:qloo:spirits",
+          "type": "urn:tag:beverage_offering:qloo",
+          "value": "urn:tag:beverage_offering:qloo:spirits"
+        },
+        {
+          "name": "Reservations",
+          "tag_id": "urn:tag:service_type:qloo:reservations",
+          "type": "urn:tag:service_type:qloo",
+          "value": "urn:tag:service_type:qloo:reservations"
+        },
+        {
+          "name": "Vegan meals",
+          "tag_id": "urn:tag:offerings:place:vegan_options",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:vegan_options"
+        },
+        {
+          "name": "Full bar",
+          "tag_id": "urn:tag:beverage_offering:qloo:full_bar",
+          "type": "urn:tag:beverage_offering:qloo",
+          "value": "urn:tag:beverage_offering:qloo:full_bar"
+        },
+        {
+          "name": "Outdoor seating",
+          "tag_id": "urn:tag:service_options:place:outdoor_seating",
+          "type": "urn:tag:service_options:place",
+          "value": "urn:tag:service_options:place:outdoor_seating"
+        },
+        {
+          "name": "Delivery",
+          "tag_id": "urn:tag:service_type:qloo:delivery",
+          "type": "urn:tag:service_type:qloo",
+          "value": "urn:tag:service_type:qloo:delivery"
+        },
+        {
+          "name": "Parking",
+          "tag_id": "urn:tag:parking:place:parking",
+          "type": "urn:tag:parking:place",
+          "value": "urn:tag:parking:place:parking"
+        },
+        {
+          "name": "Dine in",
+          "tag_id": "urn:tag:service_options:place:dine_in",
+          "type": "urn:tag:service_options:place",
+          "value": "urn:tag:service_options:place:dine_in"
+        },
+        {
+          "name": "Hot tea",
+          "tag_id": "urn:tag:offerings:place:hot_tea",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:hot_tea"
+        },
+        {
+          "name": "Destination",
+          "tag_id": "urn:tag:visit_intent:qloo:destination",
+          "type": "urn:tag:visit_intent:qloo",
+          "value": "urn:tag:visit_intent:qloo:destination"
+        },
+        {
+          "name": "Clean",
+          "tag_id": "urn:tag:ambience:qloo:clean",
+          "type": "urn:tag:ambience:qloo",
+          "value": "urn:tag:ambience:qloo:clean"
+        },
+        {
+          "name": "Special occasion",
+          "tag_id": "urn:tag:visit_intent:qloo:special_occasion",
+          "type": "urn:tag:visit_intent:qloo",
+          "value": "urn:tag:visit_intent:qloo:special_occasion"
+        },
+        {
+          "name": "Contemporary",
+          "tag_id": "urn:tag:decor:qloo:contemporary",
+          "type": "urn:tag:decor:qloo",
+          "value": "urn:tag:decor:qloo:contemporary"
+        },
+        {
+          "name": "Bar",
+          "tag_id": "urn:tag:amenity:qloo:bar",
+          "type": "urn:tag:amenity:qloo",
+          "value": "urn:tag:amenity:qloo:bar"
+        },
+        {
+          "name": "Urban",
+          "tag_id": "urn:tag:setting:qloo:urban",
+          "type": "urn:tag:setting:qloo",
+          "value": "urn:tag:setting:qloo:urban"
+        },
+        {
+          "name": "Gluten free",
+          "tag_id": "urn:tag:dietary_option:qloo:gluten_free",
+          "type": "urn:tag:dietary_option:qloo",
+          "value": "urn:tag:dietary_option:qloo:gluten_free"
+        },
+        {
+          "name": "Good for kids",
+          "tag_id": "urn:tag:children:place:good_for_kids",
+          "type": "urn:tag:children:place",
+          "value": "urn:tag:children:place:good_for_kids"
+        },
+        {
+          "name": "Near entertainment district",
+          "tag_id": "urn:tag:neighborhood_characteristic:qloo:near_entertainment_district",
+          "type": "urn:tag:neighborhood_characteristic:qloo",
+          "value": "urn:tag:neighborhood_characteristic:qloo:near_entertainment_district"
+        },
+        {
+          "name": "Indian takeaway",
+          "tag_id": "urn:tag:category:place:indian_takeaway",
+          "type": "urn:tag:category:place",
+          "value": "urn:tag:category:place:indian_takeaway"
+        },
+        {
+          "name": "Credit cards",
+          "tag_id": "urn:tag:payments:place:credit_cards",
+          "type": "urn:tag:payments:place",
+          "value": "urn:tag:payments:place:credit_cards"
+        },
+        {
+          "name": "Vegan",
+          "tag_id": "urn:tag:dietary_option:qloo:vegan",
+          "type": "urn:tag:dietary_option:qloo",
+          "value": "urn:tag:dietary_option:qloo:vegan"
+        },
+        {
+          "name": "City view",
+          "tag_id": "urn:tag:view:qloo:city_view",
+          "type": "urn:tag:view:qloo",
+          "value": "urn:tag:view:qloo:city_view"
+        },
+        {
+          "name": "Coastal",
+          "tag_id": "urn:tag:neighborhood_characteristic:qloo:coastal",
+          "type": "urn:tag:neighborhood_characteristic:qloo",
+          "value": "urn:tag:neighborhood_characteristic:qloo:coastal"
+        },
+        {
+          "name": "Alcohol",
+          "tag_id": "urn:tag:offerings:place:alcohol",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:alcohol"
+        },
+        {
+          "name": "South asian restaurant",
+          "tag_id": "urn:tag:genre:place:restaurant:south_asian",
+          "type": "urn:tag:genre:place",
+          "value": "urn:tag:genre:place:restaurant:south_asian"
+        },
+        {
+          "name": "Coffee and tea",
+          "tag_id": "urn:tag:beverage_offering:qloo:coffee_and_tea",
+          "type": "urn:tag:beverage_offering:qloo",
+          "value": "urn:tag:beverage_offering:qloo:coffee_and_tea"
+        },
+        {
+          "name": "Small plates",
+          "tag_id": "urn:tag:offerings:place:small_plates",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:small_plates"
+        },
+        {
+          "name": "Accepts reservations",
+          "tag_id": "urn:tag:planning:place:accepts_reservations",
+          "type": "urn:tag:planning:place",
+          "value": "urn:tag:planning:place:accepts_reservations"
+        },
+        {
+          "name": "Takeout and delivery",
+          "tag_id": "urn:tag:activity_type:qloo:takeout_and_delivery",
+          "type": "urn:tag:activity_type:qloo",
+          "value": "urn:tag:activity_type:qloo:takeout_and_delivery"
+        },
+        {
+          "name": "Dinner",
+          "tag_id": "urn:tag:dining_options:place:dinner",
+          "type": "urn:tag:dining_options:place",
+          "value": "urn:tag:dining_options:place:dinner"
+        },
+        {
+          "name": "Modern",
+          "tag_id": "urn:tag:decor:qloo:modern",
+          "type": "urn:tag:decor:qloo",
+          "value": "urn:tag:decor:qloo:modern"
+        },
+        {
+          "name": "Beer",
+          "tag_id": "urn:tag:beverage_offering:qloo:beer",
+          "type": "urn:tag:beverage_offering:qloo",
+          "value": "urn:tag:beverage_offering:qloo:beer"
+        },
+        {
+          "name": "Delivery service",
+          "tag_id": "urn:tag:amenity:qloo:delivery_service",
+          "type": "urn:tag:amenity:qloo",
+          "value": "urn:tag:amenity:qloo:delivery_service"
+        },
+        {
+          "name": "Bright interior",
+          "tag_id": "urn:tag:decor:qloo:bright_interior",
+          "type": "urn:tag:decor:qloo",
+          "value": "urn:tag:decor:qloo:bright_interior"
+        },
+        {
+          "name": "No contact delivery",
+          "tag_id": "urn:tag:service_options:place:no_contact_delivery",
+          "type": "urn:tag:service_options:place",
+          "value": "urn:tag:service_options:place:no_contact_delivery"
+        },
+        {
+          "name": "Dine in",
+          "tag_id": "urn:tag:service_type:qloo:dine_in",
+          "type": "urn:tag:service_type:qloo",
+          "value": "urn:tag:service_type:qloo:dine_in"
+        },
+        {
+          "name": "Bournemouth beach",
+          "tag_id": "urn:tag:nearby_attraction:qloo:bournemouth_beach",
+          "type": "urn:tag:nearby_attraction:qloo",
+          "value": "urn:tag:nearby_attraction:qloo:bournemouth_beach"
+        },
+        {
+          "name": "Near beach",
+          "tag_id": "urn:tag:setting:qloo:near_beach",
+          "type": "urn:tag:setting:qloo",
+          "value": "urn:tag:setting:qloo:near_beach"
+        },
+        {
+          "name": "Sizzling curried chicken tikka masala",
+          "tag_id": "urn:tag:menu_highlight:qloo:sizzling_curried_chicken_tikka_masala",
+          "type": "urn:tag:menu_highlight:qloo",
+          "value": "urn:tag:menu_highlight:qloo:sizzling_curried_chicken_tikka_masala"
+        },
+        {
+          "name": "Delivery",
+          "tag_id": "urn:tag:service_options:place:delivery",
+          "type": "urn:tag:service_options:place",
+          "value": "urn:tag:service_options:place:delivery"
+        },
+        {
+          "name": "Free parking lot",
+          "tag_id": "urn:tag:parking:place:free_parking_lot",
+          "type": "urn:tag:parking:place",
+          "value": "urn:tag:parking:place:free_parking_lot"
+        },
+        {
+          "name": "Group socializing",
+          "tag_id": "urn:tag:interests:qloo:group_socializing",
+          "type": "urn:tag:interests:qloo",
+          "value": "urn:tag:interests:qloo:group_socializing"
+        },
+        {
+          "name": "Spicy food",
+          "tag_id": "urn:tag:offerings:place:spicy_food",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:spicy_food"
+        },
+        {
+          "name": "Vegetarian",
+          "tag_id": "urn:tag:dietary_option:qloo:vegetarian",
+          "type": "urn:tag:dietary_option:qloo",
+          "value": "urn:tag:dietary_option:qloo:vegetarian"
+        },
+        {
+          "name": "Restaurant",
+          "tag_id": "urn:tag:genre:place:restaurant",
+          "type": "urn:tag:genre:place",
+          "value": "urn:tag:genre:place:restaurant"
+        },
+        {
+          "name": "Lamb curry",
+          "tag_id": "urn:tag:menu_highlight:qloo:lamb_curry",
+          "type": "urn:tag:menu_highlight:qloo",
+          "value": "urn:tag:menu_highlight:qloo:lamb_curry"
+        },
+        {
+          "name": "Coffee",
+          "tag_id": "urn:tag:offerings:place:coffee",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:coffee"
+        },
+        {
+          "name": "Private dining room",
+          "tag_id": "urn:tag:amenity:qloo:private_dining_room",
+          "type": "urn:tag:amenity:qloo",
+          "value": "urn:tag:amenity:qloo:private_dining_room"
+        },
+        {
+          "name": "Lunch",
+          "tag_id": "urn:tag:dining_options:place:lunch",
+          "type": "urn:tag:dining_options:place",
+          "value": "urn:tag:dining_options:place:lunch"
+        },
+        {
+          "name": "Indian",
+          "tag_id": "urn:tag:cuisine:qloo:indian",
+          "type": "urn:tag:cuisine:qloo",
+          "value": "urn:tag:cuisine:qloo:indian"
+        },
+        {
+          "name": "Tikka",
+          "tag_id": "urn:tag:menu_highlight:qloo:tikka",
+          "type": "urn:tag:menu_highlight:qloo",
+          "value": "urn:tag:menu_highlight:qloo:tikka"
+        },
+        {
+          "name": "Indian",
+          "tag_id": "urn:tag:genre:place:restaurant:indian",
+          "type": "urn:tag:genre:place",
+          "value": "urn:tag:genre:place:restaurant:indian"
+        },
+        {
+          "name": "Walkable",
+          "tag_id": "urn:tag:neighborhood_characteristic:qloo:walkable",
+          "type": "urn:tag:neighborhood_characteristic:qloo",
+          "value": "urn:tag:neighborhood_characteristic:qloo:walkable"
+        },
+        {
+          "name": "Groups of friends",
+          "tag_id": "urn:tag:customer_identity:qloo:groups_of_friends",
+          "type": "urn:tag:customer_identity:qloo",
+          "value": "urn:tag:customer_identity:qloo:groups_of_friends"
+        },
+        {
+          "name": "Butter chicken",
+          "tag_id": "urn:tag:menu_highlight:qloo:butter_chicken",
+          "type": "urn:tag:menu_highlight:qloo",
+          "value": "urn:tag:menu_highlight:qloo:butter_chicken"
+        },
+        {
+          "name": "Welcoming",
+          "tag_id": "urn:tag:ambience:qloo:welcoming",
+          "type": "urn:tag:ambience:qloo",
+          "value": "urn:tag:ambience:qloo:welcoming"
+        },
+        {
+          "name": "Order ahead",
+          "tag_id": "urn:tag:dining_options:place:order_ahead",
+          "type": "urn:tag:dining_options:place",
+          "value": "urn:tag:dining_options:place:order_ahead"
+        },
+        {
+          "name": "Contactless delivery",
+          "tag_id": "urn:tag:amenity:qloo:contactless_delivery",
+          "type": "urn:tag:amenity:qloo",
+          "value": "urn:tag:amenity:qloo:contactless_delivery"
+        },
+        {
+          "name": "Regulars",
+          "tag_id": "urn:tag:customer_identity:qloo:regulars",
+          "type": "urn:tag:customer_identity:qloo",
+          "value": "urn:tag:customer_identity:qloo:regulars"
+        },
+        {
+          "name": "Hard cider",
+          "tag_id": "urn:tag:offerings:place:hard_cider",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:hard_cider"
+        },
+        {
+          "name": "Debit cards",
+          "tag_id": "urn:tag:payments:place:debit_cards",
+          "type": "urn:tag:payments:place",
+          "value": "urn:tag:payments:place:debit_cards"
+        },
+        {
+          "name": "Hard liquor",
+          "tag_id": "urn:tag:offerings:place:hard_liquor",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:hard_liquor"
+        },
+        {
+          "name": "Vegetarian meals",
+          "tag_id": "urn:tag:offerings:place:vegetarian_options",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:vegetarian_options"
+        },
+        {
+          "name": "Online ordering",
+          "tag_id": "urn:tag:service_type:qloo:online_ordering",
+          "type": "urn:tag:service_type:qloo",
+          "value": "urn:tag:service_type:qloo:online_ordering"
+        },
+        {
+          "name": "18 24",
+          "tag_id": "urn:tag:age_range:qloo:18_24",
+          "type": "urn:tag:age_range:qloo",
+          "value": "urn:tag:age_range:qloo:18_24"
+        },
+        {
+          "name": "Authentic",
+          "tag_id": "urn:tag:culinary_style:qloo:authentic",
+          "type": "urn:tag:culinary_style:qloo",
+          "value": "urn:tag:culinary_style:qloo:authentic"
+        },
+        {
+          "name": "Foodies",
+          "tag_id": "urn:tag:customer_identity:qloo:foodies",
+          "type": "urn:tag:customer_identity:qloo",
+          "value": "urn:tag:customer_identity:qloo:foodies"
+        },
+        {
+          "name": "Relaxed evening outings",
+          "tag_id": "urn:tag:interests:qloo:relaxed_evening_outings",
+          "type": "urn:tag:interests:qloo",
+          "value": "urn:tag:interests:qloo:relaxed_evening_outings"
+        },
+        {
+          "name": "Local ingredients",
+          "tag_id": "urn:tag:offerings:place:local_ingredients",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:local_ingredients"
+        },
+        {
+          "name": "Dinner reservations recommended",
+          "tag_id": "urn:tag:planning:place:dinner_reservations_recommended",
+          "type": "urn:tag:planning:place",
+          "value": "urn:tag:planning:place:dinner_reservations_recommended"
+        },
+        {
+          "name": "International cuisine",
+          "tag_id": "urn:tag:interests:qloo:international_cuisine",
+          "type": "urn:tag:interests:qloo",
+          "value": "urn:tag:interests:qloo:international_cuisine"
+        },
+        {
+          "name": "Lamb balti",
+          "tag_id": "urn:tag:menu_highlight:qloo:lamb_balti",
+          "type": "urn:tag:menu_highlight:qloo",
+          "value": "urn:tag:menu_highlight:qloo:lamb_balti"
+        },
+        {
+          "name": "Takeout",
+          "tag_id": "urn:tag:service_options:place:takeout",
+          "type": "urn:tag:service_options:place",
+          "value": "urn:tag:service_options:place:takeout"
+        },
+        {
+          "name": "Work dinner",
+          "tag_id": "urn:tag:event:place:work_dinner",
+          "type": "urn:tag:event:place",
+          "value": "urn:tag:event:place:work_dinner"
+        },
+        {
+          "name": "Kids menu",
+          "tag_id": "urn:tag:children:place:kids_menu",
+          "type": "urn:tag:children:place",
+          "value": "urn:tag:children:place:kids_menu"
+        },
+        {
+          "name": "Visa",
+          "tag_id": "urn:tag:credit_card:place:visa",
+          "type": "urn:tag:credit_card:place",
+          "value": "urn:tag:credit_card:place:visa"
+        },
+        {
+          "name": "Nfc mobile payments",
+          "tag_id": "urn:tag:payments:place:nfc_mobile_payments",
+          "type": "urn:tag:payments:place",
+          "value": "urn:tag:payments:place:nfc_mobile_payments"
+        },
+        {
+          "name": "Outdoor seating",
+          "tag_id": "urn:tag:service_type:qloo:outdoor_seating",
+          "type": "urn:tag:service_type:qloo",
+          "value": "urn:tag:service_type:qloo:outdoor_seating"
+        },
+        {
+          "name": "Evening",
+          "tag_id": "urn:tag:time_of_day_fit:qloo:evening",
+          "type": "urn:tag:time_of_day_fit:qloo",
+          "value": "urn:tag:time_of_day_fit:qloo:evening"
+        },
+        {
+          "name": "Free water refills",
+          "tag_id": "urn:tag:offerings:place:free_water_refills",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:free_water_refills"
+        },
+        {
+          "name": "Traditional",
+          "tag_id": "urn:tag:culinary_style:qloo:traditional",
+          "type": "urn:tag:culinary_style:qloo",
+          "value": "urn:tag:culinary_style:qloo:traditional"
+        },
+        {
+          "name": "Free street parking",
+          "tag_id": "urn:tag:parking:place:free_street_parking",
+          "type": "urn:tag:parking:place",
+          "value": "urn:tag:parking:place:free_street_parking"
+        },
+        {
+          "name": "Central",
+          "tag_id": "urn:tag:neighborhood_characteristic:qloo:central",
+          "type": "urn:tag:neighborhood_characteristic:qloo",
+          "value": "urn:tag:neighborhood_characteristic:qloo:central"
+        },
+        {
+          "name": "Bar onsite",
+          "tag_id": "urn:tag:amenities:place:bar_onsite",
+          "type": "urn:tag:amenities:place",
+          "value": "urn:tag:amenities:place:bar_onsite"
+        },
+        {
+          "name": "Large group",
+          "tag_id": "urn:tag:ambience:place:large_group",
+          "type": "urn:tag:ambience:place",
+          "value": "urn:tag:ambience:place:large_group"
+        },
+        {
+          "name": "Biryani",
+          "tag_id": "urn:tag:menu_highlight:qloo:biryani",
+          "type": "urn:tag:menu_highlight:qloo",
+          "value": "urn:tag:menu_highlight:qloo:biryani"
+        },
+        {
+          "name": "Table service",
+          "tag_id": "urn:tag:dining_options:place:table_service",
+          "type": "urn:tag:dining_options:place",
+          "value": "urn:tag:dining_options:place:table_service"
+        },
+        {
+          "name": "Asian restaurant",
+          "tag_id": "urn:tag:category:place:asian_restaurant",
+          "type": "urn:tag:category:place",
+          "value": "urn:tag:category:place:asian_restaurant"
+        },
+        {
+          "name": "Dessert",
+          "tag_id": "urn:tag:dining_options:place:dessert",
+          "type": "urn:tag:dining_options:place",
+          "value": "urn:tag:dining_options:place:dessert"
+        },
+        {
+          "name": "Outdoor seating",
+          "tag_id": "urn:tag:amenity:qloo:outdoor_seating",
+          "type": "urn:tag:amenity:qloo",
+          "value": "urn:tag:amenity:qloo:outdoor_seating"
+        },
+        {
+          "name": "L20 to l30",
+          "tag_id": "urn:tag:cost_description:place:l20_to_l30",
+          "type": "urn:tag:cost_description:place",
+          "value": "urn:tag:cost_description:place:l20_to_l30"
+        },
+        {
+          "name": "Gluten free options",
+          "tag_id": "urn:tag:offerings:place:gluten_free_options",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:gluten_free_options"
+        },
+        {
+          "name": "Families",
+          "tag_id": "urn:tag:customer_identity:qloo:families",
+          "type": "urn:tag:customer_identity:qloo",
+          "value": "urn:tag:customer_identity:qloo:families"
+        },
+        {
+          "name": "Vegetable samosas",
+          "tag_id": "urn:tag:menu_highlight:qloo:vegetable_samosas",
+          "type": "urn:tag:menu_highlight:qloo",
+          "value": "urn:tag:menu_highlight:qloo:vegetable_samosas"
+        },
+        {
+          "name": "Onsite services",
+          "tag_id": "urn:tag:service_options:place:onsite_services",
+          "type": "urn:tag:service_options:place",
+          "value": "urn:tag:service_options:place:onsite_services"
+        },
+        {
+          "name": "City center",
+          "tag_id": "urn:tag:setting:qloo:city_center",
+          "type": "urn:tag:setting:qloo",
+          "value": "urn:tag:setting:qloo:city_center"
+        },
+        {
+          "name": "Walk ins",
+          "tag_id": "urn:tag:service_type:qloo:walk_ins",
+          "type": "urn:tag:service_type:qloo",
+          "value": "urn:tag:service_type:qloo:walk_ins"
+        },
+        {
+          "name": "Close to convention center",
+          "tag_id": "urn:tag:setting:qloo:close_to_convention_center",
+          "type": "urn:tag:setting:qloo",
+          "value": "urn:tag:setting:qloo:close_to_convention_center"
+        },
+        {
+          "name": "Place",
+          "tag_id": "urn:tag:genre:place",
+          "type": "urn:tag:genre:place",
+          "value": "urn:tag:genre:place"
+        },
+        {
+          "name": "Culinary exploration",
+          "tag_id": "urn:tag:interests:qloo:culinary_exploration",
+          "type": "urn:tag:interests:qloo",
+          "value": "urn:tag:interests:qloo:culinary_exploration"
+        },
+        {
+          "name": "Wine",
+          "tag_id": "urn:tag:offerings:place:wine",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:wine"
+        },
+        {
+          "name": "Private dining",
+          "tag_id": "urn:tag:service_type:qloo:private_dining",
+          "type": "urn:tag:service_type:qloo",
+          "value": "urn:tag:service_type:qloo:private_dining"
+        },
+        {
+          "name": "Drive thru",
+          "tag_id": "urn:tag:service_type:qloo:drive_thru",
+          "type": "urn:tag:service_type:qloo",
+          "value": "urn:tag:service_type:qloo:drive_thru"
+        },
+        {
+          "name": "Staff required to disinfect surfaces between visits",
+          "tag_id": "urn:tag:not_for_display:place:staff_required_to_disinfect_surfaces_between_visits",
+          "type": "urn:tag:not_for_display:place",
+          "value": "urn:tag:not_for_display:place:staff_required_to_disinfect_surfaces_between_visits"
+        },
+        {
+          "name": "Locals",
+          "tag_id": "urn:tag:customer_identity:qloo:locals",
+          "type": "urn:tag:customer_identity:qloo",
+          "value": "urn:tag:customer_identity:qloo:locals"
+        },
+        {
+          "name": "Dining drinking",
+          "tag_id": "urn:tag:activity_type:qloo:dining_drinking",
+          "type": "urn:tag:activity_type:qloo",
+          "value": "urn:tag:activity_type:qloo:dining_drinking"
+        },
+        {
+          "name": "Moderate",
+          "tag_id": "urn:tag:noise_level:qloo:moderate",
+          "type": "urn:tag:noise_level:qloo",
+          "value": "urn:tag:noise_level:qloo:moderate"
+        },
+        {
+          "name": "Seating",
+          "tag_id": "urn:tag:dining_options:place:seating",
+          "type": "urn:tag:dining_options:place",
+          "value": "urn:tag:dining_options:place:seating"
+        },
+        {
+          "name": "Asian",
+          "tag_id": "urn:tag:genre:place:restaurant:asian",
+          "type": "urn:tag:genre:place",
+          "value": "urn:tag:genre:place:restaurant:asian"
+        },
+        {
+          "name": "Wine",
+          "tag_id": "urn:tag:beverage_offering:qloo:wine",
+          "type": "urn:tag:beverage_offering:qloo",
+          "value": "urn:tag:beverage_offering:qloo:wine"
+        },
+        {
+          "name": "Waterfront",
+          "tag_id": "urn:tag:setting:qloo:waterfront",
+          "type": "urn:tag:setting:qloo",
+          "value": "urn:tag:setting:qloo:waterfront"
+        },
+        {
+          "name": "Price level",
+          "tag_id": "urn:tag:payments:place:price_level",
+          "type": "urn:tag:payments:place",
+          "value": "urn:tag:payments:place:price_level"
+        },
+        {
+          "name": "Lively",
+          "tag_id": "urn:tag:ambience:qloo:lively",
+          "type": "urn:tag:ambience:qloo",
+          "value": "urn:tag:ambience:qloo:lively"
+        },
+        {
+          "name": "Late night food",
+          "tag_id": "urn:tag:offerings:place:late_night_food",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:late_night_food"
+        },
+        {
+          "name": "Dogs allowed inside",
+          "tag_id": "urn:tag:pets:place:dogs_allowed_inside",
+          "type": "urn:tag:pets:place",
+          "value": "urn:tag:pets:place:dogs_allowed_inside"
+        },
+        {
+          "name": "Organic",
+          "tag_id": "urn:tag:dietary_option:qloo:organic",
+          "type": "urn:tag:dietary_option:qloo",
+          "value": "urn:tag:dietary_option:qloo:organic"
+        },
+        {
+          "name": "Wheelchair accessible",
+          "tag_id": "urn:tag:amenity:qloo:wheelchair_accessible",
+          "type": "urn:tag:amenity:qloo",
+          "value": "urn:tag:amenity:qloo:wheelchair_accessible"
+        },
+        {
+          "name": "Bournemouth international centre",
+          "tag_id": "urn:tag:nearby_attraction:qloo:bournemouth_international_centre",
+          "type": "urn:tag:nearby_attraction:qloo",
+          "value": "urn:tag:nearby_attraction:qloo:bournemouth_international_centre"
+        },
+        {
+          "name": "Takeout service",
+          "tag_id": "urn:tag:amenity:qloo:takeout_service",
+          "type": "urn:tag:amenity:qloo",
+          "value": "urn:tag:amenity:qloo:takeout_service"
+        },
+        {
+          "name": "Bustling",
+          "tag_id": "urn:tag:neighborhood_characteristic:qloo:bustling",
+          "type": "urn:tag:neighborhood_characteristic:qloo",
+          "value": "urn:tag:neighborhood_characteristic:qloo:bustling"
+        },
+        {
+          "name": "Touristic",
+          "tag_id": "urn:tag:neighborhood_characteristic:qloo:touristic",
+          "type": "urn:tag:neighborhood_characteristic:qloo",
+          "value": "urn:tag:neighborhood_characteristic:qloo:touristic"
+        },
+        {
+          "name": "South asian restaurant",
+          "tag_id": "urn:tag:category:place:south_asian_restaurant",
+          "type": "urn:tag:category:place",
+          "value": "urn:tag:category:place:south_asian_restaurant"
+        },
+        {
+          "name": "Indian restaurant",
+          "tag_id": "urn:tag:category:place:indian_restaurant",
+          "type": "urn:tag:category:place",
+          "value": "urn:tag:category:place:indian_restaurant"
+        },
+        {
+          "name": "Catering",
+          "tag_id": "urn:tag:dining_options:place:catering",
+          "type": "urn:tag:dining_options:place",
+          "value": "urn:tag:dining_options:place:catering"
+        },
+        {
+          "name": "Beer",
+          "tag_id": "urn:tag:offerings:place:beer",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:beer"
+        },
+        {
+          "name": "Modern aesthetic",
+          "tag_id": "urn:tag:ambience:qloo:modern_aesthetic",
+          "type": "urn:tag:ambience:qloo",
+          "value": "urn:tag:ambience:qloo:modern_aesthetic"
+        },
+        {
+          "name": "Casual",
+          "tag_id": "urn:tag:ambience:qloo:casual",
+          "type": "urn:tag:ambience:qloo",
+          "value": "urn:tag:ambience:qloo:casual"
+        },
+        {
+          "name": "25 29",
+          "tag_id": "urn:tag:age_range:qloo:25_29",
+          "type": "urn:tag:age_range:qloo",
+          "value": "urn:tag:age_range:qloo:25_29"
+        },
+        {
+          "name": "Gender neutral restroom",
+          "tag_id": "urn:tag:amenities:place:gender_neutral_restroom",
+          "type": "urn:tag:amenities:place",
+          "value": "urn:tag:amenities:place:gender_neutral_restroom"
+        },
+        {
+          "name": "Coastal dining",
+          "tag_id": "urn:tag:interests:qloo:coastal_dining",
+          "type": "urn:tag:interests:qloo",
+          "value": "urn:tag:interests:qloo:coastal_dining"
+        },
+        {
+          "name": "Casual",
+          "tag_id": "urn:tag:culinary_style:qloo:casual",
+          "type": "urn:tag:culinary_style:qloo",
+          "value": "urn:tag:culinary_style:qloo:casual"
+        },
+        {
+          "name": "Alcohol",
+          "tag_id": "urn:tag:amenity:qloo:alcohol",
+          "type": "urn:tag:amenity:qloo",
+          "value": "urn:tag:amenity:qloo:alcohol"
+        },
+        {
+          "name": "China union pay",
+          "tag_id": "urn:tag:credit_card:place:china_union_pay",
+          "type": "urn:tag:credit_card:place",
+          "value": "urn:tag:credit_card:place:china_union_pay"
+        },
+        {
+          "name": "35 44",
+          "tag_id": "urn:tag:age_range:qloo:35_44",
+          "type": "urn:tag:age_range:qloo",
+          "value": "urn:tag:age_range:qloo:35_44"
+        },
+        {
+          "name": "Tourists",
+          "tag_id": "urn:tag:customer_identity:qloo:tourists",
+          "type": "urn:tag:customer_identity:qloo",
+          "value": "urn:tag:customer_identity:qloo:tourists"
+        },
+        {
+          "name": "Mastercard",
+          "tag_id": "urn:tag:credit_card:place:mastercard",
+          "type": "urn:tag:credit_card:place",
+          "value": "urn:tag:credit_card:place:mastercard"
+        },
+        {
+          "name": "Restroom",
+          "tag_id": "urn:tag:amenities:place:restroom",
+          "type": "urn:tag:amenities:place",
+          "value": "urn:tag:amenities:place:restroom"
+        },
+        {
+          "name": "Couples",
+          "tag_id": "urn:tag:customer_identity:qloo:couples",
+          "type": "urn:tag:customer_identity:qloo",
+          "value": "urn:tag:customer_identity:qloo:couples"
+        },
+        {
+          "name": "Organic dishes",
+          "tag_id": "urn:tag:offerings:place:organic_dishes",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:organic_dishes"
+        },
+        {
+          "name": "Indian takeaway",
+          "tag_id": "urn:tag:genre:place:restaurant:indian_takeaway",
+          "type": "urn:tag:genre:place",
+          "value": "urn:tag:genre:place:restaurant:indian_takeaway"
+        }
+      ]
+    }
+  ]
+}

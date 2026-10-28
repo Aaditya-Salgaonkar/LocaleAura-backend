@@ -1,0 +1,352 @@
+{
+  "results": [
+    {
+      "name": "Peter Cat Recording Co.",
+      "entity_id": "47C0FB70-57DA-4BC2-8EF3-88BEC675917B",
+      "types": [
+        "urn:entity:artist"
+      ],
+      "properties": {
+        "akas": [],
+        "duration": {},
+        "external": {
+          "instagram": {
+            "id": "petercatrecordingco"
+          },
+          "lastfm": {
+            "id": "peter%20cat%20recording%20co.",
+            "listeners": 187845,
+            "scrobbles": 3448506
+          },
+          "musicbrainz": {},
+          "spotify": {
+            "id": "41Nu7NgAj9rJxjj7JDuXrV"
+          },
+          "wikidata": {
+            "id": "q42417662"
+          }
+        },
+        "image": {
+          "url": "https://images.qloo.com/i/47C0FB70-57DA-4BC2-8EF3-88BEC675917B-420x-auto.jpg"
+        },
+        "short_description": "An Indian indie band known for their eclectic fusion of rock, jazz, and electronic music."
+      },
+      "popularity": 0.9059414124307128,
+      "disambiguation": "Peter Cat Recording Co.",
+      "tags": [
+        {
+          "name": "Psychedelic",
+          "tag_id": "urn:tag:genre:psychedelic",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:psychedelic"
+        },
+        {
+          "name": "Indian",
+          "tag_id": "urn:tag:genre:indian",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:indian"
+        },
+        {
+          "name": "Cabaret",
+          "tag_id": "urn:tag:genre:cabaret",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:cabaret"
+        },
+        {
+          "name": "Indie",
+          "tag_id": "urn:tag:genre:indie",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:indie"
+        },
+        {
+          "name": "Jazz",
+          "tag_id": "urn:tag:genre:jazz",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:jazz"
+        },
+        {
+          "name": "Passionate",
+          "tag_id": "urn:tag:audience:qloo:passionate",
+          "type": "urn:tag:audience:qloo",
+          "value": "urn:tag:audience:qloo:passionate"
+        },
+        {
+          "name": "Loyal",
+          "tag_id": "urn:tag:audience:qloo:loyal",
+          "type": "urn:tag:audience:qloo",
+          "value": "urn:tag:audience:qloo:loyal"
+        },
+        {
+          "name": "Eclectic",
+          "tag_id": "urn:tag:audience:qloo:eclectic",
+          "type": "urn:tag:audience:qloo",
+          "value": "urn:tag:audience:qloo:eclectic"
+        },
+        {
+          "name": "Youthful",
+          "tag_id": "urn:tag:audience:qloo:youthful",
+          "type": "urn:tag:audience:qloo",
+          "value": "urn:tag:audience:qloo:youthful"
+        },
+        {
+          "name": "Eclectic",
+          "tag_id": "urn:tag:music:qloo:eclectic",
+          "type": "urn:tag:music:qloo",
+          "value": "urn:tag:music:qloo:eclectic"
+        },
+        {
+          "name": "Energetic",
+          "tag_id": "urn:tag:music:qloo:energetic",
+          "type": "urn:tag:music:qloo",
+          "value": "urn:tag:music:qloo:energetic"
+        },
+        {
+          "name": "Innovative",
+          "tag_id": "urn:tag:music:qloo:innovative",
+          "type": "urn:tag:music:qloo",
+          "value": "urn:tag:music:qloo:innovative"
+        },
+        {
+          "name": "Fusion-oriented",
+          "tag_id": "urn:tag:music:qloo:fusion_oriented",
+          "type": "urn:tag:music:qloo",
+          "value": "urn:tag:music:qloo:fusion_oriented"
+        },
+        {
+          "name": "Experimental",
+          "tag_id": "urn:tag:music:qloo:experimental",
+          "type": "urn:tag:music:qloo",
+          "value": "urn:tag:music:qloo:experimental"
+        },
+        {
+          "name": "Energetic",
+          "tag_id": "urn:tag:style:qloo:energetic",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:energetic"
+        },
+        {
+          "name": "Dynamic",
+          "tag_id": "urn:tag:style:qloo:dynamic",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:dynamic"
+        },
+        {
+          "name": "Engaging",
+          "tag_id": "urn:tag:style:qloo:engaging",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:engaging"
+        },
+        {
+          "name": "Expressive",
+          "tag_id": "urn:tag:style:qloo:expressive",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:expressive"
+        },
+        {
+          "name": "Eclectic",
+          "tag_id": "urn:tag:characteristic:qloo:eclectic",
+          "type": "urn:tag:characteristic:qloo",
+          "value": "urn:tag:characteristic:qloo:eclectic"
+        },
+        {
+          "name": "Energetic",
+          "tag_id": "urn:tag:characteristic:qloo:energetic",
+          "type": "urn:tag:characteristic:qloo",
+          "value": "urn:tag:characteristic:qloo:energetic"
+        },
+        {
+          "name": "Innovative",
+          "tag_id": "urn:tag:characteristic:qloo:innovative",
+          "type": "urn:tag:characteristic:qloo",
+          "value": "urn:tag:characteristic:qloo:innovative"
+        },
+        {
+          "name": "Fusion-oriented",
+          "tag_id": "urn:tag:characteristic:qloo:fusion_oriented",
+          "type": "urn:tag:characteristic:qloo",
+          "value": "urn:tag:characteristic:qloo:fusion_oriented"
+        },
+        {
+          "name": "Experimental",
+          "tag_id": "urn:tag:characteristic:qloo:experimental",
+          "type": "urn:tag:characteristic:qloo",
+          "value": "urn:tag:characteristic:qloo:experimental"
+        },
+        {
+          "name": "Indie Rock",
+          "tag_id": "urn:tag:style:qloo:indie_rock",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:indie_rock"
+        },
+        {
+          "name": "Psychedelic Rock",
+          "tag_id": "urn:tag:style:qloo:psychedelic_rock",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:psychedelic_rock"
+        },
+        {
+          "name": "Jazz Fusion",
+          "tag_id": "urn:tag:style:qloo:jazz_fusion",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:jazz_fusion"
+        },
+        {
+          "name": "Electro Swing",
+          "tag_id": "urn:tag:style:qloo:electro_swing",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:electro_swing"
+        },
+        {
+          "name": "Folk Rock",
+          "tag_id": "urn:tag:style:qloo:folk_rock",
+          "type": "urn:tag:style:qloo",
+          "value": "urn:tag:style:qloo:folk_rock"
+        },
+        {
+          "name": "Indian Indie Rock",
+          "tag_id": "urn:tag:influence:qloo:indian_indie_rock",
+          "type": "urn:tag:influence:qloo",
+          "value": "urn:tag:influence:qloo:indian_indie_rock"
+        },
+        {
+          "name": "Alternative Rock",
+          "tag_id": "urn:tag:influence:qloo:alternative_rock",
+          "type": "urn:tag:influence:qloo",
+          "value": "urn:tag:influence:qloo:alternative_rock"
+        },
+        {
+          "name": "Psychedelic Rock",
+          "tag_id": "urn:tag:influence:qloo:psychedelic_rock",
+          "type": "urn:tag:influence:qloo",
+          "value": "urn:tag:influence:qloo:psychedelic_rock"
+        },
+        {
+          "name": "The Beatles",
+          "tag_id": "urn:tag:influenced_by:qloo:the_beatles",
+          "type": "urn:tag:influenced_by:qloo",
+          "value": "urn:tag:influenced_by:qloo:the_beatles"
+        },
+        {
+          "name": "Radiohead",
+          "tag_id": "urn:tag:influenced_by:qloo:radiohead",
+          "type": "urn:tag:influenced_by:qloo",
+          "value": "urn:tag:influenced_by:qloo:radiohead"
+        },
+        {
+          "name": "Pink Floyd",
+          "tag_id": "urn:tag:influenced_by:qloo:pink_floyd",
+          "type": "urn:tag:influenced_by:qloo",
+          "value": "urn:tag:influenced_by:qloo:pink_floyd"
+        },
+        {
+          "name": "Miles Davis",
+          "tag_id": "urn:tag:influenced_by:qloo:miles_davis",
+          "type": "urn:tag:influenced_by:qloo",
+          "value": "urn:tag:influenced_by:qloo:miles_davis"
+        },
+        {
+          "name": "Guitar",
+          "tag_id": "urn:tag:instrument:qloo:guitar",
+          "type": "urn:tag:instrument:qloo",
+          "value": "urn:tag:instrument:qloo:guitar"
+        },
+        {
+          "name": "Bass",
+          "tag_id": "urn:tag:instrument:qloo:bass",
+          "type": "urn:tag:instrument:qloo",
+          "value": "urn:tag:instrument:qloo:bass"
+        },
+        {
+          "name": "Drums",
+          "tag_id": "urn:tag:instrument:qloo:drums",
+          "type": "urn:tag:instrument:qloo",
+          "value": "urn:tag:instrument:qloo:drums"
+        },
+        {
+          "name": "Keyboard",
+          "tag_id": "urn:tag:instrument:qloo:keyboard",
+          "type": "urn:tag:instrument:qloo",
+          "value": "urn:tag:instrument:qloo:keyboard"
+        },
+        {
+          "name": "Trumpet",
+          "tag_id": "urn:tag:instrument:qloo:trumpet",
+          "type": "urn:tag:instrument:qloo",
+          "value": "urn:tag:instrument:qloo:trumpet"
+        },
+        {
+          "name": "Synthesizer",
+          "tag_id": "urn:tag:instrument:qloo:synthesizer",
+          "type": "urn:tag:instrument:qloo",
+          "value": "urn:tag:instrument:qloo:synthesizer"
+        },
+        {
+          "name": "Love",
+          "tag_id": "urn:tag:theme:qloo:love",
+          "type": "urn:tag:theme:qloo",
+          "value": "urn:tag:theme:qloo:love"
+        },
+        {
+          "name": "Existentialism",
+          "tag_id": "urn:tag:theme:qloo:existentialism",
+          "type": "urn:tag:theme:qloo",
+          "value": "urn:tag:theme:qloo:existentialism"
+        },
+        {
+          "name": "Social Commentary",
+          "tag_id": "urn:tag:theme:qloo:social_commentary",
+          "type": "urn:tag:theme:qloo",
+          "value": "urn:tag:theme:qloo:social_commentary"
+        },
+        {
+          "name": "Personal Growth",
+          "tag_id": "urn:tag:theme:qloo:personal_growth",
+          "type": "urn:tag:theme:qloo",
+          "value": "urn:tag:theme:qloo:personal_growth"
+        },
+        {
+          "name": "Urban Life",
+          "tag_id": "urn:tag:theme:qloo:urban_life",
+          "type": "urn:tag:theme:qloo",
+          "value": "urn:tag:theme:qloo:urban_life"
+        },
+        {
+          "name": "Indie Rock",
+          "tag_id": "urn:tag:genre:qloo:indie_rock",
+          "type": "urn:tag:genre:qloo",
+          "value": "urn:tag:genre:qloo:indie_rock"
+        },
+        {
+          "name": "Alternative Rock",
+          "tag_id": "urn:tag:genre:qloo:alternative_rock",
+          "type": "urn:tag:genre:qloo",
+          "value": "urn:tag:genre:qloo:alternative_rock"
+        },
+        {
+          "name": "Psychedelic Rock",
+          "tag_id": "urn:tag:genre:qloo:psychedelic_rock",
+          "type": "urn:tag:genre:qloo",
+          "value": "urn:tag:genre:qloo:psychedelic_rock"
+        },
+        {
+          "name": "Folk Rock",
+          "tag_id": "urn:tag:subgenre:qloo:folk_rock",
+          "type": "urn:tag:subgenre:qloo",
+          "value": "urn:tag:subgenre:qloo:folk_rock"
+        },
+        {
+          "name": "Jazz Fusion",
+          "tag_id": "urn:tag:subgenre:qloo:jazz_fusion",
+          "type": "urn:tag:subgenre:qloo",
+          "value": "urn:tag:subgenre:qloo:jazz_fusion"
+        },
+        {
+          "name": "Electro Swing",
+          "tag_id": "urn:tag:subgenre:qloo:electro_swing",
+          "type": "urn:tag:subgenre:qloo",
+          "value": "urn:tag:subgenre:qloo:electro_swing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "duration": 16,
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "parents": [
+          {
+            "type": "urn:entity:place"
+          }
+        ],
+        "type": "urn:tag:decor:qloo",
+        "id": "urn:tag:decor:qloo:curated",
+        "name": "Curated",
+        "popularity": 0.9391104,
+        "properties": {},
+        "tags": []
+      }
+    ]
+  }
+}

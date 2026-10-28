@@ -1,0 +1,21 @@
+{
+  "duration": 18,
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "parents": [
+          {
+            "type": "urn:entity:place"
+          }
+        ],
+        "type": "urn:tag:culinary_style:qloo",
+        "id": "urn:tag:culinary_style:qloo:artisanal",
+        "name": "Artisanal",
+        "popularity": 0.9935132,
+        "properties": {},
+        "tags": []
+      }
+    ]
+  }
+}

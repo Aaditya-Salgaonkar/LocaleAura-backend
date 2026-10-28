@@ -1,0 +1,487 @@
+{
+  "results": [
+    {
+      "name": "Boiler Room",
+      "entity_id": "3BEDF067-1928-4D2F-A020-FC1932E76623",
+      "types": [
+        "urn:entity:brand"
+      ],
+      "properties": {
+        "akas": [
+          {
+            "language": "ca",
+            "value": "Boiler Room"
+          },
+          {
+            "language": "pt_pt",
+            "value": "Boiler Room"
+          },
+          {
+            "language": "sk",
+            "value": "Boiler Room"
+          },
+          {
+            "language": "pt",
+            "value": "Boiler Room"
+          },
+          {
+            "language": "cs",
+            "value": "Boiler Room"
+          },
+          {
+            "language": "ko",
+            "value": "보일러룸(음악)"
+          }
+        ],
+        "description": "An influential global music platform that serves as a bridge between underground club culture and an international audience. Founded in 2010, the brand specializes in hosting and broadcasting intimate, authentic live DJ sets and music performances across diverse electronic genres. By prioritizing raw documentation and artistic integrity, it has become a vital hub for music discovery and the documentation of global dance music scenes. It maintains a distinct identity through its non-commercial aesthetic and commitment to bringing subcultural moments to a wide, digital audience.",
+        "external": {
+          "facebook": {
+            "id": "boilerroom.tv"
+          },
+          "instagram": {
+            "id": "boilerroomtv"
+          },
+          "twitter": {
+            "id": "boilerroomtv"
+          },
+          "wikidata": {
+            "id": "Q15298445"
+          }
+        },
+        "founded_year": "2010",
+        "headquartered": "London",
+        "image": {
+          "url": "https://images.qloo.com/i/3BEDF067-1928-4D2F-A020-FC1932E76623-420x-auto.jpg"
+        },
+        "inception": "2010-01-01",
+        "industry": [],
+        "official_site": "http://boilerroom.tv",
+        "products": [],
+        "short_description": "Boiler Room is a global music brand that connects club culture to the world through live events, broadcasts, films, and a curated online platform.",
+        "short_descriptions": [
+          {
+            "language": "es",
+            "value": "Una plataforma musical global que conecta la cultura de club underground con el mundo a través de eventos en directo, retransmisiones y cine."
+          },
+          {
+            "language": "en",
+            "value": "A global music platform connecting underground club culture to the world through live events, broadcasts, and films."
+          },
+          {
+            "language": "de",
+            "value": "Eine globale Musikplattform, die Clubkultur durch Live-Events, Übertragungen und Filme mit der Welt verbindet."
+          },
+          {
+            "language": "fr",
+            "value": "Une plateforme musicale mondiale reliant la culture club underground au monde entier via des événements live, des retransmissions et des films."
+          }
+        ],
+        "subsidiary": []
+      },
+      "popularity": 0.9869556373006052,
+      "disambiguation": "",
+      "tags": [
+        {
+          "name": "EngvarB from June 2017",
+          "tag_id": "urn:tag:wikipedia_category:engvarb_from_june_2017",
+          "type": "urn:tag:wikipedia_category"
+        },
+        {
+          "name": "Recurring events established in 2010",
+          "tag_id": "urn:tag:wikipedia_category:recurring_events_established_in_2010",
+          "type": "urn:tag:wikipedia_category"
+        },
+        {
+          "name": "Culture in Berlin",
+          "tag_id": "urn:tag:wikipedia_category:culture_in_berlin",
+          "type": "urn:tag:wikipedia_category"
+        },
+        {
+          "name": "Dance music television channels",
+          "tag_id": "urn:tag:wikipedia_category:dance_music_television_channels",
+          "type": "urn:tag:wikipedia_category"
+        },
+        {
+          "name": "Electronic music organizations",
+          "tag_id": "urn:tag:wikipedia_category:electronic_music_organizations",
+          "type": "urn:tag:wikipedia_category"
+        },
+        {
+          "name": "Internet television channels",
+          "tag_id": "urn:tag:wikipedia_category:internet_television_channels",
+          "type": "urn:tag:wikipedia_category"
+        },
+        {
+          "name": "Live streaming services",
+          "tag_id": "urn:tag:wikipedia_category:live_streaming_services",
+          "type": "urn:tag:wikipedia_category"
+        },
+        {
+          "name": "Culture in London",
+          "tag_id": "urn:tag:wikipedia_category:culture_in_london",
+          "type": "urn:tag:wikipedia_category"
+        },
+        {
+          "name": "Lo-fi",
+          "tag_id": "urn:tag:aesthetic_property:qloo:lo_fi",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Documentary Style",
+          "tag_id": "urn:tag:aesthetic_property:qloo:documentary_style",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Unfiltered",
+          "tag_id": "urn:tag:aesthetic_property:qloo:unfiltered",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Minimalist",
+          "tag_id": "urn:tag:aesthetic_property:qloo:minimalist",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Industrial",
+          "tag_id": "urn:tag:aesthetic_property:qloo:industrial",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Creative Expression",
+          "tag_id": "urn:tag:lifestyle:qloo:creative_expression",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Global Travel",
+          "tag_id": "urn:tag:lifestyle:qloo:global_travel",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Cultural Curation",
+          "tag_id": "urn:tag:lifestyle:qloo:cultural_curation",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Industry Influence",
+          "tag_id": "urn:tag:lifestyle:qloo:industry_influence",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Other",
+          "tag_id": "urn:tag:brand_subtype:qloo:other",
+          "type": "urn:tag:brand_subtype:qloo"
+        },
+        {
+          "name": "Media Brand",
+          "tag_id": "urn:tag:brand_type:qloo:media_brand",
+          "type": "urn:tag:brand_type:qloo"
+        },
+        {
+          "name": "B2C",
+          "tag_id": "urn:tag:business_model:qloo:b2c",
+          "type": "urn:tag:business_model:qloo"
+        },
+        {
+          "name": "Advertising",
+          "tag_id": "urn:tag:business_model:qloo:advertising",
+          "type": "urn:tag:business_model:qloo"
+        },
+        {
+          "name": "Authenticity",
+          "tag_id": "urn:tag:core_value:qloo:authenticity",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Inclusivity",
+          "tag_id": "urn:tag:core_value:qloo:inclusivity",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Musical Integrity",
+          "tag_id": "urn:tag:core_value:qloo:musical_integrity",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Community",
+          "tag_id": "urn:tag:core_value:qloo:community",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Electronic Music Movement",
+          "tag_id": "urn:tag:cultural_relevance:qloo:electronic_music_movement",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "Underground Dance Culture",
+          "tag_id": "urn:tag:cultural_relevance:qloo:underground_dance_culture",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "Global Club Scenes",
+          "tag_id": "urn:tag:cultural_relevance:qloo:global_club_scenes",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "Music Enthusiasts",
+          "tag_id": "urn:tag:customer_segment:qloo:music_enthusiasts",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Club-Goers",
+          "tag_id": "urn:tag:customer_segment:qloo:club_goers",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Electronic Music Producers",
+          "tag_id": "urn:tag:customer_segment:qloo:electronic_music_producers",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Urban Creatives",
+          "tag_id": "urn:tag:customer_segment:qloo:urban_creatives",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Raw",
+          "tag_id": "urn:tag:emotional_tone:qloo:raw",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Authentic",
+          "tag_id": "urn:tag:emotional_tone:qloo:authentic",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Immersive",
+          "tag_id": "urn:tag:emotional_tone:qloo:immersive",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Edgy",
+          "tag_id": "urn:tag:emotional_tone:qloo:edgy",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Energized",
+          "tag_id": "urn:tag:emotional_tone:qloo:energized",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Media & Entertainment",
+          "tag_id": "urn:tag:industry:qloo:media_entertainment",
+          "type": "urn:tag:industry:qloo"
+        },
+        {
+          "name": "Music",
+          "tag_id": "urn:tag:industry:qloo:music",
+          "type": "urn:tag:industry:qloo"
+        },
+        {
+          "name": "Events",
+          "tag_id": "urn:tag:industry:qloo:events",
+          "type": "urn:tag:industry:qloo"
+        },
+        {
+          "name": "Electronic Music DJs",
+          "tag_id": "urn:tag:influencer_appeal:qloo:electronic_music_djs",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Music Producers",
+          "tag_id": "urn:tag:influencer_appeal:qloo:music_producers",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Underground Artists",
+          "tag_id": "urn:tag:influencer_appeal:qloo:underground_artists",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Club Promoters",
+          "tag_id": "urn:tag:influencer_appeal:qloo:club_promoters",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Electronic Music",
+          "tag_id": "urn:tag:interest_adjacency:qloo:electronic_music",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Underground Club Culture",
+          "tag_id": "urn:tag:interest_adjacency:qloo:underground_club_culture",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Music Production",
+          "tag_id": "urn:tag:interest_adjacency:qloo:music_production",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Independent Fashion",
+          "tag_id": "urn:tag:interest_adjacency:qloo:independent_fashion",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Digital Art",
+          "tag_id": "urn:tag:interest_adjacency:qloo:digital_art",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "United Kingdom",
+          "tag_id": "urn:tag:key_market:qloo:united_kingdom",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "United States",
+          "tag_id": "urn:tag:key_market:qloo:united_states",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "Germany",
+          "tag_id": "urn:tag:key_market:qloo:germany",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "France",
+          "tag_id": "urn:tag:key_market:qloo:france",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "Japan",
+          "tag_id": "urn:tag:key_market:qloo:japan",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "Underground Music",
+          "tag_id": "urn:tag:keyword:qloo:underground_music",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Electronic Music",
+          "tag_id": "urn:tag:keyword:qloo:electronic_music",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Club Culture",
+          "tag_id": "urn:tag:keyword:qloo:club_culture",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "DJ Sets",
+          "tag_id": "urn:tag:keyword:qloo:dj_sets",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Live Streaming",
+          "tag_id": "urn:tag:keyword:qloo:live_streaming",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Late-Night Clubbing",
+          "tag_id": "urn:tag:lifestyle:qloo:late_night_clubbing",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Music Discovery",
+          "tag_id": "urn:tag:lifestyle:qloo:music_discovery",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Festival Attendance",
+          "tag_id": "urn:tag:lifestyle:qloo:festival_attendance",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Urban Living",
+          "tag_id": "urn:tag:lifestyle:qloo:urban_living",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Niche",
+          "tag_id": "urn:tag:market_archetype:qloo:niche",
+          "type": "urn:tag:market_archetype:qloo"
+        },
+        {
+          "name": "Cult",
+          "tag_id": "urn:tag:market_archetype:qloo:cult",
+          "type": "urn:tag:market_archetype:qloo"
+        },
+        {
+          "name": "Challenger",
+          "tag_id": "urn:tag:market_archetype:qloo:challenger",
+          "type": "urn:tag:market_archetype:qloo"
+        },
+        {
+          "name": "Live Event Broadcasting",
+          "tag_id": "urn:tag:product_service:qloo:live_event_broadcasting",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Music Documentary Production",
+          "tag_id": "urn:tag:product_service:qloo:music_documentary_production",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Event Curation",
+          "tag_id": "urn:tag:product_service:qloo:event_curation",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Live Music Streaming",
+          "tag_id": "urn:tag:product_service:qloo:live_music_streaming",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Digital Content",
+          "tag_id": "urn:tag:product_service:qloo:digital_content",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Resident Advisor",
+          "tag_id": "urn:tag:similar_brand:qloo:resident_advisor",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "NTS Radio",
+          "tag_id": "urn:tag:similar_brand:qloo:nts_radio",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "Mixmag",
+          "tag_id": "urn:tag:similar_brand:qloo:mixmag",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "Fact Magazine",
+          "tag_id": "urn:tag:similar_brand:qloo:fact_magazine",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "Young Adults",
+          "tag_id": "urn:tag:target_age_group:qloo:young_adults",
+          "type": "urn:tag:target_age_group:qloo"
+        },
+        {
+          "name": "Adults",
+          "tag_id": "urn:tag:target_age_group:qloo:adults",
+          "type": "urn:tag:target_age_group:qloo"
+        },
+        {
+          "name": "Gender-Neutral",
+          "tag_id": "urn:tag:target_gender:qloo:gender_neutral",
+          "type": "urn:tag:target_gender:qloo"
+        },
+        {
+          "name": "Low to Medium",
+          "tag_id": "urn:tag:target_income_level:qloo:low_to_medium",
+          "type": "urn:tag:target_income_level:qloo"
+        },
+        {
+          "name": "Medium",
+          "tag_id": "urn:tag:target_income_level:qloo:medium",
+          "type": "urn:tag:target_income_level:qloo"
+        }
+      ]
+    }
+  ]
+}

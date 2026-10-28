@@ -1,0 +1,21 @@
+{
+  "duration": 10,
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "parents": [
+          {
+            "type": "urn:entity:place"
+          }
+        ],
+        "type": "urn:tag:ambience:qloo",
+        "id": "urn:tag:ambience:qloo:intimate",
+        "name": "Intimate",
+        "popularity": 0.99875695,
+        "properties": {},
+        "tags": []
+      }
+    ]
+  }
+}

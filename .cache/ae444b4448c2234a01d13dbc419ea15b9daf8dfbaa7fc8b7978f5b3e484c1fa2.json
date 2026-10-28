@@ -1,0 +1,3567 @@
+{
+  "success": true,
+  "results": {
+    "entities": [
+      {
+        "name": "Oneohtrix Point Never",
+        "entity_id": "08E6C091-6FAF-4585-87FC-317FDCBFEC24",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/08E6C091-6FAF-4585-87FC-317FDCBFEC24-420x-auto.jpg"
+          },
+          "vocals": "Primarily instrumental output; when vocals appear they are usually heavily processed, fragmented, pitched or used texturally rather than as conventional lead singing. Vocals function as sonic material—manipulated, stretched, chopped and recontextualized.",
+          "aliases": [
+            "Oneohtrix Point Never",
+            "OPN"
+          ],
+          "members": [
+            "None"
+          ],
+          "is_group": false,
+          "biography": "Daniel Lopatin (born 1982 in Wayland, Massachusetts) launched Oneohtrix Point Never in the mid‑2000s while experimenting with synths, samplers and lo‑fi tape techniques. He released early material independently and on small labels before gaining wider critical attention with compilations and full‑lengths that reframed found audio and commercial samples as haunting, sculpted ambient works. Over the 2010s he signed with larger indie labels, collaborated with fellow electronic experimentalists, released influential albums and expanded into film scoring and cross‑disciplinary projects, solidifying his position as a leading figure in contemporary experimental electronic music.",
+          "known_for": "Creating dense, experimental electronic and ambient soundscapes that blend synthesis, sampling and nostalgia; acclaimed albums and film scores that bridge avant‑garde and popular contexts.",
+          "start_year": 2007,
+          "voice_type": [
+            null
+          ],
+          "description": "Oneohtrix Point Never is the recording alias of American musician and producer Daniel Lopatin. Rising from the late‑2000s experimental electronic scene, Lopatin blends analog and digital synthesis, tape and sample manipulation, and compositional approaches drawn from ambient, musique concrète and pop memory. His work spans dense abstract albums, more song‑oriented releases, and acclaimed film scores, and is known for its textural depth, nostalgia-tinged processing and formal experimentation.",
+          "instruments": [
+            "Analog Synthesizer",
+            "Digital Synthesizer",
+            "Modular Synthesizer",
+            "Sampler",
+            "Piano",
+            "Laptop",
+            "Tape Machine",
+            "Keyboards"
+          ],
+          "collaborators": [
+            "Joel Ford",
+            "Tim Hecker",
+            "Benny Safdie",
+            "Josh Safdie"
+          ],
+          "date_of_birth": "1982-07-25",
+          "influenced_by": [
+            "Brian Eno",
+            "Vangelis",
+            "Tangerine Dream",
+            "Steve Reich",
+            "John Cage",
+            "Musique Concrète",
+            "Aphex Twin",
+            "1980s Synth Pop And Muzak Aesthetics"
+          ],
+          "notable_songs": [
+            "Sticky Drama",
+            "I Bite Through It",
+            "Replica",
+            "Zebra"
+          ],
+          "lyrical_themes": [
+            "Memory",
+            "Nostalgia",
+            "Technology",
+            "Consumerism",
+            "Identity",
+            "Anxiety",
+            "Media Saturation",
+            "Fragmentation"
+          ],
+          "place_of_birth": "Wayland, Middlesex County, Massa",
+          "primary_genres": [
+            "Ambient",
+            "Electronic",
+            "Experimental",
+            "Drone",
+            "Psychedelic"
+          ],
+          "characteristics": [
+            "Experimental",
+            "Textural",
+            "Atmospheric",
+            "Cerebral",
+            "Hypnotic",
+            "Avant-Garde",
+            "Fragmented",
+            "Nostalgic",
+            "Dense",
+            "Innovative"
+          ],
+          "cultural_impact": "Lopatin has helped bring experimental ambient and sample‑based composition into broader indie and film contexts, influencing a generation of electronic producers and contributing notable film scores. His blending of pop memory with avant‑garde techniques reshaped conversations around vaporwave, hauntology and contemporary ambient music, expanding the audience for experimental sound design.",
+          "obscurity_scale": [
+            "4"
+          ],
+          "complexity_scale": [
+            "8"
+          ],
+          "secondary_genres": [
+            "IDM",
+            "Glitch",
+            "Avant-Garde",
+            "Synthwave",
+            "Hauntology",
+            "Noise"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "Vaporwave",
+            "Hypnagogic Pop",
+            "Contemporary Ambient",
+            "Experimental Electronic",
+            "Left-Field Pop"
+          ],
+          "performance_style": "Live sets are often immersive and audiovisual: Lopatin uses modular and keyboard rigs alongside laptops and samples, combining manipulated sound layers with striking visual elements and theatrical or performance‑art gestures.",
+          "artists_influenced": [
+            "Arca",
+            "Yves Tumor",
+            "Vektroid",
+            "Numerous Younger Experimental Electronic Producers"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Oneohtrix Point Never es el nombre artístico de Daniel Lopatin, productor electrónico estadounidense conocido por sus paisajes sonoros experimentales, ambientales y basados en sampleos.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Oneohtrix Point Never is the stage name of Daniel Lopatin, an American electronic producer known for experimental, ambient and sample‑based soundscapes.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Oneohtrix Point Never ist das Künstlerpseudonym von Daniel Lopatin, einem US-amerikanischen Elektronikproduzenten, bekannt für experimentelle, ambientartige und sample‑basierte Klanglandschaften.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Oneohtrix Point Never est le nom de scène de Daniel Lopatin, producteur électronique américain réputé pour ses paysages sonores expérimentaux et ambiants basés sur l'échantillonnage.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Devoted",
+            "Adventurous",
+            "Intellectual",
+            "Open-Minded",
+            "Cult"
+          ],
+          "adjectives_for_music": [
+            "Atmospheric",
+            "Textural",
+            "Fragmented",
+            "Nostalgic",
+            "Cinematic",
+            "Experimental",
+            "Hypnotic",
+            "Layered"
+          ],
+          "lyrical_themes_description": "Although much of Lopatin's work is instrumental, recurring conceptual themes include the mediation of memory by recorded sound, nostalgia for 20th‑century media, the alienating effects of consumer audio and technology, self and identity mediated by sampled cultural artifacts, and fragmentation or decay of melodic material.",
+          "adjectives_for_performance_style": [
+            "Immersive",
+            "Cinematic",
+            "Abstract",
+            "Intense",
+            "Visually-Oriented"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Hypnagogic Synth‑Scape",
+            "Sampled Corporate Muzak",
+            "Post‑Modern Ambient",
+            "Glitch‑Infused Processed Pop",
+            "Cinematic Drone‑Textural"
+          ]
+        },
+        "popularity": 0.993570965141655,
+        "tags": [
+          {
+            "id": "urn:tag:style:qloo:experimental_soundscape",
+            "name": "Experimental Soundscape",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:steve_reich",
+            "name": "Steve Reich",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:synthwave",
+            "name": "Synthwave",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:abstract_drone",
+            "name": "Abstract Drone",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:ambient",
+            "name": "Ambient",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:immersive",
+            "name": "Immersive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:textured",
+            "name": "Textured",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:experimental_electronic",
+            "name": "Experimental Electronic",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:synthesizer",
+            "name": "Synthesizer",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:synthwave",
+            "name": "Synthwave",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:drum_machine",
+            "name": "Drum Machine",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:psychedelic",
+            "name": "Psychedelic",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:introspective",
+            "name": "Introspective",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:abstract",
+            "name": "Abstract",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:glitchy_idm",
+            "name": "Glitchy IDM",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:technology",
+            "name": "Technology",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:brian_eno",
+            "name": "Brian Eno",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:noise",
+            "name": "Noise",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:nostalgic_electronica",
+            "name": "Nostalgic Electronica",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:vangelis",
+            "name": "Vangelis",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:4",
+            "name": "4",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:memory",
+            "name": "Memory",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:computer",
+            "name": "Computer",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:nostalgia",
+            "name": "Nostalgia",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:ambient",
+            "name": "Ambient",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:dedicated",
+            "name": "Dedicated",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:idm",
+            "name": "IDM",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:avant_garde",
+            "name": "Avant Garde",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:glitch",
+            "name": "Glitch",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:john_cage",
+            "name": "John Cage",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:sampler",
+            "name": "Sampler",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:drone",
+            "name": "Drone",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:idm",
+            "name": "IDM",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:ambient_synthwave",
+            "name": "Ambient Synthwave",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:genre:music:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:artist:qloo:ambient",
+            "name": "Ambient",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:ambient",
+            "name": "Ambient",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:kraftwerk",
+            "name": "Kraftwerk",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:abstract",
+            "name": "Abstract",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:drone",
+            "name": "Drone",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:audience:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:digital_culture",
+            "name": "Digital Culture",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:identity",
+            "name": "Identity",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:open_minded",
+            "name": "Open-Minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:ambient",
+            "name": "Ambient",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:music:qloo:abstract",
+            "name": "Abstract",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:devoted",
+            "name": "Devoted",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:adventurous",
+            "name": "Adventurous",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:intellectual",
+            "name": "Intellectual",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:cult",
+            "name": "Cult",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:textural",
+            "name": "Textural",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:fragmented",
+            "name": "Fragmented",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:nostalgic",
+            "name": "Nostalgic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:cinematic",
+            "name": "Cinematic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:hypnotic",
+            "name": "Hypnotic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:layered",
+            "name": "Layered",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:cinematic",
+            "name": "Cinematic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:intense",
+            "name": "Intense",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:visually_oriented",
+            "name": "Visually-Oriented",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:textural",
+            "name": "Textural",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:cerebral",
+            "name": "Cerebral",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:hypnotic",
+            "name": "Hypnotic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:fragmented",
+            "name": "Fragmented",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:nostalgic",
+            "name": "Nostalgic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:dense",
+            "name": "Dense",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:complexity_scale:qloo:8",
+            "name": "8",
+            "type": "urn:tag:complexity_scale:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:hypnagogic_synth_scape",
+            "name": "Hypnagogic Synth‑Scape",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:sampled_corporate_muzak",
+            "name": "Sampled Corporate Muzak",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:post_modern_ambient",
+            "name": "Post‑Modern Ambient",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:glitch_infused_processed_pop",
+            "name": "Glitch‑Infused Processed Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:cinematic_drone_textural",
+            "name": "Cinematic Drone‑Textural",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:vaporwave",
+            "name": "Vaporwave",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:hypnagogic_pop",
+            "name": "Hypnagogic Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:contemporary_ambient",
+            "name": "Contemporary Ambient",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:left_field_pop",
+            "name": "Left-Field Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:tangerine_dream",
+            "name": "Tangerine Dream",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:musique_concrete",
+            "name": "Musique Concrète",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:aphex_twin",
+            "name": "Aphex Twin",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:1980s_synth_pop_and_muzak_aesthetics",
+            "name": "1980s Synth Pop And Muzak Aesthetics",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:analog_synthesizer",
+            "name": "Analog Synthesizer",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:digital_synthesizer",
+            "name": "Digital Synthesizer",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:modular_synthesizer",
+            "name": "Modular Synthesizer",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:piano",
+            "name": "Piano",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:laptop",
+            "name": "Laptop",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:tape_machine",
+            "name": "Tape Machine",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:keyboards",
+            "name": "Keyboards",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:consumerism",
+            "name": "Consumerism",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:anxiety",
+            "name": "Anxiety",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:media_saturation",
+            "name": "Media Saturation",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:fragmentation",
+            "name": "Fragmentation",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:drone",
+            "name": "Drone",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:psychedelic",
+            "name": "Psychedelic",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:idm",
+            "name": "IDM",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:glitch",
+            "name": "Glitch",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:synthwave",
+            "name": "Synthwave",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:hauntology",
+            "name": "Hauntology",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "type": "urn:tag:voice_type:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.916169267284363,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Oneohtrix Point Never",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm1644827"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "oneohtrix%20point%20never",
+              "listeners": 637912,
+              "scrobbles": 25338548
+            }
+          ],
+          "spotify": [
+            {
+              "id": "13PoSkMaBxmC6EeAu2oBhH",
+              "verified": true,
+              "followers": 10609,
+              "monthly_listeners": 40310
+            },
+            {
+              "id": "2wPDbhaGXCqROrVmwDdCrK",
+              "verified": true,
+              "followers": 148516,
+              "last_release": 2020,
+              "first_release": 2010,
+              "monthly_listeners": 684167
+            }
+          ],
+          "twitter": [
+            {
+              "id": "0pn"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "oneohtrix"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q286346"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "eccopn"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "9cea062d-d476-447f-98b4-e67e14bfd1e4",
+              "artist_type": "Person"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Brian Eno",
+        "entity_id": "1B088E28-0668-4670-A97B-87865A1FCBCF",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/1B088E28-0668-4670-A97B-87865A1FCBCF-420x-auto.jpg"
+          },
+          "vocals": "Eno is not primarily known as a vocalist; when he sings he often uses spoken or half-spoken delivery, treated/processed vocals and studio effects. Vocals are frequently used texturally rather than front-and-center melodically.",
+          "aliases": [
+            "Brian Peter George Eno",
+            "Eno"
+          ],
+          "members": [
+            "None"
+          ],
+          "is_group": false,
+          "biography": "Born in Woodbridge, Suffolk in 1948, Brian Eno studied visual art before turning to music and studio experimentation. He first rose to prominence in the early 1970s as the keyboard/texture specialist in Roxy Music, then launched a solo career that explored glam-inflected art rock and gradually moved toward ambient, minimalist and experimental electronic works. Eno pioneered 'ambient' as a deliberate compositional approach (notably with Music for Airports), developed Oblique Strategies creative prompts, and expanded into production—shaping albums by David Bowie, Talking Heads and U2—while also creating generative music software, sound installations and visual art projects. His career blends studio innovation, collaborative production and cross-disciplinary art.",
+          "known_for": "Pioneering ambient music, innovative studio and production techniques, generative music experiments, and influential collaborations with major artists.",
+          "start_year": 1971,
+          "voice_type": [
+            null
+          ],
+          "description": "Brian Eno is a British composer, producer, musician and visual artist who helped define ambient music and advanced studio-as-instrument production. Beginning in the early 1970s as a member of Roxy Music and then as a solo artist, Eno released influential albums blending rock, electronic experimentation and minimalism. He has produced landmark records for David Bowie, Talking Heads and U2, developed generative music and multimedia projects, and remains an influential figure across electronic, pop and avant-garde circles.",
+          "instruments": [
+            "Synthesizer",
+            "Keyboards",
+            "Piano",
+            "Guitar",
+            "Tape Machines",
+            "Sampler",
+            "Laptop",
+            "Vocoder",
+            "Treatments"
+          ],
+          "collaborators": [
+            "David Bowie",
+            "U2",
+            "Talking Heads",
+            "Robert Fripp",
+            "Daniel Lanois",
+            "Harold Budd",
+            "John Cale",
+            "Jon Hopkins",
+            "Coldplay",
+            "St. Vincent",
+            "Roxy Music"
+          ],
+          "date_of_birth": "1948-05-15",
+          "influenced_by": [
+            "John Cage",
+            "Karlheinz Stockhausen",
+            "The Velvet Underground",
+            "The Beatles",
+            "Robert Fripp"
+          ],
+          "notable_songs": [
+            "An Ending (Ascent)",
+            "The Big Ship",
+            "Baby's on Fire",
+            "Music for Airports 1/1",
+            "By This River"
+          ],
+          "lyrical_themes": [
+            "Atmosphere",
+            "Technology",
+            "Urban Life",
+            "Isolation",
+            "Reflection",
+            "Environment"
+          ],
+          "place_of_birth": "Woodbridge, Suffolk, England, Un",
+          "primary_genres": [
+            "Ambient",
+            "Electronic",
+            "Alternative Rock",
+            "Electronica",
+            "Experimental"
+          ],
+          "characteristics": [
+            "Innovative",
+            "Experimental",
+            "Visionary",
+            "Minimalist",
+            "Textural",
+            "Conceptual",
+            "Producer"
+          ],
+          "cultural_impact": "Eno pioneered ambient music, reshaped rock and pop production practices, popularized studio-as-instrument techniques, and influenced generations of electronic and experimental musicians. He introduced creative tools (Oblique Strategies), championed generative music and multimedia art, and his production work altered the sound and approach of major acts across decades.",
+          "obscurity_scale": [
+            "2"
+          ],
+          "complexity_scale": [
+            "7"
+          ],
+          "secondary_genres": [
+            "Ambient Pop",
+            "Ambient House",
+            "Downtempo",
+            "Avant-Garde",
+            "Art Rock",
+            "Post-Rock",
+            "IDM"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "Ambient",
+            "Ambient Pop",
+            "Chillout",
+            "Downtempo",
+            "IDM",
+            "Post-Rock",
+            "Ambient House",
+            "Experimental Pop"
+          ],
+          "performance_style": "Often studio- and installation-focused rather than traditional rock frontman performance; uses ambient playback, multimedia visual elements, generative systems and collaborative live treatments to create immersive listening experiences.",
+          "artists_influenced": [
+            "Aphex Twin",
+            "Jon Hopkins",
+            "Tim Hecker",
+            "Stars of the Lid",
+            "Coldplay",
+            "U2",
+            "Radiohead"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Brian Eno ist ein englischer Musiker, Komponist, Produzent und bildender Künstler, der als Pionier der Ambient-Musik und für seine innovativen Produktionstechniken bekannt ist.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Brian Eno es un músico, compositor, productor discográfico y artista visual inglés, pionero de la música ambient y conocido por técnicas de producción innovadoras.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Brian Eno is an English musician, composer, record producer, and visual artist known for pioneering ambient music and innovative production techniques.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Brian Eno est un musicien, compositeur, producteur et artiste visuel anglais, pionnier de la musique ambient et connu pour ses techniques de production innovantes.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Eclectic",
+            "Curious",
+            "Devoted",
+            "Intellectual",
+            "Open-Minded",
+            "Experimental-Oriented"
+          ],
+          "adjectives_for_music": [
+            "Atmospheric",
+            "Minimal",
+            "Textural",
+            "Ethereal",
+            "Meditative",
+            "Experimental",
+            "Conceptual"
+          ],
+          "lyrical_themes_description": "Eno's work often de-emphasizes traditional lyric narratives in favor of mood, texture and atmosphere; when lyrics appear they commonly touch on modern life, technology, alienation and introspective or oblique images, used to enhance an immersive sonic environment.",
+          "adjectives_for_performance_style": [
+            "Meditative",
+            "Immersive",
+            "Minimal",
+            "Conceptual",
+            "Multimedia"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Ambient Minimalism",
+            "Textural Electronica",
+            "Avant-Garde Pop",
+            "Generative Soundscapes",
+            "Ambient Rock-Infused"
+          ]
+        },
+        "popularity": 0.9982239873123226,
+        "tags": [
+          {
+            "id": "urn:tag:audience:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:technology",
+            "name": "Technology",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:terry_riley",
+            "name": "Terry Riley",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:guitar",
+            "name": "Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:synthesizer",
+            "name": "Synthesizer",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:synthpop",
+            "name": "Synthpop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:visual",
+            "name": "Visual",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:intellectual",
+            "name": "Intellectual",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:art_rock",
+            "name": "Art Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:electronica",
+            "name": "Electronica",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:music:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:ambient",
+            "name": "Ambient",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:post_rock",
+            "name": "Post Rock",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:tape_loops",
+            "name": "Tape Loops",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:3",
+            "name": "3",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:ambient",
+            "name": "Ambient",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:artistic",
+            "name": "Artistic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:karlheinz_stockhausen",
+            "name": "Karlheinz Stockhausen",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:pop_rock",
+            "name": "Pop Rock",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:ambient",
+            "name": "Ambient",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:creative",
+            "name": "Creative",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:john_cage",
+            "name": "John Cage",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:ambient",
+            "name": "Ambient",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:avant_garde",
+            "name": "Avant Garde",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:alternative_rock",
+            "name": "Alternative Rock",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:genre:music:ambient",
+            "name": "Ambient",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:theme:qloo:existentialism",
+            "name": "Existentialism",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:generative",
+            "name": "Generative",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:experimental_rock",
+            "name": "Experimental Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:voice_type:qloo:baritone",
+            "name": "Baritone",
+            "type": "urn:tag:voice_type:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:textural",
+            "name": "Textural",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:pioneering",
+            "name": "Pioneering",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:open_minded",
+            "name": "Open-Minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:abstract_concepts",
+            "name": "Abstract Concepts",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:influence:qloo:synthpop",
+            "name": "Synthpop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:human_experience",
+            "name": "Human Experience",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:the_velvet_underground",
+            "name": "The Velvet Underground",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:keyboards",
+            "name": "Keyboards",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:influential",
+            "name": "Influential",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:immersive",
+            "name": "Immersive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:nature",
+            "name": "Nature",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:curious",
+            "name": "Curious",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:devoted",
+            "name": "Devoted",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:experimental_oriented",
+            "name": "Experimental-Oriented",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:minimal",
+            "name": "Minimal",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:textural",
+            "name": "Textural",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:ethereal",
+            "name": "Ethereal",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:meditative",
+            "name": "Meditative",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:conceptual",
+            "name": "Conceptual",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:meditative",
+            "name": "Meditative",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:minimal",
+            "name": "Minimal",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:conceptual",
+            "name": "Conceptual",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:multimedia",
+            "name": "Multimedia",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:visionary",
+            "name": "Visionary",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:textural",
+            "name": "Textural",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:conceptual",
+            "name": "Conceptual",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:producer",
+            "name": "Producer",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:complexity_scale:qloo:7",
+            "name": "7",
+            "type": "urn:tag:complexity_scale:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:ambient_minimalism",
+            "name": "Ambient Minimalism",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:textural_electronica",
+            "name": "Textural Electronica",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:avant_garde_pop",
+            "name": "Avant-Garde Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:generative_soundscapes",
+            "name": "Generative Soundscapes",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:ambient_rock_infused",
+            "name": "Ambient Rock-Infused",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:ambient_pop",
+            "name": "Ambient Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:chillout",
+            "name": "Chillout",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:downtempo",
+            "name": "Downtempo",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:idm",
+            "name": "IDM",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:post_rock",
+            "name": "Post-Rock",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:ambient_house",
+            "name": "Ambient House",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:experimental_pop",
+            "name": "Experimental Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:the_beatles",
+            "name": "The Beatles",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:robert_fripp",
+            "name": "Robert Fripp",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:piano",
+            "name": "Piano",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:tape_machines",
+            "name": "Tape Machines",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:sampler",
+            "name": "Sampler",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:laptop",
+            "name": "Laptop",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocoder",
+            "name": "Vocoder",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:treatments",
+            "name": "Treatments",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:atmosphere",
+            "name": "Atmosphere",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:urban_life",
+            "name": "Urban Life",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:isolation",
+            "name": "Isolation",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:reflection",
+            "name": "Reflection",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:environment",
+            "name": "Environment",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:2",
+            "name": "2",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:alternative_rock",
+            "name": "Alternative Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:electronica",
+            "name": "Electronica",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:ambient_pop",
+            "name": "Ambient Pop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:ambient_house",
+            "name": "Ambient House",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:downtempo",
+            "name": "Downtempo",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:art_rock",
+            "name": "Art Rock",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:post_rock",
+            "name": "Post-Rock",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:idm",
+            "name": "IDM",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "type": "urn:tag:voice_type:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.913927325317036,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Brian Eno",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm0006061"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "brian%20eno",
+              "listeners": 1596328,
+              "scrobbles": 58813553
+            }
+          ],
+          "spotify": [
+            {
+              "id": "7MSUfLeTdDEoZiJPDSBXgi",
+              "verified": true,
+              "followers": 471215,
+              "last_release": 2020,
+              "first_release": 1973,
+              "monthly_listeners": 1766277
+            }
+          ],
+          "twitter": [
+            {
+              "id": "dark_shark"
+            },
+            {
+              "id": "brianeno"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "brianenomusic"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q569003"
+            }
+          ],
+          "goodreads": [
+            {
+              "id": "1195"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "brianeno"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "ff95eb47-41c4-4f7f-a104-cdc30f02e872",
+              "artist_type": "Person"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Julia Holter",
+        "entity_id": "3DECEC68-DDB4-4550-9B5D-86C78FD82978",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/3DECEC68-DDB4-4550-9B5D-86C78FD82978-420x-auto.jpg"
+          },
+          "vocals": "Julia Holter's vocals are characterized by a soft, ethereal quality with a wide dynamic range. She often uses layered harmonies and a delicate, expressive singing style that complements her complex musical arrangements.",
+          "aliases": [
+            "Julia Holter"
+          ],
+          "members": [],
+          "is_group": false,
+          "biography": "Julia Holter was born in 1984 in Los Angeles, California. She studied music composition at the University of Michigan and later at CalArts. Holter began releasing music in the late 2000s, gaining attention for her unique blend of classical composition techniques with modern pop and electronic music. Over the years, she has developed a reputation for her experimental approach to songwriting and her ability to create lush, cinematic soundscapes. Her albums often explore themes of memory, identity, and mythology.",
+          "known_for": "Known for her experimental compositions, ethereal vocals, and blending of classical and electronic music influences.",
+          "start_year": 2007,
+          "description": "Julia Holter is an American singer, songwriter, and composer whose work blends elements of art pop, experimental music, and chamber pop. She is known for her intricate compositions, ethereal vocals, and blending of classical and electronic influences. Holter's music often features complex arrangements and poetic lyrics, creating a unique sound that challenges traditional pop structures.",
+          "instruments": [
+            "Vocals",
+            "Piano",
+            "Synthesizers",
+            "Keyboards",
+            "Guitar"
+          ],
+          "collaborators": [
+            "Nite Jewel",
+            "John Congleton",
+            "Cole M.G.N."
+          ],
+          "date_of_birth": "1984-12-18",
+          "influenced_by": [
+            "Laurie Anderson",
+            "Brian Eno",
+            "Philip Glass",
+            "Joni Mitchell"
+          ],
+          "notable_songs": [
+            "In The Same Room",
+            "Feel You",
+            "Sea Calls Me Home",
+            "Maxim's I",
+            "Horns Surrounding Me"
+          ],
+          "lyrical_themes": [
+            "Memory",
+            "Identity",
+            "Mythology",
+            "Dreams",
+            "Nature"
+          ],
+          "place_of_birth": "Los Angeles, Los Angeles County,",
+          "primary_genres": [
+            "Art Pop",
+            "Experimental Pop",
+            "Chamber Pop"
+          ],
+          "characteristics": [
+            "Experimental",
+            "Ethereal",
+            "Intricate",
+            "Poetic",
+            "Innovative"
+          ],
+          "cultural_impact": "Julia Holter has been influential in the indie and experimental music scenes, inspiring a new generation of artists to blend classical composition with contemporary pop and electronic music. Her work has expanded the boundaries of art pop and experimental music, contributing to a broader acceptance of genre-blending in modern music culture.",
+          "obscurity_scale": [
+            "4"
+          ],
+          "secondary_genres": [
+            "Ambient",
+            "Avant-Garde",
+            "Electronic"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "Art Pop",
+            "Experimental Pop",
+            "Chamber Pop"
+          ],
+          "performance_style": "Julia Holter's performance style is intimate and atmospheric, often featuring minimalistic staging that highlights her expressive vocals and intricate musical arrangements.",
+          "artists_influenced": [
+            "FKA Twigs",
+            "Weyes Blood",
+            "Moses Sumney"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Julia Holter ist eine US-amerikanische Sängerin, Songwriterin und Komponistin, bekannt für ihre experimentelle und art pop Musik.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Julia Holter es una cantante, compositora y productora estadounidense reconocida por su música experimental y art pop.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Julia Holter est une chanteuse, compositrice et productrice américaine réputée pour sa musique expérimentale et art pop.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Julia Holter is an American singer-songwriter and composer known for her experimental and art pop music.",
+              "languages": [
+                "en"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Intellectual",
+            "Open-Minded",
+            "Artistic",
+            "Experimental",
+            "Thoughtful"
+          ],
+          "adjectives_for_music": [
+            "Ethereal",
+            "Complex",
+            "Lush",
+            "Poetic",
+            "Innovative"
+          ],
+          "lyrical_themes_description": "Julia Holter's lyrics often explore abstract and poetic themes such as memory, identity, mythology, dreams, and the natural world, creating a rich tapestry of imagery and emotion.",
+          "adjectives_for_performance_style": [
+            "Intimate",
+            "Expressive",
+            "Atmospheric"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Art Pop",
+            "Experimental Chamber",
+            "Ambient Pop",
+            "Avant-Garde Electronic",
+            "Cinematic"
+          ]
+        },
+        "popularity": 0.9879152494609703,
+        "tags": [
+          {
+            "id": "urn:tag:theme:qloo:memory",
+            "name": "Memory",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:joni_mitchell",
+            "name": "Joni Mitchell",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:experimental_pop",
+            "name": "Experimental Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:guitar",
+            "name": "Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:ambient",
+            "name": "Ambient",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:audience:qloo:open_minded",
+            "name": "Open-Minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:ambient",
+            "name": "Ambient",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:art_pop",
+            "name": "Art Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:avant_garde",
+            "name": "Avant Garde",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:brian_eno",
+            "name": "Brian Eno",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:art_pop",
+            "name": "Art Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:intellectual",
+            "name": "Intellectual",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:art_pop",
+            "name": "Art Pop",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:influence:qloo:art_pop",
+            "name": "Art Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:ethereal",
+            "name": "Ethereal",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:lo_fi",
+            "name": "Lo - Fi",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:theme:qloo:identity",
+            "name": "Identity",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:dreams",
+            "name": "Dreams",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:avant_garde_electronic",
+            "name": "Avant-Garde Electronic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:thoughtful",
+            "name": "Thoughtful",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:keyboards",
+            "name": "Keyboards",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:synthesizers",
+            "name": "Synthesizers",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:ethereal",
+            "name": "Ethereal",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:laurie_anderson",
+            "name": "Laurie Anderson",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:intricate",
+            "name": "Intricate",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:chamber_pop",
+            "name": "Chamber Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:piano",
+            "name": "Piano",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:philip_glass",
+            "name": "Philip Glass",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:cinematic",
+            "name": "Cinematic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:experimental_chamber",
+            "name": "Experimental Chamber",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:complex",
+            "name": "Complex",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:4",
+            "name": "4",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:chamber_pop",
+            "name": "Chamber Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:poetic",
+            "name": "Poetic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:nature",
+            "name": "Nature",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:ambient_pop",
+            "name": "Ambient Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:artistic",
+            "name": "Artistic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:experimental_pop",
+            "name": "Experimental Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:mythology",
+            "name": "Mythology",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:lush",
+            "name": "Lush",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:poetic",
+            "name": "Poetic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:subgenre:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9093589354618892,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Julia Holter",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm3278613"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "julia%20holter",
+              "listeners": 391732,
+              "scrobbles": 11142710
+            }
+          ],
+          "spotify": [
+            {
+              "id": "0bsV0sUjnCuCTYOnNHQl3E",
+              "verified": true,
+              "followers": 92797,
+              "last_release": 2020,
+              "first_release": 2010,
+              "monthly_listeners": 165874
+            }
+          ],
+          "twitter": [
+            {
+              "id": "julia_holter"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "juliashammasholter"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q4499486"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "juliaholter"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "45610c1f-41a4-44f1-9da6-227510073ffc",
+              "artist_type": "Person"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Weyes Blood",
+        "entity_id": "7E57EBD1-1839-464F-A0B8-A3191ED9E804",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/7E57EBD1-1839-464F-A0B8-A3191ED9E804-420x-auto.jpg"
+          },
+          "vocals": "Weyes Blood's vocals are characterized by a warm, rich mezzo-soprano tone with a wide range spanning from A3 to E6. Her singing style is emotive and expressive, often delivering haunting and melancholic melodies with clarity and control. She employs vibrato and dynamic phrasing to enhance the emotional depth of her songs.",
+          "aliases": [
+            "Natalie Mering"
+          ],
+          "members": [],
+          "is_group": false,
+          "biography": "Natalie Mering, known professionally as Weyes Blood, began her music career in the early 2010s. She initially released music under different monikers before adopting the name Weyes Blood, inspired by a misheard name of the band Weyes Bluhd. Her early work was characterized by lo-fi folk influences, but she gradually evolved towards a more polished, orchestral sound. She gained critical acclaim with albums like 'Titanic Rising' (2019), which showcased her ability to blend vintage instrumentation with contemporary themes. Mering's music often reflects her interest in spirituality, environmental issues, and personal introspection, establishing her as a distinctive voice in the indie music scene.",
+          "known_for": "Weyes Blood is known for her lush orchestral arrangements, emotive mezzo-soprano vocals, and deeply introspective songwriting that blends vintage and modern musical elements.",
+          "start_year": 2010,
+          "voice_type": [
+            "Mezzo-Soprano"
+          ],
+          "description": "Weyes Blood, the stage name of Natalie Mering, is an American singer-songwriter and musician whose work blends elements of indie rock, psychedelic folk, and baroque pop. She is known for her rich, orchestral arrangements and introspective lyrics, often exploring themes of love, existentialism, and the human condition. Her music features a blend of vintage sounds with modern sensibilities, creating a timeless and ethereal atmosphere.",
+          "instruments": [
+            "Vocals",
+            "Piano",
+            "Guitar",
+            "Synthesizer"
+          ],
+          "lowest_note": "A3",
+          "vocal_range": "Mezzo-Soprano, A3–E6",
+          "highest_note": "E6",
+          "collaborators": [
+            "Ariel Pink",
+            "Natalie Mering has collaborated with various artists in the indie music scene, including Ariel Pink."
+          ],
+          "date_of_birth": "1988-06-11",
+          "influenced_by": [
+            "Joni Mitchell",
+            "Karen Carpenter",
+            "Enya",
+            "Fleetwood Mac",
+            "The Beach Boys"
+          ],
+          "notable_songs": [
+            "Andromeda",
+            "Movies",
+            "Seven Words",
+            "Everyday",
+            "Something to Believe"
+          ],
+          "lyrical_themes": [
+            "Love",
+            "Existentialism",
+            "Spirituality",
+            "Environmentalism",
+            "Human Condition"
+          ],
+          "place_of_birth": "Santa Monica, Los Angeles County",
+          "primary_genres": [
+            "Indie Rock",
+            "Psychedelic Folk",
+            "Baroque Pop"
+          ],
+          "characteristics": [
+            "Lush",
+            "Orchestral",
+            "Introspective",
+            "Ethereal",
+            "Melancholic"
+          ],
+          "cultural_impact": "Weyes Blood has been recognized for revitalizing and modernizing the baroque pop and psychedelic folk genres, influencing a new generation of indie musicians. Her work has contributed to a broader appreciation of orchestral and vintage sounds in contemporary music, and she is noted for her thoughtful engagement with social and environmental issues through her art.",
+          "obscurity_scale": [
+            "4"
+          ],
+          "secondary_genres": [
+            "Folk",
+            "Dream Pop",
+            "Art Pop"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "Indie Folk",
+            "Baroque Pop",
+            "Psychedelic Folk"
+          ],
+          "performance_style": "Weyes Blood's performance style is intimate and atmospheric, often featuring minimalistic staging that highlights her vocal delivery and the emotional depth of her music. She creates a contemplative mood that draws the audience into her introspective world.",
+          "artists_influenced": [
+            "Aldous Harding",
+            "Mitski",
+            "Big Thief"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Weyes Blood ist eine US-amerikanische Singer-Songwriterin, bekannt für ihren opulenten, orchestralen Indie-Folk.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Weyes Blood is an American singer-songwriter known for her lush, orchestral indie folk music.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Weyes Blood es una cantautora estadounidense reconocida por su música indie folk orquestal y envolvente.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Weyes Blood est une auteure-compositrice américaine célèbre pour sa musique indie folk orchestrale et envoûtante.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Introspective",
+            "Thoughtful",
+            "Devoted",
+            "Artistic",
+            "Open-Minded"
+          ],
+          "adjectives_for_music": [
+            "Lush",
+            "Orchestral",
+            "Melancholic",
+            "Ethereal",
+            "Introspective"
+          ],
+          "lyrical_themes_description": "Weyes Blood's lyrics often explore deep and reflective themes such as the nature of love, existential questions about life and death, spirituality, environmental concerns, and the complexities of the human condition. Her songwriting is poetic and introspective, inviting listeners to contemplate profound emotional and philosophical ideas.",
+          "adjectives_for_performance_style": [
+            "Intimate",
+            "Expressive",
+            "Atmospheric"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Baroque Pop",
+            "Psychedelic Folk",
+            "Orchestral Indie",
+            "Dreamy Folk",
+            "Vintage Synth-Pop"
+          ]
+        },
+        "popularity": 0.9895536375492335,
+        "tags": [
+          {
+            "id": "urn:tag:style:qloo:vintage_synth_pop",
+            "name": "Vintage Synth Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:ethereal",
+            "name": "Ethereal",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:psychedelic_folk",
+            "name": "Psychedelic Folk",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:open_minded",
+            "name": "Open-Minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:art_pop",
+            "name": "Art Pop",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:music:qloo:melancholic",
+            "name": "Melancholic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:psychedelic_folk",
+            "name": "Psychedelic Folk",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:orchestral_indie",
+            "name": "Orchestral Indie",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:indie_folk",
+            "name": "Indie Folk",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:artistic",
+            "name": "Artistic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:psychedelic",
+            "name": "Psychedelic",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:baroque_pop",
+            "name": "Baroque Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:piano",
+            "name": "Piano",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:devoted",
+            "name": "Devoted",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:existentialism",
+            "name": "Existentialism",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:guitar",
+            "name": "Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:the_beach_boys",
+            "name": "The Beach Boys",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:environmentalism",
+            "name": "Environmentalism",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:psychedelic_folk",
+            "name": "Psychedelic Folk",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:melancholic",
+            "name": "Melancholic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:spirituality",
+            "name": "Spirituality",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:thoughtful",
+            "name": "Thoughtful",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:lush",
+            "name": "Lush",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:ethereal",
+            "name": "Ethereal",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:psychedelic_folk",
+            "name": "Psychedelic Folk",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:folk",
+            "name": "Folk",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:synthesizer",
+            "name": "Synthesizer",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:baroque_pop",
+            "name": "Baroque Pop",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:joni_mitchell",
+            "name": "Joni Mitchell",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:orchestral",
+            "name": "Orchestral",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:fleetwood_mac",
+            "name": "Fleetwood Mac",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:dreamy_folk",
+            "name": "Dreamy Folk",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:enya",
+            "name": "Enya",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:baroque_pop",
+            "name": "Baroque Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:introspective",
+            "name": "Introspective",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:baroque_pop",
+            "name": "Baroque Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:karen_carpenter",
+            "name": "Karen Carpenter",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:human_condition",
+            "name": "Human Condition",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:introspective",
+            "name": "Introspective",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:voice_type:qloo:mezzo_soprano",
+            "name": "Mezzo-Soprano",
+            "type": "urn:tag:voice_type:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:art_pop",
+            "name": "Art Pop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:indie_rock",
+            "name": "Indie Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:4",
+            "name": "4",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:orchestral",
+            "name": "Orchestral",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:dream_pop",
+            "name": "Dream Pop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:lush",
+            "name": "Lush",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:introspective",
+            "name": "Introspective",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:vintage_synth_pop",
+            "name": "Vintage Synth-Pop",
+            "type": "urn:tag:style:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9081223227778029,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Weyes Blood",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm9608229"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "weyes%20blood",
+              "listeners": 916005,
+              "scrobbles": 47916810
+            }
+          ],
+          "spotify": [
+            {
+              "id": "3Uqu1mEdkUJxPe7s31n1M9",
+              "verified": true,
+              "followers": 158504,
+              "last_release": 2020,
+              "first_release": 2011,
+              "monthly_listeners": 850837
+            }
+          ],
+          "twitter": [
+            {
+              "id": "weyesblood"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "weyesblood"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q26924937"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "weyesblood"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "469d6414-1f06-43de-80d5-17762d4a356a",
+              "artist_type": "Person"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Stereolab",
+        "entity_id": "909660D8-30F4-43A7-AC9D-99CC7ECEF318",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "akas": [
+            {
+              "value": "立體聲實驗室",
+              "languages": [
+                "zh"
+              ]
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/909660D8-30F4-43A7-AC9D-99CC7ECEF318-420x-auto.jpg"
+          },
+          "vocals": "The vocals in Stereolab's music are typically soft, melodic, and often feature bilingual lyrics in English and French. The vocal style is smooth and understated, complementing the band's layered instrumental textures and repetitive rhythms.",
+          "aliases": [],
+          "members": [
+            "Tim Gane",
+            "Lætitia Sadier",
+            "Mary Hansen",
+            "Andy Ramsay",
+            "Simon Johns",
+            "Joe Dilworth"
+          ],
+          "is_group": true,
+          "biography": "Stereolab was formed in London in 1990 by Tim Gane and Lætitia Sadier. The band quickly gained attention for their innovative blend of 1960s pop, French yé-yé, krautrock, and electronic music. Over the years, they have released numerous albums and EPs, developing a cult following for their sophisticated sound and intellectual approach to music. Their lineup has included members such as Mary Hansen, Andy Ramsay, Simon Johns, and Joe Dilworth. Stereolab's music often explores political and social themes, delivered through poetic and sometimes abstract lyrics. They have been influential in shaping the sound of indie and experimental rock throughout the 1990s and beyond.",
+          "known_for": "Stereolab is known for their innovative blend of 1960s pop, krautrock, and electronic music, creating a distinctive avant-pop sound with bilingual vocals and experimental instrumentation.",
+          "start_year": 1990,
+          "description": "Stereolab is an English-French band formed in 1990, known for their unique fusion of 1960s pop melodies, experimental rock, electronic music, and krautrock influences. The band is characterized by their use of vintage analog synthesizers, repetitive motorik rhythms, and lush vocal harmonies, often featuring bilingual lyrics in English and French. Their sound incorporates elements of avant-garde, space rock, and art pop, creating a distinctive and influential style within the indie and experimental music scenes.",
+          "instruments": [
+            "Guitar",
+            "Bass",
+            "Drums",
+            "Analog Synthesizers",
+            "Keyboards",
+            "Percussion"
+          ],
+          "collaborators": [
+            "John McEntire",
+            "Jim O'Rourke",
+            "Sean O'Hagan"
+          ],
+          "influenced_by": [
+            "Can",
+            "Neu!",
+            "The Velvet Underground",
+            "Philippe Sarde",
+            "Serge Gainsbourg"
+          ],
+          "notable_songs": [
+            "French Disko",
+            "Ping Pong",
+            "Cybele's Reverie",
+            "Metronomic Underground",
+            "Lo Boob Oscillator"
+          ],
+          "lyrical_themes": [
+            "Politics",
+            "Social Commentary",
+            "Philosophy",
+            "Technology",
+            "Love"
+          ],
+          "primary_genres": [
+            "Indie Rock",
+            "Post-Rock",
+            "Experimental Rock",
+            "Avant-Garde"
+          ],
+          "characteristics": [
+            "Experimental",
+            "Innovative",
+            "Eclectic",
+            "Avant-Garde",
+            "Melodic",
+            "Hypnotic"
+          ],
+          "cultural_impact": "Stereolab has had a significant impact on the indie and experimental music scenes, influencing a generation of musicians with their innovative fusion of vintage pop and avant-garde electronic music. They helped popularize the use of analog synthesizers and motorik rhythms in indie rock and are regarded as pioneers in blending art pop with experimental sounds.",
+          "obscurity_scale": [
+            "4"
+          ],
+          "secondary_genres": [
+            "Space Rock",
+            "Electronic",
+            "Krautrock",
+            "Art Pop"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "Indie Rock",
+            "Post-Rock",
+            "Experimental Rock",
+            "Art Pop"
+          ],
+          "performance_style": "Stereolab's performance style is characterized by hypnotic, layered arrangements with a focus on repetitive rhythms and textured soundscapes, often creating an immersive and intellectual live experience.",
+          "artists_influenced": [
+            "Broadcast",
+            "The Notwist",
+            "Tortoise",
+            "Caribou",
+            "The Radio Dept."
+          ],
+          "short_descriptions": [
+            {
+              "value": "Stereolab es una banda anglo-francesa de avant-pop famosa por fusionar pop de los años 60, música experimental, electrónica y krautrock.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Stereolab ist eine englisch-französische Avant-Pop-Band, die 60er-Pop, experimentelle Musik, Elektronik und Krautrock kombiniert.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Stereolab is an English-French avant-pop band known for blending 1960s pop and experimental music with electronic and krautrock influences.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Stereolab est un groupe anglo-français d'avant-pop reconnu pour mélanger la pop des années 60, la musique expérimentale, l'électronique et le krautrock.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Intellectual",
+            "Eclectic",
+            "Open-Minded",
+            "Experimental",
+            "Cult"
+          ],
+          "adjectives_for_music": [
+            "Hypnotic",
+            "Melodic",
+            "Experimental",
+            "Eclectic",
+            "Avant-Garde"
+          ],
+          "lyrical_themes_description": "Stereolab's lyrics often explore political and social issues, philosophical ideas, and reflections on technology and human relationships, frequently delivered in a poetic and abstract manner.",
+          "adjectives_for_performance_style": [
+            "Hypnotic",
+            "Layered",
+            "Atmospheric",
+            "Intellectual",
+            "Minimalistic"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Motorik",
+            "Yé-Yé",
+            "Avant-Pop",
+            "Krautrock-Influenced",
+            "Analog-Synth"
+          ]
+        },
+        "popularity": 0.9966150902096481,
+        "tags": [
+          {
+            "id": "urn:tag:audience:qloo:open_minded",
+            "name": "Open-Minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:social_commentary",
+            "name": "Social Commentary",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:experimental_rock",
+            "name": "Experimental Rock",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:avant_pop",
+            "name": "Avant-Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:cult",
+            "name": "Cult",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:neu",
+            "name": "Neu!",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:space_rock",
+            "name": "Space Rock",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:the_velvet_underground",
+            "name": "The Velvet Underground",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:alternative_rock",
+            "name": "Alternative Rock",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:artist:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:hypnotic",
+            "name": "Hypnotic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:technology",
+            "name": "Technology",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:analog_synthesizers",
+            "name": "Analog Synthesizers",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:can",
+            "name": "Can",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:intellectual",
+            "name": "Intellectual",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:avant_garde",
+            "name": "Avant Garde",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:guitar",
+            "name": "Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:analog_synth",
+            "name": "Analog Synth",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:keyboards",
+            "name": "Keyboards",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:philosophy",
+            "name": "Philosophy",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:motorik",
+            "name": "Motorik",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:minimalistic",
+            "name": "Minimalistic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:indie",
+            "name": "Indie",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:music:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:4",
+            "name": "4",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:serge_gainsbourg",
+            "name": "Serge Gainsbourg",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:intellectual",
+            "name": "Intellectual",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:post_rock",
+            "name": "Post - Rock",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:music:qloo:hypnotic",
+            "name": "Hypnotic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:layered",
+            "name": "Layered",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:hypnotic",
+            "name": "Hypnotic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:art_pop",
+            "name": "Art Pop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:krautrock_influenced",
+            "name": "Krautrock-Influenced",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:krautrock",
+            "name": "Krautrock",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:art_pop",
+            "name": "Art Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:drums",
+            "name": "Drums",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:philippe_sarde",
+            "name": "Philippe Sarde",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:percussion",
+            "name": "Percussion",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:electronica",
+            "name": "Electronica",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:genre:qloo:indie_rock",
+            "name": "Indie Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:melodic",
+            "name": "Melodic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:post_rock",
+            "name": "Post Rock",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:influence:qloo:indie_rock",
+            "name": "Indie Rock",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:politics",
+            "name": "Politics",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:experimental_rock",
+            "name": "Experimental Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:melodic",
+            "name": "Melodic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:post_rock",
+            "name": "Post Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:ye_ye",
+            "name": "Yé-Yé",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:bass",
+            "name": "Bass",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:analog_synth",
+            "name": "Analog-Synth",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:post_rock",
+            "name": "Post-Rock",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:neu_",
+            "name": "Neu!",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:post_rock",
+            "name": "Post-Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:genre:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9066405791728163,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Stereolab",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm1311434"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "stereolab",
+              "listeners": 1059816,
+              "scrobbles": 35723703
+            }
+          ],
+          "spotify": [
+            {
+              "id": "3Rj0tDHoX7C5NFq5DKIpHt",
+              "verified": true,
+              "followers": 174333,
+              "monthly_listeners": 464934
+            }
+          ],
+          "twitter": [
+            {
+              "id": "stereolabgroop"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "stereolabgroop"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q334652"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "stereolabgroop"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "f1df0431-9250-4ec8-95d8-f19ce7cf7fb6",
+              "artist_type": "Group"
+            }
+          ]
+        }
+      },
+      {
+        "name": "John Maus",
+        "entity_id": "A038388B-541F-4CA4-9EB3-D511DFAE57FB",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/A038388B-541F-4CA4-9EB3-D511DFAE57FB-420x-auto.jpg"
+          },
+          "vocals": "John Maus's vocals are characterized by a haunting, somewhat distant quality, often layered with reverb and echo effects. His singing style is emotive and sometimes deliberately lo-fi, complementing his synth-driven music.",
+          "aliases": [
+            "John Maus"
+          ],
+          "members": [],
+          "is_group": false,
+          "biography": "John Maus was born in 1980 and grew up in the United States. He studied music composition and philosophy, which deeply influenced his artistic output. Maus began releasing music in the early 2000s, gaining attention for his unique blend of vintage synthesizer sounds and lo-fi production techniques. His work often explores themes of existentialism and political critique. Over time, he has developed a cult following for his intense and enigmatic performances and his distinctive sound that bridges retro and modern electronic music.",
+          "known_for": "John Maus is known for his lo-fi synthpop sound, philosophical lyrics, and intense, enigmatic live performances.",
+          "start_year": 2003,
+          "description": "John Maus is an American musician, composer, and academic known for his distinctive lo-fi synthpop and experimental pop sound. His music often features vintage synthesizers, haunting vocals, and a blend of darkwave and post-punk influences. Maus is also recognized for his philosophical and political lyrical themes, as well as his unique approach to music production and performance.",
+          "instruments": [
+            "Synthesizer",
+            "Keyboard",
+            "Vocals"
+          ],
+          "collaborators": [
+            "Ariel Pink"
+          ],
+          "date_of_birth": "1980-02-23",
+          "influenced_by": [
+            "Gary Numan",
+            "David Bowie",
+            "John Carpenter",
+            "Kraftwerk"
+          ],
+          "notable_songs": [
+            "Believer",
+            "Cop Killer",
+            "Quantum Leap",
+            "Rights for Gays"
+          ],
+          "lyrical_themes": [
+            "Existentialism",
+            "Politics",
+            "Philosophy",
+            "Social Critique"
+          ],
+          "place_of_birth": "Austin, Mower County, Minnesota,",
+          "primary_genres": [
+            "Synthpop",
+            "Lo-fi",
+            "Experimental Pop",
+            "Darkwave"
+          ],
+          "characteristics": [
+            "Lo-fi",
+            "Experimental",
+            "Dark",
+            "Synth-driven",
+            "Philosophical"
+          ],
+          "cultural_impact": "John Maus has influenced the indie and experimental music scenes with his unique blend of lo-fi synthpop and philosophical lyricism, inspiring a new generation of musicians interested in combining retro electronic sounds with intellectual themes.",
+          "obscurity_scale": [
+            "6"
+          ],
+          "secondary_genres": [
+            "Post-punk",
+            "New Wave",
+            "Electronic"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "Lo-fi Pop",
+            "Experimental Pop",
+            "Synthpop"
+          ],
+          "performance_style": "John Maus's performance style is intense and enigmatic, often minimalist with a raw emotional delivery that complements his lo-fi synthpop sound.",
+          "artists_influenced": [
+            "Weyes Blood",
+            "Tim Heidecker",
+            "Porches"
+          ],
+          "short_descriptions": [
+            {
+              "value": "John Maus is an American musician known for his lo-fi synthpop and experimental pop music.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "John Maus ist ein US-amerikanischer Musiker, bekannt für seinen Lo-Fi-Synthpop und experimentellen Pop.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "John Maus est un musicien américain reconnu pour son synthpop lo-fi et sa pop expérimentale.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "John Maus es un músico estadounidense conocido por su synthpop lo-fi y su música pop experimental.",
+              "languages": [
+                "es"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Cult",
+            "Dedicated",
+            "Intellectual",
+            "Alternative"
+          ],
+          "adjectives_for_music": [
+            "Lo-fi",
+            "Synth-driven",
+            "Dark",
+            "Experimental",
+            "Atmospheric"
+          ],
+          "lyrical_themes_description": "John Maus's lyrics often explore deep philosophical questions, political themes, and social critique, reflecting his academic background and interest in existentialism and the human condition.",
+          "adjectives_for_performance_style": [
+            "Intense",
+            "Enigmatic",
+            "Minimalist",
+            "Raw"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Lo-fi Synthpop",
+            "Darkwave",
+            "Experimental Pop",
+            "Post-punk Influenced",
+            "Philosophical Synth Music"
+          ]
+        },
+        "popularity": 0.9916376671975045,
+        "tags": [
+          {
+            "id": "urn:tag:style:qloo:enigmatic",
+            "name": "Enigmatic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:dark",
+            "name": "Dark",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:philosophical_synth_music",
+            "name": "Philosophical Synth Music",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:darkwave",
+            "name": "Darkwave",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:pop",
+            "name": "Pop",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:raw",
+            "name": "Raw",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:politics",
+            "name": "Politics",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:darkwave",
+            "name": "Darkwave",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:lo_fi_pop",
+            "name": "Lo-Fi Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:philosophy",
+            "name": "Philosophy",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:new_wave",
+            "name": "New Wave",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:cult",
+            "name": "Cult",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:dark",
+            "name": "Dark",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:lo_fi",
+            "name": "Lo-Fi",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:intense",
+            "name": "Intense",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:philosophical",
+            "name": "Philosophical",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:social_critique",
+            "name": "Social Critique",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:experimental_pop",
+            "name": "Experimental Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:gary_numan",
+            "name": "Gary Numan",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:david_bowie",
+            "name": "David Bowie",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:synthpop",
+            "name": "Synthpop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:synthesizer",
+            "name": "Synthesizer",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:john_carpenter",
+            "name": "John Carpenter",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:lo_fi_synthpop",
+            "name": "Lo-Fi Synthpop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:kraftwerk",
+            "name": "Kraftwerk",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:dedicated",
+            "name": "Dedicated",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:synthpop",
+            "name": "Synthpop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:experimental_pop",
+            "name": "Experimental Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:existentialism",
+            "name": "Existentialism",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:alternative",
+            "name": "Alternative",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:lo_fi",
+            "name": "Lo Fi",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:avant_garde",
+            "name": "Avant Garde",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:artist:qloo:synth_driven",
+            "name": "Synth-Driven",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:lo_fi",
+            "name": "Lo - Fi",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:6",
+            "name": "6",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:keyboard",
+            "name": "Keyboard",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:intellectual",
+            "name": "Intellectual",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:post_punk",
+            "name": "Post-Punk",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:post_punk_influenced",
+            "name": "Post-Punk Influenced",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:lo_fi",
+            "name": "Lo-Fi",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:experimental_pop",
+            "name": "Experimental Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:lo_fi",
+            "name": "Lo-fi",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:synth_driven",
+            "name": "Synth-driven",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:lo_fi",
+            "name": "Lo-fi",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:synth_driven",
+            "name": "Synth-driven",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:lo_fi_synthpop",
+            "name": "Lo-fi Synthpop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:post_punk_influenced",
+            "name": "Post-punk Influenced",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:lo_fi_pop",
+            "name": "Lo-fi Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:lo_fi",
+            "name": "Lo-fi",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:post_punk",
+            "name": "Post-punk",
+            "type": "urn:tag:subgenre:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9064286155007817,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "John Maus",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm9049152"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "john%20maus",
+              "listeners": 527012,
+              "scrobbles": 19180302
+            }
+          ],
+          "spotify": [
+            {
+              "id": "4R073T3AVJKqAsbzLmLW9u",
+              "verified": true,
+              "followers": 156387,
+              "monthly_listeners": 531163
+            }
+          ],
+          "twitter": [
+            {
+              "id": "johnmaus"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "john-maus-141499528174"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q5980315"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "john_maus"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "c6be66af-28b4-4b87-a8ba-3f46ec6fe986",
+              "artist_type": "Person"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

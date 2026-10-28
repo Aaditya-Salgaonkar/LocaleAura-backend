@@ -1,0 +1,21 @@
+{
+  "duration": 88,
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "parents": [
+          {
+            "type": "urn:entity:place"
+          }
+        ],
+        "type": "urn:tag:decor:qloo",
+        "id": "urn:tag:decor:qloo:brutalist",
+        "name": "Brutalist",
+        "popularity": 0.97707415,
+        "properties": {},
+        "tags": []
+      }
+    ]
+  }
+}

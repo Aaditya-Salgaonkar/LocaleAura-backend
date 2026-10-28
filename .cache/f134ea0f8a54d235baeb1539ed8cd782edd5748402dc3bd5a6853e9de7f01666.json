@@ -1,0 +1,4160 @@
+{
+  "success": true,
+  "results": {
+    "entities": [
+      {
+        "name": "Perús",
+        "entity_id": "AB118A25-B6B0-4896-BCBF-716FA21CF74F",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [],
+          "image": {
+            "url": "https://images.qloo.com/i/AB118A25-B6B0-4896-BCBF-716FA21CF74F-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Financial Literacy",
+            "Independence",
+            "Wealth Building",
+            "Pedagogy",
+            "Investment"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Coffee Breaks",
+            "Commuting",
+            "Digital Learning"
+          ],
+          "brand_type": [
+            "Service Brand"
+          ],
+          "industries": [
+            "Finance",
+            "Education",
+            "Fintech"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Financial Independence",
+            "Transparency",
+            "Pedagogy",
+            "Autonomy"
+          ],
+          "description": "Cayas is a French financial technology company that helps individuals achieve financial autonomy through a structured educational path. By demystifying investment strategies and explaining personal finance without unnecessary jargon, the platform enables users to build their own wealth management plans. It operates primarily as a subscription-based service, catering to beginners who want to move away from expensive, intermediary-led banking products. With a strong commitment to data sovereignty and transparent user control, it serves as a digital-first resource for those looking to secure their financial future.",
+          "key_markets": [
+            "France"
+          ],
+          "founded_year": 2022,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C",
+            "Subscription"
+          ],
+          "emotional_tone": [
+            "Empowering",
+            "Transparent",
+            "Educational",
+            "Direct"
+          ],
+          "personal_style": null,
+          "similar_brands": [
+            "Coursera",
+            "Khan Academy"
+          ],
+          "ultimate_parent": "Cayas SAS",
+          "immediate_parent": "Cayas SAS",
+          "target_age_group": [
+            "Young Adults",
+            "Adults",
+            "Middle-Aged"
+          ],
+          "audience_identity": "People who feel overwhelmed or uncertain about managing their finances and seek to take control of their economic future through education and simplified, actionable strategies.",
+          "competitor_brands": [
+            "Yolt",
+            "Bankin",
+            "Linxo"
+          ],
+          "customer_segments": [
+            "Financial Novices",
+            "Aspiring Investors",
+            "Self-Directed Savers"
+          ],
+          "influencer_appeal": [
+            "Financial Educators",
+            "Personal Development Coaches",
+            "Tech Enthusiasts",
+            "Career Mentors"
+          ],
+          "products_services": [
+            "Educational Courses",
+            "Financial Planning Tool",
+            "Personal Finance Guidance",
+            "Wealth Strategy Workshops"
+          ],
+          "short_description": "PerUs is a Napa Valley-based winery known for producing limited edition wines with a private, intimate tasting experience.",
+          "style_description": "A clean, modern, and highly readable design language prioritized for educational usability and data clarity.",
+          "cultural_relevance": [
+            "Financial Literacy Movement",
+            "Digital Transformation Of Finance"
+          ],
+          "known_partnerships": [],
+          "market_positioning": "Educational finance platform focused on empowerment and accessible, self-directed wealth management for beginners.",
+          "short_descriptions": [
+            {
+              "value": "Une plateforme pédagogique conçue pour donner aux particuliers les clés et outils nécessaires pour gérer leurs finances personnelles en toute autonomie.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "An educational platform designed to empower individuals with the knowledge and tools to manage their personal finances independently.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Una plataforma educativa diseñada para capacitar a las personas con el conocimiento y las herramientas necesarias para gestionar sus finanzas personales de forma independiente.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Eine Bildungsplattform, die Einzelpersonen das Wissen und die Werkzeuge an die Hand gibt, um ihre persönlichen Finanzen eigenständig zu verwalten.",
+              "languages": [
+                "de"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 200,
+          "price_range_usd_min": 50,
+          "target_income_level": [
+            "Low to Medium",
+            "Medium"
+          ],
+          "aesthetic_properties": [
+            "Minimalist",
+            "Digital-First",
+            "Clean Typography",
+            "Functional Design"
+          ],
+          "category_description": "A financial technology service that provides pedagogical content and planning software to help retail investors build and manage wealth.",
+          "headquarters_address": "10 rue de la Gourmette, 44300 Nantes, France",
+          "interest_adjacencies": [
+            "Personal Finance",
+            "Wealth Management",
+            "Retirement Planning",
+            "Financial Literacy",
+            "Investment Strategies"
+          ],
+          "situational_contexts": "When individuals are seeking to optimize their savings, planning for long-term retirement, or trying to overcome the inertia of complex financial systems.",
+          "aspirational_lifestyle": [
+            "Financial Freedom",
+            "Peace Of Mind",
+            "Long-Term Security"
+          ],
+          "sustainability_initiatives": [
+            "European Data Sovereignty"
+          ],
+          "cultural_context_description": "The brand is part of the growing movement to democratize financial literacy and provide individuals with alternatives to traditional, fee-heavy banking institutions.",
+          "target_demographics_description": "Working-age adults and young professionals seeking to improve their financial literacy and long-term saving outcomes."
+        },
+        "popularity": 0.6055754267600142,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear:sneaker:lifestyle",
+            "name": "Lifestyle / Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear:sneakers",
+            "name": "Sneakers",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:casual",
+            "name": "Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:digital_first",
+            "name": "Digital-First",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:clean_typography",
+            "name": "Clean Typography",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:functional_design",
+            "name": "Functional Design",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:financial_freedom",
+            "name": "Financial Freedom",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:peace_of_mind",
+            "name": "Peace Of Mind",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:long_term_security",
+            "name": "Long-Term Security",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:other",
+            "name": "Other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:service_brand",
+            "name": "Service Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:subscription",
+            "name": "Subscription",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:yolt",
+            "name": "Yolt",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:bankin",
+            "name": "Bankin",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:linxo",
+            "name": "Linxo",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:financial_independence",
+            "name": "Financial Independence",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:transparency",
+            "name": "Transparency",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:pedagogy",
+            "name": "Pedagogy",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:autonomy",
+            "name": "Autonomy",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:financial_literacy_movement",
+            "name": "Financial Literacy Movement",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:digital_transformation_of_finance",
+            "name": "Digital Transformation Of Finance",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:financial_novices",
+            "name": "Financial Novices",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:aspiring_investors",
+            "name": "Aspiring Investors",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:self_directed_savers",
+            "name": "Self-Directed Savers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:empowering",
+            "name": "Empowering",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:transparent",
+            "name": "Transparent",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:educational",
+            "name": "Educational",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:direct",
+            "name": "Direct",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:finance",
+            "name": "Finance",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:education",
+            "name": "Education",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fintech",
+            "name": "Fintech",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:financial_educators",
+            "name": "Financial Educators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:personal_development_coaches",
+            "name": "Personal Development Coaches",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:tech_enthusiasts",
+            "name": "Tech Enthusiasts",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:career_mentors",
+            "name": "Career Mentors",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:personal_finance",
+            "name": "Personal Finance",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:wealth_management",
+            "name": "Wealth Management",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:retirement_planning",
+            "name": "Retirement Planning",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:financial_literacy",
+            "name": "Financial Literacy",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:investment_strategies",
+            "name": "Investment Strategies",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:france",
+            "name": "France",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:financial_literacy",
+            "name": "Financial Literacy",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:independence",
+            "name": "Independence",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:wealth_building",
+            "name": "Wealth Building",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:pedagogy",
+            "name": "Pedagogy",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:investment",
+            "name": "Investment",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:coffee_breaks",
+            "name": "Coffee Breaks",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:commuting",
+            "name": "Commuting",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:digital_learning",
+            "name": "Digital Learning",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:challenger",
+            "name": "Challenger",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:educational_courses",
+            "name": "Educational Courses",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:financial_planning_tool",
+            "name": "Financial Planning Tool",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:personal_finance_guidance",
+            "name": "Personal Finance Guidance",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:wealth_strategy_workshops",
+            "name": "Wealth Strategy Workshops",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:coursera",
+            "name": "Coursera",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:khan_academy",
+            "name": "Khan Academy",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:european_data_sovereignty",
+            "name": "European Data Sovereignty",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:middle_aged",
+            "name": "Middle-Aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:low_to_medium",
+            "name": "Low to Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium",
+            "name": "Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8655497082917138,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "instagram": [
+            {
+              "id": "perus"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Maison Labiche",
+        "entity_id": "8202108A-ECB5-44E3-BC3F-4DBA4587F2A9",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [],
+          "image": {
+            "url": "https://images.qloo.com/i/8202108A-ECB5-44E3-BC3F-4DBA4587F2A9-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Embroidery",
+            "Personalized",
+            "Parisian",
+            "Basics",
+            "Custom"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Casual Chic",
+            "Urban Living",
+            "Slow Living"
+          ],
+          "brand_type": [
+            "Product Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Custom Apparel"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Craftsmanship",
+            "Sustainability",
+            "Personalization",
+            "Quality"
+          ],
+          "description": "Maison Labiche is a Parisian fashion brand known for combining high-quality wardrobe essentials with personalized embroidery. The brand focuses on timeless pieces such as T-shirts, shirts, and baby clothes, allowing customers to add their own custom words to each item. Emphasizing craftsmanship, sustainability, and personal storytelling, the label has built a dedicated following that values meaningful fashion. It operates primarily through its own direct-to-consumer channels, maintaining a distinct aesthetic that blends classic French style with individual expression.",
+          "key_markets": [
+            "France",
+            "Europe",
+            "United States"
+          ],
+          "founded_year": 2011,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Male",
+            "Female",
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Sentimental",
+            "Sophisticated",
+            "Playful",
+            "Authentic"
+          ],
+          "personal_style": [
+            "Minimalist",
+            "Casual Chic",
+            "Classic"
+          ],
+          "similar_brands": [
+            "Sézane",
+            "Everlane",
+            "AMI Paris"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Young Adults",
+            "Adults"
+          ],
+          "audience_identity": "People who value personal expression and sentimental storytelling through high-quality, understated wardrobe staples.",
+          "competitor_brands": [
+            "Petit Bateau",
+            "A.P.C.",
+            "Maison Kitsuné"
+          ],
+          "customer_segments": [
+            "Urban Professionals",
+            "Sentimental Gift Givers",
+            "Minimalist Fashion Enthusiasts"
+          ],
+          "influencer_appeal": [
+            "Lifestyle Influencers",
+            "Fashion Bloggers",
+            "Creative Entrepreneurs",
+            "Minimalist Creators"
+          ],
+          "products_services": [
+            "T-shirts",
+            "Shirts",
+            "Jackets",
+            "Baby Bodysuits",
+            "Sweatshirts"
+          ],
+          "short_description": "Maison Labiche is a Paris-based brand specializing in personalized embroidered clothing for men, women, and children, including T-shirts, shirts, jackets, and baby bodysuits.",
+          "style_description": "A clean, minimalist aesthetic characterized by classic silhouettes enhanced by custom embroidered text in refined fonts.",
+          "cultural_relevance": [
+            "Slow Fashion Movement",
+            "Minimalism"
+          ],
+          "known_partnerships": [],
+          "market_positioning": "Premium personalized basics brand offering high-quality, customizable apparel with a Parisian aesthetic.",
+          "short_descriptions": [
+            {
+              "value": "Una marca parisina que crea prendas de alta calidad y sostenibles, ofreciendo la posibilidad de personalizar cada pieza con bordados únicos.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Une marque parisienne spécialisée dans les vêtements de qualité et durables, permettant à chacun de personnaliser ses pièces grâce à la broderie.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Eine Pariser Marke für hochwertige, nachhaltige Kleidung, bei der Kunden ihre Kleidungsstücke individuell mit Stickereien personalisieren können.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "A Parisian brand crafting high-quality, sustainably made apparel that allows customers to personalize pieces with custom embroidery.",
+              "languages": [
+                "en"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 250,
+          "price_range_usd_min": 50,
+          "target_income_level": [
+            "Medium",
+            "Medium to High"
+          ],
+          "aesthetic_properties": [
+            "Minimalist",
+            "Clean Lines",
+            "Classic Typography",
+            "Embroidered Detail"
+          ],
+          "category_description": "A fashion label focusing on premium, customizable basics and lifestyle apparel that serves as a canvas for personalized messaging.",
+          "headquarters_address": "Paris, France",
+          "interest_adjacencies": [
+            "Customization",
+            "Slow Fashion",
+            "Graphic Design",
+            "Sustainable Living",
+            "Lettering"
+          ],
+          "situational_contexts": "Gift-giving, special occasions, or everyday wear where a touch of personalized detail adds meaning to a classic ensemble.",
+          "aspirational_lifestyle": [
+            "Thoughtful Curation",
+            "Creative Expression",
+            "Artisan Connection"
+          ],
+          "sustainability_initiatives": [
+            "Quality Materials",
+            "Ethical Sourcing",
+            "Slow Fashion"
+          ],
+          "cultural_context_description": "The brand is situated within the contemporary slow fashion movement, emphasizing the value of meaningful, long-lasting, and personalized garments.",
+          "target_demographics_description": "The brand targets fashion-conscious men, women, and parents who value quality and personal expression, typically in the medium to high income bracket."
+        },
+        "popularity": 0.7917139902697021,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:casual",
+            "name": "Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:clean_lines",
+            "name": "Clean Lines",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:classic_typography",
+            "name": "Classic Typography",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:embroidered_detail",
+            "name": "Embroidered Detail",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:thoughtful_curation",
+            "name": "Thoughtful Curation",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:creative_expression",
+            "name": "Creative Expression",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:artisan_connection",
+            "name": "Artisan Connection",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:product_brand",
+            "name": "Product Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:permanent",
+            "name": "Permanent",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:continuous",
+            "name": "Continuous",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:petit_bateau",
+            "name": "Petit Bateau",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:a_p_c_",
+            "name": "A.P.C.",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:maison_kitsune",
+            "name": "Maison Kitsuné",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:craftsmanship",
+            "name": "Craftsmanship",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:sustainability",
+            "name": "Sustainability",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:personalization",
+            "name": "Personalization",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:quality",
+            "name": "Quality",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:slow_fashion_movement",
+            "name": "Slow Fashion Movement",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:minimalism",
+            "name": "Minimalism",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:urban_professionals",
+            "name": "Urban Professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:sentimental_gift_givers",
+            "name": "Sentimental Gift Givers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:minimalist_fashion_enthusiasts",
+            "name": "Minimalist Fashion Enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:parisian_street_style",
+            "name": "Parisian Street Style",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:vintage_lettering",
+            "name": "Vintage Lettering",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sentimental",
+            "name": "Sentimental",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:playful",
+            "name": "Playful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:authentic",
+            "name": "Authentic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:contemporary",
+            "name": "Contemporary",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:sustainable_fashion",
+            "name": "Sustainable Fashion",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:casual_wear",
+            "name": "Casual Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:custom_apparel",
+            "name": "Custom Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:lifestyle_influencers",
+            "name": "Lifestyle Influencers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fashion_bloggers",
+            "name": "Fashion Bloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:creative_entrepreneurs",
+            "name": "Creative Entrepreneurs",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:minimalist_creators",
+            "name": "Minimalist Creators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:customization",
+            "name": "Customization",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:slow_fashion",
+            "name": "Slow Fashion",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:graphic_design",
+            "name": "Graphic Design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:sustainable_living",
+            "name": "Sustainable Living",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:lettering",
+            "name": "Lettering",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:france",
+            "name": "France",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:europe",
+            "name": "Europe",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:embroidery",
+            "name": "Embroidery",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:personalized",
+            "name": "Personalized",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:parisian",
+            "name": "Parisian",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:basics",
+            "name": "Basics",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:custom",
+            "name": "Custom",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:casual_chic",
+            "name": "Casual Chic",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:urban_living",
+            "name": "Urban Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:slow_living",
+            "name": "Slow Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:cult",
+            "name": "Cult",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:cotton",
+            "name": "Cotton",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:casual_chic",
+            "name": "Casual Chic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:classic",
+            "name": "Classic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:t_shirts",
+            "name": "T-shirts",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:shirts",
+            "name": "Shirts",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:outerwear",
+            "name": "Outerwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:kidswear",
+            "name": "Kidswear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:t_shirts",
+            "name": "T-shirts",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:shirts",
+            "name": "Shirts",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:jackets",
+            "name": "Jackets",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:baby_bodysuits",
+            "name": "Baby Bodysuits",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:sweatshirts",
+            "name": "Sweatshirts",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:embroidered_t_shirt",
+            "name": "Embroidered T-shirt",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:baby_bodysuit",
+            "name": "Baby Bodysuit",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:sezane",
+            "name": "Sézane",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:everlane",
+            "name": "Everlane",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:ami_paris",
+            "name": "AMI Paris",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:quality_materials",
+            "name": "Quality Materials",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:ethical_sourcing",
+            "name": "Ethical Sourcing",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:slow_fashion",
+            "name": "Slow Fashion",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:male",
+            "name": "Male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium",
+            "name": "Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8509701176820822,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "maisonlabiche"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "maisonlabiche"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Rains",
+        "entity_id": "9082F37F-5FFC-44A5-84C3-5C1CFD68F47A",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [],
+          "image": {
+            "url": "https://images.qloo.com/i/9082F37F-5FFC-44A5-84C3-5C1CFD68F47A-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Waterproof",
+            "Minimalism",
+            "Scandi",
+            "Outerwear",
+            "Urban"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "City Living",
+            "Daily Commuting",
+            "Cycling",
+            "Travel",
+            "Outdoor Exploration"
+          ],
+          "brand_type": [
+            "Product Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Retail"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Functionality",
+            "Minimalism",
+            "Innovation",
+            "Design-Led",
+            "Durability"
+          ],
+          "description": "Established in 2012, this brand provides a distinct take on wet-weather gear by blending technical performance with sophisticated, minimalist design. Known for its signature waterproof fabric, the brand offers a wide range of outerwear, bags, and accessories designed specifically for the needs of modern urbanites. With its roots in Denmark, it maintains a strong commitment to functional, high-quality products that endure unpredictable weather. The brand occupies a premium space in the contemporary market, appealing to consumers who refuse to compromise between style and utility.",
+          "key_markets": [
+            "Denmark",
+            "Germany",
+            "United Kingdom",
+            "United States",
+            "France"
+          ],
+          "founded_year": 2012,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Functional",
+            "Sophisticated",
+            "Minimalist",
+            "Modern",
+            "Reliable"
+          ],
+          "personal_style": [
+            "Minimalist",
+            "Modernist",
+            "Functional",
+            "Utility"
+          ],
+          "similar_brands": [
+            "Fjällräven",
+            "Cote&Ciel",
+            "Sandqvist",
+            "Khaite",
+            "Acne Studios"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Young Adults",
+            "Adults"
+          ],
+          "audience_identity": "People who prioritize functionality and sleek, minimalist design, balancing urban lifestyle demands with a need for weather-resistant practicality.",
+          "competitor_brands": [
+            "Stutterheim",
+            "Helly Hansen",
+            "Patagonia",
+            "Arc'teryx",
+            "Hunter"
+          ],
+          "customer_segments": [
+            "Urban Commuters",
+            "Minimalist Enthusiasts",
+            "Active Professionals"
+          ],
+          "influencer_appeal": [
+            "Architects",
+            "Urban Photographers",
+            "Design Bloggers",
+            "Minimalist Fashion Stylists",
+            "Travel Influencers"
+          ],
+          "products_services": [
+            "Raincoats",
+            "Backpacks",
+            "Travel Bags",
+            "Wash Bags",
+            "Accessories",
+            "Outerwear"
+          ],
+          "short_description": "Rains is a brand specializing in waterproof outerwear and bags, offering stylish and functional rainwear products with a 2-year warranty.",
+          "style_description": "Characterized by clean, structural silhouettes and a muted color palette, the visual language prioritizes utility-driven simplicity and architectural precision.",
+          "cultural_relevance": [
+            "Scandi Minimalism",
+            "Urban Techwear",
+            "Sustainable Modernism"
+          ],
+          "known_partnerships": [
+            "Adidas",
+            "Mr Porter"
+          ],
+          "market_positioning": "Premium functional outerwear and accessories label combining Scandinavian minimalism with high-performance weather protection for urban environments.",
+          "short_descriptions": [
+            {
+              "value": "Marca escandinava de estilo de vida que crea prendas de abrigo y accesorios funcionales resistentes al agua, diseñados para la vida urbana moderna.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "A Scandinavian lifestyle brand creating functional, water-resistant outerwear and accessories designed for modern urban life.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Eine skandinavische Lifestyle-Marke, die funktionale, wasserabweisende Oberbekleidung und Accessoires für das moderne urbane Leben entwirft.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Une marque de style de vie scandinave créant des vêtements d'extérieur et des accessoires fonctionnels et imperméables pour la vie urbaine moderne.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 350,
+          "price_range_usd_min": 40,
+          "target_income_level": [
+            "Medium",
+            "Medium to High"
+          ],
+          "aesthetic_properties": [
+            "Matte Finishes",
+            "Clean Lines",
+            "Monochromatic Palettes",
+            "Minimalist Hardware",
+            "Smooth Textures"
+          ],
+          "category_description": "A functional fashion label specializing in waterproof outerwear, bags, and accessories that bridge the gap between technical utility and contemporary minimalist design.",
+          "headquarters_address": "Aarhus, Denmark",
+          "interest_adjacencies": [
+            "Minimalist Architecture",
+            "Scandinavian Design",
+            "Urban Commuting",
+            "Outdoor Exploration",
+            "Contemporary Photography"
+          ],
+          "situational_contexts": "Designed for commuting, cycling, and navigating wet or unpredictable weather in metropolitan environments where style and protection are equally valued.",
+          "aspirational_lifestyle": [
+            "Effortless Mobility",
+            "Modern Scandinavian Living",
+            "Weather-Proof Adventures",
+            "Curated Minimalist Wardrobe"
+          ],
+          "sustainability_initiatives": [
+            "Durability Focused Design",
+            "Recycled Materials"
+          ],
+          "cultural_context_description": "Inhabits the intersection of technical performance apparel and minimalist design culture, catering to the aesthetic and functional needs of modern city life.",
+          "target_demographics_description": "Targets style-conscious urban adults, typically aged 25 to 45, who value modern design and functional performance with a medium to high disposable income."
+        },
+        "popularity": 0.8538421115085352,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion:formalwear",
+            "name": "Formalwear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:accessories:bags_and_leather",
+            "name": "Bags & Leather",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:matte_finishes",
+            "name": "Matte Finishes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:clean_lines",
+            "name": "Clean Lines",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:monochromatic_palettes",
+            "name": "Monochromatic Palettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:minimalist_hardware",
+            "name": "Minimalist Hardware",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:smooth_textures",
+            "name": "Smooth Textures",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:effortless_mobility",
+            "name": "Effortless Mobility",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:modern_scandinavian_living",
+            "name": "Modern Scandinavian Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:weather_proof_adventures",
+            "name": "Weather-Proof Adventures",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:curated_minimalist_wardrobe",
+            "name": "Curated Minimalist Wardrobe",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:product_brand",
+            "name": "Product Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:permanent",
+            "name": "Permanent",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:stutterheim",
+            "name": "Stutterheim",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:helly_hansen",
+            "name": "Helly Hansen",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:patagonia",
+            "name": "Patagonia",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:arc_teryx",
+            "name": "Arc'teryx",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:hunter",
+            "name": "Hunter",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:functionality",
+            "name": "Functionality",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:minimalism",
+            "name": "Minimalism",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:innovation",
+            "name": "Innovation",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:design_led",
+            "name": "Design-Led",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:durability",
+            "name": "Durability",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:scandi_minimalism",
+            "name": "Scandi Minimalism",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:urban_techwear",
+            "name": "Urban Techwear",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:sustainable_modernism",
+            "name": "Sustainable Modernism",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:urban_commuters",
+            "name": "Urban Commuters",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:minimalist_enthusiasts",
+            "name": "Minimalist Enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:active_professionals",
+            "name": "Active Professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:scandinavian_minimalism",
+            "name": "Scandinavian Minimalism",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:urban_architecture",
+            "name": "Urban Architecture",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:functional_utility",
+            "name": "Functional Utility",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:functional",
+            "name": "Functional",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:modern",
+            "name": "Modern",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:reliable",
+            "name": "Reliable",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:contemporary",
+            "name": "Contemporary",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:outdoor",
+            "name": "Outdoor",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:activewear",
+            "name": "Activewear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:retail",
+            "name": "Retail",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:architects",
+            "name": "Architects",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:urban_photographers",
+            "name": "Urban Photographers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:design_bloggers",
+            "name": "Design Bloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:minimalist_fashion_stylists",
+            "name": "Minimalist Fashion Stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:travel_influencers",
+            "name": "Travel Influencers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:minimalist_architecture",
+            "name": "Minimalist Architecture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:scandinavian_design",
+            "name": "Scandinavian Design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:urban_commuting",
+            "name": "Urban Commuting",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:outdoor_exploration",
+            "name": "Outdoor Exploration",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:contemporary_photography",
+            "name": "Contemporary Photography",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:denmark",
+            "name": "Denmark",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:germany",
+            "name": "Germany",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_kingdom",
+            "name": "United Kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:france",
+            "name": "France",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:waterproof",
+            "name": "Waterproof",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:minimalism",
+            "name": "Minimalism",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:scandi",
+            "name": "Scandi",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:outerwear",
+            "name": "Outerwear",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:urban",
+            "name": "Urban",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:adidas",
+            "name": "Adidas",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:mr_porter",
+            "name": "Mr Porter",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:city_living",
+            "name": "City Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:daily_commuting",
+            "name": "Daily Commuting",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:cycling",
+            "name": "Cycling",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:travel",
+            "name": "Travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:outdoor_exploration",
+            "name": "Outdoor Exploration",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:mainstream",
+            "name": "Mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:polyurethane",
+            "name": "Polyurethane",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:polyester",
+            "name": "Polyester",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:modernist",
+            "name": "Modernist",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:functional",
+            "name": "Functional",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:utility",
+            "name": "Utility",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:outerwear",
+            "name": "Outerwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:bags",
+            "name": "Bags",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:raincoats",
+            "name": "Raincoats",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:backpacks",
+            "name": "Backpacks",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:travel_bags",
+            "name": "Travel Bags",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:wash_bags",
+            "name": "Wash Bags",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:outerwear",
+            "name": "Outerwear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:wholesale",
+            "name": "Wholesale",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:online_marketplace",
+            "name": "Online Marketplace",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:classic_rain_jacket",
+            "name": "Classic Rain Jacket",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:backpack_mini",
+            "name": "Backpack Mini",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:fjallraven",
+            "name": "Fjällräven",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:cote_ciel",
+            "name": "Cote&Ciel",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:sandqvist",
+            "name": "Sandqvist",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:khaite",
+            "name": "Khaite",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:acne_studios",
+            "name": "Acne Studios",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:durability_focused_design",
+            "name": "Durability Focused Design",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:recycled_materials",
+            "name": "Recycled Materials",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium",
+            "name": "Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.849884542381179,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "instagram": [
+            {
+              "id": "rains"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Des Petits Hauts",
+        "entity_id": "9C2E21B5-42B7-4C34-93E2-47CC707D375F",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [],
+          "image": {
+            "url": "https://images.qloo.com/i/9C2E21B5-42B7-4C34-93E2-47CC707D375F-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Poetic",
+            "Colorful",
+            "French Style",
+            "Knitwear",
+            "Whimsy"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "City Living",
+            "Creative Work",
+            "Casual Weekends",
+            "Artistic Hobbies",
+            "Socializing"
+          ],
+          "brand_type": [
+            "Retail Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Retail",
+            "Accessories"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Creativity",
+            "Optimism",
+            "Quality",
+            "Authenticity",
+            "Accessibility"
+          ],
+          "description": "Founded in 1998, this brand offers a curated collection of apparel and accessories defined by a poetic, colorful, and lighthearted aesthetic. Known for its signature knitwear and whimsical prints, it caters to those who value a touch of charm and creative detail in their everyday wardrobe. The brand operates through its own boutiques and e-commerce site, maintaining a strong, direct relationship with its community. Its offerings emphasize a relaxed, contemporary approach to French style, blending comfort with a vibrant, artistic sensibility.",
+          "key_markets": [
+            "France",
+            "Europe"
+          ],
+          "founded_year": 1998,
+          "manufacturer": null,
+          "subsidiaries": [
+            "Feeka"
+          ],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Female"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Poetic",
+            "Cheerful",
+            "Warm",
+            "Gentle",
+            "Playful"
+          ],
+          "personal_style": [
+            "Bohemian-Chic",
+            "Romantic",
+            "Soft Minimalist",
+            "Casual Parisian"
+          ],
+          "similar_brands": [
+            "Rouje",
+            "Essentiel Antwerp",
+            "American Vintage",
+            "Suncoo",
+            "Petite Mendigote"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Young Adults",
+            "Adults",
+            "Middle-Aged"
+          ],
+          "audience_identity": "Individuals who gravitate toward a gentle, artistic, and lighthearted approach to everyday dressing, valuing pieces that feel intentionally crafted and whimsical.",
+          "competitor_brands": [
+            "Sezane",
+            "Maje",
+            "Sandro",
+            "Ba&sh",
+            "Claudie Pierlot"
+          ],
+          "customer_segments": [
+            "Urban Creative Professionals",
+            "Bohemian-Chic Enthusiasts",
+            "French Style Seekers"
+          ],
+          "influencer_appeal": [
+            "Lifestyle Bloggers",
+            "Artistic Creators",
+            "Minimalist Stylists",
+            "Fashion Editors",
+            "Creative Entrepreneurs"
+          ],
+          "products_services": [
+            "Knitwear",
+            "Dresses",
+            "Blouses",
+            "Skirts",
+            "Trousers",
+            "Coats",
+            "Jewelry",
+            "Scarves",
+            "Cardigans",
+            "Jumpers"
+          ],
+          "short_description": "Des Petits Hauts is a women's clothing brand offering dresses, skirts, blouses, denim, and accessories with a boho chic and romantic style.",
+          "style_description": "The brand's aesthetic is defined by a gentle, artistic visual language that uses a warm color palette, whimsical graphic prints, and soft, comfortable materials to create an effortless, romantic look.",
+          "cultural_relevance": [
+            "French Contemporary Style",
+            "Slow Fashion Movement"
+          ],
+          "known_partnerships": [],
+          "market_positioning": "Accessible contemporary fashion brand offering high-quality, creatively styled staples with a distinctively French romantic appeal.",
+          "short_descriptions": [
+            {
+              "value": "Une marque de mode poétique et colorée, connue pour ses textures douces, ses imprimés joyeux et son approche légère du style français décontracté.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Eine poetische und farbenfrohe Modemarke, bekannt für weiche Texturen, fröhliche Drucke und einen unbeschwerten, mühelosen französischen Stil.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "A poetic and colorful clothing brand known for soft textures, cheerful prints, and a lighthearted approach to effortless French style.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Una marca de ropa poética y colorida, conocida por sus texturas suaves, estampados alegres y un enfoque desenfadado del estilo francés sin esfuerzo.",
+              "languages": [
+                "es"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 300,
+          "price_range_usd_min": 60,
+          "target_income_level": [
+            "Medium",
+            "Medium to High"
+          ],
+          "aesthetic_properties": [
+            "Soft Pastels",
+            "Whimsical Prints",
+            "Natural Textures",
+            "Hand-Drawn Patterns",
+            "Feminine Silhouettes"
+          ],
+          "category_description": "A direct-to-consumer fashion brand offering accessible, design-led apparel and accessories that occupy the contemporary, feminine-chic segment of the market.",
+          "headquarters_address": "Paris, France",
+          "interest_adjacencies": [
+            "Interior Design",
+            "Handmade Crafts",
+            "Botanical Illustration",
+            "Slow Living",
+            "French Cinema"
+          ],
+          "situational_contexts": "Casual daily wear, weekend brunches, relaxed work environments, and light social gatherings where a touch of warmth and feminine charm is desired.",
+          "aspirational_lifestyle": [
+            "Parisian Leisure",
+            "Creative Exploration",
+            "Curated Living",
+            "Meaningful Experiences"
+          ],
+          "sustainability_initiatives": [
+            "Supply Chain Transparency",
+            "Focus On Natural Fibers"
+          ],
+          "cultural_context_description": "Deeply rooted in the contemporary French aesthetic, the brand embodies a lighthearted, artistic lifestyle characterized by a love for color and poetic simplicity.",
+          "target_demographics_description": "Women, primarily young adults to middle-aged, who appreciate accessible premium fashion with a creative and feminine sensibility."
+        },
+        "popularity": 0.8794307606245021,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion:casual",
+            "name": "Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:formalwear",
+            "name": "Formalwear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:soft_pastels",
+            "name": "Soft Pastels",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:whimsical_prints",
+            "name": "Whimsical Prints",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:natural_textures",
+            "name": "Natural Textures",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:hand_drawn_patterns",
+            "name": "Hand-Drawn Patterns",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:feminine_silhouettes",
+            "name": "Feminine Silhouettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:parisian_leisure",
+            "name": "Parisian Leisure",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:creative_exploration",
+            "name": "Creative Exploration",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:curated_living",
+            "name": "Curated Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:meaningful_experiences",
+            "name": "Meaningful Experiences",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:retail_brand",
+            "name": "Retail Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:sezane",
+            "name": "Sezane",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:maje",
+            "name": "Maje",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:sandro",
+            "name": "Sandro",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:ba_sh",
+            "name": "Ba&sh",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:claudie_pierlot",
+            "name": "Claudie Pierlot",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:creativity",
+            "name": "Creativity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:optimism",
+            "name": "Optimism",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:quality",
+            "name": "Quality",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:authenticity",
+            "name": "Authenticity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:accessibility",
+            "name": "Accessibility",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:french_contemporary_style",
+            "name": "French Contemporary Style",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:slow_fashion_movement",
+            "name": "Slow Fashion Movement",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:urban_creative_professionals",
+            "name": "Urban Creative Professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:bohemian_chic_enthusiasts",
+            "name": "Bohemian-Chic Enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:french_style_seekers",
+            "name": "French Style Seekers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:nature",
+            "name": "Nature",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:artistic_illustrations",
+            "name": "Artistic Illustrations",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:parisian_street_style",
+            "name": "Parisian Street Style",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:vintage_textiles",
+            "name": "Vintage Textiles",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:poetic",
+            "name": "Poetic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:cheerful",
+            "name": "Cheerful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:warm",
+            "name": "Warm",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:gentle",
+            "name": "Gentle",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:playful",
+            "name": "Playful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:contemporary",
+            "name": "Contemporary",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+            "name": "Ready-to-Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:retail",
+            "name": "Retail",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:lifestyle_bloggers",
+            "name": "Lifestyle Bloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:artistic_creators",
+            "name": "Artistic Creators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:minimalist_stylists",
+            "name": "Minimalist Stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fashion_editors",
+            "name": "Fashion Editors",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:creative_entrepreneurs",
+            "name": "Creative Entrepreneurs",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:interior_design",
+            "name": "Interior Design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:handmade_crafts",
+            "name": "Handmade Crafts",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:botanical_illustration",
+            "name": "Botanical Illustration",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:slow_living",
+            "name": "Slow Living",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:french_cinema",
+            "name": "French Cinema",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:france",
+            "name": "France",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:europe",
+            "name": "Europe",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:poetic",
+            "name": "Poetic",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:colorful",
+            "name": "Colorful",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:french_style",
+            "name": "French Style",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:knitwear",
+            "name": "Knitwear",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:whimsy",
+            "name": "Whimsy",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:city_living",
+            "name": "City Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:creative_work",
+            "name": "Creative Work",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:casual_weekends",
+            "name": "Casual Weekends",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:artistic_hobbies",
+            "name": "Artistic Hobbies",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:socializing",
+            "name": "Socializing",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:mainstream",
+            "name": "Mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:mohair",
+            "name": "Mohair",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:wool",
+            "name": "Wool",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:cotton",
+            "name": "Cotton",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:silk",
+            "name": "Silk",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:viscose",
+            "name": "Viscose",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:bohemian_chic",
+            "name": "Bohemian-Chic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:romantic",
+            "name": "Romantic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:soft_minimalist",
+            "name": "Soft Minimalist",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:casual_parisian",
+            "name": "Casual Parisian",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:knitwear",
+            "name": "Knitwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:outerwear",
+            "name": "Outerwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:jewelry",
+            "name": "Jewelry",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:knitwear",
+            "name": "Knitwear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:dresses",
+            "name": "Dresses",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:blouses",
+            "name": "Blouses",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:skirts",
+            "name": "Skirts",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:trousers",
+            "name": "Trousers",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:coats",
+            "name": "Coats",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:jewelry",
+            "name": "Jewelry",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:scarves",
+            "name": "Scarves",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:cardigans",
+            "name": "Cardigans",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:jumpers",
+            "name": "Jumpers",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:wholesale",
+            "name": "Wholesale",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:mohair_cardigan",
+            "name": "Mohair Cardigan",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:printed_blouse",
+            "name": "Printed Blouse",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:rouje",
+            "name": "Rouje",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:essentiel_antwerp",
+            "name": "Essentiel Antwerp",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:american_vintage",
+            "name": "American Vintage",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:suncoo",
+            "name": "Suncoo",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:petite_mendigote",
+            "name": "Petite Mendigote",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:subsidiary:qloo:feeka",
+            "name": "Feeka",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:supply_chain_transparency",
+            "name": "Supply Chain Transparency",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:focus_on_natural_fibers",
+            "name": "Focus On Natural Fibers",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:middle_aged",
+            "name": "Middle-Aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium",
+            "name": "Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8478507980717556,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "wikidata": [
+            {
+              "id": "Q104197445"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "despetitshauts"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Shinola Detroit",
+        "entity_id": "83A6EB80-21D1-4A7F-8DB6-9A9F583A3CEE",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [
+            {
+              "value": "Shinola",
+              "languages": [
+                "it",
+                "de",
+                "nl",
+                "es",
+                "es_ar",
+                "hi",
+                "en_au",
+                "fr",
+                "zh"
+              ]
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/83A6EB80-21D1-4A7F-8DB6-9A9F583A3CEE-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": "The only thing we make is Shinola.",
+          "industry": null,
+          "keywords": [
+            "Detroit",
+            "American-Made",
+            "Horology",
+            "Leathercraft",
+            "Manufacturing"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Urban Living",
+            "Modern Professional",
+            "Weekend Exploration"
+          ],
+          "brand_type": [
+            "Product Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Retail",
+            "Hospitality",
+            "Manufacturing"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Craftsmanship",
+            "American Manufacturing",
+            "Durability",
+            "Quality"
+          ],
+          "description": "Founded in Detroit in 2011, this brand is dedicated to reviving American manufacturing through the assembly of high-quality watches and the creation of durable leather goods. By operating a watch factory in the United States, it positions itself at the intersection of traditional artisan craft and modern industrial design. Its diverse product range spans from timepieces and fine jewelry to luxury leather items and bicycles. The brand serves a sophisticated audience that values longevity, provenance, and the story of urban revitalization in its personal accessories.",
+          "key_markets": [
+            "United States"
+          ],
+          "founded_year": 2011,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Authentic",
+            "Reliable",
+            "Sophisticated",
+            "Timeless"
+          ],
+          "personal_style": [
+            "Classic",
+            "Minimalist",
+            "Professional"
+          ],
+          "similar_brands": [
+            "Filson",
+            "Farer",
+            "Autodromo",
+            "Nomad",
+            "Leatherology"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Adults",
+            "Middle-Aged"
+          ],
+          "audience_identity": "People who value American craftsmanship, heritage, and the stories behind products, often drawn to high-quality goods that balance utility with a rugged, classic aesthetic.",
+          "competitor_brands": [
+            "Hamilton Watch",
+            "Tissot",
+            "Jack Mason",
+            "Ted Baker",
+            "Coach"
+          ],
+          "customer_segments": [
+            "Urban Professionals",
+            "Heritage Design Enthusiasts",
+            "Gift Buyers"
+          ],
+          "influencer_appeal": [
+            "Designers",
+            "Lifestyle Photographers",
+            "Urban Entrepreneurs",
+            "Craftsmen",
+            "Travel Enthusiasts"
+          ],
+          "products_services": [
+            "Watches",
+            "Leather Bags",
+            "Jewelry",
+            "Bicycles",
+            "Leather Wallets",
+            "Notebooks",
+            "Travel Gear"
+          ],
+          "short_description": "Shinola Detroit is an American company known for high-quality watches, leather goods, jewelry, and a boutique hotel, all crafted with a focus on durability and style.",
+          "style_description": "A clean, functional, and classic aesthetic that combines industrial precision with warm, high-quality natural materials.",
+          "cultural_relevance": [
+            "American Industrial Revival",
+            "Minimalism",
+            "Slow Living"
+          ],
+          "known_partnerships": [
+            "Filson",
+            "Disney"
+          ],
+          "market_positioning": "Premium American lifestyle brand offering high-quality, domestically assembled goods with a focus on heritage and craftsmanship.",
+          "short_descriptions": [
+            {
+              "value": "An American brand crafting high-quality watches, leather goods, and lifestyle products, rooted in the spirit of manufacturing excellence from Detroit.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Una marca estadounidense que crea relojes, artículos de cuero y productos de estilo de vida de alta calidad, arraigada en el espíritu de la excelencia manufacturera de Detroit.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Une marque américaine qui conçoit des montres, de la maroquinerie et des produits de style de vie de haute qualité, ancrée dans l'excellence manufacturière de Détroit.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Eine amerikanische Marke, die hochwertige Uhren, Lederwaren und Lifestyle-Produkte herstellt und auf der Tradition der Fertigungsqualität aus Detroit aufbaut.",
+              "languages": [
+                "de"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 995,
+          "price_range_usd_min": 295,
+          "target_income_level": [
+            "Medium to High",
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Industrial Design",
+            "Minimalist",
+            "Rugged Elegance",
+            "Classic Proportions",
+            "Natural Textures"
+          ],
+          "category_description": "A premium American lifestyle brand specializing in hand-assembled timepieces, leather goods, and durable accessories that emphasize domestic manufacturing and timeless design.",
+          "headquarters_address": "Cass Corridor, Detroit, United States",
+          "interest_adjacencies": [
+            "Industrial Design",
+            "American Manufacturing",
+            "Horology",
+            "Travel",
+            "Artisan Craftsmanship"
+          ],
+          "situational_contexts": "Gift-giving for milestones, daily professional use that requires durable goods, and moments where one wants to signal an appreciation for understated, intentional design.",
+          "aspirational_lifestyle": [
+            "Creative Industry Success",
+            "Supportive Civic Engagement",
+            "Mindful Consumption"
+          ],
+          "sustainability_initiatives": [
+            "Domestic Production",
+            "Durable Goods"
+          ],
+          "cultural_context_description": "The brand is deeply embedded in the narrative of Detroit's industrial resurgence, celebrating the return of American-made quality to modern consumer life.",
+          "target_demographics_description": "Professionals and design-conscious adults with a medium to high income who value durable, high-quality, and classically styled goods."
+        },
+        "popularity": 0.9216405892424268,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion:accessories:eyewear",
+            "name": "Eyewear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:accessories:watch",
+            "name": "Watch",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:accessories:bags_and_leather",
+            "name": "Bags & Leather",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:industrial_design",
+            "name": "Industrial Design",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:rugged_elegance",
+            "name": "Rugged Elegance",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:classic_proportions",
+            "name": "Classic Proportions",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:natural_textures",
+            "name": "Natural Textures",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:creative_industry_success",
+            "name": "Creative Industry Success",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:supportive_civic_engagement",
+            "name": "Supportive Civic Engagement",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:mindful_consumption",
+            "name": "Mindful Consumption",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:product_brand",
+            "name": "Product Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:permanent",
+            "name": "Permanent",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:hamilton_watch",
+            "name": "Hamilton Watch",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:tissot",
+            "name": "Tissot",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:jack_mason",
+            "name": "Jack Mason",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:ted_baker",
+            "name": "Ted Baker",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:coach",
+            "name": "Coach",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:craftsmanship",
+            "name": "Craftsmanship",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:american_manufacturing",
+            "name": "American Manufacturing",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:durability",
+            "name": "Durability",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:quality",
+            "name": "Quality",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:american_industrial_revival",
+            "name": "American Industrial Revival",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:minimalism",
+            "name": "Minimalism",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:slow_living",
+            "name": "Slow Living",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:urban_professionals",
+            "name": "Urban Professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:heritage_design_enthusiasts",
+            "name": "Heritage Design Enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:gift_buyers",
+            "name": "Gift Buyers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:mid_century_design",
+            "name": "Mid-Century Design",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:industrial_heritage",
+            "name": "Industrial Heritage",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:classic_horology",
+            "name": "Classic Horology",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:authentic",
+            "name": "Authentic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:reliable",
+            "name": "Reliable",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:timeless",
+            "name": "Timeless",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:premium",
+            "name": "Premium",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:casual_wear",
+            "name": "Casual Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:retail",
+            "name": "Retail",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:hospitality",
+            "name": "Hospitality",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:manufacturing",
+            "name": "Manufacturing",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:designers",
+            "name": "Designers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:lifestyle_photographers",
+            "name": "Lifestyle Photographers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:urban_entrepreneurs",
+            "name": "Urban Entrepreneurs",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:craftsmen",
+            "name": "Craftsmen",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:travel_enthusiasts",
+            "name": "Travel Enthusiasts",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:industrial_design",
+            "name": "Industrial Design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:american_manufacturing",
+            "name": "American Manufacturing",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:horology",
+            "name": "Horology",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:travel",
+            "name": "Travel",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:artisan_craftsmanship",
+            "name": "Artisan Craftsmanship",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:detroit",
+            "name": "Detroit",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:american_made",
+            "name": "American-Made",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:horology",
+            "name": "Horology",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:leathercraft",
+            "name": "Leathercraft",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:manufacturing",
+            "name": "Manufacturing",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:filson",
+            "name": "Filson",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:disney",
+            "name": "Disney",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:urban_living",
+            "name": "Urban Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:modern_professional",
+            "name": "Modern Professional",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:weekend_exploration",
+            "name": "Weekend Exploration",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:mainstream",
+            "name": "Mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:stainless_steel",
+            "name": "Stainless Steel",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:leather",
+            "name": "Leather",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:sapphire_crystal",
+            "name": "Sapphire Crystal",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:classic",
+            "name": "Classic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:professional",
+            "name": "Professional",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:watches",
+            "name": "Watches",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:leather_goods",
+            "name": "Leather Goods",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:jewelry",
+            "name": "Jewelry",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:bicycles",
+            "name": "Bicycles",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:watches",
+            "name": "Watches",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:leather_bags",
+            "name": "Leather Bags",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:jewelry",
+            "name": "Jewelry",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:bicycles",
+            "name": "Bicycles",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:leather_wallets",
+            "name": "Leather Wallets",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:notebooks",
+            "name": "Notebooks",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:travel_gear",
+            "name": "Travel Gear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:wholesale",
+            "name": "Wholesale",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:the_runwell",
+            "name": "The Runwell",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:birdy_watch",
+            "name": "Birdy Watch",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:filson",
+            "name": "Filson",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:farer",
+            "name": "Farer",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:autodromo",
+            "name": "Autodromo",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:nomad",
+            "name": "Nomad",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:leatherology",
+            "name": "Leatherology",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:domestic_production",
+            "name": "Domestic Production",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:durable_goods",
+            "name": "Durable Goods",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:middle_aged",
+            "name": "Middle-Aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8472893872930304,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "shinola"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "Q7497723"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "shinola"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Make My Lemonade",
+        "entity_id": "AC31A92C-24DB-4AFF-BAED-0CA3EC8839C9",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [],
+          "image": {
+            "url": "https://images.qloo.com/i/AC31A92C-24DB-4AFF-BAED-0CA3EC8839C9-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": "When life gives you lemons, make lemonade",
+          "industry": null,
+          "keywords": [
+            "Prêt-à-porter",
+            "Ethical Production",
+            "Inclusive Sizing",
+            "Colorful",
+            "Expression"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Urban Living",
+            "Creative Work",
+            "Social Gatherings"
+          ],
+          "brand_type": [
+            "Product Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Home Decor"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Inclusivity",
+            "Ethics",
+            "Creativity",
+            "Transparency",
+            "Empowerment"
+          ],
+          "description": "An independent fashion label focused on creating joy through vibrant, ethically produced clothing available in an inclusive range of sizes. Founded on a philosophy of self-expression, the brand combines bold prints and modern cuts to empower its community. With a strong emphasis on manufacturing within Europe, it bridges the gap between creative design and responsible fashion practices.",
+          "key_markets": [
+            "France",
+            "Europe"
+          ],
+          "founded_year": 2015,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Female"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Joyful",
+            "Bold",
+            "Optimistic",
+            "Creative",
+            "Playful"
+          ],
+          "personal_style": [
+            "Eclectic",
+            "Vibrant",
+            "Creative"
+          ],
+          "similar_brands": [
+            "Maison 123",
+            "Soeur",
+            "Des Petits Hauts"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Young Adults",
+            "Adults"
+          ],
+          "audience_identity": "People who value individualistic expression, vibrant aesthetics, and ethical consumption in their daily wardrobe.",
+          "competitor_brands": [
+            "Sézane",
+            "Rouje",
+            "Ba&sh",
+            "Ganni"
+          ],
+          "customer_segments": [
+            "Creative Professionals",
+            "Fashion Enthusiasts",
+            "Eco-Conscious Consumers"
+          ],
+          "influencer_appeal": [
+            "DIY Content Creators",
+            "Body Positivity Advocates",
+            "Fashion Illustrators",
+            "Sustainable Style Bloggers"
+          ],
+          "products_services": [
+            "Dresses",
+            "Tops",
+            "Bottoms",
+            "Jumpsuits",
+            "Home Decor"
+          ],
+          "short_description": "Make My Lemonade is a fashion brand known for its stylish clothing, including popular striped dresses like the Frida rayures tennis.",
+          "style_description": "Characterized by high-energy colors, eclectic graphic prints, and expressive silhouettes that prioritize both style and inclusive fit.",
+          "cultural_relevance": [
+            "Body Positivity",
+            "Slow Fashion Movement",
+            "Maker Culture"
+          ],
+          "known_partnerships": [],
+          "market_positioning": "Ethically produced, inclusive, and creatively driven contemporary fashion brand.",
+          "short_descriptions": [
+            {
+              "value": "A creative fashion brand offering colorful, ethically made apparel with a focus on inclusivity and joyful, vibrant designs.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Une marque de mode créative proposant des vêtements colorés et éthiques, mettant l'accent sur l'inclusivité et des designs joyeux et vibrants.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Una marca de moda creativa que ofrece ropa colorida hecha éticamente, con un enfoque en la inclusión y diseños alegres y vibrantes.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Eine kreative Modemarke, die farbenfrohe, ethisch hergestellte Kleidung anbietet und den Fokus auf Inklusion sowie fröhliche, lebendige Designs legt.",
+              "languages": [
+                "de"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 250,
+          "price_range_usd_min": 50,
+          "target_income_level": [
+            "Medium",
+            "Medium to High"
+          ],
+          "aesthetic_properties": [
+            "Bold Prints",
+            "Vibrant Colors",
+            "Playful Silhouettes",
+            "Stripes",
+            "Graphic Patterns"
+          ],
+          "category_description": "A contemporary ready-to-wear fashion label offering inclusive sizing and vibrant, ethically produced collections.",
+          "headquarters_address": "Paris, France",
+          "interest_adjacencies": [
+            "DIY Fashion",
+            "Interior Design",
+            "Sustainable Lifestyle",
+            "Artistic Expression",
+            "Slow Fashion"
+          ],
+          "situational_contexts": "Everyday wear, casual outings, and creative professional environments where colorful, personality-driven clothing is appreciated.",
+          "aspirational_lifestyle": [
+            "Artistic Pursuit",
+            "Sustainable Living",
+            "Personal Empowerment"
+          ],
+          "sustainability_initiatives": [
+            "Made In Europe",
+            "Ethical Sourcing",
+            "Local / Domestic Production",
+            "Slow Fashion"
+          ],
+          "cultural_context_description": "Inhabits the intersection of the slow fashion movement and the body positivity community, celebrating self-expression and ethical production.",
+          "target_demographics_description": "Primarily targets adult women seeking inclusive sizing and ethically made, creative fashion pieces within a middle-to-high income range."
+        },
+        "popularity": 0.9269803868386703,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:casual",
+            "name": "Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:bold_prints",
+            "name": "Bold Prints",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:vibrant_colors",
+            "name": "Vibrant Colors",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:playful_silhouettes",
+            "name": "Playful Silhouettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:stripes",
+            "name": "Stripes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:graphic_patterns",
+            "name": "Graphic Patterns",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:artistic_pursuit",
+            "name": "Artistic Pursuit",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:sustainable_living",
+            "name": "Sustainable Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:personal_empowerment",
+            "name": "Personal Empowerment",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:product_brand",
+            "name": "Product Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:capsule",
+            "name": "Capsule",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:sezane",
+            "name": "Sézane",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:rouje",
+            "name": "Rouje",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:ba_sh",
+            "name": "Ba&sh",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:ganni",
+            "name": "Ganni",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:inclusivity",
+            "name": "Inclusivity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:ethics",
+            "name": "Ethics",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:creativity",
+            "name": "Creativity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:transparency",
+            "name": "Transparency",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:empowerment",
+            "name": "Empowerment",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:body_positivity",
+            "name": "Body Positivity",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:slow_fashion_movement",
+            "name": "Slow Fashion Movement",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:maker_culture",
+            "name": "Maker Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:creative_professionals",
+            "name": "Creative Professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:fashion_enthusiasts",
+            "name": "Fashion Enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:eco_conscious_consumers",
+            "name": "Eco-Conscious Consumers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:graphic_design",
+            "name": "Graphic Design",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:retro_aesthetics",
+            "name": "Retro Aesthetics",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:artistic_prints",
+            "name": "Artistic Prints",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:joyful",
+            "name": "Joyful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:bold",
+            "name": "Bold",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:optimistic",
+            "name": "Optimistic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:creative",
+            "name": "Creative",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:playful",
+            "name": "Playful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+            "name": "Ready-to-Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:sustainable_fashion",
+            "name": "Sustainable Fashion",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:slow_fashion",
+            "name": "Slow Fashion",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:home_decor",
+            "name": "Home Decor",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:diy_content_creators",
+            "name": "DIY Content Creators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:body_positivity_advocates",
+            "name": "Body Positivity Advocates",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fashion_illustrators",
+            "name": "Fashion Illustrators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:sustainable_style_bloggers",
+            "name": "Sustainable Style Bloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:diy_fashion",
+            "name": "DIY Fashion",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:interior_design",
+            "name": "Interior Design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:sustainable_lifestyle",
+            "name": "Sustainable Lifestyle",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:artistic_expression",
+            "name": "Artistic Expression",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:slow_fashion",
+            "name": "Slow Fashion",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:france",
+            "name": "France",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:europe",
+            "name": "Europe",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:pret_a_porter",
+            "name": "Prêt-à-porter",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:ethical_production",
+            "name": "Ethical Production",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:inclusive_sizing",
+            "name": "Inclusive Sizing",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:colorful",
+            "name": "Colorful",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:expression",
+            "name": "Expression",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:urban_living",
+            "name": "Urban Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:creative_work",
+            "name": "Creative Work",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:social_gatherings",
+            "name": "Social Gatherings",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:challenger",
+            "name": "Challenger",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:cotton",
+            "name": "Cotton",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:viscose",
+            "name": "Viscose",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:linen",
+            "name": "Linen",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:vibrant",
+            "name": "Vibrant",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:creative",
+            "name": "Creative",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:dresses",
+            "name": "Dresses",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:outerwear",
+            "name": "Outerwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:jumpsuits",
+            "name": "Jumpsuits",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:home_decor",
+            "name": "Home Decor",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:dresses",
+            "name": "Dresses",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:tops",
+            "name": "Tops",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:bottoms",
+            "name": "Bottoms",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:jumpsuits",
+            "name": "Jumpsuits",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:home_decor",
+            "name": "Home Decor",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:frida_rayures_tennis_dress",
+            "name": "Frida Rayures Tennis Dress",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:maison_123",
+            "name": "Maison 123",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:soeur",
+            "name": "Soeur",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:des_petits_hauts",
+            "name": "Des Petits Hauts",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:made_in_europe",
+            "name": "Made In Europe",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:ethical_sourcing",
+            "name": "Ethical Sourcing",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:local_domestic_production",
+            "name": "Local / Domestic Production",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:slow_fashion",
+            "name": "Slow Fashion",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium",
+            "name": "Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8452527309329538,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "makemylemonade"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "makemylemonade"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

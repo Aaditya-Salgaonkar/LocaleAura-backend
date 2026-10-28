@@ -1,0 +1,3843 @@
+{
+  "success": true,
+  "results": {
+    "entities": [
+      {
+        "name": "Sampha",
+        "entity_id": "8282575C-E987-4265-A3F9-E137D0692F5C",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "akas": [
+            {
+              "value": "サンファ",
+              "languages": [
+                "ja"
+              ]
+            },
+            {
+              "value": "Sampha",
+              "languages": [
+                "pt_pt",
+                "pt",
+                "tr"
+              ]
+            },
+            {
+              "value": "萨姆法",
+              "languages": [
+                "zh"
+              ]
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/8282575C-E987-4265-A3F9-E137D0692F5C-420x-auto.jpg"
+          },
+          "vocals": "Sampha's vocals are intimate and fragile, characterized by a warm tenor that easily shifts into a plaintive, emotional falsetto. He often uses close-miked, breathy delivery and subtle vocal layering to convey vulnerability; his singing emphasizes phrasing, micro-dynamics and timbral nuance over overt power.",
+          "aliases": [
+            "Sampha"
+          ],
+          "members": [],
+          "is_group": false,
+          "biography": "Born Sampha Sisay in Morden, South London, Sampha began making music in his teens, working as a remixer and keyboardist in the late 2000s. He gained early attention with a 2009 remix of the xx's \"Basic Space,\" and over 2010–2011 forged close ties with the U.K. electronic scene, collaborating with SBTRKT, Jessie Ware and Lil Silva while releasing his first solo EP Sundanza on Young Turks. After high-profile features on Drake's \"Too Much\" and Beyoncé's \"Mine,\" he issued the Dual EP (2013) and continued session and production work for major artists. His debut album Process (2017), written during a period of bereavement over his mother's death, earned critical acclaim, a Top Ten U.K. chart position and the 2017 Mercury Prize, establishing him as both a solo artist and a valued collaborator across genres.",
+          "known_for": "Intimate, emotionally raw vocals, piano-driven minimalist productions, high-profile collaborations, and the Mercury Prize-winning album Process.",
+          "start_year": 2009,
+          "voice_type": [
+            "Tenor"
+          ],
+          "description": "Sampha (Sampha Sisay) is a British singer, songwriter, keyboardist and producer celebrated for fragile, emotionally charged vocals and sparse, artful production that blends soul, R&B and electronic music. He emerged from the South London scene as a sought-after collaborator and remixer before releasing his Mercury Prize–winning debut album Process (2017). Alongside his solo work he has contributed to recordings by SBTRKT, Jessie Ware, Drake, Beyoncé, Kanye West, Frank Ocean and many others, becoming a pivotal figure in contemporary British alternative R&B and electronic-soul.",
+          "instruments": [
+            "Vocals",
+            "Piano",
+            "Keyboards",
+            "Synthesizer",
+            "Sampler",
+            "Percussion",
+            "Production"
+          ],
+          "vocal_range": "Tenor with expressive falsetto and high head voice",
+          "collaborators": [
+            "SBTRKT",
+            "Jessie Ware",
+            "Drake",
+            "BeyoncC3A9",
+            "Kanye West",
+            "Frank Ocean",
+            "Solange",
+            "FKA Twigs",
+            "Alicia Keys",
+            "Florence + The Machine",
+            "Lil Silva",
+            "Actress",
+            "Richard Russell",
+            "Everything Is Recorded",
+            "Loyle Carner",
+            "Fred Again..",
+            "Headie One"
+          ],
+          "influenced_by": [
+            "Soul And Gospel Traditions",
+            "Electronic Producers",
+            "Contemporary R&B Artists"
+          ],
+          "notable_songs": [
+            "Blood On Me",
+            "Timmy's Prayer",
+            "No One Knows Me (Like The Piano)",
+            "Plastic 100C2B0C"
+          ],
+          "lyrical_themes": [
+            "Grief",
+            "Family",
+            "Loss",
+            "Memory",
+            "Introspection",
+            "Identity",
+            "Love"
+          ],
+          "place_of_birth": "Morden, Merton, London, England,",
+          "primary_genres": [
+            "Singer-Songwriter",
+            "Soul",
+            "Alternative R&B",
+            "Electronic",
+            "Art Pop"
+          ],
+          "characteristics": [
+            "Soulful",
+            "Intimate",
+            "Vulnerable",
+            "Atmospheric",
+            "Minimalist",
+            "Emotional",
+            "Artful",
+            "Textured",
+            "Introspective",
+            "Piano-Driven"
+          ],
+          "cultural_impact": "Sampha helped define a strand of British alternative R&B and electronic-soul in the 2010s, gaining influence both as a solo artist and as a collaborator on major releases. His Mercury Prize-winning album Process raised the profile of intimate, piano-led electronic soul and cemented his reputation as a go-to vocalist/producer for artists across mainstream and underground scenes.",
+          "obscurity_scale": [
+            "3"
+          ],
+          "complexity_scale": [
+            "7"
+          ],
+          "secondary_genres": [
+            "UK Garage",
+            "Downtempo",
+            "Ambient",
+            "Neo-Soul",
+            "Trip Hop"
+          ],
+          "associated_brands": [
+            "Young Turks"
+          ],
+          "genres_influenced": [
+            "Alternative R&B",
+            "Art Pop",
+            "Contemporary Soul",
+            "UK Electronic"
+          ],
+          "performance_style": "Sparse, piano- and keyboard-led live performances that emphasize close, emotional vocal delivery; often performed with a small band or as a solo artist using keyboards, loops and subtle production elements to recreate studio textures.",
+          "artists_influenced": [
+            "Fred Again..",
+            "Loyle Carner",
+            "Arlo Parks",
+            "Contemporary U.K. Alternative R&B Artists"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Sampha is a British singer, songwriter, and producer known for his soulful voice and emotive music.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Sampha es un cantante, compositor y productor británico conocido por su voz soul y su música emotiva.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Sampha est un chanteur, auteur-compositeur et producteur britannique, connu pour sa voix soul et sa musique émotive.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Sampha ist ein britischer Sänger, Songwriter und Produzent, bekannt für seine soulige Stimme und gefühlvolle Musik.",
+              "languages": [
+                "de"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Devoted",
+            "Passionate",
+            "Introspective",
+            "Loyal",
+            "Emotionally Invested"
+          ],
+          "adjectives_for_music": [
+            "Soulful",
+            "Intimate",
+            "Minimal",
+            "Atmospheric",
+            "Emotive",
+            "Textured",
+            "Experimental",
+            "Piano-Driven",
+            "Melancholic",
+            "Artful"
+          ],
+          "lyrical_themes_description": "Sampha's lyrics frequently address personal themes — grief (notably the loss of his mother), family and memory — delivered with introspective detail and emotional honesty. His songs mix intimate storytelling with abstract imagery, examining identity, vulnerability and relationships.",
+          "adjectives_for_performance_style": [
+            "Intimate",
+            "Reserved",
+            "Emotive",
+            "Piano-Led",
+            "Minimal"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Piano-Driven Alternative R&B",
+            "Minimalist Soul",
+            "Electronic-Inflected Art Pop",
+            "Bedroom Soul",
+            "Introspective Experimental R&B"
+          ]
+        },
+        "popularity": 0.9868634043083053,
+        "tags": [
+          {
+            "id": "urn:tag:style:qloo:downtempo",
+            "name": "Downtempo",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:soul",
+            "name": "Soul",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:loyal",
+            "name": "Loyal",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:electronic_soul",
+            "name": "Electronic Soul",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:rhythm_blues",
+            "name": "Rhythm & Blues",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:genre:qloo:soul",
+            "name": "Soul",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:identity",
+            "name": "Identity",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:introspective",
+            "name": "Introspective",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:experimental_r_b",
+            "name": "Experimental R&B",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:introspection",
+            "name": "Introspection",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:singer_songwriter",
+            "name": "Singer & Songwriter",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:trip_hop",
+            "name": "Trip Hop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:radiohead",
+            "name": "Radiohead",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:uk_garage",
+            "name": "Uk Garage",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:trip_hop",
+            "name": "Trip Hop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:3",
+            "name": "3",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:appreciative",
+            "name": "Appreciative",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:synthesizer",
+            "name": "Synthesizer",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:piano",
+            "name": "Piano",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:emotive",
+            "name": "Emotive",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:family",
+            "name": "Family",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:introspective",
+            "name": "Introspective",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:electronic_soul",
+            "name": "Electronic Soul",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:passionate",
+            "name": "Passionate",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:fela_kuti",
+            "name": "Fela Kuti",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:frank_ocean",
+            "name": "Frank Ocean",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:loss",
+            "name": "Loss",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:melancholic",
+            "name": "Melancholic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:experimental_r_b",
+            "name": "Experimental R&B",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:prince",
+            "name": "Prince",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:devoted",
+            "name": "Devoted",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:emotionally_invested",
+            "name": "Emotionally Invested",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:minimal",
+            "name": "Minimal",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:emotive",
+            "name": "Emotive",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:textured",
+            "name": "Textured",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:piano_driven",
+            "name": "Piano-Driven",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:melancholic",
+            "name": "Melancholic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:artful",
+            "name": "Artful",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:reserved",
+            "name": "Reserved",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:emotive",
+            "name": "Emotive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:piano_led",
+            "name": "Piano-Led",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:minimal",
+            "name": "Minimal",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:vulnerable",
+            "name": "Vulnerable",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:emotional",
+            "name": "Emotional",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:artful",
+            "name": "Artful",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:textured",
+            "name": "Textured",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:piano_driven",
+            "name": "Piano-Driven",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:complexity_scale:qloo:7",
+            "name": "7",
+            "type": "urn:tag:complexity_scale:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:piano_driven_alternative_r_b",
+            "name": "Piano-Driven Alternative R&B",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:minimalist_soul",
+            "name": "Minimalist Soul",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:electronic_inflected_art_pop",
+            "name": "Electronic-Inflected Art Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:bedroom_soul",
+            "name": "Bedroom Soul",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:introspective_experimental_r_b",
+            "name": "Introspective Experimental R&B",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:art_pop",
+            "name": "Art Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:contemporary_soul",
+            "name": "Contemporary Soul",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:uk_electronic",
+            "name": "UK Electronic",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:soul_and_gospel_traditions",
+            "name": "Soul And Gospel Traditions",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:electronic_producers",
+            "name": "Electronic Producers",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:contemporary_r_b_artists",
+            "name": "Contemporary R&B Artists",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:keyboards",
+            "name": "Keyboards",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:sampler",
+            "name": "Sampler",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:percussion",
+            "name": "Percussion",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:production",
+            "name": "Production",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:grief",
+            "name": "Grief",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:memory",
+            "name": "Memory",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:singer_songwriter",
+            "name": "Singer-Songwriter",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:art_pop",
+            "name": "Art Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:uk_garage",
+            "name": "UK Garage",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:downtempo",
+            "name": "Downtempo",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:ambient",
+            "name": "Ambient",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:neo_soul",
+            "name": "Neo-Soul",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:voice_type:qloo:tenor",
+            "name": "Tenor",
+            "type": "urn:tag:voice_type:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9049986859653025,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Sampha",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm7857161"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "sampha",
+              "listeners": 634436,
+              "scrobbles": 19043051
+            }
+          ],
+          "spotify": [
+            {
+              "id": "2WoVwexZuODvclzULjPQtm",
+              "verified": true,
+              "followers": 479801,
+              "last_release": 2020,
+              "first_release": 2011,
+              "monthly_listeners": 1123016
+            }
+          ],
+          "twitter": [
+            {
+              "id": "sampha"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "samphamusic"
+            },
+            {
+              "id": "sampha-144200692175"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q15629610"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "samphaaa"
+            },
+            {
+              "id": "sampha"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "130c2184-14f2-4180-a216-04b5a333be57",
+              "artist_type": "Person"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Jessie Ware",
+        "entity_id": "E94C6A53-6B53-4E08-AADF-13E32E0935C7",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/E94C6A53-6B53-4E08-AADF-13E32E0935C7-420x-auto.jpg"
+          },
+          "vocals": "Warm, smooth and controlled with an intimate, breathy delivery; often restrained rather than overtly ornamented, with clear diction and a softly soulful tone that sits well over both sparse and lush electronic arrangements.",
+          "aliases": [
+            "Jessie Ware"
+          ],
+          "members": [],
+          "is_group": false,
+          "biography": "Born in Hammersmith in 1984, Jessie Ware began her career singing on releases by electronic producers before issuing her own material. She broke through with her 2012 debut album Devotion, which introduced her restrained, emotive vocal style and a modern soul-pop aesthetic. Subsequent albums—Tough Love (2014), Glasshouse (2017), What's Your Pleasure? (2020) and That! Feels Good! (2023)—expanded her palette into disco and dance-pop while retaining an emphasis on lush arrangements and personal songwriting. Outside of music, Ware co-hosts the popular Table Manners podcast with her mother, bringing her public profile into lifestyle and culture spaces as well as music.",
+          "known_for": "Warm, polished vocals; blending pop, R&B and soul with electronic and disco production; sophisticated, elegant arrangements and tasteful, understated performances. Also known as co-host of the Table Manners podcast.",
+          "start_year": 2009,
+          "voice_type": [
+            "Mezzo-Soprano"
+          ],
+          "description": "Jessie Ware is a British singer-songwriter whose work bridges polished pop, contemporary R&B and soulful electronic production. Rising to prominence in the early 2010s with her debut album Devotion, she has released a string of critically acclaimed albums—Tough Love, Glasshouse, What's Your Pleasure? and That! Feels Good!—that move between intimate balladry and dancefloor-facing disco-pop. Ware is also known for her warm, controlled voice, sophisticated production choices and a popular food-and-culture podcast she co-hosts with her mother.",
+          "instruments": [
+            "Vocals",
+            "Piano",
+            "Keyboards",
+            "Guitar"
+          ],
+          "collaborators": [
+            "SBTRKT",
+            "Joker",
+            "Dave Okumu"
+          ],
+          "date_of_birth": "1984-10-15",
+          "influenced_by": [
+            "Sade",
+            "Aretha Franklin",
+            "Prince",
+            "Annie Lennox",
+            "Anita Baker",
+            "Luther Vandross"
+          ],
+          "notable_songs": [
+            "Wildest Moments",
+            "Say You Love Me",
+            "Tough Love",
+            "Spotlight",
+            "Save a Kiss"
+          ],
+          "lyrical_themes": [
+            "Love",
+            "Desire",
+            "Intimacy",
+            "Heartbreak",
+            "Empowerment",
+            "Motherhood",
+            "Domestic Life",
+            "Self-Reflection",
+            "Nightlife",
+            "Loneliness",
+            "Sensuality"
+          ],
+          "place_of_birth": "Hammersmith, Hammersmith and Ful",
+          "primary_genres": [
+            "Pop",
+            "R&B",
+            "Soul",
+            "Electronic",
+            "Sophisti-Pop",
+            "Disco-Pop"
+          ],
+          "characteristics": [
+            "Smooth",
+            "Elegant",
+            "Soulful",
+            "Polished",
+            "Sophisticated",
+            "Intimate",
+            "Refined",
+            "Sensual",
+            "Versatile"
+          ],
+          "cultural_impact": "Jessie Ware helped popularize a polished, adult-oriented strand of British pop that fuses soul and electronic production; her 2020 album What's Your Pleasure? in particular influenced the modern disco revival and encouraged pop artists to marry dancefloor sonics with sophisticated songwriting. She also broadened her cultural reach through the Table Manners podcast, bringing music-adjacent lifestyle content to a mainstream audience.",
+          "obscurity_scale": [
+            "3"
+          ],
+          "complexity_scale": [
+            "5"
+          ],
+          "secondary_genres": [
+            "Dance-Pop",
+            "House",
+            "Art Pop",
+            "Downtempo",
+            "Nu-Disco",
+            "Electropop",
+            "Contemporary R&B"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "Nu-Disco",
+            "Sophisti-Pop",
+            "Contemporary R&B",
+            "Disco-Pop",
+            "Electropop"
+          ],
+          "performance_style": "Vocal-forward, stylish and relatively restrained stagecraft that favors strong singing and connection over large-scale spectacle; can shift between band-backed intimate sets and disco-inflected, choreography-light dance shows with electronic backing.",
+          "artists_influenced": [],
+          "short_descriptions": [
+            {
+              "value": "Jessie Ware es una cantante y compositora británica conocida por su fusión suave de pop, R&B y soul.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Jessie Ware est une auteure-compositrice-interprète britannique, connue pour son mélange élégant de pop, R&B et soul.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Jessie Ware ist eine britische Singer-Songwriterin, bekannt für ihre geschmeidige Mischung aus Pop, R&B und Soul.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Jessie Ware is a British singer-songwriter known for her smooth blend of pop, R&B, and soul music.",
+              "languages": [
+                "en"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Devoted",
+            "Discerning",
+            "Sophisticated",
+            "Loyal",
+            "Adult"
+          ],
+          "adjectives_for_music": [
+            "Soulful",
+            "Elegant",
+            "Polished",
+            "Atmospheric",
+            "Danceable",
+            "Intimate",
+            "Sophisticated"
+          ],
+          "lyrical_themes_description": "Ware's lyrics typically explore grown-up aspects of relationships and desire—intimacy, longing, infidelity, emotional honesty—alongside reflections on family life and motherhood. Her later work blends sensual, hedonistic disco motifs with introspective takes on love and selfhood.",
+          "adjectives_for_performance_style": [
+            "Intimate",
+            "Polished",
+            "Elegant",
+            "Seductive",
+            "Controlled"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Sophisti-Pop",
+            "Electronic-Soul",
+            "Disco-Revival",
+            "Art-Pop",
+            "Contemporary R&B"
+          ]
+        },
+        "popularity": 0.9967297773758266,
+        "tags": [
+          {
+            "id": "urn:tag:style:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:loyal",
+            "name": "Loyal",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:sophisti_pop",
+            "name": "Sophisti-Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:sade",
+            "name": "Sade",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:intimacy",
+            "name": "Intimacy",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:diverse",
+            "name": "Diverse",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:dance_pop",
+            "name": "Dance Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:3",
+            "name": "3",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:smooth",
+            "name": "Smooth",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:engaging",
+            "name": "Engaging",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:elegant",
+            "name": "Elegant",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:electropop",
+            "name": "Electropop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:empowerment",
+            "name": "Empowerment",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:soul_and_r_b_legends",
+            "name": "Soul and R&B Legends",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:elegant",
+            "name": "Elegant",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:pop",
+            "name": "Pop",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:sophisti_pop",
+            "name": "Sophisti-Pop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:passionate",
+            "name": "Passionate",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:pop",
+            "name": "Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:self_reflection",
+            "name": "Self Reflection",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:emotional",
+            "name": "Emotional",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:polished",
+            "name": "Polished",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:piano",
+            "name": "Piano",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:soul",
+            "name": "Soul",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:soul",
+            "name": "Soul",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:dance_pop",
+            "name": "Dance Pop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:r_b",
+            "name": "R & B",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:anita_baker",
+            "name": "Anita Baker",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:voice_type:qloo:alto",
+            "name": "Alto",
+            "type": "urn:tag:voice_type:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:contemporary_r_b",
+            "name": "Contemporary R&B",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:prince",
+            "name": "Prince",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:smooth",
+            "name": "Smooth",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:electropop",
+            "name": "Electropop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:polished",
+            "name": "Polished",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:relationships",
+            "name": "Relationships",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:house",
+            "name": "House",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:contemporary_r_b",
+            "name": "Contemporary R&B",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:sophisti_pop",
+            "name": "Sophisti-Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:genre:qloo:electropop",
+            "name": "Electropop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:emotional",
+            "name": "Emotional",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:devoted",
+            "name": "Devoted",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:discerning",
+            "name": "Discerning",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:adult",
+            "name": "Adult",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:elegant",
+            "name": "Elegant",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:polished",
+            "name": "Polished",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:danceable",
+            "name": "Danceable",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:seductive",
+            "name": "Seductive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:controlled",
+            "name": "Controlled",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:refined",
+            "name": "Refined",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:sensual",
+            "name": "Sensual",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:versatile",
+            "name": "Versatile",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:complexity_scale:qloo:5",
+            "name": "5",
+            "type": "urn:tag:complexity_scale:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:electronic_soul",
+            "name": "Electronic-Soul",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:disco_revival",
+            "name": "Disco-Revival",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:art_pop",
+            "name": "Art-Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:nu_disco",
+            "name": "Nu-Disco",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:disco_pop",
+            "name": "Disco-Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:aretha_franklin",
+            "name": "Aretha Franklin",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:annie_lennox",
+            "name": "Annie Lennox",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:luther_vandross",
+            "name": "Luther Vandross",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:keyboards",
+            "name": "Keyboards",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:guitar",
+            "name": "Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:desire",
+            "name": "Desire",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:heartbreak",
+            "name": "Heartbreak",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:motherhood",
+            "name": "Motherhood",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:domestic_life",
+            "name": "Domestic Life",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:self_reflection",
+            "name": "Self-Reflection",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:nightlife",
+            "name": "Nightlife",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:loneliness",
+            "name": "Loneliness",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:sensuality",
+            "name": "Sensuality",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:r_b",
+            "name": "R&B",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:sophisti_pop",
+            "name": "Sophisti-Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:disco_pop",
+            "name": "Disco-Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:dance_pop",
+            "name": "Dance-Pop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:art_pop",
+            "name": "Art Pop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:downtempo",
+            "name": "Downtempo",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:nu_disco",
+            "name": "Nu-Disco",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:electropop",
+            "name": "Electropop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:contemporary_r_b",
+            "name": "Contemporary R&B",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:voice_type:qloo:mezzo_soprano",
+            "name": "Mezzo-Soprano",
+            "type": "urn:tag:voice_type:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9035558820103752,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Jessie Ware",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm5334988"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "jessie%20ware",
+              "listeners": 1047028,
+              "scrobbles": 48010628
+            }
+          ],
+          "spotify": [
+            {
+              "id": "5Mq7iqCWBzofK39FBqblNc",
+              "verified": true,
+              "followers": 561893,
+              "last_release": 2020,
+              "first_release": 2010,
+              "monthly_listeners": 2535095
+            }
+          ],
+          "twitter": [
+            {
+              "id": "jessieware"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "jessieware"
+            },
+            {
+              "id": "jessiewaremusic"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q218042"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "jessieware"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "6ed40778-8d03-4a5c-ad35-93cf814627c9",
+              "artist_type": "Person"
+            }
+          ]
+        }
+      },
+      {
+        "name": "AlunaGeorge",
+        "entity_id": "9E35DC1E-1FF7-432F-85A3-FDBC61FB84B2",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/9E35DC1E-1FF7-432F-85A3-FDBC61FB84B2-420x-auto.jpg"
+          },
+          "vocals": "Aluna Francis provides smooth, soulful vocals that complement George Reid's electronic production. The vocals are characterized by clarity, emotional expression, and a blend of pop and R&B styles.",
+          "aliases": [
+            "Aluna Francis",
+            "George Reid"
+          ],
+          "members": [
+            "Aluna Francis",
+            "George Reid"
+          ],
+          "is_group": true,
+          "biography": "AlunaGeorge was formed in London in 2009 when Aluna Francis and George Reid met and began collaborating. Aluna's distinctive, soulful vocals combined with George's electronic production created a fresh sound that quickly attracted attention in the UK music scene. Their debut album 'Body Music' released in 2013, showcased their ability to blend electronic beats with R&B influences, earning critical acclaim and commercial success. Over the years, they have continued to evolve their sound, collaborating with artists like Disclosure and producing hits that blend catchy melodies with cutting-edge electronic music.",
+          "known_for": "Known for their innovative blend of electronic production and soulful vocals, creating a distinctive sound within electropop and alternative R&B.",
+          "start_year": 2009,
+          "description": "AlunaGeorge is a British electronic music duo formed in 2009, consisting of vocalist Aluna Francis and producer George Reid. They are known for their unique fusion of electropop, alternative R&B, and indie pop, characterized by smooth vocals and innovative electronic production. The duo gained recognition with their debut album 'Body Music' and have collaborated with various artists across electronic and pop genres.",
+          "instruments": [
+            "Vocals",
+            "Synthesizers",
+            "Drum Machines",
+            "Samplers"
+          ],
+          "collaborators": [
+            "Disclosure",
+            "Flume",
+            "DJ Snake",
+            "Baauer",
+            "Gorgon City"
+          ],
+          "influenced_by": [
+            "Aaliyah",
+            "Missy Elliott",
+            "M.I.A.",
+            "The xx",
+            "Soul II Soul"
+          ],
+          "notable_songs": [
+            "You Know You Like It",
+            "Attracting Flies",
+            "Your Drums, Your Love",
+            "I'm In Control",
+            "To Ü"
+          ],
+          "lyrical_themes": [
+            "Love",
+            "Relationships",
+            "Empowerment",
+            "Self-Reflection",
+            "Emotional Vulnerability"
+          ],
+          "primary_genres": [
+            "Electropop",
+            "Alternative R&B",
+            "Indie Pop"
+          ],
+          "characteristics": [
+            "Innovative",
+            "Smooth",
+            "Electronic",
+            "Experimental",
+            "Melodic"
+          ],
+          "cultural_impact": "AlunaGeorge has contributed to the popularization of alternative R&B and electropop in the UK and internationally, influencing the sound of contemporary electronic music and inspiring a new generation of artists blending genres.",
+          "obscurity_scale": [
+            "3"
+          ],
+          "secondary_genres": [
+            "Electronic",
+            "Synthpop",
+            "Future Garage"
+          ],
+          "associated_brands": [
+            "BBC Radio 1",
+            "Ministry of Sound"
+          ],
+          "genres_influenced": [
+            "Alternative R&B",
+            "Electropop",
+            "Indie Electronic"
+          ],
+          "performance_style": "AlunaGeorge's performance style combines energetic electronic beats with intimate vocal delivery, creating a dynamic and engaging live experience that blends polished production with emotional expression.",
+          "artists_influenced": [
+            "MØ",
+            "SZA",
+            "Kelela",
+            "Sabrina Claudio",
+            "Kiiara"
+          ],
+          "short_descriptions": [
+            {
+              "value": "AlunaGeorge est un duo britannique d'électro reconnu pour leur mélange d'electropop et d'alternative R&B.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "AlunaGeorge ist ein britisches Elektronik-Duo, das für seinen Mix aus Electropop und Alternative R&B bekannt ist.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "AlunaGeorge is a British electronic music duo known for their blend of electropop and alternative R&B.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "AlunaGeorge es un dúo británico de música electrónica conocido por su mezcla de electropop y alternative R&B.",
+              "languages": [
+                "es"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Loyal",
+            "Trendy",
+            "Eclectic",
+            "Youthful",
+            "Passionate"
+          ],
+          "adjectives_for_music": [
+            "Smooth",
+            "Innovative",
+            "Melodic",
+            "Electronic",
+            "Experimental"
+          ],
+          "lyrical_themes_description": "AlunaGeorge's lyrics often explore themes of love and relationships, focusing on emotional vulnerability and empowerment. Their songs reflect personal experiences and introspection, delivered with a modern, relatable perspective.",
+          "adjectives_for_performance_style": [
+            "Energetic",
+            "Engaging",
+            "Dynamic",
+            "Intimate",
+            "Polished"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Future Garage",
+            "Electropop",
+            "Alternative R&B",
+            "Indie Electronic",
+            "Synthpop"
+          ]
+        },
+        "popularity": 0.9928631814875253,
+        "tags": [
+          {
+            "id": "urn:tag:style:qloo:polished",
+            "name": "Polished",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:indie",
+            "name": "Indie",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:artist:qloo:smooth",
+            "name": "Smooth",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:self_reflection",
+            "name": "Self Reflection",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:drum_machines",
+            "name": "Drum Machines",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:future_garage",
+            "name": "Future Garage",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:relationships",
+            "name": "Relationships",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:3",
+            "name": "3",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:indie_electronic",
+            "name": "Indie Electronic",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:aaliyah",
+            "name": "Aaliyah",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:trip_hop",
+            "name": "Trip - Hop",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:soul_ii_soul",
+            "name": "Soul II Soul",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:engaging",
+            "name": "Engaging",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:the_xx",
+            "name": "The XX",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:alternative_rnb",
+            "name": "Alternative Rnb",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:audience:qloo:youthful",
+            "name": "Youthful",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:loyal",
+            "name": "Loyal",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:m_i_a",
+            "name": "M.I.A",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:synthesizers",
+            "name": "Synthesizers",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:trendy",
+            "name": "Trendy",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:dynamic",
+            "name": "Dynamic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:missy_elliott",
+            "name": "Missy Elliott",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:samplers",
+            "name": "Samplers",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:indie_electronic",
+            "name": "Indie Electronic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:indie_pop",
+            "name": "Indie Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:electropop",
+            "name": "Electropop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:uk_garage",
+            "name": "Uk Garage",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:theme:qloo:emotional_vulnerability",
+            "name": "Emotional Vulnerability",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:synthpop",
+            "name": "Synthpop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:smooth",
+            "name": "Smooth",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:influence:qloo:electropop",
+            "name": "Electropop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:electropop",
+            "name": "Electropop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:future_garage",
+            "name": "Future Garage",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:passionate",
+            "name": "Passionate",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:synthpop",
+            "name": "Synthpop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:empowerment",
+            "name": "Empowerment",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:melodic",
+            "name": "Melodic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:melodic",
+            "name": "Melodic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:m_i_a_",
+            "name": "M.I.A.",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:the_xx",
+            "name": "The xx",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:self_reflection",
+            "name": "Self-Reflection",
+            "type": "urn:tag:theme:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8995872701798072,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "AlunaGeorge",
+        "external": {
+          "lastfm": [
+            {
+              "id": "alunageorge",
+              "listeners": 636073,
+              "scrobbles": 11641859
+            }
+          ],
+          "spotify": [
+            {
+              "id": "2VAnyOxzJuSAj7XIuEOT38",
+              "verified": true,
+              "followers": 401512,
+              "monthly_listeners": 3502931
+            }
+          ],
+          "twitter": [
+            {
+              "id": "alunageorge"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "alunageorge"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q10353"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "alunageorge"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "e9da3ed5-eb9a-4f70-a0ed-4e59e380601f",
+              "artist_type": "Group"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Blood Orange",
+        "entity_id": "903722DD-1F43-443A-B449-517866708D54",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/903722DD-1F43-443A-B449-517866708D54-420x-auto.jpg"
+          },
+          "vocals": "Distinctive, often breathy and expressive tenor delivery with controlled falsetto use; vocals are intimate and conversational, frequently layered and processed to sit within lush, synth-forward arrangements.",
+          "aliases": [
+            "Blood Orange",
+            "Dev Hynes",
+            "Devonté Hynes",
+            "Lightspeed Champion"
+          ],
+          "members": [],
+          "is_group": false,
+          "biography": "Born Devonté Hynes in Ilford, Redbridge, London in 1985, he began his music career in the early 2000s (initially in the band Test Icicles) before releasing work as Lightspeed Champion and later adopting the Blood Orange moniker. As Blood Orange he released acclaimed albums that fused R&B, electronic, and indie influences and that foregrounded themes of race, sexuality, memory and diaspora. Alongside his solo career he has written, produced, and collaborated with a range of artists and has been praised for expanding the boundaries of modern R&B while bringing queer Black narratives to the center of his work.",
+          "known_for": "Genre-blending songwriting and production, lush and cinematic arrangements, and foregrounding queer Black narratives within modern R&B and pop.",
+          "start_year": 2004,
+          "voice_type": [
+            null
+          ],
+          "description": "Blood Orange is the primary musical project of British musician Devonté Hynes. Emerging from early work in bands and his solo outings as Lightspeed Champion, Hynes established Blood Orange as a platform for genre-blending music that mixes alternative R&B, indie pop, chillwave, and electronic production. His records combine polished, synth-forward arrangements with intimate, socially conscious lyricism that often addresses race, queerness, identity, and urban life. He is also an in-demand writer and producer for other artists and is noted for cinematic album concepts and lush, layered arrangements.",
+          "instruments": [
+            "Guitar",
+            "Piano",
+            "Synthesizer",
+            "Bass",
+            "Drum Machine",
+            "Vocals",
+            "Programming"
+          ],
+          "collaborators": [
+            "Solange",
+            "Sky Ferreira",
+            "Carly Rae Jepsen"
+          ],
+          "date_of_birth": "1985-12-23",
+          "influenced_by": [
+            "Prince",
+            "David Bowie",
+            "Michael Jackson",
+            "Stevie Wonder",
+            "Talking Heads"
+          ],
+          "notable_songs": [
+            "Charcoal Baby",
+            "Best To You",
+            "Sutphin Boulevard",
+            "Champagne Coast",
+            "You're Not Good Enough"
+          ],
+          "lyrical_themes": [
+            "Identity",
+            "Race",
+            "Sexuality",
+            "Love",
+            "Intimacy",
+            "Isolation",
+            "Diaspora",
+            "Memory"
+          ],
+          "place_of_birth": "Ilford, Redbridge, London, Engla",
+          "primary_genres": [
+            "R&B",
+            "Alternative R&B",
+            "Indie Pop",
+            "Chillwave",
+            "Electronic",
+            "Art Pop"
+          ],
+          "characteristics": [
+            "Eclectic",
+            "Intimate",
+            "Socially Conscious",
+            "Polished",
+            "Genre-Bending",
+            "Lush"
+          ],
+          "cultural_impact": "Blood Orange (Dev Hynes) has been influential in expanding alternative R&B and art-pop by centering queer Black perspectives and blending indie, electronic and soul traditions; his albums sparked critical conversations about race and queerness in modern pop and helped open space for other genre-defying artists.",
+          "obscurity_scale": [
+            "3"
+          ],
+          "complexity_scale": [
+            "7"
+          ],
+          "secondary_genres": [
+            "Synthpop",
+            "Soul",
+            "Funk",
+            "Neo-Soul",
+            "Bedroom Pop",
+            "Experimental Pop"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "Alternative R&B",
+            "Art Pop",
+            "Indie R&B",
+            "Bedroom Pop"
+          ],
+          "performance_style": "Measured, often intimate performances that mix live instrumentation with electronic production; shows can include theatrical staging and spoken-word or conceptual elements, emphasizing mood and narrative over spectacle.",
+          "artists_influenced": [
+            "The Internet",
+            "Frank Ocean",
+            "Contemporary Alternative R&B Artists"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Blood Orange ist der Künstlername von Dev Hynes, einem britischen Sänger, Songwriter und Produzenten, bekannt für seine eklektische Mischung aus R&B, Pop und elektronischer Musik.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Blood Orange est le nom de scène de Dev Hynes, chanteur, auteur-compositeur et producteur britannique connu pour son mélange éclectique de R&B, pop et musique électronique.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Blood Orange is the stage name of Dev Hynes, a British singer, songwriter, and producer known for his eclectic blend of R&B, pop, and electronic music.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Blood Orange es el nombre artístico de Dev Hynes, un cantante, compositor y productor británico conocido por su ecléctica mezcla de R&B, pop y música electrónica.",
+              "languages": [
+                "es"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Eclectic",
+            "Progressive",
+            "Introspective",
+            "Socially Conscious",
+            "Diverse"
+          ],
+          "adjectives_for_music": [
+            "Soulful",
+            "Atmospheric",
+            "Intimate",
+            "Eclectic",
+            "Lush",
+            "Cinematic",
+            "Melancholic"
+          ],
+          "lyrical_themes_description": "Blood Orange's lyrics frequently explore identity and belonging—especially Black and queer identities—interpersonal relationships, longing and heartbreak, urban memory and diaspora, and the psychological consequences of marginalization, all delivered with personal narrative and sociopolitical awareness.",
+          "adjectives_for_performance_style": [
+            "Intimate",
+            "Theatrical",
+            "Polished",
+            "Understated",
+            "Narrative"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Indie-Inflected Alternative R&B",
+            "Synth-Laced Art Pop",
+            "Bedroom Soul",
+            "Minimalist Chillwave",
+            "Narrative-Driven Neo-Soul"
+          ]
+        },
+        "popularity": 0.9957598516275747,
+        "tags": [
+          {
+            "id": "urn:tag:style:qloo:electro_funk",
+            "name": "Electro Funk",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:diverse",
+            "name": "Diverse",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:indie_pop",
+            "name": "Indie Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:artistic",
+            "name": "Artistic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:chillwave",
+            "name": "Chillwave",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:prince",
+            "name": "Prince",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:michael_jackson",
+            "name": "Michael Jackson",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:synthesizer",
+            "name": "Synthesizer",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:soul",
+            "name": "Soul",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:synthpop",
+            "name": "Synthpop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:indie_pop",
+            "name": "Indie Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:joni_mitchell",
+            "name": "Joni Mitchell",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:sexuality",
+            "name": "Sexuality",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:neo_soul",
+            "name": "Neo Soul",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:smooth",
+            "name": "Smooth",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:guitar",
+            "name": "Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:synthpop",
+            "name": "Synthpop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:smooth",
+            "name": "Smooth",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:3",
+            "name": "3",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:indie_pop",
+            "name": "Indie Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:alternative_rnb",
+            "name": "Alternative Rnb",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:artist:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:bass",
+            "name": "Bass",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:race",
+            "name": "Race",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:loyal",
+            "name": "Loyal",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:funk",
+            "name": "Funk",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:social_issues",
+            "name": "Social Issues",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:rhythm_blues",
+            "name": "Rhythm & Blues",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:genre:music:indie",
+            "name": "Indie",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:david_bowie",
+            "name": "David Bowie",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:identity",
+            "name": "Identity",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:engaging",
+            "name": "Engaging",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:drum_machine",
+            "name": "Drum Machine",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:passionate",
+            "name": "Passionate",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:neo_soul",
+            "name": "Neo Soul",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:socially_conscious",
+            "name": "Socially Conscious",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:dynamic",
+            "name": "Dynamic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:stevie_wonder",
+            "name": "Stevie Wonder",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:progressive",
+            "name": "Progressive",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:introspective",
+            "name": "Introspective",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:lush",
+            "name": "Lush",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:cinematic",
+            "name": "Cinematic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:melancholic",
+            "name": "Melancholic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:theatrical",
+            "name": "Theatrical",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:polished",
+            "name": "Polished",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:understated",
+            "name": "Understated",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:narrative",
+            "name": "Narrative",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:socially_conscious",
+            "name": "Socially Conscious",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:polished",
+            "name": "Polished",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:genre_bending",
+            "name": "Genre-Bending",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:lush",
+            "name": "Lush",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:complexity_scale:qloo:7",
+            "name": "7",
+            "type": "urn:tag:complexity_scale:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:indie_inflected_alternative_r_b",
+            "name": "Indie-Inflected Alternative R&B",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:synth_laced_art_pop",
+            "name": "Synth-Laced Art Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:bedroom_soul",
+            "name": "Bedroom Soul",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:minimalist_chillwave",
+            "name": "Minimalist Chillwave",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:narrative_driven_neo_soul",
+            "name": "Narrative-Driven Neo-Soul",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:art_pop",
+            "name": "Art Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:indie_r_b",
+            "name": "Indie R&B",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:bedroom_pop",
+            "name": "Bedroom Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:talking_heads",
+            "name": "Talking Heads",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:piano",
+            "name": "Piano",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:programming",
+            "name": "Programming",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:intimacy",
+            "name": "Intimacy",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:isolation",
+            "name": "Isolation",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:diaspora",
+            "name": "Diaspora",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:memory",
+            "name": "Memory",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:r_b",
+            "name": "R&B",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:chillwave",
+            "name": "Chillwave",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:art_pop",
+            "name": "Art Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:synthpop",
+            "name": "Synthpop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:neo_soul",
+            "name": "Neo-Soul",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:bedroom_pop",
+            "name": "Bedroom Pop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:experimental_pop",
+            "name": "Experimental Pop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "type": "urn:tag:voice_type:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8947689667372931,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Blood Orange",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm2910622"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "blood%20orange",
+              "listeners": 1460812,
+              "scrobbles": 65275544
+            }
+          ],
+          "spotify": [
+            {
+              "id": "0M1ImWN3uInxUCZVIE9uxa",
+              "verified": true,
+              "followers": 31754,
+              "last_release": 2020,
+              "first_release": 2014,
+              "monthly_listeners": 195748
+            },
+            {
+              "id": "6LEeAFiJF8OuPx747e1wxR",
+              "verified": true,
+              "followers": 555031,
+              "last_release": 2020,
+              "first_release": 2011,
+              "monthly_listeners": 2121955
+            },
+            {
+              "id": "4WdzAfw8cniunUxe4eVwDA",
+              "verified": true,
+              "followers": 44,
+              "monthly_listeners": 10
+            }
+          ],
+          "twitter": [
+            {
+              "id": "devhynes"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "devhynes"
+            },
+            {
+              "id": "lightspeedchampion"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q2311177"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "devhynes"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "302948ab-0f92-42ba-9936-23d20f1b3eb9",
+              "artist_type": "Person"
+            },
+            {
+              "id": "e43daa78-3cf3-4cf9-bc27-af4d4e675a02",
+              "artist_type": "Group"
+            }
+          ]
+        }
+      },
+      {
+        "name": "FKA twigs",
+        "entity_id": "FD7E4822-C2DA-4F78-896E-D5F2E22CFFC8",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/FD7E4822-C2DA-4F78-896E-D5F2E22CFFC8-420x-auto.jpg"
+          },
+          "vocals": "Light, breathy and flexible vocals with an intimate delivery; often uses falsetto, close-mic breathiness and layered harmonies. Vocals are frequently processed and integrated into dense, experimental production rather than presented as raw, isolated leads.",
+          "aliases": [
+            "FKA Twigs",
+            "Tahliah Barnett"
+          ],
+          "members": [],
+          "is_group": false,
+          "biography": "Born Tahliah Debrett Barnett in Cheltenham, Gloucestershire, in 1988, FKA twigs moved to London as a young woman to pursue dance and performance. She worked as a backup dancer and model while developing her own music, self-releasing early EPs in 2012 and gaining attention for their bold production and visuals. Her 2014 debut album LP1 established her as a leading figure in experimental pop; she followed with the critically acclaimed Magdalene in 2019. Across recordings and performances she combines contemporary dance, high-concept videos and collaborative production to create a distinctive multimedia artistic identity.",
+          "known_for": "Avant-garde music and visual artistry, boundary-pushing music videos, intricately choreographed performances and experimental production.",
+          "start_year": 2012,
+          "voice_type": [
+            "Mezzo-Soprano"
+          ],
+          "description": "FKA twigs (Tahliah Debrett Barnett) is an English singer, songwriter, dancer and actress whose work blends R&B, electronic and experimental pop with choreographed performance and striking visual art. Emerging in the early 2010s through a series of acclaimed EPs and the debut album LP1, she became known for meticulous production, intimate and breathy vocals, innovative music videos and multidisciplinary stage shows. Her music and visuals consistently push pop boundaries, fusing club rhythms, ambient textures and confessional songwriting.",
+          "instruments": [
+            "Vocals",
+            "Piano",
+            "Synthesizer",
+            "Sampler",
+            "Drum Machine"
+          ],
+          "lowest_note": "A2",
+          "vocal_range": "Mezzo-Soprano, approx. A2–C6",
+          "highest_note": "C6",
+          "collaborators": [
+            "Arca",
+            "Sampha",
+            "Jesse Kanda",
+            "SOPHIE",
+            "Jai Paul"
+          ],
+          "date_of_birth": "1988-01-16",
+          "influenced_by": [
+            "Björk",
+            "Kate Bush",
+            "Aaliyah",
+            "Portishead",
+            "Massive Attack",
+            "Cocteau Twins",
+            "Aphex Twin",
+            "Tricky"
+          ],
+          "notable_songs": [
+            "Two Weeks",
+            "Cellophane",
+            "Pendulum",
+            "Water Me",
+            "Video Girl"
+          ],
+          "lyrical_themes": [
+            "Intimacy",
+            "Sexuality",
+            "Identity",
+            "Relationships",
+            "Vulnerability",
+            "Heartbreak",
+            "Empowerment",
+            "Trauma"
+          ],
+          "place_of_birth": "Gloucestershire, England, United",
+          "primary_genres": [
+            "Dream Pop",
+            "Electronic",
+            "Experimental",
+            "Trip Hop",
+            "Art Pop",
+            "Alternative R&B"
+          ],
+          "characteristics": [
+            "Avant-Garde",
+            "Visionary",
+            "Theatrical",
+            "Meticulous",
+            "Choreographic",
+            "Intimate",
+            "Experimental",
+            "Textured"
+          ],
+          "cultural_impact": "FKA twigs has had an outsized influence on 2010s and 2020s experimental pop and alternative R&B, raising the profile of multidisciplinary visual work in mainstream music. Her music videos, choreography-forward performances and fashion-forward imagery have influenced a generation of artists and designers, expanded the vocabulary of pop performance, and helped legitimize boundary-pushing production and high-concept visual storytelling in contemporary pop.",
+          "obscurity_scale": [
+            "3"
+          ],
+          "complexity_scale": [
+            "8"
+          ],
+          "secondary_genres": [
+            "Avant-Garde",
+            "Electropop",
+            "Neo-Soul",
+            "Industrial",
+            "Experimental Pop",
+            "Ambient"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "Alternative R&B",
+            "Experimental Pop",
+            "Art Pop",
+            "Electronic",
+            "Avant-Garde Pop"
+          ],
+          "performance_style": "Highly choreographed, multimedia performances that combine contemporary dance, theatrical staging, striking visual design, sculptural costumes and intimate vocal delivery to create immersive, cinematic live experiences.",
+          "artists_influenced": [
+            "Sevdaliza",
+            "Kelsey Lu",
+            "Arlo Parks",
+            "Rina Sawayama",
+            "Billie Eilish"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Englische Sängerin, Songwriterin, Tänzerin und Schauspielerin, bekannt für ihre avantgardistische Musik, Choreografien und starke visuelle Gestaltung.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "English singer, songwriter, dancer, and actress known for her avant-garde music, choreography and striking visual artistry.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Chanteuse, auteure-compositrice, danseuse et actrice anglaise, reconnue pour sa musique avant-gardiste, sa chorégraphie et son art visuel marquant.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Cantante, compositora, bailarina y actriz inglesa conocida por su música vanguardista, su coreografía y su potente arte visual.",
+              "languages": [
+                "es"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Devoted",
+            "Aesthetic-Driven",
+            "Discerning",
+            "Art-Focused",
+            "Niche"
+          ],
+          "adjectives_for_music": [
+            "Ethereal",
+            "Avant-Garde",
+            "Atmospheric",
+            "Minimalistic",
+            "Textured",
+            "Intimate",
+            "Percussive",
+            "Experimental"
+          ],
+          "lyrical_themes_description": "Her lyrics explore intimate, often confessional territory: the dynamics of desire and power in relationships, personal vulnerability and recovery from trauma, identity and self-possession. She balances raw emotional confession with cryptic, image-driven lines that complement the music's atmospheric production.",
+          "adjectives_for_performance_style": [
+            "Theatrical",
+            "Choreographed",
+            "Intimate",
+            "Multimedia",
+            "Avant-Garde"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Ethereal Trip-Hop",
+            "Minimalist Alternative R&B",
+            "Avant-Garde Art Pop",
+            "Experimental Electronic",
+            "Choreographic Soundscape"
+          ]
+        },
+        "popularity": 0.9973785790587788,
+        "tags": [
+          {
+            "id": "urn:tag:style:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:identity",
+            "name": "Identity",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:kate_bush",
+            "name": "Kate Bush",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:empowerment",
+            "name": "Empowerment",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:trip_hop",
+            "name": "Trip Hop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:passionate",
+            "name": "Passionate",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:artist:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:aaliyah",
+            "name": "Aaliyah",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:art_pop",
+            "name": "Art Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:ethereal",
+            "name": "Ethereal",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:vulnerability",
+            "name": "Vulnerability",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:art_pop",
+            "name": "Art Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:percussion",
+            "name": "Percussion",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:trip_hop",
+            "name": "Trip - Hop",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:music:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:massive_attack",
+            "name": "Massive Attack",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:synthesizer",
+            "name": "Synthesizer",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:fluid",
+            "name": "Fluid",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:ethereal",
+            "name": "Ethereal",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:avant_garde",
+            "name": "Avant Garde",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:theatrical",
+            "name": "Theatrical",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:experimental_electronic",
+            "name": "Experimental Electronic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:trip_hop",
+            "name": "Trip Hop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:bjork",
+            "name": "Bjork",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:open_minded",
+            "name": "Open-Minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:contemporary",
+            "name": "Contemporary",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:alternative_rnb",
+            "name": "Alternative Rnb",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:audience:qloo:dedicated",
+            "name": "Dedicated",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:experimental_pop",
+            "name": "Experimental Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:art_pop",
+            "name": "Art Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:experimental_pop",
+            "name": "Experimental Pop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:4",
+            "name": "4",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:femininity",
+            "name": "Femininity",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:artistic",
+            "name": "Artistic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:supportive",
+            "name": "Supportive",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:fever_ray",
+            "name": "Fever Ray",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:devoted",
+            "name": "Devoted",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:aesthetic_driven",
+            "name": "Aesthetic-Driven",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:discerning",
+            "name": "Discerning",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:art_focused",
+            "name": "Art-Focused",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:minimalistic",
+            "name": "Minimalistic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:textured",
+            "name": "Textured",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:percussive",
+            "name": "Percussive",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:choreographed",
+            "name": "Choreographed",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:multimedia",
+            "name": "Multimedia",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:visionary",
+            "name": "Visionary",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:theatrical",
+            "name": "Theatrical",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:meticulous",
+            "name": "Meticulous",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:choreographic",
+            "name": "Choreographic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:textured",
+            "name": "Textured",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:complexity_scale:qloo:8",
+            "name": "8",
+            "type": "urn:tag:complexity_scale:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:ethereal_trip_hop",
+            "name": "Ethereal Trip-Hop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:minimalist_alternative_r_b",
+            "name": "Minimalist Alternative R&B",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:avant_garde_art_pop",
+            "name": "Avant-Garde Art Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:choreographic_soundscape",
+            "name": "Choreographic Soundscape",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:avant_garde_pop",
+            "name": "Avant-Garde Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:bjork",
+            "name": "Björk",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:portishead",
+            "name": "Portishead",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:cocteau_twins",
+            "name": "Cocteau Twins",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:aphex_twin",
+            "name": "Aphex Twin",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:tricky",
+            "name": "Tricky",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:piano",
+            "name": "Piano",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:sampler",
+            "name": "Sampler",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:drum_machine",
+            "name": "Drum Machine",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:intimacy",
+            "name": "Intimacy",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:sexuality",
+            "name": "Sexuality",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:relationships",
+            "name": "Relationships",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:heartbreak",
+            "name": "Heartbreak",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:trauma",
+            "name": "Trauma",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:3",
+            "name": "3",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:dream_pop",
+            "name": "Dream Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:trip_hop",
+            "name": "Trip Hop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:electropop",
+            "name": "Electropop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:neo_soul",
+            "name": "Neo-Soul",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:industrial",
+            "name": "Industrial",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:ambient",
+            "name": "Ambient",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:voice_type:qloo:mezzo_soprano",
+            "name": "Mezzo-Soprano",
+            "type": "urn:tag:voice_type:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8940172284949169,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "FKA twigs",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm4766226"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "fka%20twigs",
+              "listeners": 1401769,
+              "scrobbles": 105708078
+            }
+          ],
+          "spotify": [
+            {
+              "id": "6nB0iY1cjSY1KyhYyuIIKH",
+              "verified": true,
+              "followers": 782839,
+              "monthly_listeners": 3533618
+            }
+          ],
+          "twitter": [
+            {
+              "id": "fkatwigs"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "fkatwigs"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q15291033"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "fkatwigs"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "1e4e9db7-5068-4a9c-bdd0-5777e47172c8",
+              "artist_type": "Person"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Rhye",
+        "entity_id": "BB391C19-B5FA-4F79-8724-1074630721E9",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/BB391C19-B5FA-4F79-8724-1074630721E9-420x-auto.jpg"
+          },
+          "vocals": "Mike Milosh's vocals are characterized by a soft, breathy tenor with a smooth falsetto range, delivering intimate and emotive performances that blend seamlessly with the minimalist and lush production of Rhye's music.",
+          "aliases": [],
+          "members": [
+            "Mike Milosh",
+            "Robin Hannibal"
+          ],
+          "is_group": true,
+          "biography": "Rhye was formed by Mike Milosh, a Canadian singer and producer, and Robin Hannibal, a Danish producer and songwriter. The duo initially kept their identities secret, creating intrigue around their music which debuted with the album 'Woman' in 2013. Their sound is noted for its blend of R&B, soul, and electronic influences, with Milosh's distinctive falsetto vocals and intimate lyrical content. Over time, Rhye has evolved to include live band elements and expanded their sonic palette while maintaining their signature smooth and sensual style.",
+          "known_for": "Rhye is known for their smooth, sensual sound, androgynous falsetto vocals, and minimalist yet sophisticated production blending R&B, soul, and electronic music.",
+          "start_year": 2010,
+          "voice_type": [
+            "Tenor"
+          ],
+          "description": "Rhye is a musical project formed by Canadian singer Mike Milosh and Danish producer Robin Hannibal. The project is known for its smooth, soulful sound blending elements of R&B, soul, and electronic music, characterized by Milosh's soft, androgynous vocal style. Rhye gained attention with their debut album 'Woman' in 2013, which featured intimate, minimalist arrangements and sensual themes. Their music often explores themes of love, intimacy, and vulnerability, delivered with a sophisticated and understated production style.",
+          "instruments": [
+            "Vocals",
+            "Synthesizers",
+            "Drum Machines",
+            "Guitar",
+            "Bass"
+          ],
+          "vocal_range": "Tenor, Soft Falsetto",
+          "collaborators": [
+            "Robin Hannibal"
+          ],
+          "influenced_by": [
+            "Sade",
+            "Prince",
+            "D'Angelo",
+            "Massive Attack"
+          ],
+          "notable_songs": [
+            "Open",
+            "The Fall",
+            "Taste",
+            "3 Days",
+            "Please"
+          ],
+          "lyrical_themes": [
+            "Love",
+            "Intimacy",
+            "Vulnerability",
+            "Desire",
+            "Relationships"
+          ],
+          "primary_genres": [
+            "R&B",
+            "Soul",
+            "Alternative R&B",
+            "Indie Pop"
+          ],
+          "characteristics": [
+            "Smooth",
+            "Sensual",
+            "Androgynous",
+            "Minimalist",
+            "Sophisticated"
+          ],
+          "cultural_impact": "Rhye has influenced the contemporary R&B and indie music scenes by popularizing a minimalist, sensual sound with androgynous vocals, contributing to a broader acceptance of gender fluidity in music and inspiring a wave of artists blending electronic and soul elements.",
+          "obscurity_scale": [
+            "4"
+          ],
+          "secondary_genres": [
+            "Electronic",
+            "Downtempo",
+            "Chillwave"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "Alternative R&B",
+            "Indie Soul",
+            "Chillwave"
+          ],
+          "performance_style": "Rhye's performance style is intimate and understated, often featuring minimal stage setups that highlight the emotive vocals and lush instrumentation, creating a sophisticated and immersive live experience.",
+          "artists_influenced": [
+            "Gallant",
+            "Kelela",
+            "Nao",
+            "James Vickery"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Rhye is a Canadian-Danish R&B and soul musical project known for its smooth, sensual sound and androgynous vocals.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Rhye ist ein kanadisch-dänisches R&B- und Soul-Projekt, bekannt für seinen sanften, sinnlichen Sound und androgynen Gesang.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Rhye est un projet musical canado-danois de R&B et soul, reconnu pour son style doux, sensuel et ses voix androgynes.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Rhye es un proyecto musical canadiense-danés de R&B y soul, conocido por su sonido suave, sensual y sus voces andróginas.",
+              "languages": [
+                "es"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Sophisticated",
+            "Introspective",
+            "Open-minded",
+            "Romantic"
+          ],
+          "adjectives_for_music": [
+            "Smooth",
+            "Sensual",
+            "Minimalist",
+            "Sophisticated",
+            "Emotive"
+          ],
+          "lyrical_themes_description": "Rhye's lyrics often explore themes of romantic love, emotional vulnerability, intimacy, and desire, conveyed through poetic and understated language that complements their smooth and sensual musical style.",
+          "adjectives_for_performance_style": [
+            "Intimate",
+            "Understated",
+            "Elegant",
+            "Emotive"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Alternative R&B",
+            "Indie Soul",
+            "Downtempo Electronica",
+            "Chillwave",
+            "Minimalist Soul"
+          ]
+        },
+        "popularity": 0.9941542313010767,
+        "tags": [
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:soul",
+            "name": "Soul",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:smooth",
+            "name": "Smooth",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:chillwave",
+            "name": "Chillwave",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:intimacy",
+            "name": "Intimacy",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:bass",
+            "name": "Bass",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:guitar",
+            "name": "Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:vulnerability",
+            "name": "Vulnerability",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:open_minded",
+            "name": "Open-Minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:voice_type:qloo:tenor",
+            "name": "Tenor",
+            "type": "urn:tag:voice_type:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:emotive",
+            "name": "Emotive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:relationships",
+            "name": "Relationships",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:soul",
+            "name": "Soul",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:4",
+            "name": "4",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:indie",
+            "name": "Indie",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:artist:qloo:sensual",
+            "name": "Sensual",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:downtempo_electronica",
+            "name": "Downtempo Electronica",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:d_angelo",
+            "name": "D'Angelo",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:synthesizers",
+            "name": "Synthesizers",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:chillwave",
+            "name": "Chillwave",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:r_b",
+            "name": "R & B",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:indie_pop",
+            "name": "Indie Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:pop",
+            "name": "Pop",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:downtempo",
+            "name": "Downtempo",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:drum_machines",
+            "name": "Drum Machines",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:minimalist_soul",
+            "name": "Minimalist Soul",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:alternative_rnb",
+            "name": "Alternative Rnb",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:prince",
+            "name": "Prince",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:indie_soul",
+            "name": "Indie Soul",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:indie_soul",
+            "name": "Indie Soul",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:introspective",
+            "name": "Introspective",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:romantic",
+            "name": "Romantic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:desire",
+            "name": "Desire",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:smooth",
+            "name": "Smooth",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:elegant",
+            "name": "Elegant",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:understated",
+            "name": "Understated",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:chillwave",
+            "name": "Chillwave",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:sade",
+            "name": "Sade",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:androgynous",
+            "name": "Androgynous",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:massive_attack",
+            "name": "Massive Attack",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:open_minded",
+            "name": "Open-minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:sensual",
+            "name": "Sensual",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:emotive",
+            "name": "Emotive",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:r_b",
+            "name": "R&B",
+            "type": "urn:tag:genre:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8934708468185009,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Rhye",
+        "external": {
+          "lastfm": [
+            {
+              "id": "rhye",
+              "listeners": 731670,
+              "scrobbles": 16689880
+            }
+          ],
+          "spotify": [
+            {
+              "id": "2AcUPzkVWo81vumdzeLLRN",
+              "verified": true,
+              "followers": 478603,
+              "last_release": 2020,
+              "first_release": 2012,
+              "monthly_listeners": 3595633
+            }
+          ],
+          "twitter": [
+            {
+              "id": "rhyemusic"
+            },
+            {
+              "id": "rhye"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "rhyemusic"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q6540184"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "rhye"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "aa914efa-d6cb-4816-906f-8edafb08418e",
+              "artist_type": "Group"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

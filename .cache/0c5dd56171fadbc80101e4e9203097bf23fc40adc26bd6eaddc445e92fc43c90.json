@@ -1,0 +1,21 @@
+{
+  "duration": 16,
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "parents": [
+          {
+            "type": "urn:entity:place"
+          }
+        ],
+        "type": "urn:tag:ambience:qloo",
+        "id": "urn:tag:ambience:qloo:luxurious",
+        "name": "Luxurious",
+        "popularity": 0.9988474,
+        "properties": {},
+        "tags": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "duration": 33,
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "parents": [
+          {
+            "type": "urn:entity:place"
+          }
+        ],
+        "type": "urn:tag:category:place",
+        "id": "urn:tag:category:place:concrete_contractor",
+        "name": "Concrete contractor",
+        "popularity": 0.999508,
+        "properties": {},
+        "tags": []
+      }
+    ]
+  }
+}

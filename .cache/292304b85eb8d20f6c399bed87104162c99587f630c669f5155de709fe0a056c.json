@@ -1,0 +1,505 @@
+{
+  "results": [
+    {
+      "name": "Kinfolk",
+      "entity_id": "0044C2D6-C96D-4571-8EFE-E81E8CF722D4",
+      "types": [
+        "urn:entity:brand"
+      ],
+      "properties": {
+        "akas": [
+          {
+            "language": "zh",
+            "value": "KINFOLK"
+          },
+          {
+            "language": "ru",
+            "value": "Кинфолк"
+          },
+          {
+            "language": "en_au",
+            "value": "Kinfolk magazine"
+          },
+          {
+            "language": "uk",
+            "value": "Kinfolk"
+          }
+        ],
+        "description": "An internationally recognized lifestyle publication that explores the intersection of community, arts, and design through an intentional lens. Since its inception in 2011, it has established a reputation for its distinct minimalist aesthetic and deep-dive editorial features on culture, home, and creativity. The magazine appeals to a global, design-conscious audience seeking quality, thoughtful content over fast-paced trends. It operates primarily as a subscription-based media platform, offering both print and digital access to its curated archive of stories.",
+        "external": {
+          "instagram": {
+            "id": "kinfolk"
+          },
+          "twitter": {
+            "id": "kinfolkmag"
+          },
+          "wikidata": {
+            "id": "Q16998399"
+          }
+        },
+        "founded_year": "2011",
+        "image": {
+          "url": "https://images.qloo.com/i/0044C2D6-C96D-4571-8EFE-E81E8CF722D4-420x-auto.jpg"
+        },
+        "short_description": "Kinfolk is a lifestyle brand known primarily for its contemporary magazine focusing on simple, slow living, design, and culture.",
+        "short_descriptions": [
+          {
+            "language": "fr",
+            "value": "Une publication trimestrielle sur l'art de vivre qui célèbre le design, la culture et une existence intentionnelle à travers un prisme minimaliste."
+          },
+          {
+            "language": "en",
+            "value": "A quarterly lifestyle publication celebrating intentional living, design, and culture through a minimalist lens."
+          },
+          {
+            "language": "de",
+            "value": "Ein vierteljährliches Lifestyle-Magazin, das bewusstes Leben, Design und Kultur durch eine minimalistische Linse zelebriert."
+          },
+          {
+            "language": "es",
+            "value": "Una publicación trimestral de estilo de vida que celebra la vida intencional, el diseño y la cultura a través de un enfoque minimalista."
+          }
+        ]
+      },
+      "popularity": 0.985921581258158,
+      "disambiguation": "",
+      "tags": [
+        {
+          "name": "Media",
+          "tag_id": "urn:tag:genre:brand:entertainment:media",
+          "type": "urn:tag:genre:brand"
+        },
+        {
+          "name": "Fashion",
+          "tag_id": "urn:tag:genre:brand:entertainment:media:fashion",
+          "type": "urn:tag:genre:brand"
+        },
+        {
+          "name": "Lifestyle",
+          "tag_id": "urn:tag:genre:brand:entertainment:media:lifestyle",
+          "type": "urn:tag:genre:brand"
+        },
+        {
+          "name": "Entertainment",
+          "tag_id": "urn:tag:genre:brand:entertainment",
+          "type": "urn:tag:genre:brand"
+        },
+        {
+          "name": "Minimalist Layouts",
+          "tag_id": "urn:tag:aesthetic_property:qloo:minimalist_layouts",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "High-End Photography",
+          "tag_id": "urn:tag:aesthetic_property:qloo:high_end_photography",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Clean Typography",
+          "tag_id": "urn:tag:aesthetic_property:qloo:clean_typography",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Neutral Color Palette",
+          "tag_id": "urn:tag:aesthetic_property:qloo:neutral_color_palette",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Premium Paper Stock",
+          "tag_id": "urn:tag:aesthetic_property:qloo:premium_paper_stock",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Slow Living",
+          "tag_id": "urn:tag:lifestyle:qloo:slow_living",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Artisanal Home Design",
+          "tag_id": "urn:tag:lifestyle:qloo:artisanal_home_design",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Global Cultural Engagement",
+          "tag_id": "urn:tag:lifestyle:qloo:global_cultural_engagement",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Mindful Travel",
+          "tag_id": "urn:tag:lifestyle:qloo:mindful_travel",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Curated Living",
+          "tag_id": "urn:tag:lifestyle:qloo:curated_living",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Other",
+          "tag_id": "urn:tag:brand_subtype:qloo:other",
+          "type": "urn:tag:brand_subtype:qloo"
+        },
+        {
+          "name": "Media Brand",
+          "tag_id": "urn:tag:brand_type:qloo:media_brand",
+          "type": "urn:tag:brand_type:qloo"
+        },
+        {
+          "name": "B2C",
+          "tag_id": "urn:tag:business_model:qloo:b2c",
+          "type": "urn:tag:business_model:qloo"
+        },
+        {
+          "name": "Subscription",
+          "tag_id": "urn:tag:business_model:qloo:subscription",
+          "type": "urn:tag:business_model:qloo"
+        },
+        {
+          "name": "Advertising",
+          "tag_id": "urn:tag:business_model:qloo:advertising",
+          "type": "urn:tag:business_model:qloo"
+        },
+        {
+          "name": "Cereal",
+          "tag_id": "urn:tag:competitor_brand:qloo:cereal",
+          "type": "urn:tag:competitor_brand:qloo"
+        },
+        {
+          "name": "Apartamento",
+          "tag_id": "urn:tag:competitor_brand:qloo:apartamento",
+          "type": "urn:tag:competitor_brand:qloo"
+        },
+        {
+          "name": "Monocle",
+          "tag_id": "urn:tag:competitor_brand:qloo:monocle",
+          "type": "urn:tag:competitor_brand:qloo"
+        },
+        {
+          "name": "Authenticity",
+          "tag_id": "urn:tag:core_value:qloo:authenticity",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Community",
+          "tag_id": "urn:tag:core_value:qloo:community",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Craftsmanship",
+          "tag_id": "urn:tag:core_value:qloo:craftsmanship",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Intentionality",
+          "tag_id": "urn:tag:core_value:qloo:intentionality",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Simplicity",
+          "tag_id": "urn:tag:core_value:qloo:simplicity",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Design Movement",
+          "tag_id": "urn:tag:cultural_relevance:qloo:design_movement",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "Slow Living Movement",
+          "tag_id": "urn:tag:cultural_relevance:qloo:slow_living_movement",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "Contemporary Art Scene",
+          "tag_id": "urn:tag:cultural_relevance:qloo:contemporary_art_scene",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "Design Professionals",
+          "tag_id": "urn:tag:customer_segment:qloo:design_professionals",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Creatives",
+          "tag_id": "urn:tag:customer_segment:qloo:creatives",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Urban Professionals",
+          "tag_id": "urn:tag:customer_segment:qloo:urban_professionals",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Reflective",
+          "tag_id": "urn:tag:emotional_tone:qloo:reflective",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Calm",
+          "tag_id": "urn:tag:emotional_tone:qloo:calm",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Sophisticated",
+          "tag_id": "urn:tag:emotional_tone:qloo:sophisticated",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Intentional",
+          "tag_id": "urn:tag:emotional_tone:qloo:intentional",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Inspirational",
+          "tag_id": "urn:tag:emotional_tone:qloo:inspirational",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Media & Entertainment",
+          "tag_id": "urn:tag:industry:qloo:media_entertainment",
+          "type": "urn:tag:industry:qloo"
+        },
+        {
+          "name": "Publishing",
+          "tag_id": "urn:tag:industry:qloo:publishing",
+          "type": "urn:tag:industry:qloo"
+        },
+        {
+          "name": "Lifestyle",
+          "tag_id": "urn:tag:industry:qloo:lifestyle",
+          "type": "urn:tag:industry:qloo"
+        },
+        {
+          "name": "Photographers",
+          "tag_id": "urn:tag:influencer_appeal:qloo:photographers",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Interior Designers",
+          "tag_id": "urn:tag:influencer_appeal:qloo:interior_designers",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Artists",
+          "tag_id": "urn:tag:influencer_appeal:qloo:artists",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Culinary Curators",
+          "tag_id": "urn:tag:influencer_appeal:qloo:culinary_curators",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Architects",
+          "tag_id": "urn:tag:influencer_appeal:qloo:architects",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Interior Design",
+          "tag_id": "urn:tag:interest_adjacency:qloo:interior_design",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Slow Living",
+          "tag_id": "urn:tag:interest_adjacency:qloo:slow_living",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Culinary Arts",
+          "tag_id": "urn:tag:interest_adjacency:qloo:culinary_arts",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Artistic Expression",
+          "tag_id": "urn:tag:interest_adjacency:qloo:artistic_expression",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Minimalism",
+          "tag_id": "urn:tag:interest_adjacency:qloo:minimalism",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "United States",
+          "tag_id": "urn:tag:key_market:qloo:united_states",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "United Kingdom",
+          "tag_id": "urn:tag:key_market:qloo:united_kingdom",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "Japan",
+          "tag_id": "urn:tag:key_market:qloo:japan",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "South Korea",
+          "tag_id": "urn:tag:key_market:qloo:south_korea",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "Germany",
+          "tag_id": "urn:tag:key_market:qloo:germany",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "Minimalism",
+          "tag_id": "urn:tag:keyword:qloo:minimalism",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Design",
+          "tag_id": "urn:tag:keyword:qloo:design",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Culture",
+          "tag_id": "urn:tag:keyword:qloo:culture",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Slow Living",
+          "tag_id": "urn:tag:keyword:qloo:slow_living",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Photography",
+          "tag_id": "urn:tag:keyword:qloo:photography",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Chandon",
+          "tag_id": "urn:tag:partnership:qloo:chandon",
+          "type": "urn:tag:partnership:qloo"
+        },
+        {
+          "name": "Dr. Bronner's",
+          "tag_id": "urn:tag:partnership:qloo:dr_bronner_s",
+          "type": "urn:tag:partnership:qloo"
+        },
+        {
+          "name": "Creative Hobbies",
+          "tag_id": "urn:tag:lifestyle:qloo:creative_hobbies",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Home Hosting",
+          "tag_id": "urn:tag:lifestyle:qloo:home_hosting",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Minimalist Living",
+          "tag_id": "urn:tag:lifestyle:qloo:minimalist_living",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Cultural Exploration",
+          "tag_id": "urn:tag:lifestyle:qloo:cultural_exploration",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Gourmet Cooking",
+          "tag_id": "urn:tag:lifestyle:qloo:gourmet_cooking",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Niche",
+          "tag_id": "urn:tag:market_archetype:qloo:niche",
+          "type": "urn:tag:market_archetype:qloo"
+        },
+        {
+          "name": "Cult",
+          "tag_id": "urn:tag:market_archetype:qloo:cult",
+          "type": "urn:tag:market_archetype:qloo"
+        },
+        {
+          "name": "Print Magazine",
+          "tag_id": "urn:tag:product_service:qloo:print_magazine",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Digital Subscription",
+          "tag_id": "urn:tag:product_service:qloo:digital_subscription",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Editorial Content",
+          "tag_id": "urn:tag:product_service:qloo:editorial_content",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Photography",
+          "tag_id": "urn:tag:product_service:qloo:photography",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Cultural Commentary",
+          "tag_id": "urn:tag:product_service:qloo:cultural_commentary",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Dwell",
+          "tag_id": "urn:tag:similar_brand:qloo:dwell",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "Wallpaper",
+          "tag_id": "urn:tag:similar_brand:qloo:wallpaper",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "Architectural Digest",
+          "tag_id": "urn:tag:similar_brand:qloo:architectural_digest",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "Conscious Consumption",
+          "tag_id": "urn:tag:sustainability_initiative:qloo:conscious_consumption",
+          "type": "urn:tag:sustainability_initiative:qloo"
+        },
+        {
+          "name": "Small Batch Production",
+          "tag_id": "urn:tag:sustainability_initiative:qloo:small_batch_production",
+          "type": "urn:tag:sustainability_initiative:qloo"
+        },
+        {
+          "name": "Slow Fashion",
+          "tag_id": "urn:tag:sustainability_initiative:qloo:slow_fashion",
+          "type": "urn:tag:sustainability_initiative:qloo"
+        },
+        {
+          "name": "Young Adults",
+          "tag_id": "urn:tag:target_age_group:qloo:young_adults",
+          "type": "urn:tag:target_age_group:qloo"
+        },
+        {
+          "name": "Adults",
+          "tag_id": "urn:tag:target_age_group:qloo:adults",
+          "type": "urn:tag:target_age_group:qloo"
+        },
+        {
+          "name": "Middle-Aged",
+          "tag_id": "urn:tag:target_age_group:qloo:middle_aged",
+          "type": "urn:tag:target_age_group:qloo"
+        },
+        {
+          "name": "Gender-Neutral",
+          "tag_id": "urn:tag:target_gender:qloo:gender_neutral",
+          "type": "urn:tag:target_gender:qloo"
+        },
+        {
+          "name": "Medium to High",
+          "tag_id": "urn:tag:target_income_level:qloo:medium_to_high",
+          "type": "urn:tag:target_income_level:qloo"
+        },
+        {
+          "name": "High",
+          "tag_id": "urn:tag:target_income_level:qloo:high",
+          "type": "urn:tag:target_income_level:qloo"
+        }
+      ]
+    }
+  ]
+}

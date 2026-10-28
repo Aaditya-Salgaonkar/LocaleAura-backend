@@ -1,0 +1,2611 @@
+{
+  "success": true,
+  "results": {
+    "entities": [
+      {
+        "name": "Ritviz",
+        "entity_id": "CBF5E9DC-DD89-4FAB-966D-B2B24ED9FD8A",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/CBF5E9DC-DD89-4FAB-966D-B2B24ED9FD8A-420x-auto.jpg"
+          },
+          "vocals": "Ritviz's vocals are characterized by a smooth, melodic tone that complements his electronic fusion style, often incorporating Indian classical vocal techniques.",
+          "aliases": [
+            "Ritviz Srivastava"
+          ],
+          "members": [],
+          "is_group": false,
+          "biography": "Ritviz Srivastava, known mononymously as Ritviz, is an Indian electronic music producer and singer-songwriter. He started his musical journey with classical training in Indian music and later transitioned into electronic music, blending traditional Indian sounds with modern electronic beats. Ritviz rose to fame with his viral hit \"Udd Gaye\" and has since become a prominent figure in the Indian independent music scene, known for his distinctive style and energetic performances.",
+          "known_for": "Blending Indian classical music with electronic beats and creating vibrant, energetic music.",
+          "start_year": 2016,
+          "description": "Ritviz is an Indian electronic musician and singer-songwriter known for his unique fusion of Indian classical music with electronic and dance music elements. He gained popularity with his hit single \"Udd Gaye\" and is recognized for his vibrant, energetic sound and innovative production style.",
+          "instruments": [
+            "Vocals",
+            "Keyboard",
+            "Digital Audio Workstation"
+          ],
+          "collaborators": [
+            "Nucleya",
+            "DIVINE"
+          ],
+          "date_of_birth": "1990-06-24",
+          "influenced_by": [
+            "Indian Classical Music",
+            "Electronic Music Producers"
+          ],
+          "notable_songs": [
+            "Udd Gaye",
+            "Liggi",
+            "Sage",
+            "Jeet",
+            "Barso"
+          ],
+          "lyrical_themes": [
+            "Love",
+            "Self-Discovery",
+            "Joy",
+            "Nature"
+          ],
+          "place_of_birth": "Pune, Maharashtra, India",
+          "primary_genres": [
+            "Electronic",
+            "Indie Electronic",
+            "Fusion"
+          ],
+          "characteristics": [
+            "Innovative",
+            "Energetic",
+            "Fusion-Oriented",
+            "Vibrant",
+            "Melodic"
+          ],
+          "cultural_impact": "Ritviz has significantly impacted the Indian independent music scene by popularizing a fusion of Indian classical music with electronic genres, inspiring a new generation of musicians and listeners.",
+          "obscurity_scale": [
+            "3"
+          ],
+          "secondary_genres": [
+            "Indian Classical",
+            "Dance",
+            "Pop"
+          ],
+          "associated_brands": [
+            "Red Bull Music",
+            "Spotify"
+          ],
+          "genres_influenced": [
+            "Indian Electronic",
+            "Indie Electronic",
+            "Fusion"
+          ],
+          "performance_style": "Ritviz's performance style is energetic and engaging, often involving live electronic music production combined with dynamic stage presence.",
+          "artists_influenced": [
+            "Various Indian Electronic Artists"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Musicien électronique indien reconnu pour mélanger la musique classique indienne avec des rythmes électroniques.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Músico electrónico indio conocido por fusionar la música clásica india con ritmos electrónicos modernos.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Indischer Elektronikmusiker, der klassische indische Musik mit modernen elektronischen Beats verbindet.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Indian electronic musician known for blending classical Indian music with electronic beats.",
+              "languages": [
+                "en"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Energetic",
+            "Youthful",
+            "Passionate",
+            "Open-Minded"
+          ],
+          "adjectives_for_music": [
+            "Fusion",
+            "Energetic",
+            "Melodic",
+            "Innovative",
+            "Vibrant"
+          ],
+          "lyrical_themes_description": "Ritviz's lyrics often explore themes of love, self-discovery, joy, and a connection to nature, reflecting a positive and uplifting outlook.",
+          "adjectives_for_performance_style": [
+            "Energetic",
+            "Engaging",
+            "Dynamic"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Indian Electronic Fusion",
+            "Indie Electronic",
+            "Classical Fusion",
+            "Dance-Infused Electronic",
+            "Melodic Electronica"
+          ]
+        },
+        "popularity": 0.8156780632942087,
+        "tags": [
+          {
+            "id": "urn:tag:influenced_by:qloo:indian_classical_music",
+            "name": "Indian Classical Music",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:indian",
+            "name": "Indian",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:genre:qloo:fusion",
+            "name": "Fusion",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:fusion",
+            "name": "Fusion",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:3",
+            "name": "3",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:dance_infused_electronic",
+            "name": "Dance-Infused Electronic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:fusion_oriented",
+            "name": "Fusion-Oriented",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:classical_fusion",
+            "name": "Classical Fusion",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:passionate",
+            "name": "Passionate",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:dance",
+            "name": "Dance",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:melodic_electronica",
+            "name": "Melodic Electronica",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:dynamic",
+            "name": "Dynamic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:joy",
+            "name": "Joy",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:fusion",
+            "name": "Fusion",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:self_discovery",
+            "name": "Self Discovery",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:nature",
+            "name": "Nature",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:indie_electronic",
+            "name": "Indie Electronic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:vibrant",
+            "name": "Vibrant",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:indian_classical",
+            "name": "Indian Classical",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:indian_electronic_fusion",
+            "name": "Indian Electronic Fusion",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:fusion",
+            "name": "Fusion",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:youthful",
+            "name": "Youthful",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:pop",
+            "name": "Pop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:electronic_music_producers",
+            "name": "Electronic Music Producers",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:indie_electronic",
+            "name": "Indie Electronic",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:indie_electronic",
+            "name": "Indie Electronic",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:engaging",
+            "name": "Engaging",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:melodic",
+            "name": "Melodic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:indian_electronic_music",
+            "name": "Indian Electronic Music",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:open_minded",
+            "name": "Open-Minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:keyboard",
+            "name": "Keyboard",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:digital_audio_workstation",
+            "name": "Digital Audio Workstation",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:melodic",
+            "name": "Melodic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:vibrant",
+            "name": "Vibrant",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:indian_electronic",
+            "name": "Indian Electronic",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:self_discovery",
+            "name": "Self-Discovery",
+            "type": "urn:tag:theme:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8987226548043019,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Ritviz",
+        "external": {
+          "lastfm": [
+            {
+              "id": "ritviz",
+              "listeners": 51100,
+              "scrobbles": 1516191
+            }
+          ],
+          "spotify": [
+            {
+              "id": "72beYOeW2sb2yfcS4JsRvb",
+              "verified": true,
+              "followers": 590244,
+              "last_release": 2020,
+              "first_release": 2013,
+              "monthly_listeners": 2327286
+            }
+          ],
+          "twitter": [
+            {
+              "id": "ritviz"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "ritvizmusic"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q96470324"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "vizdumb"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "005b1c3f-6606-4aa6-aca9-fee2dbaf62eb",
+              "artist_type": "Person"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Prateek Kuhad",
+        "entity_id": "871AE4FF-0D03-45CE-A6E1-B255607FA3DD",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/871AE4FF-0D03-45CE-A6E1-B255607FA3DD-420x-auto.jpg"
+          },
+          "vocals": "Prateek Kuhad's vocals are soft, emotive, and intimate, characterized by a warm tenor voice that complements his acoustic and indie folk style. His singing conveys vulnerability and sincerity, often with a gentle delivery that enhances the emotional depth of his lyrics.",
+          "aliases": [
+            "None"
+          ],
+          "members": [],
+          "is_group": false,
+          "biography": "Prateek Kuhad was born and raised in Jaipur, India. He developed an interest in music at a young age and later moved to Delhi to pursue his passion. He studied philosophy but eventually focused on music, releasing his debut album in 2013. Over the years, he has built a dedicated fanbase with his intimate songwriting and has performed internationally, including at prestigious venues and festivals. His song 'cold/mess' brought him widespread acclaim and introduced Indian indie music to a global audience.",
+          "known_for": "Known for his soulful songwriting, emotive vocals, and blending Indian and Western folk influences.",
+          "start_year": 2011,
+          "voice_type": [
+            "Tenor"
+          ],
+          "description": "Prateek Kuhad is an Indian singer-songwriter and musician known for his soulful indie folk and acoustic music. He gained international recognition with his heartfelt lyrics and melodic compositions, blending Indian sensibilities with Western folk influences. His music often features gentle guitar work and introspective themes.",
+          "instruments": [
+            "Guitar",
+            "Vocals"
+          ],
+          "collaborators": [
+            "Amit Trivedi"
+          ],
+          "date_of_birth": "1990-03-03",
+          "influenced_by": [
+            "Nick Drake",
+            "Bob Dylan",
+            "Elliott Smith"
+          ],
+          "notable_songs": [
+            "cold/mess",
+            "Kasoor",
+            "Tum Jab Paas"
+          ],
+          "lyrical_themes": [
+            "Love",
+            "Heartbreak",
+            "Introspection",
+            "Relationships",
+            "Emotions"
+          ],
+          "place_of_birth": "Jaipur, Rajasthan, India",
+          "primary_genres": [
+            "Indie Folk",
+            "Singer-Songwriter"
+          ],
+          "characteristics": [
+            "Soulful",
+            "Melodic",
+            "Introspective",
+            "Gentle",
+            "Emotive"
+          ],
+          "cultural_impact": "Prateek Kuhad has played a significant role in popularizing indie folk music in India and bringing Indian independent music to international platforms, inspiring a new generation of singer-songwriters.",
+          "obscurity_scale": [
+            "3"
+          ],
+          "secondary_genres": [
+            "Acoustic",
+            "Indie Pop"
+          ],
+          "associated_brands": [
+            "Spotify"
+          ],
+          "genres_influenced": [
+            "Indian Indie Folk",
+            "Contemporary Singer-Songwriter"
+          ],
+          "performance_style": "Prateek Kuhad's performance style is intimate and calm, often featuring acoustic guitar and minimalistic arrangements that create a personal connection with the audience.",
+          "artists_influenced": [
+            "Anuv Jain",
+            "Prateek Bhadouria"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Indischer Singer-Songwriter, bekannt für gefühlvolle Indie-Folk- und Akustikmusik.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Cantautor indio conocido por su música indie folk y acústica conmovedora.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Auteur-compositeur-interprète indien reconnu pour sa musique indie folk et acoustique émouvante.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Indian singer-songwriter known for soulful indie folk and acoustic music.",
+              "languages": [
+                "en"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Loyal",
+            "Passionate",
+            "Introspective",
+            "Young"
+          ],
+          "adjectives_for_music": [
+            "Soulful",
+            "Melodic",
+            "Introspective",
+            "Gentle",
+            "Acoustic"
+          ],
+          "lyrical_themes_description": "Prateek Kuhad's lyrics explore themes of love, heartbreak, introspection, and emotional vulnerability, often reflecting personal experiences and relationships with poetic sensitivity.",
+          "adjectives_for_performance_style": [
+            "Intimate",
+            "Calm",
+            "Engaging"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Indie Folk",
+            "Acoustic Singer-Songwriter",
+            "Contemporary Indian Folk",
+            "Emotive Balladry",
+            "Minimalist Folk"
+          ]
+        },
+        "popularity": 0.862608051694421,
+        "tags": [
+          {
+            "id": "urn:tag:subgenre:qloo:acoustic",
+            "name": "Acoustic",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:singer_songwriter",
+            "name": "Singer Songwriter",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:young",
+            "name": "Young",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:acoustic",
+            "name": "Acoustic",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:influence:qloo:contemporary_singer_songwriter",
+            "name": "Contemporary Singer-Songwriter",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:indie_folk",
+            "name": "Indie Folk",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:bob_dylan",
+            "name": "Bob Dylan",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:minimalist_folk",
+            "name": "Minimalist Folk",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:indian_indie_folk",
+            "name": "Indian Indie Folk",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:3",
+            "name": "3",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:relationships",
+            "name": "Relationships",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:emotive",
+            "name": "Emotive",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:emotive_balladry",
+            "name": "Emotive Balladry",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:nick_drake",
+            "name": "Nick Drake",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:acoustic",
+            "name": "Acoustic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:gentle",
+            "name": "Gentle",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:passionate",
+            "name": "Passionate",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:contemporary_indian_folk",
+            "name": "Contemporary Indian Folk",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:guitar",
+            "name": "Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:introspective",
+            "name": "Introspective",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:engaging",
+            "name": "Engaging",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:emotions",
+            "name": "Emotions",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:voice_type:qloo:tenor",
+            "name": "Tenor",
+            "type": "urn:tag:voice_type:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:introspective",
+            "name": "Introspective",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:melodic",
+            "name": "Melodic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:indie_folk",
+            "name": "Indie Folk",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:loyal",
+            "name": "Loyal",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:melodic",
+            "name": "Melodic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:indian",
+            "name": "Indian",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:music:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:heartbreak",
+            "name": "Heartbreak",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:introspection",
+            "name": "Introspection",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:indie_pop",
+            "name": "Indie Pop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:acoustic_singer_songwriter",
+            "name": "Acoustic Singer-Songwriter",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:calm",
+            "name": "Calm",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:singer_songwriter",
+            "name": "Singer & Songwriter",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:elliott_smith",
+            "name": "Elliott Smith",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:introspective",
+            "name": "Introspective",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:gentle",
+            "name": "Gentle",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:singer_songwriter",
+            "name": "Singer-Songwriter",
+            "type": "urn:tag:genre:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.892394636655999,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Prateek Kuhad",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm8339498"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "prateek%20kuhad",
+              "listeners": 109219,
+              "scrobbles": 2767920
+            }
+          ],
+          "spotify": [
+            {
+              "id": "0tC995Rfn9k2l7nqgCZsV7",
+              "verified": true,
+              "followers": 345140,
+              "last_release": 2020,
+              "first_release": 2011,
+              "monthly_listeners": 1527801
+            }
+          ],
+          "twitter": [
+            {
+              "id": "prateekkuhad"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q29913265"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "prateekkuhad"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "810b210f-b461-4f02-aff2-dff91196147e",
+              "artist_type": "Person"
+            }
+          ]
+        }
+      },
+      {
+        "name": "The Local Train",
+        "entity_id": "708E858B-D0E9-4606-A64B-47B890D46108",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/708E858B-D0E9-4606-A64B-47B890D46108-420x-auto.jpg"
+          },
+          "vocals": "The Local Train features expressive and emotive vocals primarily in Hindi, with a blend of melodic and powerful singing that complements their rock instrumentation.",
+          "aliases": [],
+          "members": [
+            "Raghu Ram",
+            "Ramit Mehra",
+            "Siddharth Sharma",
+            "Abhinav Bansal"
+          ],
+          "is_group": true,
+          "biography": "Formed in Chandigarh, India, The Local Train started as a group of friends passionate about rock music and Hindi lyrics. They gained popularity through their independent releases and live performances, building a dedicated fanbase with their relatable themes and powerful sound. Over the years, they have become one of the prominent bands in the Indian indie rock scene, known for their meaningful lyrics and fusion of rock styles.",
+          "known_for": "Known for their soulful Hindi rock music, meaningful lyrics, and energetic live performances.",
+          "start_year": 2008,
+          "description": "The Local Train is an Indian rock band formed in Chandigarh, known for their Hindi rock music blending alternative and indie rock elements. They are acclaimed for their soulful lyrics and energetic performances, contributing significantly to the Indian independent music scene.",
+          "instruments": [
+            "Guitar",
+            "Bass Guitar",
+            "Drums",
+            "Vocals"
+          ],
+          "collaborators": [],
+          "influenced_by": [
+            "Pink Floyd",
+            "Led Zeppelin",
+            "Radiohead",
+            "Indian Folk Music"
+          ],
+          "notable_songs": [
+            "Choo Lo",
+            "Aaftaab",
+            "Dil Mere",
+            "Khudi",
+            "Gustaakh"
+          ],
+          "lyrical_themes": [
+            "Love",
+            "Self-discovery",
+            "Social Issues",
+            "Hope",
+            "Emotions"
+          ],
+          "primary_genres": [
+            "Rock",
+            "Indie Rock",
+            "Alternative Rock"
+          ],
+          "characteristics": [
+            "Soulful",
+            "Energetic",
+            "Melodic",
+            "Expressive",
+            "Passionate"
+          ],
+          "cultural_impact": "The Local Train has played a significant role in popularizing Hindi rock and independent music in India, inspiring a new generation of musicians and contributing to the growth of the indie music culture.",
+          "obscurity_scale": [
+            "4"
+          ],
+          "secondary_genres": [
+            "Hindi Rock",
+            "Fusion Rock"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "Hindi Rock",
+            "Indie Rock"
+          ],
+          "performance_style": "The Local Train's performance style is energetic and engaging, with expressive vocals and dynamic instrumentation that connect deeply with their audience.",
+          "artists_influenced": [
+            "Prateek Kuhad",
+            "When Chai Met Toast"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Banda de rock india reconocida por su rock en hindi y letras conmovedoras.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "An Indian rock band known for Hindi rock and soulful lyrics.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Indische Rockband, bekannt für Hindi-Rock und gefühlvolle Texte.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Groupe de rock indien connu pour son rock en hindi et ses paroles émouvantes.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Passionate",
+            "Loyal",
+            "Youthful",
+            "Engaged"
+          ],
+          "adjectives_for_music": [
+            "Melodic",
+            "Soulful",
+            "Energetic",
+            "Expressive",
+            "Fusion"
+          ],
+          "lyrical_themes_description": "Their lyrics often explore themes of love, self-discovery, social issues, hope, and emotional introspection, resonating deeply with young audiences.",
+          "adjectives_for_performance_style": [
+            "Energetic",
+            "Engaging",
+            "Expressive"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Hindi Rock",
+            "Indie Rock",
+            "Alternative Rock",
+            "Fusion Rock",
+            "Melodic Rock"
+          ]
+        },
+        "popularity": 0.8467156872382675,
+        "tags": [
+          {
+            "id": "urn:tag:subgenre:qloo:fusion_rock",
+            "name": "Fusion Rock",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:hindi_rock",
+            "name": "Hindi Rock",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:rock",
+            "name": "Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:indie_rock",
+            "name": "Indie Rock",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:passionate",
+            "name": "Passionate",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:drums",
+            "name": "Drums",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:emotions",
+            "name": "Emotions",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:indie_rock",
+            "name": "Indie Rock",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:pink_floyd",
+            "name": "Pink Floyd",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:self_discovery",
+            "name": "Self Discovery",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:4",
+            "name": "4",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:hindi_rock",
+            "name": "Hindi Rock",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:melodic",
+            "name": "Melodic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:indian_folk_music",
+            "name": "Indian Folk Music",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:radiohead",
+            "name": "Radiohead",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:fusion",
+            "name": "Fusion",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:alternative_rock",
+            "name": "Alternative Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:hope",
+            "name": "Hope",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:melodic_rock",
+            "name": "Melodic Rock",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:bass_guitar",
+            "name": "Bass Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:loyal",
+            "name": "Loyal",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:hindi_rock",
+            "name": "Hindi Rock",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:fusion_rock",
+            "name": "Fusion Rock",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:engaging",
+            "name": "Engaging",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:melodic",
+            "name": "Melodic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:pop_rock",
+            "name": "Pop - Rock",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:genre:music:indian_rock",
+            "name": "Indian Rock",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:led_zeppelin",
+            "name": "Led Zeppelin",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:rock",
+            "name": "Rock",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:guitar",
+            "name": "Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:youthful",
+            "name": "Youthful",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:social_issues",
+            "name": "Social Issues",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:indie_rock",
+            "name": "Indie Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:engaged",
+            "name": "Engaged",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:passionate",
+            "name": "Passionate",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:alternative_rock",
+            "name": "Alternative Rock",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:self_discovery",
+            "name": "Self-discovery",
+            "type": "urn:tag:theme:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8902726408421222,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "The Local Train",
+        "external": {
+          "lastfm": [
+            {
+              "id": "the%20local%20train",
+              "listeners": 44486,
+              "scrobbles": 1840579
+            }
+          ],
+          "spotify": [
+            {
+              "id": "7b6Ui7JVaBDEfZB9k6nHL0",
+              "verified": true,
+              "followers": 604820,
+              "monthly_listeners": 470450
+            }
+          ],
+          "twitter": [
+            {
+              "id": "thelocaltrain"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "thelocaltrain"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q24937397"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "thelocaltrain"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "93e6118e-7fa8-49f6-9e02-699a1ebce105",
+              "artist_type": "Group"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Benny Dayal",
+        "entity_id": "22917F79-B039-40F7-B0CD-4EABD2C643EF",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/22917F79-B039-40F7-B0CD-4EABD2C643EF-420x-auto.jpg"
+          },
+          "vocals": "Benny Dayal's vocals are characterized by a smooth, melodious tone with the ability to handle fast-paced and rhythmic songs as well as soulful ballads. He is known for his clear diction and expressive singing style.",
+          "aliases": [
+            "Benny Dayal"
+          ],
+          "members": [],
+          "is_group": false,
+          "biography": "Benny Dayal was born in Kerala, India, and grew up in Abu Dhabi. He developed an interest in music early on and trained in Carnatic music. He rose to fame as a playback singer in Bollywood and South Indian films, known for his unique voice and ability to adapt to different musical styles. Over the years, he has collaborated with many prominent music directors and has become a popular figure in Indian music.",
+          "known_for": "Versatile playback singing with a dynamic and expressive vocal style across multiple Indian languages and genres.",
+          "start_year": 2004,
+          "description": "Benny Dayal is an Indian playback singer and performer known for his work in Bollywood and South Indian cinema. He has a versatile vocal style that spans multiple genres including pop, fusion, and classical Indian music. Benny has gained popularity for his energetic performances and ability to sing in various Indian languages.",
+          "instruments": [
+            "Vocals"
+          ],
+          "collaborators": [
+            "A. R. Rahman",
+            "Pritam",
+            "Vishal-Shekhar",
+            "Shankar-Ehsaan-Loy"
+          ],
+          "date_of_birth": "1984-05-13",
+          "influenced_by": [
+            "A. R. Rahman",
+            "K. J. Yesudas",
+            "Shankar Mahadevan"
+          ],
+          "notable_songs": [
+            "Badtameez Dil",
+            "Kaise Mujhe",
+            "Pappu Can't Dance Saala",
+            "Lat Lag Gayee"
+          ],
+          "lyrical_themes": [
+            "Love",
+            "Romance",
+            "Fun",
+            "Youth",
+            "Celebration"
+          ],
+          "primary_genres": [
+            "Playback Singing",
+            "Indian Pop",
+            "Bollywood Music"
+          ],
+          "characteristics": [
+            "Versatile",
+            "Energetic",
+            "Melodious",
+            "Dynamic",
+            "Expressive"
+          ],
+          "cultural_impact": "Benny Dayal has contributed significantly to contemporary Indian film music, bringing a fresh and youthful voice that appeals to a broad audience across India and abroad. His work has helped popularize fusion and pop elements in Indian playback singing.",
+          "obscurity_scale": [
+            "2"
+          ],
+          "secondary_genres": [
+            "Carnatic Music",
+            "Fusion",
+            "Indie Pop"
+          ],
+          "associated_brands": [
+            "Sony Music India",
+            "T-Series"
+          ],
+          "genres_influenced": [
+            "Indian Pop",
+            "Bollywood Music",
+            "Fusion"
+          ],
+          "performance_style": "Benny Dayal's performance style is energetic and engaging, often involving lively stage presence and interaction with the audience, complementing his versatile singing abilities.",
+          "artists_influenced": [
+            "Armaan Malik",
+            "Jonita Gandhi",
+            "Neha Kakkar"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Chanteur de playback indien reconnu pour sa voix polyvalente dans les films Bollywood et sud-indiens.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Indian playback singer known for his versatile voice in Bollywood and South Indian films.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Indischer Playback-Sänger, bekannt für seine vielseitige Stimme in Bollywood- und südindischen Filmen.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Cantante de reproducción indio famoso por su voz versátil en películas de Bollywood y del sur de la India.",
+              "languages": [
+                "es"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Energetic",
+            "Youthful",
+            "Loyal",
+            "Passionate"
+          ],
+          "adjectives_for_music": [
+            "Melodious",
+            "Energetic",
+            "Fusion",
+            "Catchy",
+            "Expressive"
+          ],
+          "lyrical_themes_description": "Benny Dayal's songs often explore themes of love, romance, youthful exuberance, and celebration, reflecting the vibrant and diverse nature of Indian film music.",
+          "adjectives_for_performance_style": [
+            "Energetic",
+            "Engaging",
+            "Dynamic",
+            "Expressive"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Bollywood Playback",
+            "Carnatic Fusion",
+            "Indie Pop",
+            "Contemporary Indian Pop",
+            "Film Soundtrack"
+          ]
+        },
+        "popularity": 0.8786839156164599,
+        "tags": [
+          {
+            "id": "urn:tag:obscurity:qloo:2",
+            "name": "2",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:engaging",
+            "name": "Engaging",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:catchy",
+            "name": "Catchy",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:dynamic",
+            "name": "Dynamic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:a_r_rahman",
+            "name": "A R Rahman",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:bollywood",
+            "name": "Bollywood",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:audience:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:fusion",
+            "name": "Fusion",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:indie_pop",
+            "name": "Indie Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:playback_singing",
+            "name": "Playback Singing",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:bollywood",
+            "name": "Bollywood",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:youth",
+            "name": "Youth",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:fun",
+            "name": "Fun",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:indie_pop",
+            "name": "Indie Pop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:youthful",
+            "name": "Youthful",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:fusion",
+            "name": "Fusion",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:film_soundtrack",
+            "name": "Film Soundtrack",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:shankar_mahadevan",
+            "name": "Shankar Mahadevan",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:versatile",
+            "name": "Versatile",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:all",
+            "name": "All",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:audience:qloo:loyal",
+            "name": "Loyal",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:contemporary_indian_pop",
+            "name": "Contemporary Indian Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:indian_pop",
+            "name": "Indian Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:bollywood_playback",
+            "name": "Bollywood Playback",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:carnatic_fusion",
+            "name": "Carnatic Fusion",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:celebration",
+            "name": "Celebration",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:melodious",
+            "name": "Melodious",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:k_j_yesudas",
+            "name": "K. J. Yesudas",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:dance",
+            "name": "Dance",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:artist:qloo:melodious",
+            "name": "Melodious",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:dynamic",
+            "name": "Dynamic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:bollywood_music",
+            "name": "Bollywood Music",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:indian_pop",
+            "name": "Indian Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:carnatic",
+            "name": "Carnatic",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:passionate",
+            "name": "Passionate",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:indian",
+            "name": "Indian",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:theme:qloo:romance",
+            "name": "Romance",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:fusion",
+            "name": "Fusion",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:a_r_rahman",
+            "name": "A. R. Rahman",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:bollywood_music",
+            "name": "Bollywood Music",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:carnatic_music",
+            "name": "Carnatic Music",
+            "type": "urn:tag:subgenre:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.888337616006326,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Benny Dayal",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm3270308"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "benny%20dayal",
+              "listeners": 79616,
+              "scrobbles": 1318236
+            }
+          ],
+          "spotify": [
+            {
+              "id": "61if35zz1W11GejEkxTLEQ",
+              "verified": true,
+              "followers": 1328936,
+              "last_release": 2020,
+              "first_release": 2012,
+              "monthly_listeners": 3218334
+            }
+          ],
+          "twitter": [
+            {
+              "id": "benny_dayal"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q4889964"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "bennydayalofficial"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "6b0b4484-442e-489d-bb8e-5e79dcd8e5f4",
+              "artist_type": "Person"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Atif Aslam",
+        "entity_id": "0387DCE5-09FA-419A-A8AB-AEC55E6A913A",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/0387DCE5-09FA-419A-A8AB-AEC55E6A913A-420x-auto.jpg"
+          },
+          "vocals": "Atif Aslam's vocals are characterized by a smooth tenor voice with a soulful and emotive quality. He is known for his ability to convey deep emotions through his singing, often using subtle vocal inflections and a controlled vibrato. His singing style blends pop and rock sensibilities with traditional South Asian musical influences.",
+          "aliases": [
+            "Atif Aslam"
+          ],
+          "members": [],
+          "is_group": false,
+          "biography": "Atif Aslam was born on March 12, 1983, in Wazirabad, Pakistan. He began his music career as the lead vocalist of the band Jal before embarking on a successful solo career. His breakthrough came with the song 'Aadat' which became a massive hit. Over the years, Atif has established himself as a prominent playback singer in Bollywood and a celebrated artist in Pakistan. His music often incorporates elements of pop, rock, and Sufi traditions, and he is known for his emotive vocal delivery and ability to connect with audiences.",
+          "known_for": "Atif Aslam is known for his soulful tenor voice, emotive singing style, and successful crossover between Pakistani and Bollywood music industries.",
+          "start_year": 2003,
+          "voice_type": [
+            "Tenor"
+          ],
+          "description": "Atif Aslam is a renowned Pakistani singer and actor who gained fame for his distinctive voice and hit songs in both Pakistan and Bollywood films. He is known for his soulful and melodious singing style, blending pop, rock, and Sufi music elements. Atif has released numerous albums and singles, and his songs are widely appreciated across South Asia. He has also acted in Pakistani films and is considered one of the leading contemporary vocalists in the region.",
+          "instruments": [
+            "Vocals",
+            "Guitar"
+          ],
+          "collaborators": [
+            "Jal Band",
+            "A.R. Rahman",
+            "Shreya Ghoshal",
+            "Vishal-Shekhar"
+          ],
+          "date_of_birth": "1983-03-12",
+          "influenced_by": [
+            "Nusrat Fateh Ali Khan",
+            "Junoon",
+            "Ali Azmat"
+          ],
+          "notable_songs": [
+            "Aadat",
+            "Tera Hone Laga Hoon",
+            "Woh Lamhe",
+            "Jeene Laga Hoon",
+            "Tajdar-e-Haram"
+          ],
+          "lyrical_themes": [
+            "Love",
+            "Heartbreak",
+            "Spirituality",
+            "Longing",
+            "Hope"
+          ],
+          "primary_genres": [
+            "Pop",
+            "Rock",
+            "Sufi"
+          ],
+          "characteristics": [
+            "Soulful",
+            "Melodious",
+            "Expressive",
+            "Versatile",
+            "Romantic"
+          ],
+          "cultural_impact": "Atif Aslam has had a significant impact on South Asian music, particularly in popularizing Pakistani artists in Bollywood and beyond. His unique voice and style have influenced a generation of singers and helped bridge cultural gaps between India and Pakistan through music.",
+          "obscurity_scale": [
+            "2"
+          ],
+          "secondary_genres": [
+            "Bollywood",
+            "Classical",
+            "Folk"
+          ],
+          "associated_brands": [
+            "Coca-Cola Pakistan",
+            "Pepsi Pakistan"
+          ],
+          "genres_influenced": [
+            "South Asian Pop",
+            "Bollywood Music",
+            "Sufi Rock"
+          ],
+          "performance_style": "Atif Aslam's performance style is characterized by emotional expressiveness and strong audience engagement, often delivering his songs with passion and energy that connect deeply with listeners.",
+          "artists_influenced": [
+            "Arijit Singh",
+            "Mohit Chauhan",
+            "Atif Afzal"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Atif Aslam ist ein pakistanischer Sänger und Schauspieler, bekannt für seine gefühlvolle Stimme und beliebte Songs in Südasien.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Atif Aslam es un cantante y actor paquistaní famoso por su voz conmovedora y sus canciones populares en el sur de Asia.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Atif Aslam is a Pakistani singer and actor known for his soulful voice and popular songs in South Asia.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Atif Aslam est un chanteur et acteur pakistanais reconnu pour sa voix émouvante et ses chansons populaires en Asie du Sud.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Devoted",
+            "Passionate",
+            "Loyal",
+            "Diverse"
+          ],
+          "adjectives_for_music": [
+            "Soulful",
+            "Melodic",
+            "Romantic",
+            "Expressive",
+            "Contemporary"
+          ],
+          "lyrical_themes_description": "Atif Aslam's lyrics often explore themes of love and heartbreak, with a strong emphasis on emotional expression and romantic longing. Some of his songs also delve into spiritual and devotional themes, reflecting Sufi influences.",
+          "adjectives_for_performance_style": [
+            "Energetic",
+            "Expressive",
+            "Engaging",
+            "Passionate"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Sufi-Pop",
+            "Melodic-Rock",
+            "Romantic-Ballad",
+            "Bollywood-Fusion",
+            "Soulful-Vocal"
+          ]
+        },
+        "popularity": 0.9630838395952526,
+        "tags": [
+          {
+            "id": "urn:tag:style:qloo:passionate",
+            "name": "Passionate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:nusrat_fateh_ali_khan",
+            "name": "Nusrat Fateh Ali Khan",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:diverse",
+            "name": "Diverse",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:spirituality",
+            "name": "Spirituality",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:engaging",
+            "name": "Engaging",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:bollywood_fusion",
+            "name": "Bollywood Fusion",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:sufi",
+            "name": "Sufi",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:classical",
+            "name": "Classical",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:folk",
+            "name": "Folk",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:soulful_vocal",
+            "name": "Soulful Vocal",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:devoted",
+            "name": "Devoted",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:melodic_rock",
+            "name": "Melodic Rock",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:bollywood_music",
+            "name": "Bollywood Music",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:passionate",
+            "name": "Passionate",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:ali_azmat",
+            "name": "Ali Azmat",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:hindi",
+            "name": "Hindi",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:music:qloo:romantic",
+            "name": "Romantic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:hope",
+            "name": "Hope",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:sufi_pop",
+            "name": "Sufi Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:versatile",
+            "name": "Versatile",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:melodious",
+            "name": "Melodious",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:2",
+            "name": "2",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:sufi_rock",
+            "name": "Sufi Rock",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:heartbreak",
+            "name": "Heartbreak",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:voice_type:qloo:tenor",
+            "name": "Tenor",
+            "type": "urn:tag:voice_type:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:contemporary",
+            "name": "Contemporary",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:longing",
+            "name": "Longing",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:romantic_ballad",
+            "name": "Romantic Ballad",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:melodic",
+            "name": "Melodic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:rock",
+            "name": "Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:bollywood",
+            "name": "Bollywood",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:south_asian_pop",
+            "name": "South Asian Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:romantic",
+            "name": "Romantic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:junoon",
+            "name": "Junoon",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:guitar",
+            "name": "Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:loyal",
+            "name": "Loyal",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:pop",
+            "name": "Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:sufi_pop",
+            "name": "Sufi-Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:melodic_rock",
+            "name": "Melodic-Rock",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:romantic_ballad",
+            "name": "Romantic-Ballad",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:bollywood_fusion",
+            "name": "Bollywood-Fusion",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:soulful_vocal",
+            "name": "Soulful-Vocal",
+            "type": "urn:tag:style:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8882475314625792,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Atif Aslam",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm2139651"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "atif%20aslam",
+              "listeners": 147352,
+              "scrobbles": 5458739
+            }
+          ],
+          "spotify": [
+            {
+              "id": "2oSONSC9zQ4UonDKnLqksx",
+              "verified": true,
+              "followers": 2656123,
+              "last_release": 2020,
+              "first_release": 2006,
+              "monthly_listeners": 4023729
+            }
+          ],
+          "twitter": [
+            {
+              "id": "itsaadee"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "atifaslamofficialfanpage"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q755830"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "atifaslam"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "2c26fddb-3926-4004-ae27-22a3896a4f26",
+              "artist_type": "Person"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Arijit Singh",
+        "entity_id": "924C8504-4BD8-4615-AB2D-1C16880A8A62",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/924C8504-4BD8-4615-AB2D-1C16880A8A62-420x-auto.jpg"
+          },
+          "vocals": "Arijit Singh's vocals are characterized by a smooth baritone voice with a rich tonal quality. He is known for his control, emotive delivery, and ability to adapt his voice to various musical styles, including classical, pop, and Sufi. His singing often features subtle nuances and expressive phrasing that enhance the emotional impact of his songs.",
+          "aliases": [
+            "Arijit Singh"
+          ],
+          "members": [],
+          "is_group": false,
+          "biography": "Born in West Bengal, India, Arijit Singh showed an early interest in music and trained in Indian classical music. He rose to fame after participating in a reality singing competition, which led to opportunities in Bollywood playback singing. Over the years, he has become one of the most sought-after singers in the Indian music industry, known for his ability to convey deep emotions through his singing. His career spans numerous hit songs and collaborations with top music composers and filmmakers.",
+          "known_for": "Arijit Singh is known for his soulful and emotive singing style, versatility across genres, and his ability to connect deeply with listeners through his voice.",
+          "start_year": 2007,
+          "voice_type": [
+            "Baritone"
+          ],
+          "description": "Arijit Singh is a prominent Indian playback singer and musician, widely recognized for his soulful and emotive voice. He has established himself as one of the leading voices in Bollywood music, delivering hits across genres such as romantic ballads, pop, classical, and Sufi music. His vocal style is characterized by its smoothness, emotional depth, and technical proficiency, making him a favorite among music directors and audiences alike.",
+          "instruments": [
+            "Vocals"
+          ],
+          "collaborators": [
+            "Pritam",
+            "Amit Trivedi",
+            "Shankar-Ehsaan-Loy",
+            "Vishal-Shekhar"
+          ],
+          "date_of_birth": "1987-04-25",
+          "influenced_by": [
+            "Kishore Kumar",
+            "Lata Mangeshkar",
+            "Mohammed Rafi",
+            "Jagjit Singh"
+          ],
+          "notable_songs": [
+            "Tum Hi Ho",
+            "Channa Mereya",
+            "Raabta",
+            "Muskurane",
+            "Ae Dil Hai Mushkil"
+          ],
+          "lyrical_themes": [
+            "Love",
+            "Heartbreak",
+            "Longing",
+            "Hope",
+            "Devotion"
+          ],
+          "primary_genres": [
+            "Playback Singing",
+            "Bollywood",
+            "Indian Classical",
+            "Pop",
+            "Romantic"
+          ],
+          "characteristics": [
+            "Soulful",
+            "Versatile",
+            "Emotive",
+            "Melodic",
+            "Expressive"
+          ],
+          "cultural_impact": "Arijit Singh has had a significant impact on contemporary Indian music, becoming a defining voice of Bollywood's romantic and emotional songs in the 2010s and beyond. His popularity has influenced the style of playback singing and inspired a new generation of singers in India and abroad.",
+          "obscurity_scale": [
+            "1"
+          ],
+          "secondary_genres": [
+            "Sufi",
+            "Folk",
+            "Indie"
+          ],
+          "associated_brands": [
+            "Sony Music India",
+            "T-Series"
+          ],
+          "genres_influenced": [
+            "Bollywood Music",
+            "Indian Pop",
+            "Romantic Ballads"
+          ],
+          "performance_style": "Arijit Singh's performance style is intimate and emotive, often focusing on conveying the emotional depth of the song with subtle expressions and vocal nuances rather than flashy stage antics.",
+          "artists_influenced": [
+            "Armaan Malik",
+            "Jubin Nautiyal",
+            "Neha Kakkar"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Arijit Singh es un cantante de playback indio famoso por su voz conmovedora y su gran versatilidad en distintos géneros musicales.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Arijit Singh ist ein indischer Playback-Sänger, bekannt für seine gefühlvolle Stimme und Vielseitigkeit in verschiedenen Musikrichtungen.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Arijit Singh is an Indian playback singer known for his soulful voice and versatility in various music genres.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Arijit Singh est un chanteur de playback indien reconnu pour sa voix émouvante et sa grande polyvalence dans plusieurs genres musicaux.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Devoted",
+            "Passionate",
+            "Loyal",
+            "Emotional"
+          ],
+          "adjectives_for_music": [
+            "Soulful",
+            "Melodic",
+            "Emotional",
+            "Romantic",
+            "Expressive"
+          ],
+          "lyrical_themes_description": "Arijit Singh's songs often explore themes of love, heartbreak, emotional longing, hope, and devotion, capturing the complexities of human relationships and emotions through poetic and heartfelt lyrics.",
+          "adjectives_for_performance_style": [
+            "Expressive",
+            "Intimate",
+            "Emotive",
+            "Smooth"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Bollywood Romantic",
+            "Indian Classical Fusion",
+            "Sufi-Inspired",
+            "Pop Ballad",
+            "Emotive Playback"
+          ]
+        },
+        "popularity": 0.9556750486601262,
+        "tags": [
+          {
+            "id": "urn:tag:theme:qloo:devotion",
+            "name": "Devotion",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:hindi",
+            "name": "Hindi",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:artist:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:emotional",
+            "name": "Emotional",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:jagjit_singh",
+            "name": "Jagjit Singh",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:pop",
+            "name": "Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:heartbreak",
+            "name": "Heartbreak",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:romantic",
+            "name": "Romantic",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:folk",
+            "name": "Folk",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:hope",
+            "name": "Hope",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:romantic",
+            "name": "Romantic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:emotive_playback",
+            "name": "Emotive Playback",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:bollywood",
+            "name": "Bollywood",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:mohammed_rafi",
+            "name": "Mohammed Rafi",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:indian_pop",
+            "name": "Indian Pop",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:melodic",
+            "name": "Melodic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:bollywood",
+            "name": "Bollywood",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:voice_type:qloo:baritone",
+            "name": "Baritone",
+            "type": "urn:tag:voice_type:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:devoted",
+            "name": "Devoted",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:emotive",
+            "name": "Emotive",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:indian",
+            "name": "Indian",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:pop_ballad",
+            "name": "Pop Ballad",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:versatile",
+            "name": "Versatile",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:kishore_kumar",
+            "name": "Kishore Kumar",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:loyal",
+            "name": "Loyal",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:emotive",
+            "name": "Emotive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:romantic_ballads",
+            "name": "Romantic Ballads",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:bollywood_romantic",
+            "name": "Bollywood Romantic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:bollywood_music",
+            "name": "Bollywood Music",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:melodic",
+            "name": "Melodic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:indian_classical",
+            "name": "Indian Classical",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:longing",
+            "name": "Longing",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:1",
+            "name": "1",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:smooth",
+            "name": "Smooth",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:indian_classical_fusion",
+            "name": "Indian Classical Fusion",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:passionate",
+            "name": "Passionate",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:sufi",
+            "name": "Sufi",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:lata_mangeshkar",
+            "name": "Lata Mangeshkar",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:sufi_inspired",
+            "name": "Sufi Inspired",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:emotional",
+            "name": "Emotional",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:indie",
+            "name": "Indie",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:playback_singing",
+            "name": "Playback Singing",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:sufi_inspired",
+            "name": "Sufi-Inspired",
+            "type": "urn:tag:style:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8868471529664868,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Arijit Singh",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm3858033"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "arijit%20singh",
+              "listeners": 161363,
+              "scrobbles": 7745967
+            }
+          ],
+          "spotify": [
+            {
+              "id": "4YRxDV8wJFPHPTeXepOstw",
+              "verified": true,
+              "followers": 21970846,
+              "last_release": 2020,
+              "first_release": 2014,
+              "monthly_listeners": 8684821
+            }
+          ],
+          "twitter": [
+            {
+              "id": "thearijitsingh"
+            },
+            {
+              "id": "arijitsingh"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "officialarijitsingh"
+            },
+            {
+              "id": "arijitsingh"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q4790608"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "arijitsingh_fanclub_"
+            },
+            {
+              "id": "arijitsingh"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "ed3f4831-e3e0-4dc0-9381-f5649e9df221",
+              "artist_type": "Person"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

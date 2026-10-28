@@ -1,0 +1,818 @@
+{
+  "results": [
+    {
+      "name": "Acne Studios",
+      "entity_id": "C90E3920-BF05-4537-903F-085BFE2E41AC",
+      "types": [
+        "urn:entity:brand"
+      ],
+      "properties": {
+        "akas": [
+          {
+            "language": "ja",
+            "value": "アクネ"
+          },
+          {
+            "language": "da",
+            "value": "Acne Studios"
+          },
+          {
+            "language": "ru",
+            "value": "Acne Studios"
+          },
+          {
+            "language": "uk",
+            "value": "Acne Studios"
+          },
+          {
+            "language": "nb",
+            "value": "Acne Studios"
+          },
+          {
+            "language": "hu",
+            "value": "Acne Studios"
+          },
+          {
+            "language": "sv",
+            "value": "Acne Studios"
+          },
+          {
+            "language": "de",
+            "value": "Acne Jeans"
+          },
+          {
+            "language": "ko",
+            "value": "아크네 스튜디오"
+          }
+        ],
+        "description": "Acne Studios is a multidisciplinary luxury fashion house based in Stockholm that has grown from its origins in denim into a global leader in contemporary design. The brand is celebrated for its unique approach to fashion, which integrates art, photography, and high-quality publishing into its core operations. Offering a range of ready-to-wear apparel and accessories, the brand appeals to a sophisticated, creatively-minded audience. Its market positioning balances high-end luxury with an avant-garde edge, consistently pushing boundaries in aesthetics and design.",
+        "external": {
+          "facebook": {
+            "id": "acnestudios"
+          },
+          "instagram": {
+            "id": "acnestudios"
+          },
+          "twitter": {
+            "id": "acnestudios"
+          },
+          "wikidata": {
+            "id": "Q3277165"
+          }
+        },
+        "founded_year": "1996",
+        "headquartered": "Stockholm",
+        "image": {
+          "url": "https://images.qloo.com/i/C90E3920-BF05-4537-903F-085BFE2E41AC-420x-auto.jpg"
+        },
+        "inception": "1996-01-01",
+        "industry": [
+          "textile industry"
+        ],
+        "official_site": "http://www.acnestudios.com",
+        "products": [
+          "clothing"
+        ],
+        "short_description": "Acne Studios is a Stockholm-based fashion brand known for its ready-to-wear clothing, accessories, shoes, and denim collections.",
+        "short_descriptions": [
+          {
+            "language": "en",
+            "value": "A Stockholm-based luxury fashion house known for its multidisciplinary approach, blending minimalist Scandinavian design with artistic and creative influences."
+          },
+          {
+            "language": "es",
+            "value": "Una casa de moda de lujo con sede en Estocolmo, conocida por su enfoque multidisciplinario que combina el diseño escandinavo minimalista con influencias artísticas."
+          },
+          {
+            "language": "de",
+            "value": "Ein in Stockholm ansässiges Luxusmodehaus, das für seinen multidisziplinären Ansatz bekannt ist, der skandinavisches minimalistisches Design mit künstlerischen Einflüssen verbindet."
+          },
+          {
+            "language": "fr",
+            "value": "Une maison de couture de luxe basée à Stockholm, reconnue pour son approche multidisciplinaire mêlant design scandinave minimaliste et influences artistiques."
+          }
+        ],
+        "subsidiary": []
+      },
+      "popularity": 0.9918123103524267,
+      "disambiguation": "",
+      "tags": [
+        {
+          "name": "Accessories",
+          "tag_id": "urn:tag:genre:brand:fashion:accessories",
+          "type": "urn:tag:genre:brand"
+        },
+        {
+          "name": "Casual",
+          "tag_id": "urn:tag:genre:brand:fashion:casual",
+          "type": "urn:tag:genre:brand"
+        },
+        {
+          "name": "Footwear",
+          "tag_id": "urn:tag:genre:brand:fashion:footwear",
+          "type": "urn:tag:genre:brand"
+        },
+        {
+          "name": "Privately held companies of Sweden",
+          "tag_id": "urn:tag:wikipedia_category:privately_held_companies_of_sweden",
+          "type": "urn:tag:wikipedia_category"
+        },
+        {
+          "name": "Swedish brands",
+          "tag_id": "urn:tag:wikipedia_category:swedish_brands",
+          "type": "urn:tag:wikipedia_category"
+        },
+        {
+          "name": "Formalwear",
+          "tag_id": "urn:tag:genre:brand:fashion:formalwear",
+          "type": "urn:tag:genre:brand"
+        },
+        {
+          "name": "Clothing companies established in 1996",
+          "tag_id": "urn:tag:wikipedia_category:clothing_companies_established_in_1996",
+          "type": "urn:tag:wikipedia_category"
+        },
+        {
+          "name": "Luxury brands",
+          "tag_id": "urn:tag:wikipedia_category:luxury_brands",
+          "type": "urn:tag:wikipedia_category"
+        },
+        {
+          "name": "High-end / Designer",
+          "tag_id": "urn:tag:genre:brand:fashion:footwear:sneaker:designer",
+          "type": "urn:tag:genre:brand"
+        },
+        {
+          "name": "Bags & Leather",
+          "tag_id": "urn:tag:genre:brand:fashion:accessories:bags_and_leather",
+          "type": "urn:tag:genre:brand"
+        },
+        {
+          "name": "Lifestyle / Casual",
+          "tag_id": "urn:tag:genre:brand:fashion:footwear:sneaker:lifestyle",
+          "type": "urn:tag:genre:brand"
+        },
+        {
+          "name": "Clothing companies of Sweden",
+          "tag_id": "urn:tag:wikipedia_category:clothing_companies_of_sweden",
+          "type": "urn:tag:wikipedia_category"
+        },
+        {
+          "name": "Fashion",
+          "tag_id": "urn:tag:genre:brand:fashion",
+          "type": "urn:tag:genre:brand"
+        },
+        {
+          "name": "Companies based in Stockholm",
+          "tag_id": "urn:tag:wikipedia_category:companies_based_in_stockholm",
+          "type": "urn:tag:wikipedia_category"
+        },
+        {
+          "name": "Other",
+          "tag_id": "urn:tag:genre:brand:fashion:footwear:other",
+          "type": "urn:tag:genre:brand"
+        },
+        {
+          "name": "Clothing brands of Stockholm",
+          "tag_id": "urn:tag:wikipedia_category:clothing_brands_of_stockholm",
+          "type": "urn:tag:wikipedia_category"
+        },
+        {
+          "name": "Swedish companies established in 1996",
+          "tag_id": "urn:tag:wikipedia_category:swedish_companies_established_in_1996",
+          "type": "urn:tag:wikipedia_category"
+        },
+        {
+          "name": "Minimalist",
+          "tag_id": "urn:tag:aesthetic_property:qloo:minimalist",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Structured Silhouettes",
+          "tag_id": "urn:tag:aesthetic_property:qloo:structured_silhouettes",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Oversized Proportions",
+          "tag_id": "urn:tag:aesthetic_property:qloo:oversized_proportions",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Conceptual Graphic Prints",
+          "tag_id": "urn:tag:aesthetic_property:qloo:conceptual_graphic_prints",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Neutral Color Palettes",
+          "tag_id": "urn:tag:aesthetic_property:qloo:neutral_color_palettes",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "International Art Scene",
+          "tag_id": "urn:tag:lifestyle:qloo:international_art_scene",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Experimental Design",
+          "tag_id": "urn:tag:lifestyle:qloo:experimental_design",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Curated Living",
+          "tag_id": "urn:tag:lifestyle:qloo:curated_living",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Global Intellectualism",
+          "tag_id": "urn:tag:lifestyle:qloo:global_intellectualism",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Fashion",
+          "tag_id": "urn:tag:brand_subtype:qloo:fashion",
+          "type": "urn:tag:brand_subtype:qloo"
+        },
+        {
+          "name": "Product Brand",
+          "tag_id": "urn:tag:brand_type:qloo:product_brand",
+          "type": "urn:tag:brand_type:qloo"
+        },
+        {
+          "name": "B2C",
+          "tag_id": "urn:tag:business_model:qloo:b2c",
+          "type": "urn:tag:business_model:qloo"
+        },
+        {
+          "name": "Seasonal",
+          "tag_id": "urn:tag:collection_cadence:qloo:seasonal",
+          "type": "urn:tag:collection_cadence:qloo"
+        },
+        {
+          "name": "Permanent",
+          "tag_id": "urn:tag:collection_cadence:qloo:permanent",
+          "type": "urn:tag:collection_cadence:qloo"
+        },
+        {
+          "name": "Capsule",
+          "tag_id": "urn:tag:collection_cadence:qloo:capsule",
+          "type": "urn:tag:collection_cadence:qloo"
+        },
+        {
+          "name": "Prada",
+          "tag_id": "urn:tag:competitor_brand:qloo:prada",
+          "type": "urn:tag:competitor_brand:qloo"
+        },
+        {
+          "name": "Marni",
+          "tag_id": "urn:tag:competitor_brand:qloo:marni",
+          "type": "urn:tag:competitor_brand:qloo"
+        },
+        {
+          "name": "Balenciaga",
+          "tag_id": "urn:tag:competitor_brand:qloo:balenciaga",
+          "type": "urn:tag:competitor_brand:qloo"
+        },
+        {
+          "name": "Jil Sander",
+          "tag_id": "urn:tag:competitor_brand:qloo:jil_sander",
+          "type": "urn:tag:competitor_brand:qloo"
+        },
+        {
+          "name": "Loewe",
+          "tag_id": "urn:tag:competitor_brand:qloo:loewe",
+          "type": "urn:tag:competitor_brand:qloo"
+        },
+        {
+          "name": "Artistic Expression",
+          "tag_id": "urn:tag:core_value:qloo:artistic_expression",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Innovation",
+          "tag_id": "urn:tag:core_value:qloo:innovation",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Craftsmanship",
+          "tag_id": "urn:tag:core_value:qloo:craftsmanship",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Modernity",
+          "tag_id": "urn:tag:core_value:qloo:modernity",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Curiosity",
+          "tag_id": "urn:tag:core_value:qloo:curiosity",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Contemporary Art Scene",
+          "tag_id": "urn:tag:cultural_relevance:qloo:contemporary_art_scene",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "Scandinavian Design",
+          "tag_id": "urn:tag:cultural_relevance:qloo:scandinavian_design",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "Modernist Architecture",
+          "tag_id": "urn:tag:cultural_relevance:qloo:modernist_architecture",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "Independent Publishing",
+          "tag_id": "urn:tag:cultural_relevance:qloo:independent_publishing",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "Urban Professionals",
+          "tag_id": "urn:tag:customer_segment:qloo:urban_professionals",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Creative Industry Workers",
+          "tag_id": "urn:tag:customer_segment:qloo:creative_industry_workers",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Fashion Enthusiasts",
+          "tag_id": "urn:tag:customer_segment:qloo:fashion_enthusiasts",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Art Collectors",
+          "tag_id": "urn:tag:customer_segment:qloo:art_collectors",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Contemporary Art",
+          "tag_id": "urn:tag:design_inspiration:qloo:contemporary_art",
+          "type": "urn:tag:design_inspiration:qloo"
+        },
+        {
+          "name": "Photography",
+          "tag_id": "urn:tag:design_inspiration:qloo:photography",
+          "type": "urn:tag:design_inspiration:qloo"
+        },
+        {
+          "name": "Architecture",
+          "tag_id": "urn:tag:design_inspiration:qloo:architecture",
+          "type": "urn:tag:design_inspiration:qloo"
+        },
+        {
+          "name": "Scandinavian Design",
+          "tag_id": "urn:tag:design_inspiration:qloo:scandinavian_design",
+          "type": "urn:tag:design_inspiration:qloo"
+        },
+        {
+          "name": "Sophisticated",
+          "tag_id": "urn:tag:emotional_tone:qloo:sophisticated",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Edgy",
+          "tag_id": "urn:tag:emotional_tone:qloo:edgy",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Artistic",
+          "tag_id": "urn:tag:emotional_tone:qloo:artistic",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Minimalist",
+          "tag_id": "urn:tag:emotional_tone:qloo:minimalist",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Creative",
+          "tag_id": "urn:tag:emotional_tone:qloo:creative",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Luxury",
+          "tag_id": "urn:tag:fashion_segment:qloo:luxury",
+          "type": "urn:tag:fashion_segment:qloo"
+        },
+        {
+          "name": "Designer",
+          "tag_id": "urn:tag:fashion_segment:qloo:designer",
+          "type": "urn:tag:fashion_segment:qloo"
+        },
+        {
+          "name": "Ready-to-Wear",
+          "tag_id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+          "type": "urn:tag:fashion_segment:qloo"
+        },
+        {
+          "name": "Avant-Garde",
+          "tag_id": "urn:tag:fashion_segment:qloo:avant_garde",
+          "type": "urn:tag:fashion_segment:qloo"
+        },
+        {
+          "name": "Fashion & Apparel",
+          "tag_id": "urn:tag:industry:qloo:fashion_apparel",
+          "type": "urn:tag:industry:qloo"
+        },
+        {
+          "name": "Retail",
+          "tag_id": "urn:tag:industry:qloo:retail",
+          "type": "urn:tag:industry:qloo"
+        },
+        {
+          "name": "Art",
+          "tag_id": "urn:tag:industry:qloo:art",
+          "type": "urn:tag:industry:qloo"
+        },
+        {
+          "name": "Publishing",
+          "tag_id": "urn:tag:industry:qloo:publishing",
+          "type": "urn:tag:industry:qloo"
+        },
+        {
+          "name": "Contemporary Artists",
+          "tag_id": "urn:tag:influencer_appeal:qloo:contemporary_artists",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Architects",
+          "tag_id": "urn:tag:influencer_appeal:qloo:architects",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Indie Musicians",
+          "tag_id": "urn:tag:influencer_appeal:qloo:indie_musicians",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Creative Directors",
+          "tag_id": "urn:tag:influencer_appeal:qloo:creative_directors",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Fashion Stylists",
+          "tag_id": "urn:tag:influencer_appeal:qloo:fashion_stylists",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Contemporary Art",
+          "tag_id": "urn:tag:interest_adjacency:qloo:contemporary_art",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Independent Publishing",
+          "tag_id": "urn:tag:interest_adjacency:qloo:independent_publishing",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Graphic Design",
+          "tag_id": "urn:tag:interest_adjacency:qloo:graphic_design",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Architecture",
+          "tag_id": "urn:tag:interest_adjacency:qloo:architecture",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Photography",
+          "tag_id": "urn:tag:interest_adjacency:qloo:photography",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Sweden",
+          "tag_id": "urn:tag:key_market:qloo:sweden",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "United States",
+          "tag_id": "urn:tag:key_market:qloo:united_states",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "France",
+          "tag_id": "urn:tag:key_market:qloo:france",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "United Kingdom",
+          "tag_id": "urn:tag:key_market:qloo:united_kingdom",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "Japan",
+          "tag_id": "urn:tag:key_market:qloo:japan",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "Stockholm",
+          "tag_id": "urn:tag:keyword:qloo:stockholm",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Minimalism",
+          "tag_id": "urn:tag:keyword:qloo:minimalism",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Multidisciplinary",
+          "tag_id": "urn:tag:keyword:qloo:multidisciplinary",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Denim",
+          "tag_id": "urn:tag:keyword:qloo:denim",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Avant-Garde",
+          "tag_id": "urn:tag:keyword:qloo:avant_garde",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Mulberry",
+          "tag_id": "urn:tag:partnership:qloo:mulberry",
+          "type": "urn:tag:partnership:qloo"
+        },
+        {
+          "name": "Lanvin",
+          "tag_id": "urn:tag:partnership:qloo:lanvin",
+          "type": "urn:tag:partnership:qloo"
+        },
+        {
+          "name": "Fjällräven",
+          "tag_id": "urn:tag:partnership:qloo:fjallraven",
+          "type": "urn:tag:partnership:qloo"
+        },
+        {
+          "name": "Urban Living",
+          "tag_id": "urn:tag:lifestyle:qloo:urban_living",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Creative Professionalism",
+          "tag_id": "urn:tag:lifestyle:qloo:creative_professionalism",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Cultural Engagement",
+          "tag_id": "urn:tag:lifestyle:qloo:cultural_engagement",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Travel",
+          "tag_id": "urn:tag:lifestyle:qloo:travel",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Art Gallery Visiting",
+          "tag_id": "urn:tag:lifestyle:qloo:art_gallery_visiting",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Niche",
+          "tag_id": "urn:tag:market_archetype:qloo:niche",
+          "type": "urn:tag:market_archetype:qloo"
+        },
+        {
+          "name": "Avant-Garde",
+          "tag_id": "urn:tag:market_archetype:qloo:avant_garde",
+          "type": "urn:tag:market_archetype:qloo"
+        },
+        {
+          "name": "Cotton",
+          "tag_id": "urn:tag:material:qloo:cotton",
+          "type": "urn:tag:material:qloo"
+        },
+        {
+          "name": "Leather",
+          "tag_id": "urn:tag:material:qloo:leather",
+          "type": "urn:tag:material:qloo"
+        },
+        {
+          "name": "Wool",
+          "tag_id": "urn:tag:material:qloo:wool",
+          "type": "urn:tag:material:qloo"
+        },
+        {
+          "name": "Denim",
+          "tag_id": "urn:tag:material:qloo:denim",
+          "type": "urn:tag:material:qloo"
+        },
+        {
+          "name": "Silk",
+          "tag_id": "urn:tag:material:qloo:silk",
+          "type": "urn:tag:material:qloo"
+        },
+        {
+          "name": "Minimalist",
+          "tag_id": "urn:tag:personal_style:qloo:minimalist",
+          "type": "urn:tag:personal_style:qloo"
+        },
+        {
+          "name": "Edgy",
+          "tag_id": "urn:tag:personal_style:qloo:edgy",
+          "type": "urn:tag:personal_style:qloo"
+        },
+        {
+          "name": "Androgynous",
+          "tag_id": "urn:tag:personal_style:qloo:androgynous",
+          "type": "urn:tag:personal_style:qloo"
+        },
+        {
+          "name": "Artistic",
+          "tag_id": "urn:tag:personal_style:qloo:artistic",
+          "type": "urn:tag:personal_style:qloo"
+        },
+        {
+          "name": "Modernist",
+          "tag_id": "urn:tag:personal_style:qloo:modernist",
+          "type": "urn:tag:personal_style:qloo"
+        },
+        {
+          "name": "$$$$",
+          "tag_id": "urn:tag:price_level:qloo:_",
+          "type": "urn:tag:price_level:qloo"
+        },
+        {
+          "name": "Apparel",
+          "tag_id": "urn:tag:product_category:qloo:apparel",
+          "type": "urn:tag:product_category:qloo"
+        },
+        {
+          "name": "Footwear",
+          "tag_id": "urn:tag:product_category:qloo:footwear",
+          "type": "urn:tag:product_category:qloo"
+        },
+        {
+          "name": "Handbags",
+          "tag_id": "urn:tag:product_category:qloo:handbags",
+          "type": "urn:tag:product_category:qloo"
+        },
+        {
+          "name": "Eyewear",
+          "tag_id": "urn:tag:product_category:qloo:eyewear",
+          "type": "urn:tag:product_category:qloo"
+        },
+        {
+          "name": "Denim",
+          "tag_id": "urn:tag:product_category:qloo:denim",
+          "type": "urn:tag:product_category:qloo"
+        },
+        {
+          "name": "Apparel",
+          "tag_id": "urn:tag:product_service:qloo:apparel",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Footwear",
+          "tag_id": "urn:tag:product_service:qloo:footwear",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Accessories",
+          "tag_id": "urn:tag:product_service:qloo:accessories",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Eyewear",
+          "tag_id": "urn:tag:product_service:qloo:eyewear",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Leather Goods",
+          "tag_id": "urn:tag:product_service:qloo:leather_goods",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Denim",
+          "tag_id": "urn:tag:product_service:qloo:denim",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Digital Gift Cards",
+          "tag_id": "urn:tag:product_service:qloo:digital_gift_cards",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Acne Paper",
+          "tag_id": "urn:tag:product_service:qloo:acne_paper",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Direct-to-Consumer",
+          "tag_id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+          "type": "urn:tag:retail_channel:qloo"
+        },
+        {
+          "name": "Department Store",
+          "tag_id": "urn:tag:retail_channel:qloo:department_store",
+          "type": "urn:tag:retail_channel:qloo"
+        },
+        {
+          "name": "Online Marketplace",
+          "tag_id": "urn:tag:retail_channel:qloo:online_marketplace",
+          "type": "urn:tag:retail_channel:qloo"
+        },
+        {
+          "name": "Wholesale",
+          "tag_id": "urn:tag:retail_channel:qloo:wholesale",
+          "type": "urn:tag:retail_channel:qloo"
+        },
+        {
+          "name": "Denim Jeans",
+          "tag_id": "urn:tag:signature_piece:qloo:denim_jeans",
+          "type": "urn:tag:signature_piece:qloo"
+        },
+        {
+          "name": "Oversized Wool Scarves",
+          "tag_id": "urn:tag:signature_piece:qloo:oversized_wool_scarves",
+          "type": "urn:tag:signature_piece:qloo"
+        },
+        {
+          "name": "Musubi Bag",
+          "tag_id": "urn:tag:signature_piece:qloo:musubi_bag",
+          "type": "urn:tag:signature_piece:qloo"
+        },
+        {
+          "name": "Dries Van Noten",
+          "tag_id": "urn:tag:similar_brand:qloo:dries_van_noten",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "Margiela",
+          "tag_id": "urn:tag:similar_brand:qloo:margiela",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "Lemaire",
+          "tag_id": "urn:tag:similar_brand:qloo:lemaire",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "Rick Owens",
+          "tag_id": "urn:tag:similar_brand:qloo:rick_owens",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "Sunnei",
+          "tag_id": "urn:tag:similar_brand:qloo:sunnei",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "Circular Fashion Initiatives",
+          "tag_id": "urn:tag:sustainability_initiative:qloo:circular_fashion_initiatives",
+          "type": "urn:tag:sustainability_initiative:qloo"
+        },
+        {
+          "name": "Ethical Sourcing",
+          "tag_id": "urn:tag:sustainability_initiative:qloo:ethical_sourcing",
+          "type": "urn:tag:sustainability_initiative:qloo"
+        },
+        {
+          "name": "Supply Chain Transparency",
+          "tag_id": "urn:tag:sustainability_initiative:qloo:supply_chain_transparency",
+          "type": "urn:tag:sustainability_initiative:qloo"
+        },
+        {
+          "name": "Young Adults",
+          "tag_id": "urn:tag:target_age_group:qloo:young_adults",
+          "type": "urn:tag:target_age_group:qloo"
+        },
+        {
+          "name": "Adults",
+          "tag_id": "urn:tag:target_age_group:qloo:adults",
+          "type": "urn:tag:target_age_group:qloo"
+        },
+        {
+          "name": "Male",
+          "tag_id": "urn:tag:target_gender:qloo:male",
+          "type": "urn:tag:target_gender:qloo"
+        },
+        {
+          "name": "Female",
+          "tag_id": "urn:tag:target_gender:qloo:female",
+          "type": "urn:tag:target_gender:qloo"
+        },
+        {
+          "name": "Gender-Neutral",
+          "tag_id": "urn:tag:target_gender:qloo:gender_neutral",
+          "type": "urn:tag:target_gender:qloo"
+        },
+        {
+          "name": "Medium to High",
+          "tag_id": "urn:tag:target_income_level:qloo:medium_to_high",
+          "type": "urn:tag:target_income_level:qloo"
+        },
+        {
+          "name": "High",
+          "tag_id": "urn:tag:target_income_level:qloo:high",
+          "type": "urn:tag:target_income_level:qloo"
+        }
+      ]
+    }
+  ]
+}

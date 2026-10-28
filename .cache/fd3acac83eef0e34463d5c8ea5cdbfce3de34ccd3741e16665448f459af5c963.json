@@ -1,0 +1,169 @@
+{
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "tag_id": "urn:tag:inclusivity:place:identifies_as_women_owned",
+        "name": "Identifies as women-owned",
+        "types": [
+          "urn:entity:place"
+        ],
+        "subtype": "urn:tag:inclusivity:place",
+        "tag_value": "urn:tag:inclusivity:place:identifies_as_women_owned",
+        "popularity": 0.9999950518091293,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:hotel_rating:place:five_star",
+        "name": "Five Star",
+        "types": [
+          "urn:entity:place"
+        ],
+        "subtype": "urn:tag:hotel_rating:place",
+        "tag_value": "urn:tag:hotel_rating:place:five_star",
+        "popularity": 0.9997290276427934,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:adjective:qloo:mindful",
+        "name": "mindful",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:adjective:qloo",
+        "tag_value": "urn:tag:adjective:qloo:mindful",
+        "popularity": 0.9597269142411612,
+        "query": {
+          "affinity": 0.9997107626731618
+        }
+      },
+      {
+        "tag_id": "urn:tag:lifestyle:qloo:community",
+        "name": "Community",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:lifestyle:qloo",
+        "tag_value": "urn:tag:lifestyle:qloo:community",
+        "popularity": 0.951582737757037,
+        "query": {
+          "affinity": 0.9997070276736777
+        }
+      },
+      {
+        "tag_id": "urn:tag:lifestyle:qloo:community_engagement",
+        "name": "Community Engagement",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:lifestyle:qloo",
+        "tag_value": "urn:tag:lifestyle:qloo:community_engagement",
+        "popularity": 0.9990872551411311,
+        "query": {
+          "affinity": 0.9997054458530175
+        }
+      },
+      {
+        "tag_id": "urn:tag:customer_identity:qloo:community_oriented_individuals",
+        "name": "community-oriented individuals",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:customer_identity:qloo",
+        "tag_value": "urn:tag:customer_identity:qloo:community_oriented_individuals",
+        "popularity": 0.9548738519529709,
+        "query": {
+          "affinity": 0.9996814610320662
+        }
+      },
+      {
+        "tag_id": "urn:tag:adjective:qloo:community_oriented",
+        "name": "community-oriented",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:adjective:qloo",
+        "tag_value": "urn:tag:adjective:qloo:community_oriented",
+        "popularity": 0.950188551824594,
+        "query": {
+          "affinity": 0.9996416974582913
+        }
+      },
+      {
+        "tag_id": "urn:tag:personal_style:qloo:natural",
+        "name": "Natural",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:personal_style:qloo",
+        "tag_value": "urn:tag:personal_style:qloo:natural",
+        "popularity": 0.988418327282141,
+        "query": {
+          "affinity": 0.999339430148408
+        }
+      },
+      {
+        "tag_id": "urn:tag:aesthetic_property:qloo:rustic",
+        "name": "Rustic",
+        "types": [
+          "urn:entity:brand",
+          "urn:entity:person"
+        ],
+        "subtype": "urn:tag:aesthetic_property:qloo",
+        "tag_value": "urn:tag:aesthetic_property:qloo:rustic",
+        "popularity": 0.9989087275562236,
+        "query": {
+          "affinity": 0.9993219521750267
+        }
+      },
+      {
+        "tag_id": "urn:tag:keyword:media:japanese_drama",
+        "name": "japanese drama",
+        "types": [
+          "urn:entity:tv_show",
+          "urn:entity:writer",
+          "urn:entity:director",
+          "urn:entity:tv_episode",
+          "urn:entity:actor",
+          "urn:entity:movie"
+        ],
+        "subtype": "urn:tag:keyword:media",
+        "tag_value": "urn:tag:keyword:media:japanese_drama",
+        "popularity": 0.9976061115728063,
+        "query": {
+          "affinity": 0.9990571850658478
+        }
+      },
+      {
+        "tag_id": "urn:tag:product_service:qloo:home_goods",
+        "name": "Home Goods",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:product_service:qloo",
+        "tag_value": "urn:tag:product_service:qloo:home_goods",
+        "popularity": 0.9946029375288546,
+        "query": {
+          "affinity": 0.9989798520785514
+        }
+      },
+      {
+        "tag_id": "urn:tag:customer_identity:qloo:nature_lovers",
+        "name": "nature lovers",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:customer_identity:qloo",
+        "tag_value": "urn:tag:customer_identity:qloo:nature_lovers",
+        "popularity": 0.9845517004447436,
+        "query": {
+          "affinity": 0.9989163125403339
+        }
+      }
+    ]
+  }
+}

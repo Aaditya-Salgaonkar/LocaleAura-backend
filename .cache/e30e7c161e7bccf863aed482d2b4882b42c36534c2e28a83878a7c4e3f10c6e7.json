@@ -1,0 +1,1419 @@
+{
+  "results": [
+    {
+      "name": "Aesop",
+      "entity_id": "6F3B5CAA-AC33-4B29-996D-CD070526CAAA",
+      "types": [
+        "urn:entity:author"
+      ],
+      "properties": {
+        "akas": [
+          {
+            "language": "fa",
+            "value": "ازوپ"
+          },
+          {
+            "language": "da",
+            "value": "Mølleren, hans søn og æslet"
+          },
+          {
+            "language": "da",
+            "value": "Æsop"
+          },
+          {
+            "language": "nn",
+            "value": "Æsop"
+          },
+          {
+            "language": "nb",
+            "value": "Æsop"
+          },
+          {
+            "language": "en",
+            "value": "Æsop"
+          },
+          {
+            "language": "fr",
+            "value": "Esope"
+          },
+          {
+            "language": "wa",
+            "value": "Ezope"
+          },
+          {
+            "language": "fy",
+            "value": "Aesopus"
+          },
+          {
+            "language": "af",
+            "value": "Aesopus"
+          },
+          {
+            "language": "la",
+            "value": "Aesopus"
+          },
+          {
+            "language": "pt",
+            "value": "Aesopus"
+          },
+          {
+            "language": "tl",
+            "value": "Aesopus"
+          },
+          {
+            "language": "cs",
+            "value": "Aesopus"
+          },
+          {
+            "language": "nl",
+            "value": "Aesopus"
+          },
+          {
+            "language": "nn",
+            "value": "Aesopus"
+          },
+          {
+            "language": "id",
+            "value": "Aesopus"
+          },
+          {
+            "language": "fi",
+            "value": "Aesopus"
+          },
+          {
+            "language": "fr",
+            "value": "Aesopus"
+          },
+          {
+            "language": "en",
+            "value": "Aesopus"
+          },
+          {
+            "language": "hu",
+            "value": "Aesopus"
+          },
+          {
+            "language": "nb",
+            "value": "Aesopus"
+          },
+          {
+            "language": "sv",
+            "value": "Aesopus"
+          },
+          {
+            "language": "de",
+            "value": "Aisop"
+          },
+          {
+            "language": "en",
+            "value": "Æſop"
+          },
+          {
+            "language": "th",
+            "value": "อีสป"
+          },
+          {
+            "language": "li",
+            "value": "Aesóp"
+          },
+          {
+            "language": "ga",
+            "value": "Aesóp"
+          },
+          {
+            "language": "ku",
+            "value": "Aysopos"
+          },
+          {
+            "language": "hy",
+            "value": "Եզովպոս"
+          },
+          {
+            "language": "hi",
+            "value": "ईसप"
+          },
+          {
+            "language": "hu",
+            "value": "Ezópus"
+          },
+          {
+            "language": "el",
+            "value": "Αίσωπος"
+          },
+          {
+            "language": "hy",
+            "value": "Եզոպոս"
+          },
+          {
+            "language": "ka",
+            "value": "ეზოპე"
+          },
+          {
+            "language": "ko",
+            "value": "아이소포스"
+          },
+          {
+            "language": "eo",
+            "value": "Ezopo"
+          },
+          {
+            "language": "uk",
+            "value": "Езоп"
+          },
+          {
+            "language": "bg",
+            "value": "Езоп"
+          },
+          {
+            "language": "sr",
+            "value": "Езоп"
+          },
+          {
+            "language": "mk",
+            "value": "Езоп"
+          },
+          {
+            "language": "sr",
+            "value": "Есоп"
+          },
+          {
+            "language": "et",
+            "value": "Aisopos"
+          },
+          {
+            "language": "da",
+            "value": "Aisopos"
+          },
+          {
+            "language": "nl",
+            "value": "Aisopos"
+          },
+          {
+            "language": "nn",
+            "value": "Aisopos"
+          },
+          {
+            "language": "id",
+            "value": "Aisopos"
+          },
+          {
+            "language": "io",
+            "value": "Aisopos"
+          },
+          {
+            "language": "fi",
+            "value": "Aisopos"
+          },
+          {
+            "language": "tr",
+            "value": "Aisopos"
+          },
+          {
+            "language": "nb",
+            "value": "Aisopos"
+          },
+          {
+            "language": "br",
+            "value": "Aisopos"
+          },
+          {
+            "language": "sv",
+            "value": "Aisopos"
+          },
+          {
+            "language": "sv",
+            "value": "Esopisk"
+          },
+          {
+            "language": "co",
+            "value": "Esopu"
+          },
+          {
+            "language": "ar",
+            "value": "إيسوب"
+          },
+          {
+            "language": "sw",
+            "value": "Esopi"
+          },
+          {
+            "language": "tk",
+            "value": "Ezop"
+          },
+          {
+            "language": "az",
+            "value": "Ezop"
+          },
+          {
+            "language": "bs",
+            "value": "Ezop"
+          },
+          {
+            "language": "sl",
+            "value": "Ezop"
+          },
+          {
+            "language": "hr",
+            "value": "Ezop"
+          },
+          {
+            "language": "sk",
+            "value": "Ezop"
+          },
+          {
+            "language": "pl",
+            "value": "Ezop"
+          },
+          {
+            "language": "uz",
+            "value": "Ezop"
+          },
+          {
+            "language": "tr",
+            "value": "Ezop"
+          },
+          {
+            "language": "cs",
+            "value": "Ezop"
+          },
+          {
+            "language": "te",
+            "value": "ఈసప్"
+          },
+          {
+            "language": "ko",
+            "value": "이솝"
+          },
+          {
+            "language": "bn",
+            "value": "এসপ"
+          },
+          {
+            "language": "ja",
+            "value": "伊曾保"
+          },
+          {
+            "language": "et",
+            "value": "Äsop"
+          },
+          {
+            "language": "de",
+            "value": "Äsop"
+          },
+          {
+            "language": "ta",
+            "value": "ஈசாப்"
+          },
+          {
+            "language": "ja",
+            "value": "イーソップ"
+          },
+          {
+            "language": "cy",
+            "value": "Esop"
+          },
+          {
+            "language": "nn",
+            "value": "Esop"
+          },
+          {
+            "language": "ro",
+            "value": "Esop"
+          },
+          {
+            "language": "tl",
+            "value": "Esop"
+          },
+          {
+            "language": "cs",
+            "value": "Esop"
+          },
+          {
+            "language": "nb",
+            "value": "Esop"
+          },
+          {
+            "language": "en",
+            "value": "Esop"
+          },
+          {
+            "language": "sv",
+            "value": "Esop"
+          },
+          {
+            "language": "kk",
+            "value": "Эзоп"
+          },
+          {
+            "language": "be",
+            "value": "Эзоп"
+          },
+          {
+            "language": "ru",
+            "value": "Эзоп"
+          },
+          {
+            "language": "ky",
+            "value": "Эзоп"
+          },
+          {
+            "language": "ba",
+            "value": "Эзоп"
+          },
+          {
+            "language": "tt",
+            "value": "Эзоп"
+          },
+          {
+            "language": "lo",
+            "value": "ເອສົບ"
+          },
+          {
+            "language": "ja",
+            "value": "アイソーポス"
+          },
+          {
+            "language": "ja",
+            "value": "イソップ"
+          },
+          {
+            "language": "nn",
+            "value": "Aisops"
+          },
+          {
+            "language": "hu",
+            "value": "Aiszóposz"
+          },
+          {
+            "language": "sq",
+            "value": "Ezopi"
+          },
+          {
+            "language": "it",
+            "value": "Esopo"
+          },
+          {
+            "language": "es",
+            "value": "Esopo"
+          },
+          {
+            "language": "eu",
+            "value": "Esopo"
+          },
+          {
+            "language": "gl",
+            "value": "Esopo"
+          },
+          {
+            "language": "ia",
+            "value": "Esopo"
+          },
+          {
+            "language": "pt",
+            "value": "Esopo"
+          },
+          {
+            "language": "tl",
+            "value": "Esopo"
+          },
+          {
+            "language": "an",
+            "value": "Esopo"
+          },
+          {
+            "language": "cs",
+            "value": "Esopo"
+          },
+          {
+            "language": "ja",
+            "value": "アイソポス"
+          },
+          {
+            "language": "ti",
+            "value": "äsop"
+          },
+          {
+            "language": "ru",
+            "value": "Эсоп"
+          },
+          {
+            "language": "ca",
+            "value": "Faules d'Isop"
+          },
+          {
+            "language": "ja",
+            "value": "伊曽保"
+          },
+          {
+            "language": "nl",
+            "value": "Aesopos"
+          },
+          {
+            "language": "sv",
+            "value": "Aesopos"
+          },
+          {
+            "language": "lv",
+            "value": "Ezops"
+          },
+          {
+            "language": "en",
+            "value": "Eſope"
+          },
+          {
+            "language": "mg",
+            "value": "Ésope"
+          },
+          {
+            "language": "fr",
+            "value": "Ésope"
+          },
+          {
+            "language": "he",
+            "value": "איסופוס"
+          },
+          {
+            "language": "te",
+            "value": "ఈసపు"
+          },
+          {
+            "language": "cs",
+            "value": "Isopo"
+          },
+          {
+            "language": "pa",
+            "value": "ਈਸਪ"
+          },
+          {
+            "language": "th",
+            "value": "นิทานอีสป"
+          },
+          {
+            "language": "sr",
+            "value": "Ајсоп"
+          },
+          {
+            "language": "hu",
+            "value": "Ezópusz"
+          },
+          {
+            "language": "oc",
+            "value": "Esòp"
+          },
+          {
+            "language": "ur",
+            "value": "ایسپ"
+          },
+          {
+            "language": "kn",
+            "value": "ಈಸೋಪ"
+          },
+          {
+            "language": "ja",
+            "value": "伊索"
+          },
+          {
+            "language": "zh",
+            "value": "伊索"
+          },
+          {
+            "language": "lv",
+            "value": "Ēzops"
+          },
+          {
+            "language": "ml",
+            "value": "ഈസോപ്പ്"
+          },
+          {
+            "language": "lt",
+            "value": "Ezopas"
+          },
+          {
+            "language": "ca",
+            "value": "Isop"
+          },
+          {
+            "language": "ja",
+            "value": "イソホ"
+          },
+          {
+            "language": "cs",
+            "value": "Aisópos"
+          },
+          {
+            "language": "de",
+            "value": "Äsopos"
+          },
+          {
+            "language": "qu",
+            "value": "Esopus"
+          },
+          {
+            "language": "hu",
+            "value": "Esopus"
+          },
+          {
+            "language": "sv",
+            "value": "Esopus"
+          },
+          {
+            "language": "he",
+            "value": "אזופוס"
+          },
+          {
+            "language": "he",
+            "value": "איזופוס"
+          },
+          {
+            "language": "la",
+            "value": "Aesopus Scriptor fabularum"
+          },
+          {
+            "language": "is",
+            "value": "Esóp"
+          }
+        ],
+        "external": {
+          "wikidata": {
+            "id": "q43423"
+          }
+        },
+        "short_description": "ancient Greek storyteller",
+        "short_descriptions": [
+          {
+            "language": "en",
+            "value": "ancient Greek storyteller"
+          },
+          {
+            "language": "pt",
+            "value": "escritor da Grécia Antiga a quem são atribuídas várias fábulas populares"
+          },
+          {
+            "language": "fr",
+            "value": "fabuliste grec de l'Antiquité"
+          },
+          {
+            "language": "ta",
+            "value": "பண்டைய கிரேக்க கதைசொல்லி"
+          },
+          {
+            "language": "nl",
+            "value": "schrijver (-619--563)"
+          },
+          {
+            "language": "es",
+            "value": "fabulista griego"
+          },
+          {
+            "language": "ga",
+            "value": "scéalaí sa tSean-Ghréig"
+          },
+          {
+            "language": "lv",
+            "value": "sengrieķu fabulists"
+          },
+          {
+            "language": "pt",
+            "value": "fabulista grego antigo"
+          },
+          {
+            "language": "ru",
+            "value": "древнегреческий баснописец"
+          },
+          {
+            "language": "te",
+            "value": "పురాతన గ్రీకు కథకుడు"
+          },
+          {
+            "language": "ja",
+            "value": "古代ギリシャの文筆家"
+          },
+          {
+            "language": "ca",
+            "value": "fabulista de la Antiga Grecia"
+          },
+          {
+            "language": "id",
+            "value": "pengarang dan penutur cerita Yunani kuno"
+          },
+          {
+            "language": "it",
+            "value": "scrittore e favolista greco antico"
+          },
+          {
+            "language": "gl",
+            "value": "escritor de fábulas grego"
+          },
+          {
+            "language": "de",
+            "value": "griechischer Dichter von Fabeln und Gleichnissen"
+          },
+          {
+            "language": "eo",
+            "value": "helena fablisto"
+          },
+          {
+            "language": "pl",
+            "value": "grecki bajkopisarz"
+          },
+          {
+            "language": "sv",
+            "value": "grekisk fabeldiktare"
+          },
+          {
+            "language": "nb",
+            "value": "gresk fabelforfatter"
+          },
+          {
+            "language": "zh",
+            "value": "相传为《伊索寓言》的作者"
+          },
+          {
+            "language": "cs",
+            "value": "starořecký autor"
+          },
+          {
+            "language": "cy",
+            "value": "chwedleuwr yn yr Hen Roeg"
+          },
+          {
+            "language": "el",
+            "value": "Έλληνας αφηγητής παραμυθιών της αρχαιότητας"
+          },
+          {
+            "language": "af",
+            "value": "Antieke Griekse skrywer"
+          },
+          {
+            "language": "hu",
+            "value": "ókori görög meseköltő"
+          }
+        ]
+      },
+      "popularity": 0.9875183983840445,
+      "disambiguation": "Aesop",
+      "tags": [
+        {
+          "name": "Fairy_tales:fairy_tale_retellings",
+          "tag_id": "urn:tag:genre:fairy_tales_fairy_tale_retellings",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:fairy_tales_fairy_tale_retellings"
+        },
+        {
+          "name": "History:ancient_history",
+          "tag_id": "urn:tag:genre:history_ancient_history",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:history_ancient_history"
+        },
+        {
+          "name": "Literature:17th_century",
+          "tag_id": "urn:tag:genre:literature_17th_century",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:literature_17th_century"
+        },
+        {
+          "name": "Relationships",
+          "tag_id": "urn:tag:genre:relationships",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:relationships"
+        },
+        {
+          "name": "Self_help:personal_development",
+          "tag_id": "urn:tag:genre:self_help_personal_development",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:self_help_personal_development"
+        },
+        {
+          "name": "Young_adult",
+          "tag_id": "urn:tag:genre:young_adult",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:young_adult"
+        },
+        {
+          "name": "Business:google",
+          "tag_id": "urn:tag:genre:business_google",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:business_google"
+        },
+        {
+          "name": "European_literature:danish",
+          "tag_id": "urn:tag:genre:european_literature_danish",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:european_literature_danish"
+        },
+        {
+          "name": "Novels",
+          "tag_id": "urn:tag:genre:novels",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:novels"
+        },
+        {
+          "name": "Cultural:israel",
+          "tag_id": "urn:tag:genre:cultural_israel",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:cultural_israel"
+        },
+        {
+          "name": "Holiday:christmas",
+          "tag_id": "urn:tag:genre:holiday_christmas",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:holiday_christmas"
+        },
+        {
+          "name": "Drama",
+          "tag_id": "urn:tag:genre:drama",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:drama"
+        },
+        {
+          "name": "Literary_fiction",
+          "tag_id": "urn:tag:genre:literary_fiction",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:literary_fiction"
+        },
+        {
+          "name": "Folklore",
+          "tag_id": "urn:tag:genre:folklore",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:folklore"
+        },
+        {
+          "name": "Religion:theology",
+          "tag_id": "urn:tag:genre:religion_theology",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:religion_theology"
+        },
+        {
+          "name": "Asian_literature:japanese_literature",
+          "tag_id": "urn:tag:genre:asian_literature_japanese_literature",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:asian_literature_japanese_literature"
+        },
+        {
+          "name": "Fantasy:fairy_tales",
+          "tag_id": "urn:tag:genre:fantasy_fairy_tales",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:fantasy_fairy_tales"
+        },
+        {
+          "name": "Classics:classic_literature",
+          "tag_id": "urn:tag:genre:classics_classic_literature",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:classics_classic_literature"
+        },
+        {
+          "name": "Middle_grade",
+          "tag_id": "urn:tag:genre:middle_grade",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:middle_grade"
+        },
+        {
+          "name": "European_literature:german_literature",
+          "tag_id": "urn:tag:genre:european_literature_german_literature",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:european_literature_german_literature"
+        },
+        {
+          "name": "Thriller",
+          "tag_id": "urn:tag:genre:thriller",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:thriller"
+        },
+        {
+          "name": "School",
+          "tag_id": "urn:tag:genre:school",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:school"
+        },
+        {
+          "name": "Childrens",
+          "tag_id": "urn:tag:genre:childrens",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:childrens"
+        },
+        {
+          "name": "Fantasy:mythology",
+          "tag_id": "urn:tag:genre:fantasy_mythology",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:fantasy_mythology"
+        },
+        {
+          "name": "Historical:historical_fiction",
+          "tag_id": "urn:tag:genre:historical_historical_fiction",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:historical_historical_fiction"
+        },
+        {
+          "name": "Anthologies:collections",
+          "tag_id": "urn:tag:genre:anthologies_collections",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:anthologies_collections"
+        },
+        {
+          "name": "Fables",
+          "tag_id": "urn:tag:genre:fables",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:fables"
+        },
+        {
+          "name": "Academic:college",
+          "tag_id": "urn:tag:genre:academic_college",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:academic_college"
+        },
+        {
+          "name": "Roman",
+          "tag_id": "urn:tag:genre:roman",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:roman"
+        },
+        {
+          "name": "European_literature:french_literature",
+          "tag_id": "urn:tag:genre:european_literature_french_literature",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:european_literature_french_literature"
+        },
+        {
+          "name": "Picture_books",
+          "tag_id": "urn:tag:genre:picture_books",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:picture_books"
+        },
+        {
+          "name": "Horror",
+          "tag_id": "urn:tag:genre:horror",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:horror"
+        },
+        {
+          "name": "Folk_tales:fables",
+          "tag_id": "urn:tag:genre:folk_tales_fables",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:folk_tales_fables"
+        },
+        {
+          "name": "Sequential_art:graphic_novels",
+          "tag_id": "urn:tag:genre:sequential_art_graphic_novels",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:sequential_art_graphic_novels"
+        },
+        {
+          "name": "Academic:school",
+          "tag_id": "urn:tag:genre:academic_school",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:academic_school"
+        },
+        {
+          "name": "Mystery",
+          "tag_id": "urn:tag:genre:mystery",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:mystery"
+        },
+        {
+          "name": "History",
+          "tag_id": "urn:tag:genre:history",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:history"
+        },
+        {
+          "name": "Politics",
+          "tag_id": "urn:tag:genre:politics",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:politics"
+        },
+        {
+          "name": "Animals",
+          "tag_id": "urn:tag:genre:animals",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:animals"
+        },
+        {
+          "name": "Reference",
+          "tag_id": "urn:tag:genre:reference",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:reference"
+        },
+        {
+          "name": "Mythology:greek_mythology",
+          "tag_id": "urn:tag:genre:mythology_greek_mythology",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:mythology_greek_mythology"
+        },
+        {
+          "name": "Childrens:picture_books",
+          "tag_id": "urn:tag:genre:childrens_picture_books",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:childrens_picture_books"
+        },
+        {
+          "name": "Childrens:2nd_grade",
+          "tag_id": "urn:tag:genre:childrens_2nd_grade",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:childrens_2nd_grade"
+        },
+        {
+          "name": "Education",
+          "tag_id": "urn:tag:genre:education",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:education"
+        },
+        {
+          "name": "Childrens:middle_grade",
+          "tag_id": "urn:tag:genre:childrens_middle_grade",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:childrens_middle_grade"
+        },
+        {
+          "name": "Social",
+          "tag_id": "urn:tag:genre:social",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:social"
+        },
+        {
+          "name": "Favorites",
+          "tag_id": "urn:tag:genre:favorites",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:favorites"
+        },
+        {
+          "name": "Adventure",
+          "tag_id": "urn:tag:genre:adventure",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:adventure"
+        },
+        {
+          "name": "Amazon",
+          "tag_id": "urn:tag:genre:amazon",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:amazon"
+        },
+        {
+          "name": "Cultural:france",
+          "tag_id": "urn:tag:genre:cultural_france",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:cultural_france"
+        },
+        {
+          "name": "Cultural:greece",
+          "tag_id": "urn:tag:genre:cultural_greece",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:cultural_greece"
+        },
+        {
+          "name": "Childrens:1st_grade",
+          "tag_id": "urn:tag:genre:childrens_1st_grade",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:childrens_1st_grade"
+        },
+        {
+          "name": "Historical",
+          "tag_id": "urn:tag:genre:historical",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:historical"
+        },
+        {
+          "name": "Leadership",
+          "tag_id": "urn:tag:genre:leadership",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:leadership"
+        },
+        {
+          "name": "Juvenile",
+          "tag_id": "urn:tag:genre:juvenile",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:juvenile"
+        },
+        {
+          "name": "Greece",
+          "tag_id": "urn:tag:genre:greece",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:greece"
+        },
+        {
+          "name": "Literature",
+          "tag_id": "urn:tag:genre:literature",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:literature"
+        },
+        {
+          "name": "Historical:medieval",
+          "tag_id": "urn:tag:genre:historical_medieval",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:historical_medieval"
+        },
+        {
+          "name": "Writing:books_about_books",
+          "tag_id": "urn:tag:genre:writing_books_about_books",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:writing_books_about_books"
+        },
+        {
+          "name": "Plays",
+          "tag_id": "urn:tag:genre:plays",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:plays"
+        },
+        {
+          "name": "Cultural:brazil",
+          "tag_id": "urn:tag:genre:cultural_brazil",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:cultural_brazil"
+        },
+        {
+          "name": "Classics",
+          "tag_id": "urn:tag:genre:classics",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:classics"
+        },
+        {
+          "name": "Plays:theatre",
+          "tag_id": "urn:tag:genre:plays_theatre",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:plays_theatre"
+        },
+        {
+          "name": "Animals:animal_fiction",
+          "tag_id": "urn:tag:genre:animals_animal_fiction",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:animals_animal_fiction"
+        },
+        {
+          "name": "New_york",
+          "tag_id": "urn:tag:genre:new_york",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:new_york"
+        },
+        {
+          "name": "Cultural:japan",
+          "tag_id": "urn:tag:genre:cultural_japan",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:cultural_japan"
+        },
+        {
+          "name": "Childrens:childrens_classics",
+          "tag_id": "urn:tag:genre:childrens_childrens_classics",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:childrens_childrens_classics"
+        },
+        {
+          "name": "Childrens:juvenile",
+          "tag_id": "urn:tag:genre:childrens_juvenile",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:childrens_juvenile"
+        },
+        {
+          "name": "Science_fiction_fantasy",
+          "tag_id": "urn:tag:genre:science_fiction_fantasy",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:science_fiction_fantasy"
+        },
+        {
+          "name": "Environment",
+          "tag_id": "urn:tag:genre:environment",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:environment"
+        },
+        {
+          "name": "Short_story_collection",
+          "tag_id": "urn:tag:genre:short_story_collection",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:short_story_collection"
+        },
+        {
+          "name": "Young_readers",
+          "tag_id": "urn:tag:genre:young_readers",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:young_readers"
+        },
+        {
+          "name": "Cinderella",
+          "tag_id": "urn:tag:genre:cinderella",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:cinderella"
+        },
+        {
+          "name": "Ancient",
+          "tag_id": "urn:tag:genre:ancient",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:ancient"
+        },
+        {
+          "name": "Biography",
+          "tag_id": "urn:tag:genre:biography",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:biography"
+        },
+        {
+          "name": "Comics",
+          "tag_id": "urn:tag:genre:comics",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:comics"
+        },
+        {
+          "name": "Speculative_fiction",
+          "tag_id": "urn:tag:genre:speculative_fiction",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:speculative_fiction"
+        },
+        {
+          "name": "Fantasy",
+          "tag_id": "urn:tag:genre:fantasy",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:fantasy"
+        },
+        {
+          "name": "Art",
+          "tag_id": "urn:tag:genre:art",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:art"
+        },
+        {
+          "name": "Science",
+          "tag_id": "urn:tag:genre:science",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:science"
+        },
+        {
+          "name": "Literature:15th_century",
+          "tag_id": "urn:tag:genre:literature_15th_century",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:literature_15th_century"
+        },
+        {
+          "name": "Retellings",
+          "tag_id": "urn:tag:genre:retellings",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:retellings"
+        },
+        {
+          "name": "Classic_literature",
+          "tag_id": "urn:tag:genre:classic_literature",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:classic_literature"
+        },
+        {
+          "name": "Mythology",
+          "tag_id": "urn:tag:genre:mythology",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:mythology"
+        },
+        {
+          "name": "Humor",
+          "tag_id": "urn:tag:genre:humor",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:humor"
+        },
+        {
+          "name": "Criticism",
+          "tag_id": "urn:tag:genre:criticism",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:criticism"
+        },
+        {
+          "name": "Literature:20th_century",
+          "tag_id": "urn:tag:genre:literature_20th_century",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:literature_20th_century"
+        },
+        {
+          "name": "Animals:dogs",
+          "tag_id": "urn:tag:genre:animals_dogs",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:animals_dogs"
+        },
+        {
+          "name": "Academic:read_for_school",
+          "tag_id": "urn:tag:genre:academic_read_for_school",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:academic_read_for_school"
+        },
+        {
+          "name": "European_literature:spanish_literature",
+          "tag_id": "urn:tag:genre:european_literature_spanish_literature",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:european_literature_spanish_literature"
+        },
+        {
+          "name": "Fantasy:magic",
+          "tag_id": "urn:tag:genre:fantasy_magic",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:fantasy_magic"
+        },
+        {
+          "name": "Romance",
+          "tag_id": "urn:tag:genre:romance",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:romance"
+        },
+        {
+          "name": "Poetry",
+          "tag_id": "urn:tag:genre:poetry",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:poetry"
+        },
+        {
+          "name": "Female_authors",
+          "tag_id": "urn:tag:genre:female_authors",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:female_authors"
+        },
+        {
+          "name": "Kids",
+          "tag_id": "urn:tag:genre:kids",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:kids"
+        },
+        {
+          "name": "Short_stories",
+          "tag_id": "urn:tag:genre:short_stories",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:short_stories"
+        },
+        {
+          "name": "Animals:rabbits",
+          "tag_id": "urn:tag:genre:animals_rabbits",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:animals_rabbits"
+        },
+        {
+          "name": "Literature:19th_century",
+          "tag_id": "urn:tag:genre:literature_19th_century",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:literature_19th_century"
+        },
+        {
+          "name": "Animals:birds",
+          "tag_id": "urn:tag:genre:animals_birds",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:animals_birds"
+        },
+        {
+          "name": "Philosophy",
+          "tag_id": "urn:tag:genre:philosophy",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:philosophy"
+        },
+        {
+          "name": "Anthologies",
+          "tag_id": "urn:tag:genre:anthologies",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:anthologies"
+        },
+        {
+          "name": "Fiction",
+          "tag_id": "urn:tag:genre:fiction",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:fiction"
+        },
+        {
+          "name": "Childrens:nursery_rhymes",
+          "tag_id": "urn:tag:genre:childrens_nursery_rhymes",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:childrens_nursery_rhymes"
+        },
+        {
+          "name": "Audiobook",
+          "tag_id": "urn:tag:genre:audiobook",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:audiobook"
+        },
+        {
+          "name": "Animals:cats",
+          "tag_id": "urn:tag:genre:animals_cats",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:animals_cats"
+        },
+        {
+          "name": "Science:geography",
+          "tag_id": "urn:tag:genre:science_geography",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:science_geography"
+        },
+        {
+          "name": "Biography_memoir",
+          "tag_id": "urn:tag:genre:biography_memoir",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:biography_memoir"
+        },
+        {
+          "name": "Cats",
+          "tag_id": "urn:tag:genre:cats",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:cats"
+        },
+        {
+          "name": "Short_stories:short_story_collection",
+          "tag_id": "urn:tag:genre:short_stories_short_story_collection",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:short_stories_short_story_collection"
+        },
+        {
+          "name": "European_literature:scandinavian_literature",
+          "tag_id": "urn:tag:genre:european_literature_scandinavian_literature",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:european_literature_scandinavian_literature"
+        },
+        {
+          "name": "Folk_tales",
+          "tag_id": "urn:tag:genre:folk_tales",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:folk_tales"
+        },
+        {
+          "name": "Literature:ancient",
+          "tag_id": "urn:tag:genre:literature_ancient",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:literature_ancient"
+        },
+        {
+          "name": "Fairy_tales:cinderella",
+          "tag_id": "urn:tag:genre:fairy_tales_cinderella",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:fairy_tales_cinderella"
+        },
+        {
+          "name": "Business:amazon",
+          "tag_id": "urn:tag:genre:business_amazon",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:business_amazon"
+        },
+        {
+          "name": "Nursery_rhymes",
+          "tag_id": "urn:tag:genre:nursery_rhymes",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:nursery_rhymes"
+        },
+        {
+          "name": "Self_help",
+          "tag_id": "urn:tag:genre:self_help",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:self_help"
+        },
+        {
+          "name": "Fairy_tales",
+          "tag_id": "urn:tag:genre:fairy_tales",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:fairy_tales"
+        },
+        {
+          "name": "Nonfiction",
+          "tag_id": "urn:tag:genre:nonfiction",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:nonfiction"
+        },
+        {
+          "name": "Sequential_art:comics",
+          "tag_id": "urn:tag:genre:sequential_art_comics",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:sequential_art_comics"
+        },
+        {
+          "name": "Science_fiction",
+          "tag_id": "urn:tag:genre:science_fiction",
+          "type": "urn:tag:genre",
+          "value": "urn:tag:genre:science_fiction"
+        }
+      ]
+    }
+  ]
+}

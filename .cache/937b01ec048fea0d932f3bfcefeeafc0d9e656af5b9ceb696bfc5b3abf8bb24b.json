@@ -1,0 +1,2744 @@
+{
+  "success": true,
+  "results": {
+    "entities": [
+      {
+        "name": "Nicolas Godin",
+        "entity_id": "05E7CE68-5E49-4983-96A7-CF62CAED6377",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/05E7CE68-5E49-4983-96A7-CF62CAED6377-420x-auto.jpg"
+          },
+          "vocals": "Nicolas Godin primarily contributes as a composer and instrumentalist rather than a lead vocalist. His music features smooth, often understated vocal elements, with a focus on melodic and atmospheric soundscapes.",
+          "aliases": [],
+          "members": [],
+          "is_group": false,
+          "biography": "Nicolas Godin was born in France and rose to prominence as a founding member of the electronic music duo Air, formed in the mid-1990s. The duo gained international acclaim with their debut album 'Moon Safari' in 1998, which featured a blend of electronic, pop, and ambient music. Godin's background in classical music and his interest in vintage synthesizers have heavily influenced his sound. Beyond Air, he has pursued solo projects and collaborations, further exploring electronic and pop music landscapes.",
+          "known_for": "Innovative electronic music production, blending vintage and modern sounds with melodic and atmospheric compositions.",
+          "start_year": 1995,
+          "description": "Nicolas Godin is a French musician, composer, and producer best known as one half of the French electronic music duo Air. His work spans electronic, pop, and ambient genres, often characterized by lush synth textures and melodic compositions. Godin has also released solo albums showcasing his distinctive style blending vintage sounds with modern production.",
+          "instruments": [
+            "Synthesizer",
+            "Guitar",
+            "Bass Guitar",
+            "Keyboards",
+            "Sampler"
+          ],
+          "collaborators": [
+            "Jean-Benoît Dunckel",
+            "Charlotte Gainsbourg",
+            "Air",
+            "The Avalanches"
+          ],
+          "date_of_birth": "1969-12-25",
+          "influenced_by": [
+            "Brian Eno",
+            "Jean Michel Jarre",
+            "Kraftwerk",
+            "Ennio Morricone",
+            "The Beatles"
+          ],
+          "notable_songs": [
+            "Sexy Boy",
+            "All I Need",
+            "La Femme D'Argent",
+            "Cherry Blossom Girl",
+            "You Make It Easy"
+          ],
+          "lyrical_themes": [
+            "Romance",
+            "Nostalgia",
+            "Dreams",
+            "Urban Life",
+            "Nature"
+          ],
+          "place_of_birth": "Le Chesnay, Yvelines, Île-de-Fra",
+          "primary_genres": [
+            "French Pop",
+            "Electronic",
+            "Indie Pop"
+          ],
+          "characteristics": [
+            "Innovative",
+            "Melodic",
+            "Atmospheric",
+            "Sophisticated",
+            "Experimental"
+          ],
+          "cultural_impact": "Nicolas Godin, through Air, significantly influenced the French electronic music scene and helped popularize downtempo and chillout music worldwide, impacting film soundtracks and lounge culture.",
+          "obscurity_scale": [
+            "3"
+          ],
+          "secondary_genres": [
+            "Ambient",
+            "Downtempo",
+            "Synthpop"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "French Electronic",
+            "Chillout",
+            "Downtempo",
+            "Indie Electronic"
+          ],
+          "performance_style": "Nicolas Godin's performance style is characterized by minimalistic and intimate live shows that emphasize smooth transitions, visual elements, and immersive soundscapes.",
+          "artists_influenced": [
+            "M83",
+            "Phoenix",
+            "The xx",
+            "Lykke Li"
+          ],
+          "short_descriptions": [
+            {
+              "value": "French musician and composer, member of the band Air, known for electronic and pop music.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Französischer Musiker und Komponist, Mitglied der Band Air, bekannt für elektronische und Popmusik.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Músico y compositor francés, miembro de la banda Air, conocido por su música electrónica y pop.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Musicien et compositeur français, membre du groupe Air, reconnu pour sa musique électronique et pop.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Sophisticated",
+            "Eclectic",
+            "Chill",
+            "Artistic",
+            "Open-Minded"
+          ],
+          "adjectives_for_music": [
+            "Melodic",
+            "Atmospheric",
+            "Elegant",
+            "Dreamy",
+            "Experimental"
+          ],
+          "lyrical_themes_description": "Godin's lyrics often explore themes of romance, nostalgia, and the interplay between urban life and nature, creating dreamy and evocative narratives.",
+          "adjectives_for_performance_style": [
+            "Minimalistic",
+            "Intimate",
+            "Smooth",
+            "Visual",
+            "Immersive"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "French Electronic",
+            "Downtempo Chillout",
+            "Ambient Pop",
+            "Synthwave",
+            "Indie Electronica"
+          ]
+        },
+        "popularity": 0.8744175530346224,
+        "tags": [
+          {
+            "id": "urn:tag:music:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:dreams",
+            "name": "Dreams",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:nostalgia",
+            "name": "Nostalgia",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:french_electronic",
+            "name": "French Electronic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:synthpop",
+            "name": "Synthpop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:sampler",
+            "name": "Sampler",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:guitar",
+            "name": "Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:downtempo_chillout",
+            "name": "Downtempo Chillout",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:chillout",
+            "name": "Chillout",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:brian_eno",
+            "name": "Brian Eno",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:french",
+            "name": "French",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:influence:qloo:indie_electronic",
+            "name": "Indie Electronic",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:bass_guitar",
+            "name": "Bass Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:synthwave",
+            "name": "Synthwave",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:melodic",
+            "name": "Melodic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:indie_pop",
+            "name": "Indie Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:lo_fi",
+            "name": "Lo - Fi",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:artist:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:artistic",
+            "name": "Artistic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:french_pop",
+            "name": "French Pop",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:downtempo",
+            "name": "Downtempo",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:ambient_pop",
+            "name": "Ambient Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:dreamy",
+            "name": "Dreamy",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:kraftwerk",
+            "name": "Kraftwerk",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:keyboards",
+            "name": "Keyboards",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:melodic",
+            "name": "Melodic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:synthesizer",
+            "name": "Synthesizer",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:visual",
+            "name": "Visual",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:open_minded",
+            "name": "Open-Minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:downtempo",
+            "name": "Downtempo",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:ambient",
+            "name": "Ambient",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:immersive",
+            "name": "Immersive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:chill",
+            "name": "Chill",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:indie_electronica",
+            "name": "Indie Electronica",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:minimalistic",
+            "name": "Minimalistic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:romance",
+            "name": "Romance",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:urban_life",
+            "name": "Urban Life",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:smooth",
+            "name": "Smooth",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:the_beatles",
+            "name": "The Beatles",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:ennio_morricone",
+            "name": "Ennio Morricone",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:french_electronic",
+            "name": "French Electronic",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:nature",
+            "name": "Nature",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:3",
+            "name": "3",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:jean_michel_jarre",
+            "name": "Jean Michel Jarre",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:music:qloo:elegant",
+            "name": "Elegant",
+            "type": "urn:tag:music:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9133666624805202,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Nicolas Godin",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm0324073"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "nicolas%20godin",
+              "listeners": 122264,
+              "scrobbles": 866017
+            }
+          ],
+          "spotify": [
+            {
+              "id": "313G7P4CxkVyQGNFfxNOpC",
+              "verified": true,
+              "followers": 13928,
+              "monthly_listeners": 147813
+            }
+          ],
+          "twitter": [
+            {
+              "id": "nicolasgodin"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q388769"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "nicolasgodinmusic"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "91168e21-d623-4012-a11f-e9082b3a2439",
+              "artist_type": "Person"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Altın Gün",
+        "entity_id": "31DA05F2-0096-4209-94FA-3AE331190494",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "vocals": "The band's vocals often feature male and female singers delivering lyrics in Turkish with a warm, expressive tone that complements their psychedelic and folk instrumentation.",
+          "aliases": [],
+          "members": [
+            "Merve Dasdemir",
+            "Erdinç Ecevit Yıldız",
+            "Jordi Irfan",
+            "Daniel Smienk",
+            "Chris Bruining",
+            "Thijs Elzinga",
+            "Nick Bult"
+          ],
+          "is_group": true,
+          "biography": "Altin Gün was formed in Amsterdam by a group of musicians passionate about Turkish folk and psychedelic rock. The band includes both Turkish and Dutch members, bringing together diverse musical backgrounds. They gained recognition for their fresh take on Anatolian rock, a genre that originally emerged in Turkey during the late 1960s and early 1970s. Their debut album received critical acclaim, and they have since toured internationally, building a dedicated fanbase with their vibrant live performances and unique sound.",
+          "known_for": "Modern reinterpretations of traditional Turkish folk and Anatolian rock music with a psychedelic and funky twist.",
+          "start_year": 2016,
+          "description": "Altin Gün is a Dutch-Turkish band formed in Amsterdam that blends traditional Turkish folk music with psychedelic rock and funk influences. The group is known for reviving and reinterpreting Anatolian rock from the 1960s and 1970s, combining vintage Turkish melodies and instruments with modern psychedelic and rock elements. Their music features traditional Turkish instruments alongside electric guitars and synthesizers, creating a unique fusion sound that appeals to both contemporary and traditional audiences.",
+          "instruments": [
+            "Electric Guitar",
+            "Synthesizer",
+            "Traditional Turkish Instruments (Bağlama, Saz)",
+            "Bass Guitar",
+            "Drums"
+          ],
+          "collaborators": [],
+          "influenced_by": [
+            "Selda Bağcan",
+            "Barış Manço",
+            "Erkin Koray",
+            "Baba Zula"
+          ],
+          "notable_songs": [
+            "Goca Dünya",
+            "Süpürgesi Yoncadan",
+            "Tatlı Dile Güler Yüze",
+            "Cemalim"
+          ],
+          "lyrical_themes": [
+            "Love",
+            "Nature",
+            "Social Issues",
+            "Cultural Heritage"
+          ],
+          "primary_genres": [
+            "Psychedelic Rock",
+            "Turkish Folk Rock",
+            "Anatolian Rock"
+          ],
+          "characteristics": [
+            "Psychedelic",
+            "Funky",
+            "Energetic",
+            "Authentic",
+            "Innovative"
+          ],
+          "cultural_impact": "Altin Gün has played a significant role in bringing Anatolian rock and Turkish folk music to a global audience, revitalizing interest in these genres and influencing the psychedelic and world music scenes internationally.",
+          "obscurity_scale": [
+            "4"
+          ],
+          "secondary_genres": [
+            "Funk",
+            "Psychedelic Pop",
+            "Rock"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "Psychedelic Rock",
+            "World Music",
+            "Folk Rock"
+          ],
+          "performance_style": "Altin Gün's live performances are known for their energetic and vibrant atmosphere, combining dynamic stage presence with immersive psychedelic visuals and authentic instrumentation.",
+          "artists_influenced": [
+            "Gaye Su Akyol",
+            "Kardeş Türküler"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Altin Gün is a Dutch-Turkish psychedelic rock band known for their modern interpretations of Turkish folk and Anatolian rock music.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Altin Gün es una banda neerlandesa-turca de rock psicodélico famosa por sus versiones modernas de música folk turca y rock de Anatolia.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Altin Gün ist eine niederländisch-türkische Psychedelic-Rock-Band, bekannt für moderne Interpretationen türkischer Folklore und anatolischem Rock.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Altin Gün est un groupe néerlando-turc de rock psychédélique reconnu pour ses reprises modernes de musique folk turque et de rock anatolien.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Eclectic",
+            "Open-Minded",
+            "Passionate",
+            "Culturally Curious"
+          ],
+          "adjectives_for_music": [
+            "Psychedelic",
+            "Funky",
+            "Groovy",
+            "Authentic",
+            "Energetic"
+          ],
+          "lyrical_themes_description": "Altin Gün's lyrics often explore themes of love, nature, social issues, and cultural heritage, reflecting the traditional roots of Turkish folk music while addressing contemporary topics.",
+          "adjectives_for_performance_style": [
+            "Energetic",
+            "Vibrant",
+            "Engaging",
+            "Dynamic"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Anatolian Psychedelic",
+            "Turkish Folk Rock",
+            "Psychedelic Funk",
+            "Vintage Turkish Pop",
+            "World Psychedelia"
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/31DA05F2-0096-4209-94FA-3AE331190494-420x-auto.jpg"
+          }
+        },
+        "popularity": 0.9598431079566679,
+        "tags": [
+          {
+            "id": "urn:tag:style:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:funk",
+            "name": "Funk",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:open_minded",
+            "name": "Open-Minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:psychedelic",
+            "name": "Psychedelic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:drums",
+            "name": "Drums",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:authentic",
+            "name": "Authentic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:traditional_turkish_instruments_baglama_saz",
+            "name": "Traditional Turkish Instruments (Bağlama, Saz)",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:psychedelic_rock",
+            "name": "Psychedelic Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:cultural_heritage",
+            "name": "Cultural Heritage",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:folk_rock",
+            "name": "Folk Rock",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:psychedelic_pop",
+            "name": "Psychedelic Pop",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:world_music",
+            "name": "World Music",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:erkin_koray",
+            "name": "Erkin Koray",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:passionate",
+            "name": "Passionate",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:social_issues",
+            "name": "Social Issues",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:funky",
+            "name": "Funky",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:psychedelic_rock",
+            "name": "Psychedelic Rock",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:bass_guitar",
+            "name": "Bass Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:psychedelic_rock",
+            "name": "Psychedelic Rock",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:4",
+            "name": "4",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:turkish_folk_rock",
+            "name": "Turkish Folk Rock",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:turkish_folk_rock",
+            "name": "Turkish Folk Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:psychedelic",
+            "name": "Psychedelic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:selda_bagcan",
+            "name": "Selda Bagcan",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:nature",
+            "name": "Nature",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:funky",
+            "name": "Funky",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:vintage_turkish_pop",
+            "name": "Vintage Turkish Pop",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:vibrant",
+            "name": "Vibrant",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:electric_guitar",
+            "name": "Electric Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:rock",
+            "name": "Rock",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:bari_manco",
+            "name": "Barış Manço",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:dutch",
+            "name": "Dutch",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:psychedelic_funk",
+            "name": "Psychedelic Funk",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:anatolian_rock",
+            "name": "Anatolian Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:psychedelic_anatolian",
+            "name": "Psychedelic Anatolian",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:engaging",
+            "name": "Engaging",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:synthesizer",
+            "name": "Synthesizer",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:culturally_curious",
+            "name": "Culturally Curious",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:anatolian_rock",
+            "name": "Anatolian Rock",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:baba_zula",
+            "name": "Baba Zula",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:turkish",
+            "name": "Turkish",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:dynamic",
+            "name": "Dynamic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:world_psychedelia",
+            "name": "World Psychedelia",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:groovy",
+            "name": "Groovy",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:authentic",
+            "name": "Authentic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:anatolian_psychedelic",
+            "name": "Anatolian Psychedelic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:selda_bagcan",
+            "name": "Selda Bağcan",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:traditional_turkish_instruments_baglama_saz_",
+            "name": "Traditional Turkish Instruments (Bağlama, Saz)",
+            "type": "urn:tag:instrument:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9068866073816977,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Altın Gün",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm11148540"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "altin%20g%C3%BCn",
+              "listeners": 167107,
+              "scrobbles": 4546028
+            }
+          ],
+          "spotify": [
+            {
+              "id": "37PL04N8kBWWW69jdrMMWT",
+              "verified": true,
+              "followers": 105875,
+              "last_release": 2020,
+              "first_release": 2017,
+              "monthly_listeners": 330637
+            }
+          ],
+          "twitter": [
+            {
+              "id": "altingunband"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "altingunband"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q59459512"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "altingunband"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "cd5799f6-e6cf-4322-a659-96f5de4a2f6c",
+              "artist_type": "Group"
+            }
+          ]
+        }
+      },
+      {
+        "name": "The Comet Is Coming",
+        "entity_id": "7CA2095C-C9A1-403C-B599-DED9758115A0",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/7CA2095C-C9A1-403C-B599-DED9758115A0-420x-auto.jpg"
+          },
+          "aliases": [],
+          "members": [
+            "Shabaka Hutchings",
+            "Dan Leavers",
+            "Max Hallett"
+          ],
+          "is_group": true,
+          "biography": "Formed in London, The Comet Is Coming emerged as a project that fuses jazz with electronic and psychedelic influences. The band members, Shabaka Hutchings on saxophone, Dan Leavers on keyboards, and Max Hallett on drums, came together to create a sound that pushes the boundaries of traditional jazz. Their music incorporates elements of funk, electronic music, and psychedelic rock, resulting in a dynamic and forward-thinking style. They have gained critical acclaim for their albums and live performances, contributing to the resurgence of jazz in contemporary music scenes.",
+          "known_for": "Innovative fusion of jazz with electronic and psychedelic music, energetic live performances, and a futuristic cosmic sound.",
+          "start_year": 2013,
+          "description": "The Comet Is Coming is a British jazz fusion band formed in London, known for their energetic blend of jazz, electronic music, and psychedelic rock. The group consists of saxophonist Shabaka Hutchings, keyboardist Dan Leavers, and drummer Max Hallett. Their music is characterized by a futuristic and cosmic sound, combining improvisational jazz with electronic beats and effects, creating a unique and modern jazz experience.",
+          "instruments": [
+            "Saxophone",
+            "Keyboards",
+            "Drums"
+          ],
+          "collaborators": [
+            "Shabaka Hutchings",
+            "Sons of Kemet"
+          ],
+          "influenced_by": [
+            "Sun Ra",
+            "Pharoah Sanders",
+            "Alice Coltrane",
+            "Fela Kuti"
+          ],
+          "notable_songs": [
+            "Summon the Fire",
+            "Blood of the Past",
+            "Space Carnival",
+            "Star Exploding in Slow Motion"
+          ],
+          "lyrical_themes": [
+            "Cosmic",
+            "Spirituality",
+            "Futurism",
+            "Exploration"
+          ],
+          "primary_genres": [
+            "Jazz",
+            "Jazz Fusion",
+            "Nu Jazz"
+          ],
+          "characteristics": [
+            "Energetic",
+            "Futuristic",
+            "Innovative",
+            "Cosmic",
+            "Experimental"
+          ],
+          "cultural_impact": "The Comet Is Coming has played a significant role in revitalizing jazz by blending it with contemporary electronic and psychedelic sounds, influencing a new generation of jazz and experimental musicians and expanding the audience for modern jazz fusion.",
+          "obscurity_scale": [
+            "4"
+          ],
+          "secondary_genres": [
+            "Electronic",
+            "Psychedelic Rock",
+            "Funk"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "Nu Jazz",
+            "Jazz Fusion",
+            "Electronic Jazz"
+          ],
+          "performance_style": "Their performance style is dynamic and immersive, combining high-energy jazz improvisation with electronic effects and psychedelic visuals to create a cosmic live experience.",
+          "artists_influenced": [
+            "Kamaal Williams",
+            "Nubya Garcia",
+            "Makaya McCraven"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Banda británica de jazz fusion que destaca por mezclar jazz con elementos electrónicos y psicodélicos.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Britische Jazz-Fusion-Band, die Jazz mit elektronischen und psychedelischen Elementen verbindet.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Groupe britannique de jazz fusion reconnu pour mélanger le jazz avec des éléments électroniques et psychédéliques.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "A British jazz fusion band known for blending jazz with electronic and psychedelic elements.",
+              "languages": [
+                "en"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Adventurous",
+            "Open-Minded",
+            "Eclectic",
+            "Experimental"
+          ],
+          "adjectives_for_music": [
+            "Energetic",
+            "Futuristic",
+            "Experimental",
+            "Psychedelic",
+            "Innovative"
+          ],
+          "lyrical_themes_description": "Their lyrics and themes often explore cosmic and spiritual concepts, futurism, and the exploration of new sonic territories, reflecting a deep interest in space and metaphysical ideas.",
+          "adjectives_for_performance_style": [
+            "Dynamic",
+            "Energetic",
+            "Immersive",
+            "Experimental"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Nu Jazz",
+            "Jazz Fusion",
+            "Psychedelic Jazz",
+            "Electronic Jazz",
+            "Cosmic Jazz"
+          ]
+        },
+        "popularity": 0.957634560813689,
+        "tags": [
+          {
+            "id": "urn:tag:audience:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:nu_jazz",
+            "name": "Nu Jazz",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:nu_jazz",
+            "name": "Nu Jazz",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:alice_coltrane",
+            "name": "Alice Coltrane",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:jazz",
+            "name": "Jazz",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:drums",
+            "name": "Drums",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:futurism",
+            "name": "Futurism",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:funk",
+            "name": "Funk",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:spirituality",
+            "name": "Spirituality",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:sun_ra",
+            "name": "Sun Ra",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:immersive",
+            "name": "Immersive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:jazz_fusion",
+            "name": "Jazz Fusion",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:dynamic",
+            "name": "Dynamic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:cosmic",
+            "name": "Cosmic",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:4",
+            "name": "4",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:electronic_jazz",
+            "name": "Electronic Jazz",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:fela_kuti",
+            "name": "Fela Kuti",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:jazz",
+            "name": "Jazz",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:jazz_fusion",
+            "name": "Jazz Fusion",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:artist:qloo:cosmic",
+            "name": "Cosmic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:nu_jazz",
+            "name": "Nu Jazz",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:psychedelic_jazz",
+            "name": "Psychedelic Jazz",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:jazz_fusion",
+            "name": "Jazz Fusion",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:audience:qloo:open_minded",
+            "name": "Open-Minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:electronic_jazz",
+            "name": "Electronic Jazz",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:psychedelic_rock",
+            "name": "Psychedelic Rock",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:electronic",
+            "name": "Electronic",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:keyboards",
+            "name": "Keyboards",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:adventurous",
+            "name": "Adventurous",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:exploration",
+            "name": "Exploration",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:cosmic_jazz",
+            "name": "Cosmic Jazz",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:saxophone",
+            "name": "Saxophone",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:psychedelic",
+            "name": "Psychedelic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:futuristic",
+            "name": "Futuristic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:pharoah_sanders",
+            "name": "Pharoah Sanders",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:futuristic",
+            "name": "Futuristic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:jazz_fusion",
+            "name": "Jazz Fusion",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:music:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9058936558778377,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "The Comet Is Coming",
+        "external": {
+          "lastfm": [
+            {
+              "id": "the%20comet%20is%20coming",
+              "listeners": 187306,
+              "scrobbles": 3733890
+            }
+          ],
+          "spotify": [
+            {
+              "id": "0Z5FMozvx15nUSUA6a9kkU",
+              "verified": true,
+              "followers": 98382,
+              "last_release": 2020,
+              "first_release": 2015,
+              "monthly_listeners": 191718
+            }
+          ],
+          "twitter": [
+            {
+              "id": "cometcoming"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "thecometiscoming"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q21585350"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "2b82372f-8c85-4b47-a9fc-36fe4d4df5b4",
+              "artist_type": "Group"
+            }
+          ]
+        }
+      },
+      {
+        "name": "SAULT",
+        "entity_id": "B8A29D31-35E3-4DB7-8BDA-92F505BD24C0",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/B8A29D31-35E3-4DB7-8BDA-92F505BD24C0-420x-auto.jpg"
+          },
+          "vocals": "Sault's vocals are characterized by soulful, emotive singing with a smooth and rich texture, often featuring layered harmonies and dynamic expression. The collective employs a variety of vocalists, contributing to a diverse vocal palette that complements their genre-blending sound.",
+          "aliases": [],
+          "members": [],
+          "is_group": true,
+          "biography": "Formed in the late 2010s in the United Kingdom, Sault is a collective of musicians and producers who prefer to remain anonymous, allowing their music to speak for itself. Their work blends elements of classic and contemporary R&B, soul, funk, and Afrobeat, creating a sound that is both nostalgic and modern. They gained critical acclaim for their albums which often explore themes of Black identity, social justice, and empowerment. Despite their anonymity, Sault has built a dedicated following and is praised for their innovative approach to music and message.",
+          "known_for": "Sault is known for their mysterious collective identity, innovative fusion of genres, and socially conscious music that challenges and inspires listeners.",
+          "start_year": 2019,
+          "description": "Sault is a British music collective that emerged in the late 2010s, known for their unique fusion of R&B, soul, funk, and Afrobeat influences. The group maintains an air of mystery by keeping their members' identities largely anonymous, focusing attention on their music and social messages. Their sound is characterized by rich, soulful vocals, groovy rhythms, and socially conscious lyrics that address themes of identity, race, and empowerment.",
+          "instruments": [
+            "Vocals",
+            "Guitar",
+            "Bass",
+            "Drums",
+            "Keyboards",
+            "Synthesizers"
+          ],
+          "collaborators": [
+            "Inflo",
+            "Cleopatra",
+            "Michael Kiwanuka"
+          ],
+          "influenced_by": [
+            "Fela Kuti",
+            "Prince",
+            "Stevie Wonder",
+            "Curtis Mayfield"
+          ],
+          "notable_songs": [
+            "Wildfires",
+            "Don't Waste My Time",
+            "Up All Night",
+            "Masterpiece"
+          ],
+          "lyrical_themes": [
+            "Identity",
+            "Race",
+            "Empowerment",
+            "Social Justice",
+            "Love"
+          ],
+          "primary_genres": [
+            "R&B",
+            "Soul",
+            "Funk",
+            "Afrobeat"
+          ],
+          "characteristics": [
+            "Mysterious",
+            "Eclectic",
+            "Soulful",
+            "Groovy",
+            "Socially Conscious"
+          ],
+          "cultural_impact": "Sault has had a significant impact on contemporary soul and R&B music by blending traditional and modern sounds while addressing important social themes, inspiring a new generation of artists and listeners to engage with music as a form of activism and cultural expression.",
+          "obscurity_scale": [
+            "5"
+          ],
+          "secondary_genres": [
+            "Neo Soul",
+            "Contemporary R&B",
+            "Alternative R&B"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "Neo Soul",
+            "Contemporary R&B",
+            "Alternative R&B"
+          ],
+          "performance_style": "Sault's performance style is energetic and engaging, often featuring dynamic vocal delivery and a strong connection to the social messages in their music.",
+          "artists_influenced": [
+            "Celeste",
+            "Arlo Parks",
+            "Joy Crookes"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Sault ist ein britisches Musikerkollektiv, bekannt für seinen eklektischen Mix aus R&B, Soul, Funk und Afrobeat.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Sault is a British music collective known for their eclectic blend of R&B, soul, funk, and Afrobeat.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Sault est un collectif musical britannique reconnu pour son mélange éclectique de R&B, soul, funk et Afrobeat.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Sault es un colectivo musical británico conocido por su ecléctica mezcla de R&B, soul, funk y Afrobeat.",
+              "languages": [
+                "es"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Dedicated",
+            "Socially Conscious",
+            "Passionate",
+            "Diverse"
+          ],
+          "adjectives_for_music": [
+            "Soulful",
+            "Groovy",
+            "Eclectic",
+            "Innovative",
+            "Emotive"
+          ],
+          "lyrical_themes_description": "Sault's lyrics often explore themes of Black identity, racial injustice, empowerment, love, and social consciousness, reflecting contemporary social issues and personal introspection.",
+          "adjectives_for_performance_style": [
+            "Energetic",
+            "Engaging",
+            "Dynamic"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Neo Soul",
+            "Afrobeat-Infused R&B",
+            "Funk-Driven Soul",
+            "Contemporary R&B",
+            "Socially Conscious Soul"
+          ]
+        },
+        "popularity": 0.9816172856496864,
+        "tags": [
+          {
+            "id": "urn:tag:influenced_by:qloo:fela_kuti",
+            "name": "Fela Kuti",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:r_b",
+            "name": "R & B",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:neo_soul",
+            "name": "Neo Soul",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:stevie_wonder",
+            "name": "Stevie Wonder",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:contemporary_r_b",
+            "name": "Contemporary R&B",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:socially_conscious",
+            "name": "Socially Conscious",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:social_justice",
+            "name": "Social Justice",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:funk",
+            "name": "Funk",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:engaging",
+            "name": "Engaging",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:groovy",
+            "name": "Groovy",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:race",
+            "name": "Race",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:contemporary_r_b",
+            "name": "Contemporary R&B",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:bass",
+            "name": "Bass",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:5",
+            "name": "5",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:neo_soul",
+            "name": "Neo Soul",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:dynamic",
+            "name": "Dynamic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:afrobeat",
+            "name": "AfroBeat",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:afrobeat_infused_r_b",
+            "name": "Afrobeat-Infused R&B",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:identity",
+            "name": "Identity",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:neo_soul",
+            "name": "Neo Soul",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:pop",
+            "name": "Pop",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:theme:qloo:empowerment",
+            "name": "Empowerment",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:drums",
+            "name": "Drums",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:mysterious",
+            "name": "Mysterious",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:funk_driven_soul",
+            "name": "Funk-Driven Soul",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:passionate",
+            "name": "Passionate",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:indie",
+            "name": "Indie",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:guitar",
+            "name": "Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:socially_conscious_soul",
+            "name": "Socially Conscious Soul",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:curtis_mayfield",
+            "name": "Curtis Mayfield",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:diverse",
+            "name": "Diverse",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:socially_conscious",
+            "name": "Socially Conscious",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:keyboards",
+            "name": "Keyboards",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:soul",
+            "name": "Soul",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:dedicated",
+            "name": "Dedicated",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:rhythm_blues",
+            "name": "Rhythm & Blues",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:genre:music:soul",
+            "name": "Soul",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:neo_soul",
+            "name": "Neo Soul",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:synthesizers",
+            "name": "Synthesizers",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:contemporary_r_b",
+            "name": "Contemporary R&B",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:prince",
+            "name": "Prince",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:groovy",
+            "name": "Groovy",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:emotive",
+            "name": "Emotive",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:r_b",
+            "name": "R&B",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:afrobeat",
+            "name": "Afrobeat",
+            "type": "urn:tag:genre:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.903866230873571,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "SAULT",
+        "external": {
+          "lastfm": [
+            {
+              "id": "sault",
+              "listeners": 488443,
+              "scrobbles": 10328013
+            }
+          ],
+          "spotify": [
+            {
+              "id": "1uRxRKC7d9zwYGSRflTKDR",
+              "verified": true,
+              "followers": 99956,
+              "last_release": 2020,
+              "first_release": 2019,
+              "monthly_listeners": 1299496
+            },
+            {
+              "id": "0ohr6dkKKCtonaxbeFWVmJ",
+              "verified": true,
+              "followers": 96,
+              "monthly_listeners": 52
+            },
+            {
+              "id": "1tc26l2wZrJ4ZBaw2fwcHp",
+              "verified": true,
+              "followers": 74,
+              "monthly_listeners": 0
+            },
+            {
+              "id": "5ybJaCxHb170XGWBS5qVVy",
+              "verified": true,
+              "followers": 30,
+              "last_release": 2020,
+              "first_release": 2019,
+              "monthly_listeners": 20
+            }
+          ],
+          "twitter": [
+            {
+              "id": "saultglobal"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "saultglobal"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q104771175"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "saultglobal"
+            },
+            {
+              "id": "sault.music"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "23b19bc5-813e-4456-bbae-ac3ca118f535",
+              "artist_type": "Group"
+            },
+            {
+              "id": "17991415-5cbf-4c6b-8ac6-fe962a160fde",
+              "artist_type": "Person"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Feu! Chatterton",
+        "entity_id": "37F8A789-E31E-46A9-B61A-10739503C19B",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/37F8A789-E31E-46A9-B61A-10739503C19B-420x-auto.jpg"
+          },
+          "vocals": "The vocals of Feu! Chatterton are characterized by Arthur Teboul's expressive and theatrical delivery, which complements the poetic and often melancholic tone of their music. The vocal style is dynamic, ranging from intimate whispers to powerful, emotive singing, fitting the band's atmospheric and literary style.",
+          "aliases": [],
+          "members": [
+            "Arnaud Michniak",
+            "Antoine Wilson",
+            "Arthur Teboul",
+            "Clément Doumic",
+            "Raphaël De Pressigny"
+          ],
+          "is_group": true,
+          "biography": "Formed in Paris, Feu! Chatterton emerged in the early 2010s as a distinctive voice in French rock music. The band members, including vocalist Arthur Teboul and guitarist Arnaud Michniak, came together with a shared interest in combining literary French songwriting traditions with modern rock music. Their name references the 19th-century poet Thomas Chatterton, reflecting their literary influences. Over the years, they have released several albums that showcase their evolving sound and lyrical depth, earning them a dedicated following and critical praise in France and beyond.",
+          "known_for": "Feu! Chatterton is known for their poetic lyrics, atmospheric soundscapes, and blending of French literary tradition with modern rock music.",
+          "start_year": 2011,
+          "description": "Feu! Chatterton is a French rock band formed in Paris, known for blending poetic and literary French lyrics with a rich, atmospheric rock sound. The band combines elements of French chanson with indie and alternative rock influences, creating a unique style that has garnered critical acclaim in the French music scene. Their music often features intricate arrangements and a theatrical vocal delivery, led by frontman Arthur Teboul.",
+          "instruments": [
+            "Vocals",
+            "Guitar",
+            "Bass",
+            "Drums",
+            "Keyboards"
+          ],
+          "collaborators": [],
+          "influenced_by": [
+            "Serge Gainsbourg",
+            "Jacques Brel",
+            "Nick Cave",
+            "The Doors",
+            "Leonard Cohen"
+          ],
+          "notable_songs": [
+            "La Malinche",
+            "L'Oiseau",
+            "Bicêtre",
+            "Poches Croisées",
+            "Le Chant Contre La Peur"
+          ],
+          "lyrical_themes": [
+            "Poetry",
+            "Existentialism",
+            "Love",
+            "Society",
+            "Melancholy"
+          ],
+          "primary_genres": [
+            "French Rock",
+            "Chanson Française",
+            "Indie Rock"
+          ],
+          "characteristics": [
+            "Poetic",
+            "Atmospheric",
+            "Literary",
+            "Theatrical",
+            "Melancholic"
+          ],
+          "cultural_impact": "Feu! Chatterton has had a significant impact on the French indie and rock scenes by revitalizing the tradition of poetic French songwriting within a modern rock context, influencing a new generation of artists and listeners who appreciate literary depth in music.",
+          "obscurity_scale": [
+            "4"
+          ],
+          "secondary_genres": [
+            "Alternative Rock",
+            "Art Rock",
+            "Pop Rock"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "French Indie Rock",
+            "Contemporary Chanson"
+          ],
+          "performance_style": "Their performance style is theatrical and expressive, with a focus on conveying the emotional and poetic content of their songs through dynamic vocal delivery and atmospheric instrumentation.",
+          "artists_influenced": [
+            "Clara Luciani",
+            "La Femme",
+            "L'Impératrice"
+          ],
+          "short_descriptions": [
+            {
+              "value": "Feu! Chatterton es una banda francesa de rock reconocida por sus letras poéticas y su sonido atmosférico.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Feu! Chatterton is a French rock band known for their poetic lyrics and atmospheric sound.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Feu! Chatterton est un groupe de rock français réputé pour ses textes poétiques et son univers sonore envoûtant.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Feu! Chatterton ist eine französische Rockband, die für ihre poetischen Texte und ihren atmosphärischen Sound bekannt ist.",
+              "languages": [
+                "de"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Literary",
+            "Intellectual",
+            "Melancholic",
+            "Artistic",
+            "Devoted"
+          ],
+          "adjectives_for_music": [
+            "Poetic",
+            "Atmospheric",
+            "Melancholic",
+            "Literary",
+            "Theatrical"
+          ],
+          "lyrical_themes_description": "Feu! Chatterton's lyrics explore themes of poetry and existential reflection, often delving into love, societal issues, and melancholy with a literary and introspective approach.",
+          "adjectives_for_performance_style": [
+            "Theatrical",
+            "Expressive",
+            "Intimate",
+            "Dynamic"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "French Rock",
+            "Chanson Française",
+            "Indie Rock",
+            "Art Rock",
+            "Alternative Rock"
+          ]
+        },
+        "popularity": 0.9372923343098126,
+        "tags": [
+          {
+            "id": "urn:tag:subgenre:qloo:art_rock",
+            "name": "Art Rock",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:leonard_cohen",
+            "name": "Leonard Cohen",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:melancholic",
+            "name": "Melancholic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:france",
+            "name": "France",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:genre:qloo:indie_rock",
+            "name": "Indie Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:poetic",
+            "name": "Poetic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:dynamic",
+            "name": "Dynamic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:contemporary_chanson",
+            "name": "Contemporary Chanson",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:french_rock",
+            "name": "French Rock",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:serge_gainsbourg",
+            "name": "Serge Gainsbourg",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:literary",
+            "name": "Literary",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:poetry",
+            "name": "Poetry",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:french_indie_rock",
+            "name": "French Indie Rock",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:bass",
+            "name": "Bass",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:indie_rock",
+            "name": "Indie Rock",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:guitar",
+            "name": "Guitar",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:pop_rock",
+            "name": "Pop Rock",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:art_rock",
+            "name": "Art Rock",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:genre:music:pop",
+            "name": "Pop",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:artist:qloo:literary",
+            "name": "Literary",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:chanson_francaise",
+            "name": "Chanson Française",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:rock",
+            "name": "Rock",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:music:qloo:atmospheric",
+            "name": "Atmospheric",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:4",
+            "name": "4",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:jacques_brel",
+            "name": "Jacques Brel",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:intellectual",
+            "name": "Intellectual",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:society",
+            "name": "Society",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:melancholy",
+            "name": "Melancholy",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:nick_cave",
+            "name": "Nick Cave",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:art_rock",
+            "name": "Art Rock",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:theatrical",
+            "name": "Theatrical",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:theatrical",
+            "name": "Theatrical",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:chanson_francaise",
+            "name": "Chanson Française",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:alternative_rock",
+            "name": "Alternative Rock",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:melancholic",
+            "name": "Melancholic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:devoted",
+            "name": "Devoted",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:french_rock",
+            "name": "French Rock",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:keyboards",
+            "name": "Keyboards",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:artistic",
+            "name": "Artistic",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:melancholic",
+            "name": "Melancholic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:drums",
+            "name": "Drums",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:intimate",
+            "name": "Intimate",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:the_doors",
+            "name": "The Doors",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:existentialism",
+            "name": "Existentialism",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:alternative_rock",
+            "name": "Alternative Rock",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:french",
+            "name": "French",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:music:qloo:poetic",
+            "name": "Poetic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:literary",
+            "name": "Literary",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:theatrical",
+            "name": "Theatrical",
+            "type": "urn:tag:music:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8995502643230563,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Feu! Chatterton",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm7211627"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "feu%21%20chatterton",
+              "listeners": 113193,
+              "scrobbles": 2108812
+            }
+          ],
+          "spotify": [
+            {
+              "id": "538TfjnJpRXI80MHYWfKlo",
+              "verified": true,
+              "followers": 73154,
+              "monthly_listeners": 218246
+            }
+          ],
+          "twitter": [
+            {
+              "id": "feuchatterton"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "feu.chatterton"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q21426156"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "feuchatterton"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "b1eac47e-77b5-4f5c-ae33-442c07182278",
+              "artist_type": "Group"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Gabriels",
+        "entity_id": "194D7B7D-487D-4082-8C0B-85AF0338C771",
+        "type": "urn:entity",
+        "subtype": "urn:entity:artist",
+        "properties": {
+          "image": {
+            "url": "https://images.qloo.com/i/194D7B7D-487D-4082-8C0B-85AF0338C771-420x-auto.jpg"
+          },
+          "vocals": "Jacob Lusk's vocals are powerful and emotive, drawing from gospel traditions with a rich, soulful tone. The group's vocal style is characterized by expressive delivery and dynamic range, often supported by lush harmonies and orchestral backing.",
+          "aliases": [],
+          "members": [
+            "Jacob Lusk",
+            "Ari Balouzian",
+            "Ryan Hope"
+          ],
+          "is_group": true,
+          "biography": "Gabriels formed in Los Angeles, bringing together the powerful gospel-influenced vocals of Jacob Lusk with the production talents of Ari Balouzian and Ryan Hope. The group quickly gained attention for their unique blend of classic soul and modern experimental sounds, creating music that is both deeply emotional and sonically adventurous. Their work often features orchestral arrangements and a cinematic feel, setting them apart in the contemporary R&B and soul scenes.",
+          "known_for": "Gabriels are known for their emotive vocal performances, cinematic production, and blending of gospel, soul, and experimental R&B.",
+          "start_year": 2016,
+          "description": "Gabriels is a British-American musical group blending soul, gospel, and R&B with experimental and cinematic elements. The group consists of vocalist Jacob Lusk and producers Ari Balouzian and Ryan Hope. They are known for their rich, emotive vocal performances and lush, orchestral production that creates a unique and immersive listening experience.",
+          "instruments": [
+            "Vocals",
+            "Piano",
+            "Synthesizers",
+            "Orchestral Instruments"
+          ],
+          "collaborators": [],
+          "influenced_by": [
+            "Gospel Music",
+            "Soul Legends",
+            "Classical Music"
+          ],
+          "notable_songs": [
+            "Love and Hate in a Different Time",
+            "Holding On",
+            "Blame"
+          ],
+          "lyrical_themes": [
+            "Love",
+            "Heartache",
+            "Time",
+            "Faith"
+          ],
+          "primary_genres": [
+            "Soul",
+            "R&B",
+            "Gospel"
+          ],
+          "characteristics": [
+            "Soulful",
+            "Emotive",
+            "Cinematic",
+            "Experimental",
+            "Lush"
+          ],
+          "cultural_impact": "Gabriels have contributed to the resurgence of soulful, cinematic R&B with a modern experimental twist, influencing contemporary artists and expanding the boundaries of the genre.",
+          "obscurity_scale": [
+            "4"
+          ],
+          "secondary_genres": [
+            "Alternative R&B",
+            "Experimental Soul"
+          ],
+          "associated_brands": [],
+          "genres_influenced": [
+            "Contemporary Soul",
+            "Alternative R&B"
+          ],
+          "performance_style": "Gabriels' performance style is expressive and dynamic, combining powerful gospel-influenced vocals with immersive, cinematic instrumentation.",
+          "artists_influenced": [],
+          "short_descriptions": [
+            {
+              "value": "Gabriels is a soulful and experimental R&B group known for their emotive vocals and cinematic sound.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Gabriels es un grupo de R&B experimental y soul conocido por sus voces emotivas y su sonido cinematográfico.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Gabriels est un groupe de R&B expérimental et soul, reconnu pour ses voix émouvantes et son univers cinématographique.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Gabriels ist eine experimentelle Soul- und R&B-Gruppe, bekannt für emotionale Vocals und ihren cineastischen Sound.",
+              "languages": [
+                "de"
+              ]
+            }
+          ],
+          "adjectives_for_fans": [
+            "Passionate",
+            "Soulful",
+            "Appreciative",
+            "Open-minded"
+          ],
+          "adjectives_for_music": [
+            "Soulful",
+            "Emotive",
+            "Cinematic",
+            "Experimental",
+            "Lush"
+          ],
+          "lyrical_themes_description": "Gabriels' lyrics explore themes of love, heartache, the passage of time, and faith, often delivered with poetic and emotional depth.",
+          "adjectives_for_performance_style": [
+            "Expressive",
+            "Dynamic",
+            "Immersive"
+          ],
+          "creative_and_specific_adjectives_for_music": [
+            "Gospel-Infused Soul",
+            "Orchestral R&B",
+            "Experimental Soul",
+            "Cinematic Soundscape",
+            "Emotive Vocalism"
+          ]
+        },
+        "popularity": 0.8943174147546677,
+        "tags": [
+          {
+            "id": "urn:tag:genre:music:rhythm_blues",
+            "name": "Rhythm & Blues",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:artist:qloo:cinematic",
+            "name": "Cinematic",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:contemporary_soul",
+            "name": "Contemporary Soul",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:synthesizers",
+            "name": "Synthesizers",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:orchestral_r_b",
+            "name": "Orchestral R&B",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:orchestral_instruments",
+            "name": "Orchestral Instruments",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:dynamic",
+            "name": "Dynamic",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:vocals",
+            "name": "Vocals",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:emotive_vocalism",
+            "name": "Emotive Vocalism",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:experimental_soul",
+            "name": "Experimental Soul",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:obscurity:qloo:4",
+            "name": "4",
+            "type": "urn:tag:obscurity:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:classical_music",
+            "name": "Classical Music",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:symphonic_metal",
+            "name": "Symphonic Metal",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:cinematic_soundscape",
+            "name": "Cinematic Soundscape",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:appreciative",
+            "name": "Appreciative",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:love",
+            "name": "Love",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:soul",
+            "name": "Soul",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:cinematic",
+            "name": "Cinematic",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:soul_legends",
+            "name": "Soul Legends",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:open_minded",
+            "name": "Open-Minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:passionate",
+            "name": "Passionate",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:soul",
+            "name": "Soul",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:instrument:qloo:piano",
+            "name": "Piano",
+            "type": "urn:tag:instrument:qloo"
+          },
+          {
+            "id": "urn:tag:influence:qloo:alternative_r_b",
+            "name": "Alternative R&B",
+            "type": "urn:tag:influence:qloo"
+          },
+          {
+            "id": "urn:tag:influenced_by:qloo:gospel_music",
+            "name": "Gospel Music",
+            "type": "urn:tag:influenced_by:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:emotive",
+            "name": "Emotive",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:progressive_metal",
+            "name": "Progressive Metal",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:style:qloo:immersive",
+            "name": "Immersive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:time",
+            "name": "Time",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:music:power_metal",
+            "name": "Power Metal",
+            "type": "urn:tag:genre:music"
+          },
+          {
+            "id": "urn:tag:artist:qloo:soulful",
+            "name": "Soulful",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:faith",
+            "name": "Faith",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:subgenre:qloo:experimental_soul",
+            "name": "Experimental Soul",
+            "type": "urn:tag:subgenre:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:theme:qloo:heartache",
+            "name": "Heartache",
+            "type": "urn:tag:theme:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:r_b",
+            "name": "R & B",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:artist:qloo:lush",
+            "name": "Lush",
+            "type": "urn:tag:artist:qloo"
+          },
+          {
+            "id": "urn:tag:style:qloo:gospel_infused_soul",
+            "name": "Gospel-Infused Soul",
+            "type": "urn:tag:style:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:gospel",
+            "name": "Gospel",
+            "type": "urn:tag:genre:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:audience:qloo:open_minded",
+            "name": "Open-minded",
+            "type": "urn:tag:audience:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:emotive",
+            "name": "Emotive",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:music:qloo:lush",
+            "name": "Lush",
+            "type": "urn:tag:music:qloo"
+          },
+          {
+            "id": "urn:tag:genre:qloo:r_b",
+            "name": "R&B",
+            "type": "urn:tag:genre:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8983849333896888,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "Gabriels",
+        "external": {
+          "imdb": [
+            {
+              "id": "nm12848378"
+            }
+          ],
+          "lastfm": [
+            {
+              "id": "gabriels",
+              "listeners": 141142,
+              "scrobbles": 1179996
+            }
+          ],
+          "spotify": [
+            {
+              "id": "5tHs3fthucNRGAFpdE9rmz",
+              "verified": true,
+              "followers": 3970,
+              "last_release": 2020,
+              "first_release": 2018,
+              "monthly_listeners": 85006
+            }
+          ],
+          "twitter": [
+            {
+              "id": "___gabriels"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "q115516899"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "__gabriels__"
+            }
+          ],
+          "musicbrainz": [
+            {
+              "id": "c6bbc197-ce7b-48c7-8690-71a149073429",
+              "artist_type": "Group"
+            },
+            {
+              "id": "e85cd2cd-fb66-4fc2-98ba-02fccff145c0",
+              "artist_type": "Person"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

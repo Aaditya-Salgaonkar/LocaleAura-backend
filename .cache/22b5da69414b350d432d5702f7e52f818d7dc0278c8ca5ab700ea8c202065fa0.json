@@ -1,0 +1,4196 @@
+{
+  "success": true,
+  "results": {
+    "entities": [
+      {
+        "name": "Not On The High Street",
+        "entity_id": "62F48580-6E8E-4C02-9F6E-6DC768673D42",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [],
+          "image": {
+            "url": "https://images.qloo.com/i/62F48580-6E8E-4C02-9F6E-6DC768673D42-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Personalised",
+            "Small Business",
+            "Artisan",
+            "Handmade",
+            "Gifts"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Gift Giving",
+            "Home Hosting",
+            "Artisan Appreciation",
+            "Thoughtful Living"
+          ],
+          "brand_type": [
+            "Retail Brand"
+          ],
+          "industries": [
+            "Retail",
+            "E-commerce",
+            "Marketplace"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Creativity",
+            "Support For Small Businesses",
+            "Authenticity",
+            "Personalization"
+          ],
+          "description": "Not On The High Street is a prominent UK-based online marketplace that serves as a bridge between independent small businesses and consumers seeking unique, high-quality products. Founded with the mission to champion British creativity, the platform specializes in personalized gifts, artisan-crafted homeware, and bespoke items that are difficult to find in mass-market retail. By providing a dedicated space for small brands, it fosters a community centered on thoughtfulness and quality craftsmanship. The marketplace continues to be a go-to destination for shoppers looking to celebrate meaningful occasions with items that carry a personal touch.",
+          "key_markets": [
+            "United Kingdom"
+          ],
+          "founded_year": 2006,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Female",
+            "Male",
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C",
+            "Marketplace"
+          ],
+          "emotional_tone": [
+            "Thoughtful",
+            "Warm",
+            "Creative",
+            "Personal"
+          ],
+          "personal_style": null,
+          "similar_brands": [
+            "Trouva",
+            "Wolf & Badger",
+            "Local Heroes",
+            "The Grommet"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Adults"
+          ],
+          "audience_identity": "People who value thoughtfulness and originality in their gift-giving and prefer to support independent makers over mass-market retailers.",
+          "competitor_brands": [
+            "Etsy",
+            "Amazon Handmade"
+          ],
+          "customer_segments": [
+            "Gift Shoppers",
+            "Home Decor Enthusiasts",
+            "Supporters Of Small Businesses"
+          ],
+          "influencer_appeal": [
+            "Lifestyle Bloggers",
+            "DIY Crafters",
+            "Small Business Advocates",
+            "Parenting Influencers",
+            "Interior Designers"
+          ],
+          "products_services": [
+            "Personalized Gifts",
+            "Art Prints",
+            "Jewelry",
+            "Home Decor",
+            "Food And Drink Gifts",
+            "Clothing And Accessories",
+            "Baby And Child Items",
+            "Wedding Gifts",
+            "Stationery",
+            "Garden Decor"
+          ],
+          "short_description": "Not On The High Street is a UK-based curated online marketplace connecting small brands with customers, offering unique lifestyle products and thoughtful gifts.",
+          "style_description": "An accessible, friendly visual style that highlights the diversity and craftsmanship of independent creators through organized, editorial-style presentation.",
+          "cultural_relevance": [
+            "Maker Movement",
+            "Supporting Local Economy"
+          ],
+          "known_partnerships": [],
+          "market_positioning": "A premium-leaning, curated marketplace for unique, artisan-made, and personalized consumer goods.",
+          "short_descriptions": [
+            {
+              "value": "Une place de marché en ligne qui met en relation les clients avec des milliers de petites marques indépendantes proposant des cadeaux uniques et personnalisés.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Un mercado online que conecta a compradores con miles de pequeñas marcas independientes, ofreciendo regalos únicos y personalizados para cada ocasión.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "A curated online marketplace connecting shoppers with thousands of small, independent brands offering unique and personalized gifts.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Ein kuratierter Online-Marktplatz, der Kunden mit tausenden kleinen, unabhängigen Marken verbindet, um einzigartige und personalisierte Geschenke anzubieten.",
+              "languages": [
+                "de"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 150,
+          "price_range_usd_min": 10,
+          "target_income_level": [
+            "Medium",
+            "Medium to High"
+          ],
+          "aesthetic_properties": [
+            "Curated",
+            "Artisan",
+            "Warm",
+            "Inviting",
+            "Eclectic"
+          ],
+          "category_description": "An online platform serving as a central hub for independent artisans and small businesses to sell curated, often personalized goods directly to consumers.",
+          "headquarters_address": "Richmond, United Kingdom",
+          "interest_adjacencies": [
+            "Handicrafts",
+            "Small Business Support",
+            "Gift Giving",
+            "Home Decor",
+            "Stationery"
+          ],
+          "situational_contexts": "Finding meaningful gifts for birthdays, weddings, anniversaries, or seasonal holidays, as well as searching for distinctive homeware and personalized items.",
+          "aspirational_lifestyle": [
+            "Slow Living",
+            "Creative Expression",
+            "Community Support",
+            "Bespoke Lifestyle"
+          ],
+          "sustainability_initiatives": [
+            "Support For Local Makers",
+            "Social Impact",
+            "Supply Chain Transparency"
+          ],
+          "cultural_context_description": "The brand is deeply embedded in the 'shop small' movement and the culture of creative, meaningful gifting within the United Kingdom.",
+          "target_demographics_description": "Primarily adults with mid-to-high disposable income who prioritize quality and personalization over convenience store alternatives."
+        },
+        "popularity": 0.9686731874353715,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:website",
+            "name": "Website",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:retail",
+            "name": "Retail",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:curated",
+            "name": "Curated",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:artisan",
+            "name": "Artisan",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:warm",
+            "name": "Warm",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:inviting",
+            "name": "Inviting",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:slow_living",
+            "name": "Slow Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:creative_expression",
+            "name": "Creative Expression",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:community_support",
+            "name": "Community Support",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:bespoke_lifestyle",
+            "name": "Bespoke Lifestyle",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:other",
+            "name": "Other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:retail_brand",
+            "name": "Retail Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:marketplace",
+            "name": "Marketplace",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:etsy",
+            "name": "Etsy",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:amazon_handmade",
+            "name": "Amazon Handmade",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:creativity",
+            "name": "Creativity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:support_for_small_businesses",
+            "name": "Support For Small Businesses",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:authenticity",
+            "name": "Authenticity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:personalization",
+            "name": "Personalization",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:maker_movement",
+            "name": "Maker Movement",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:supporting_local_economy",
+            "name": "Supporting Local Economy",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:gift_shoppers",
+            "name": "Gift Shoppers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:home_decor_enthusiasts",
+            "name": "Home Decor Enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:supporters_of_small_businesses",
+            "name": "Supporters Of Small Businesses",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:thoughtful",
+            "name": "Thoughtful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:warm",
+            "name": "Warm",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:creative",
+            "name": "Creative",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:personal",
+            "name": "Personal",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:retail",
+            "name": "Retail",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:e_commerce",
+            "name": "E-commerce",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:marketplace",
+            "name": "Marketplace",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:lifestyle_bloggers",
+            "name": "Lifestyle Bloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:diy_crafters",
+            "name": "DIY Crafters",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:small_business_advocates",
+            "name": "Small Business Advocates",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:parenting_influencers",
+            "name": "Parenting Influencers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:interior_designers",
+            "name": "Interior Designers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:handicrafts",
+            "name": "Handicrafts",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:small_business_support",
+            "name": "Small Business Support",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:gift_giving",
+            "name": "Gift Giving",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:home_decor",
+            "name": "Home Decor",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:stationery",
+            "name": "Stationery",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_kingdom",
+            "name": "United Kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:personalised",
+            "name": "Personalised",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:small_business",
+            "name": "Small Business",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:artisan",
+            "name": "Artisan",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:handmade",
+            "name": "Handmade",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:gifts",
+            "name": "Gifts",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:gift_giving",
+            "name": "Gift Giving",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:home_hosting",
+            "name": "Home Hosting",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:artisan_appreciation",
+            "name": "Artisan Appreciation",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:thoughtful_living",
+            "name": "Thoughtful Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:mainstream",
+            "name": "Mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:challenger",
+            "name": "Challenger",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:personalized_gifts",
+            "name": "Personalized Gifts",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:art_prints",
+            "name": "Art Prints",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:jewelry",
+            "name": "Jewelry",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:home_decor",
+            "name": "Home Decor",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:food_and_drink_gifts",
+            "name": "Food And Drink Gifts",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:clothing_and_accessories",
+            "name": "Clothing And Accessories",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:baby_and_child_items",
+            "name": "Baby And Child Items",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:wedding_gifts",
+            "name": "Wedding Gifts",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:stationery",
+            "name": "Stationery",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:garden_decor",
+            "name": "Garden Decor",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:trouva",
+            "name": "Trouva",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:wolf_badger",
+            "name": "Wolf & Badger",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:local_heroes",
+            "name": "Local Heroes",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:the_grommet",
+            "name": "The Grommet",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:support_for_local_makers",
+            "name": "Support For Local Makers",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:social_impact",
+            "name": "Social Impact",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:supply_chain_transparency",
+            "name": "Supply Chain Transparency",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:male",
+            "name": "Male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium",
+            "name": "Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8669015243736182,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "instagram": [
+            {
+              "id": "notonthehighstreet"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sabyasachi",
+        "entity_id": "0CE37115-938A-4301-8544-2C74B30C2784",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [],
+          "image": {
+            "url": "https://images.qloo.com/i/0CE37115-938A-4301-8544-2C74B30C2784-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Bridal",
+            "Heritage",
+            "Couture",
+            "Textiles",
+            "Kolkata"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Wedding Celebrations",
+            "High-Society Gatherings",
+            "Cultural Festivals",
+            "Fine Dining"
+          ],
+          "brand_type": [
+            "Product Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Fine Jewelry",
+            "Luxury Goods"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Craftsmanship",
+            "Heritage",
+            "Artistry",
+            "Exclusivity",
+            "Authenticity"
+          ],
+          "description": "Sabyasachi is a world-renowned luxury fashion house representing the pinnacle of Indian bridal couture and fine jewelry. Established with a deep commitment to preserving and reviving indigenous Indian crafts and textiles, the brand is known for its intricate hand-embroidery and regal design language. Its offerings span elaborate wedding collections for men and women, alongside high-end jewelry that often draws inspiration from historical Indian aesthetics. By merging tradition with global luxury standards, the brand has become a hallmark of opulence and cultural prestige for high-net-worth clients worldwide.",
+          "key_markets": [
+            "India",
+            "United States",
+            "United Kingdom",
+            "United Arab Emirates"
+          ],
+          "founded_year": 1999,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Male",
+            "Female"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Regal",
+            "Nostalgic",
+            "Sophisticated",
+            "Opulent",
+            "Romantic"
+          ],
+          "personal_style": [
+            "Maximalist",
+            "Regal",
+            "Traditional",
+            "Elegant"
+          ],
+          "similar_brands": [
+            "Abu Jani Sandeep Khosla",
+            "Anamika Khanna"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Young Adults",
+            "Adults",
+            "Middle-Aged"
+          ],
+          "audience_identity": "People who value deep-rooted cultural heritage and artisanal luxury, often seeking pieces that serve as elaborate, narrative-driven investments for major life milestones.",
+          "competitor_brands": [
+            "Tarun Tahiliani",
+            "Anita Dongre",
+            "Manish Malhotra",
+            "Rohit Bal"
+          ],
+          "customer_segments": [
+            "South Asian Elite",
+            "Luxury Brides",
+            "High-Net-Worth Collectors",
+            "Cultural Connoisseurs"
+          ],
+          "influencer_appeal": [
+            "Celebrity Stylists",
+            "High-Profile Socialites",
+            "Heritage Fashion Archivists",
+            "Luxury Lifestyle Bloggers",
+            "Bridal Consultants"
+          ],
+          "products_services": [
+            "Bridal Couture",
+            "High Jewellery",
+            "Menswear",
+            "Womenswear",
+            "Handbags",
+            "Accessories"
+          ],
+          "short_description": "Sabyasachi is a luxury Indian brand known for high jewellery, fine jewellery, womenswear, menswear, weddings, and accessories.",
+          "style_description": "A maximalist and richly textured aesthetic that blends historic Indian craftsmanship with modern luxury sensibilities.",
+          "cultural_relevance": [
+            "Indian Heritage",
+            "Bollywood Culture",
+            "South Asian Wedding Traditions",
+            "Global Indian Diaspora"
+          ],
+          "known_partnerships": [
+            "H&M",
+            "Pottery Barn",
+            "Christian Louboutin",
+            "Estée Lauder"
+          ],
+          "market_positioning": "Prestige Indian luxury brand offering couture-level bridal fashion and artisanal jewelry for the global elite.",
+          "short_descriptions": [
+            {
+              "value": "Una marca de lujo de gran opulencia arraigada en la tradición india, celebrada por su costura nupcial, alta joyería y exquisita artesanía.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "An opulent luxury brand rooted in Indian tradition, celebrated for its intricate bridal couture, fine jewelry, and exquisite craftsmanship.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Une marque de luxe opulente ancrée dans la tradition indienne, célèbre pour sa couture nuptiale complexe, sa haute joaillerie et son artisanat exquis.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Eine opulente Luxusmarke mit Wurzeln in der indischen Tradition, gefeiert für ihre komplexe Brautmode, feinen Schmuck und exquisite Handwerkskunst.",
+              "languages": [
+                "de"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 50000,
+          "price_range_usd_min": 1000,
+          "target_income_level": [
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Intricate Embroidery",
+            "Traditional Motifs",
+            "Gold Zari Work",
+            "Rich Color Palettes",
+            "Vintage-Inspired Jewelry"
+          ],
+          "category_description": "A premier luxury fashion house specializing in elaborate, heritage-focused bridal wear and heirloom-quality fine jewelry.",
+          "headquarters_address": "Kolkata, India",
+          "interest_adjacencies": [
+            "Textile Art",
+            "Antique Jewelry",
+            "Historical Preservation",
+            "Interior Design",
+            "Indian Classical Arts"
+          ],
+          "situational_contexts": "Opulent wedding ceremonies, high-society galas, and traditional cultural festivals where grand, intricate aesthetic expression is expected.",
+          "aspirational_lifestyle": [
+            "Royal Grandeur",
+            "Historical Preservation",
+            "Elite Social Status",
+            "Artistic Patronage"
+          ],
+          "sustainability_initiatives": [
+            "Revival Of Traditional Indian Crafts",
+            "Slow Fashion",
+            "Social Impact"
+          ],
+          "cultural_context_description": "Deeply embedded in the revival of Indian textile traditions and the celebration of grand, multi-day wedding festivities.",
+          "target_demographics_description": "Affluent adults and elites, primarily within India and the global diaspora, who prioritize high-end traditional craftsmanship and festive luxury."
+        },
+        "popularity": 0.9898120052211354,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:intricate_embroidery",
+            "name": "Intricate Embroidery",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:traditional_motifs",
+            "name": "Traditional Motifs",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:gold_zari_work",
+            "name": "Gold Zari Work",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:rich_color_palettes",
+            "name": "Rich Color Palettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:vintage_inspired_jewelry",
+            "name": "Vintage-Inspired Jewelry",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:royal_grandeur",
+            "name": "Royal Grandeur",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:historical_preservation",
+            "name": "Historical Preservation",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:elite_social_status",
+            "name": "Elite Social Status",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:artistic_patronage",
+            "name": "Artistic Patronage",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:product_brand",
+            "name": "Product Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:limited_edition",
+            "name": "Limited Edition",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:tarun_tahiliani",
+            "name": "Tarun Tahiliani",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:anita_dongre",
+            "name": "Anita Dongre",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:manish_malhotra",
+            "name": "Manish Malhotra",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:rohit_bal",
+            "name": "Rohit Bal",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:craftsmanship",
+            "name": "Craftsmanship",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:artistry",
+            "name": "Artistry",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:exclusivity",
+            "name": "Exclusivity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:authenticity",
+            "name": "Authenticity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:indian_heritage",
+            "name": "Indian Heritage",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:bollywood_culture",
+            "name": "Bollywood Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:south_asian_wedding_traditions",
+            "name": "South Asian Wedding Traditions",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:global_indian_diaspora",
+            "name": "Global Indian Diaspora",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:south_asian_elite",
+            "name": "South Asian Elite",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:luxury_brides",
+            "name": "Luxury Brides",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:high_net_worth_collectors",
+            "name": "High-Net-Worth Collectors",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:cultural_connoisseurs",
+            "name": "Cultural Connoisseurs",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:north_calcutta_architecture",
+            "name": "North Calcutta Architecture",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:mughal_art",
+            "name": "Mughal Art",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:indian_textile_heritage",
+            "name": "Indian Textile Heritage",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:botanical_motifs",
+            "name": "Botanical Motifs",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:regal",
+            "name": "Regal",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:nostalgic",
+            "name": "Nostalgic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:opulent",
+            "name": "Opulent",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:romantic",
+            "name": "Romantic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:luxury",
+            "name": "Luxury",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:haute_couture",
+            "name": "Haute Couture",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+            "name": "Ready-to-Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:bridal",
+            "name": "Bridal",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ethnic_wear",
+            "name": "Ethnic Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fine_jewelry",
+            "name": "Fine Jewelry",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:luxury_goods",
+            "name": "Luxury Goods",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:celebrity_stylists",
+            "name": "Celebrity Stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:high_profile_socialites",
+            "name": "High-Profile Socialites",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:heritage_fashion_archivists",
+            "name": "Heritage Fashion Archivists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:luxury_lifestyle_bloggers",
+            "name": "Luxury Lifestyle Bloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:bridal_consultants",
+            "name": "Bridal Consultants",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:textile_art",
+            "name": "Textile Art",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:antique_jewelry",
+            "name": "Antique Jewelry",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:historical_preservation",
+            "name": "Historical Preservation",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:interior_design",
+            "name": "Interior Design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:indian_classical_arts",
+            "name": "Indian Classical Arts",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:india",
+            "name": "India",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_kingdom",
+            "name": "United Kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_arab_emirates",
+            "name": "United Arab Emirates",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:bridal",
+            "name": "Bridal",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:couture",
+            "name": "Couture",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:textiles",
+            "name": "Textiles",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:kolkata",
+            "name": "Kolkata",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:h_m",
+            "name": "H&M",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:pottery_barn",
+            "name": "Pottery Barn",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:christian_louboutin",
+            "name": "Christian Louboutin",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:estee_lauder",
+            "name": "Estée Lauder",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:wedding_celebrations",
+            "name": "Wedding Celebrations",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:high_society_gatherings",
+            "name": "High-Society Gatherings",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:cultural_festivals",
+            "name": "Cultural Festivals",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:fine_dining",
+            "name": "Fine Dining",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:silk",
+            "name": "Silk",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:velvet",
+            "name": "Velvet",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:gold",
+            "name": "Gold",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:diamonds",
+            "name": "Diamonds",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:semi_precious_stones",
+            "name": "Semi-Precious Stones",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:hand_woven_brocade",
+            "name": "Hand-Woven Brocade",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:maximalist",
+            "name": "Maximalist",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:regal",
+            "name": "Regal",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:traditional",
+            "name": "Traditional",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:elegant",
+            "name": "Elegant",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:fine_jewelry",
+            "name": "Fine Jewelry",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:outerwear",
+            "name": "Outerwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:handbags",
+            "name": "Handbags",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:bridal_couture",
+            "name": "Bridal Couture",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:high_jewellery",
+            "name": "High Jewellery",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:menswear",
+            "name": "Menswear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:womenswear",
+            "name": "Womenswear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:handbags",
+            "name": "Handbags",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:department_store",
+            "name": "Department Store",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:bridal_lehenga",
+            "name": "Bridal Lehenga",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:heritage_jewelry_sets",
+            "name": "Heritage Jewelry Sets",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:sabyasachi_saree",
+            "name": "Sabyasachi Saree",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:embroidered_sherwani",
+            "name": "Embroidered Sherwani",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:abu_jani_sandeep_khosla",
+            "name": "Abu Jani Sandeep Khosla",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:anamika_khanna",
+            "name": "Anamika Khanna",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:revival_of_traditional_indian_crafts",
+            "name": "Revival Of Traditional Indian Crafts",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:slow_fashion",
+            "name": "Slow Fashion",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:social_impact",
+            "name": "Social Impact",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:middle_aged",
+            "name": "Middle-Aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:male",
+            "name": "Male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8659781316541189,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "instagram": [
+            {
+              "id": "sabyasachiofficial"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Notion",
+        "entity_id": "233A4F29-9585-46B8-81A4-400469312E75",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [
+            {
+              "value": "Notion (logiciel)",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Notion",
+              "languages": [
+                "et",
+                "ja",
+                "sl",
+                "pl",
+                "tr",
+                "ta"
+              ]
+            },
+            {
+              "value": "notion.so",
+              "languages": [
+                "en_au"
+              ]
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/233A4F29-9585-46B8-81A4-400469312E75-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": "The connected workspace for your docs, projects, and knowledge.",
+          "industry": null,
+          "keywords": [
+            "Productivity",
+            "Wiki",
+            "Database",
+            "Workspace",
+            "Documentation"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Digital Nomadism",
+            "Remote Work",
+            "Continuous Learning",
+            "Professional Productivity"
+          ],
+          "brand_type": [
+            "Corporate Brand"
+          ],
+          "industries": [
+            "Technology",
+            "Software",
+            "Productivity Tools",
+            "Collaboration Software"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Connectivity",
+            "Flexibility",
+            "Clarity",
+            "Efficiency",
+            "Collaboration"
+          ],
+          "description": "An all-in-one productivity platform that serves as a flexible workspace for documentation, knowledge management, and team collaboration. By allowing users to build their own custom systems using modular 'blocks', it has become an essential tool for knowledge workers, startups, and creative professionals. Since its founding, it has focused on consolidating fragmented digital tasks into one interface, moving beyond simple note-taking to serve as a comprehensive project management and database solution. Its market position is built on simplicity, high customization, and a strong user-led ecosystem of templates and integrations.",
+          "key_markets": [
+            "United States",
+            "United Kingdom",
+            "Canada",
+            "Germany",
+            "Japan"
+          ],
+          "founded_year": 2013,
+          "manufacturer": null,
+          "subsidiaries": [
+            "Notion Calendar",
+            "Cron"
+          ],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2B",
+            "B2C",
+            "Subscription"
+          ],
+          "emotional_tone": [
+            "Functional",
+            "Clean",
+            "Empowering",
+            "Minimalist",
+            "Intuitive"
+          ],
+          "personal_style": [
+            ""
+          ],
+          "similar_brands": [
+            "Airtable",
+            "ClickUp",
+            "Craft",
+            "Trello",
+            "Linear"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Young Adults",
+            "Adults"
+          ],
+          "audience_identity": "People who value radical organization, digital minimalism, and personal knowledge management are drawn to this tool as a way to structure their complex professional and personal lives.",
+          "competitor_brands": [
+            "Asana",
+            "Monday.com",
+            "Obsidian",
+            "Evernote",
+            "Confluence"
+          ],
+          "customer_segments": [
+            "Software Developers",
+            "Creative Professionals",
+            "Startup Teams",
+            "Students",
+            "Knowledge Workers"
+          ],
+          "influencer_appeal": [
+            "Tech Content Creators",
+            "Productivity Bloggers",
+            "Startup Founders",
+            "Digital Educators",
+            "Design Influencers"
+          ],
+          "products_services": [
+            "Note Taking",
+            "Project Management",
+            "Document Databases",
+            "Wiki Creation",
+            "Task Tracking",
+            "Integrated Calendars"
+          ],
+          "short_description": null,
+          "style_description": "Defined by a clean, minimalist design language that emphasizes utility and user-driven content structure through intuitive, modular building blocks.",
+          "cultural_relevance": [
+            "Productivity Culture",
+            "Remote Work Movement",
+            "Startup Ecosystem"
+          ],
+          "known_partnerships": [
+            "Slack",
+            "Google Drive",
+            "Zapier",
+            "GitHub"
+          ],
+          "market_positioning": "A highly flexible, modular productivity platform positioned as a centralized alternative to fragmented office software stacks.",
+          "short_descriptions": [
+            {
+              "value": "Ein flexibler All-in-One-Arbeitsbereich, der Notizen, Dokumente, Datenbanken und Projektmanagement-Tools in einer einzigen anpassbaren Oberfläche vereint.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Un espace de travail numérique flexible et tout-en-un qui unifie notes, documents, bases de données et outils de gestion de projet dans une seule interface personnalisable.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "A flexible, all-in-one digital workspace that unifies notes, documents, databases, and project management tools into a single customizable interface.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Un espacio de trabajo digital, flexible y completo que unifica notas, documentos, bases de datos y herramientas de gestión de proyectos en una sola interfaz personalizable.",
+              "languages": [
+                "es"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 25,
+          "price_range_usd_min": 0,
+          "target_income_level": [
+            "Medium",
+            "Medium to High",
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Minimalist Typography",
+            "High Whitespace",
+            "Monochrome Palette",
+            "Modular Layout",
+            "Iconography-Focused"
+          ],
+          "category_description": "A collaborative productivity software platform that serves as a central hub for individual and team documentation, project tracking, and knowledge management.",
+          "headquarters_address": "San Francisco, California, USA",
+          "interest_adjacencies": [
+            "Productivity",
+            "Software Development",
+            "Digital Design",
+            "Information Architecture",
+            "Professional Networking"
+          ],
+          "situational_contexts": "This is primarily engaged with during deep work sessions, project planning phases, or while building personal systems to track habits, goals, and information.",
+          "aspirational_lifestyle": [
+            "Digital Minimalism",
+            "Optimized Workflows",
+            "Peak Productivity",
+            "Knowledge Mastery"
+          ],
+          "sustainability_initiatives": [],
+          "cultural_context_description": "The brand is central to the global shift toward remote work and digital nomadism, defining the modern standard for personal and collaborative productivity.",
+          "target_demographics_description": "Targeting tech-savvy adults and young professionals, ranging from students to corporate employees, who require robust tools for digital organization."
+        },
+        "popularity": 0.8713786848841348,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:mobile_app:business",
+            "name": "Business App",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:mobile_app",
+            "name": "Mobile App",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:mobile_app:education",
+            "name": "Education App",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:minimalist_typography",
+            "name": "Minimalist Typography",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:high_whitespace",
+            "name": "High Whitespace",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:monochrome_palette",
+            "name": "Monochrome Palette",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:modular_layout",
+            "name": "Modular Layout",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:iconography_focused",
+            "name": "Iconography-Focused",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:digital_minimalism",
+            "name": "Digital Minimalism",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:optimized_workflows",
+            "name": "Optimized Workflows",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:peak_productivity",
+            "name": "Peak Productivity",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:knowledge_mastery",
+            "name": "Knowledge Mastery",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:other",
+            "name": "Other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:corporate_brand",
+            "name": "Corporate Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2b",
+            "name": "B2B",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:subscription",
+            "name": "Subscription",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:asana",
+            "name": "Asana",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:monday_com",
+            "name": "Monday.com",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:obsidian",
+            "name": "Obsidian",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:evernote",
+            "name": "Evernote",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:confluence",
+            "name": "Confluence",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:connectivity",
+            "name": "Connectivity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:flexibility",
+            "name": "Flexibility",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:clarity",
+            "name": "Clarity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:efficiency",
+            "name": "Efficiency",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:collaboration",
+            "name": "Collaboration",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:productivity_culture",
+            "name": "Productivity Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:remote_work_movement",
+            "name": "Remote Work Movement",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:startup_ecosystem",
+            "name": "Startup Ecosystem",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:software_developers",
+            "name": "Software Developers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:creative_professionals",
+            "name": "Creative Professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:startup_teams",
+            "name": "Startup Teams",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:students",
+            "name": "Students",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:knowledge_workers",
+            "name": "Knowledge Workers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:functional",
+            "name": "Functional",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:clean",
+            "name": "Clean",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:empowering",
+            "name": "Empowering",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:intuitive",
+            "name": "Intuitive",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:technology",
+            "name": "Technology",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:software",
+            "name": "Software",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:productivity_tools",
+            "name": "Productivity Tools",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:collaboration_software",
+            "name": "Collaboration Software",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:tech_content_creators",
+            "name": "Tech Content Creators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:productivity_bloggers",
+            "name": "Productivity Bloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:startup_founders",
+            "name": "Startup Founders",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:digital_educators",
+            "name": "Digital Educators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:design_influencers",
+            "name": "Design Influencers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:productivity",
+            "name": "Productivity",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:software_development",
+            "name": "Software Development",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:digital_design",
+            "name": "Digital Design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:information_architecture",
+            "name": "Information Architecture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:professional_networking",
+            "name": "Professional Networking",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_kingdom",
+            "name": "United Kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:canada",
+            "name": "Canada",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:germany",
+            "name": "Germany",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:japan",
+            "name": "Japan",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:productivity",
+            "name": "Productivity",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:wiki",
+            "name": "Wiki",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:database",
+            "name": "Database",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:workspace",
+            "name": "Workspace",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:documentation",
+            "name": "Documentation",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:slack",
+            "name": "Slack",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:google_drive",
+            "name": "Google Drive",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:zapier",
+            "name": "Zapier",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:github",
+            "name": "GitHub",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:digital_nomadism",
+            "name": "Digital Nomadism",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:remote_work",
+            "name": "Remote Work",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:continuous_learning",
+            "name": "Continuous Learning",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:professional_productivity",
+            "name": "Professional Productivity",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:mainstream",
+            "name": "Mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:challenger",
+            "name": "Challenger",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:",
+            "name": "",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:note_taking",
+            "name": "Note Taking",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:project_management",
+            "name": "Project Management",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:document_databases",
+            "name": "Document Databases",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:wiki_creation",
+            "name": "Wiki Creation",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:task_tracking",
+            "name": "Task Tracking",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:integrated_calendars",
+            "name": "Integrated Calendars",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:airtable",
+            "name": "Airtable",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:clickup",
+            "name": "ClickUp",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:craft",
+            "name": "Craft",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:trello",
+            "name": "Trello",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:linear",
+            "name": "Linear",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:subsidiary:qloo:notion_calendar",
+            "name": "Notion Calendar",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "id": "urn:tag:subsidiary:qloo:cron",
+            "name": "Cron",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium",
+            "name": "Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8659049236100904,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "notion"
+            },
+            {
+              "id": "usenotion"
+            },
+            {
+              "id": "notionhq"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "Q60747998"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "notion"
+            },
+            {
+              "id": "notionhq"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Office Shoes",
+        "entity_id": "9D17929E-19CF-40F4-BF3C-2BB568D35022",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [
+            {
+              "value": "Office Shoes",
+              "languages": [
+                "en_au"
+              ]
+            },
+            {
+              "value": "Office Holdings",
+              "languages": [
+                "it",
+                "de",
+                "nl",
+                "es",
+                "es_ar",
+                "fr"
+              ]
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/9D17929E-19CF-40F4-BF3C-2BB568D35022-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": [
+            "fashion"
+          ],
+          "keywords": [
+            "Trainers",
+            "Footwear",
+            "Street Style",
+            "Sneakers",
+            "Retail"
+          ],
+          "owned_by": null,
+          "products": [
+            "footwear"
+          ],
+          "inception": "1981-00-00",
+          "lifestyle": [
+            "Urban Commuting",
+            "Socializing",
+            "Weekend Shopping",
+            "School Runs"
+          ],
+          "brand_type": [
+            "Retail Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Retail",
+            "Footwear"
+          ],
+          "subsidiary": [],
+          "core_values": [
+            "Style",
+            "Diversity",
+            "Accessibility",
+            "Trend-Awareness"
+          ],
+          "description": "Established in 1981, this footwear retailer has grown into a major destination for stylish, trend-conscious shoppers across the United Kingdom. It operates as a multi-brand platform, offering a wide array of athletic and casual footwear from both its own label and various global brands. The company caters to men, women, and children, emphasizing accessibility and current fashion trends. Its positioning as a mainstream retailer allows it to serve a diverse demographic, ranging from students to urban professionals.",
+          "key_markets": [
+            "United Kingdom"
+          ],
+          "founded_year": 1981,
+          "manufacturer": null,
+          "subsidiaries": [
+            "Offspring"
+          ],
+          "headquartered": "London",
+          "official_site": "https://www.office.co.uk",
+          "target_gender": [
+            "Male",
+            "Female",
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Approachable",
+            "Energetic",
+            "Trendy",
+            "Reliable"
+          ],
+          "personal_style": [
+            "Casual",
+            "Contemporary",
+            "Street-Chic"
+          ],
+          "similar_brands": [
+            "Asos",
+            "Urban Outfitters",
+            "Selfridges",
+            "Zara",
+            "AllSole"
+          ],
+          "ultimate_parent": "Truworths",
+          "immediate_parent": "Truworths",
+          "target_age_group": [
+            "Teens",
+            "Young Adults",
+            "Adults"
+          ],
+          "audience_identity": "People who prioritize versatility and trend-conscious style in their daily footwear choices, balancing a need for practical, everyday comfort with a desire for current, accessible fashion labels.",
+          "competitor_brands": [
+            "Schuh",
+            "Foot Locker",
+            "JD Sports",
+            "Size?",
+            "SoleTrader"
+          ],
+          "customer_segments": [
+            "Urban Professionals",
+            "Fashion-Conscious Students",
+            "Style-Oriented Families"
+          ],
+          "influencer_appeal": [
+            "Fashion Bloggers",
+            "Sneaker Enthusiasts",
+            "Street Style Influencers",
+            "Urban Trendsetters"
+          ],
+          "products_services": [
+            "Trainers",
+            "Boots",
+            "Sandals",
+            "Heels",
+            "Flats",
+            "Loafers",
+            "Slippers",
+            "School Shoes",
+            "Shoe Care",
+            "Socks"
+          ],
+          "short_description": "Office Shoes is a multi-brand online retailer specializing in sneakers, shoes, boots, and other footwear from global brands like Skechers, Cat, Converse, and Lacoste.",
+          "style_description": "The aesthetic is clean, modern, and focused on showcasing footwear trends with a straightforward, user-friendly presentation.",
+          "cultural_relevance": [
+            "Youth Culture",
+            "Streetwear Scene",
+            "Modern Retail Culture"
+          ],
+          "known_partnerships": [
+            "Adidas",
+            "New Balance",
+            "Nike",
+            "Dr. Martens",
+            "Converse"
+          ],
+          "market_positioning": "A trend-led, multi-brand footwear retailer positioned as a go-to source for accessible, contemporary shoes for a wide urban demographic.",
+          "short_descriptions": [
+            {
+              "value": "Una tienda minorista de calzado que ofrece una selección curada de zapatillas, zapatos y sandalias con estilo para hombres, mujeres y niños.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "A high-street footwear retailer offering a curated selection of stylish trainers, shoes, and sandals for men, women, and children.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Ein führender Schuhhändler mit einer kuratierten Auswahl an stylischen Turnschuhen, Schuhen und Sandalen für Damen, Herren und Kinder.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Un détaillant de chaussures proposant une sélection pointue de baskets, chaussures et sandales tendance pour hommes, femmes et enfants.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": "Truworths",
+          "price_range_usd_max": 200,
+          "price_range_usd_min": 30,
+          "target_income_level": [
+            "Low to Medium",
+            "Medium"
+          ],
+          "aesthetic_properties": [
+            "Minimalist",
+            "Modern",
+            "Clean",
+            "Dynamic"
+          ],
+          "category_description": "A multi-brand footwear retailer that curates a diverse range of athletic and lifestyle shoes, positioning itself as a central destination for trend-led and classic styles.",
+          "headquarters_address": "London, United Kingdom",
+          "interest_adjacencies": [
+            "Street Style",
+            "Casual Fashion",
+            "Pop Culture",
+            "Personal Styling",
+            "Footwear Collecting"
+          ],
+          "situational_contexts": "From the daily commute and casual social outings to weekend errands, these shoes are designed to bridge the gap between polished smart-casual looks and relaxed, everyday comfort.",
+          "aspirational_lifestyle": [
+            "City Living",
+            "Current Fashion Trends",
+            "Self-Expression Through Style"
+          ],
+          "sustainability_initiatives": [
+            "Student Discount Incentives"
+          ],
+          "cultural_context_description": "The brand is deeply embedded in the contemporary urban retail landscape, reflecting the fast-paced nature of modern street style and sneaker culture.",
+          "target_demographics_description": "The brand targets fashion-aware individuals across a broad age spectrum, ranging from teens to adults, seeking accessible, mid-market footwear options."
+        },
+        "popularity": 0.9494244884812938,
+        "tags": [
+          {
+            "id": "urn:tag:wikipedia_category:retail_companies_of_the_united_kingdom",
+            "name": "Retail companies of the United Kingdom",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:retail:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear:other",
+            "name": "Other",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:modern",
+            "name": "Modern",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:clean",
+            "name": "Clean",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:dynamic",
+            "name": "Dynamic",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:city_living",
+            "name": "City Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:current_fashion_trends",
+            "name": "Current Fashion Trends",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:self_expression_through_style",
+            "name": "Self-Expression Through Style",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:retail_brand",
+            "name": "Retail Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:drops",
+            "name": "Drops",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:schuh",
+            "name": "Schuh",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:foot_locker",
+            "name": "Foot Locker",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:jd_sports",
+            "name": "JD Sports",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:size_",
+            "name": "Size?",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:soletrader",
+            "name": "SoleTrader",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:style",
+            "name": "Style",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:diversity",
+            "name": "Diversity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:accessibility",
+            "name": "Accessibility",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:trend_awareness",
+            "name": "Trend-Awareness",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:youth_culture",
+            "name": "Youth Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:streetwear_scene",
+            "name": "Streetwear Scene",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:modern_retail_culture",
+            "name": "Modern Retail Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:urban_professionals",
+            "name": "Urban Professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:fashion_conscious_students",
+            "name": "Fashion-Conscious Students",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:style_oriented_families",
+            "name": "Style-Oriented Families",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:street_style",
+            "name": "Street Style",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:urban_fashion",
+            "name": "Urban Fashion",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:athletic_performance",
+            "name": "Athletic Performance",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:approachable",
+            "name": "Approachable",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:trendy",
+            "name": "Trendy",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:reliable",
+            "name": "Reliable",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+            "name": "Ready-to-Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:casual_wear",
+            "name": "Casual Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:athleisure",
+            "name": "Athleisure",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:retail",
+            "name": "Retail",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fashion_bloggers",
+            "name": "Fashion Bloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:sneaker_enthusiasts",
+            "name": "Sneaker Enthusiasts",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:street_style_influencers",
+            "name": "Street Style Influencers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:urban_trendsetters",
+            "name": "Urban Trendsetters",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:street_style",
+            "name": "Street Style",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:casual_fashion",
+            "name": "Casual Fashion",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:pop_culture",
+            "name": "Pop Culture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:personal_styling",
+            "name": "Personal Styling",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:footwear_collecting",
+            "name": "Footwear Collecting",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_kingdom",
+            "name": "United Kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:trainers",
+            "name": "Trainers",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:street_style",
+            "name": "Street Style",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:sneakers",
+            "name": "Sneakers",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:retail",
+            "name": "Retail",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:adidas",
+            "name": "Adidas",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:new_balance",
+            "name": "New Balance",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:nike",
+            "name": "Nike",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:dr_martens",
+            "name": "Dr. Martens",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:converse",
+            "name": "Converse",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:urban_commuting",
+            "name": "Urban Commuting",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:socializing",
+            "name": "Socializing",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:weekend_shopping",
+            "name": "Weekend Shopping",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:school_runs",
+            "name": "School Runs",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:mainstream",
+            "name": "Mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:leather",
+            "name": "Leather",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:suede",
+            "name": "Suede",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:canvas",
+            "name": "Canvas",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:synthetic_mesh",
+            "name": "Synthetic Mesh",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:casual",
+            "name": "Casual",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:contemporary",
+            "name": "Contemporary",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:street_chic",
+            "name": "Street-Chic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:trainers",
+            "name": "Trainers",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:boots",
+            "name": "Boots",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:sandals",
+            "name": "Sandals",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:heels",
+            "name": "Heels",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:loafers",
+            "name": "Loafers",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:slippers",
+            "name": "Slippers",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:trainers",
+            "name": "Trainers",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:boots",
+            "name": "Boots",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:sandals",
+            "name": "Sandals",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:heels",
+            "name": "Heels",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:flats",
+            "name": "Flats",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:loafers",
+            "name": "Loafers",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:slippers",
+            "name": "Slippers",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:school_shoes",
+            "name": "School Shoes",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:shoe_care",
+            "name": "Shoe Care",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:socks",
+            "name": "Socks",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:wholesale",
+            "name": "Wholesale",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:casual_trainers",
+            "name": "Casual Trainers",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:chelsea_boots",
+            "name": "Chelsea Boots",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:school_shoes",
+            "name": "School Shoes",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:asos",
+            "name": "Asos",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:urban_outfitters",
+            "name": "Urban Outfitters",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:selfridges",
+            "name": "Selfridges",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:zara",
+            "name": "Zara",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:allsole",
+            "name": "AllSole",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:subsidiary:qloo:offspring",
+            "name": "Offspring",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:student_discount_incentives",
+            "name": "Student Discount Incentives",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:teens",
+            "name": "Teens",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:male",
+            "name": "Male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:low_to_medium",
+            "name": "Low to Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium",
+            "name": "Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.864362601700323,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "officeshoes"
+            },
+            {
+              "id": "OfficeShoes"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "Officeshoes1"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "Q7079121"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "officeshoes"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Miss Selfridge",
+        "entity_id": "09708DAB-FF1D-40DB-AD86-638A56F1ADCA",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [
+            {
+              "value": "ミスセルフリッジ",
+              "languages": [
+                "ja"
+              ]
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/09708DAB-FF1D-40DB-AD86-638A56F1ADCA-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": [
+            "retail"
+          ],
+          "keywords": [
+            "High Street",
+            "Youth Fashion",
+            "Partywear",
+            "Trend-Led",
+            "Fast Fashion"
+          ],
+          "owned_by": null,
+          "products": [],
+          "inception": "1966-00-00",
+          "lifestyle": [
+            "Going Out",
+            "Socializing",
+            "School",
+            "Casual Daywear"
+          ],
+          "brand_type": [
+            "Product Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Retail",
+            "Clothing Store Chain"
+          ],
+          "subsidiary": [],
+          "core_values": [
+            "Accessibility",
+            "Trendiness",
+            "Inclusivity"
+          ],
+          "description": "Originally established in 1966, this brand became a staple of the British high street, known for providing trend-led fashion to a young female audience. Following the collapse of its former parent, the brand transitioned into an online-only label under a new corporate owner. Its identity remains centered on accessible, youthful, and social-focused apparel that captures current trends. It currently operates primarily as a digital-first retailer within a larger e-commerce ecosystem.",
+          "key_markets": [
+            "United Kingdom"
+          ],
+          "founded_year": 1966,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": "http://www.missselfridge.co.uk",
+          "target_gender": [
+            "Female"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Youthful",
+            "Playful",
+            "Trend-Driven",
+            "Energetic"
+          ],
+          "personal_style": [
+            "Girly",
+            "Trend-Driven",
+            "Casual"
+          ],
+          "similar_brands": [
+            "PrettyLittleThing",
+            "Boohoo",
+            "ASOS Design",
+            "H&M",
+            "Urban Outfitters"
+          ],
+          "ultimate_parent": "ASOS",
+          "immediate_parent": "ASOS",
+          "target_age_group": [
+            "Teens",
+            "Young Adults"
+          ],
+          "audience_identity": "Young women who enjoy experimenting with trend-led fashion and seek accessible, youthful styles for social outings and nights out.",
+          "competitor_brands": [
+            "Zara",
+            "Topshop",
+            "River Island",
+            "New Look",
+            "Bershka"
+          ],
+          "customer_segments": [
+            "Gen Z Shoppers",
+            "Young Urban Women"
+          ],
+          "influencer_appeal": [
+            "Lifestyle Influencers",
+            "Fashion Bloggers",
+            "Social Media Content Creators"
+          ],
+          "products_services": [
+            "Dresses",
+            "Tops",
+            "Skirts",
+            "Jeans",
+            "Outerwear",
+            "Accessories"
+          ],
+          "short_description": "Miss Selfridge is a UK-based fashion brand specializing in women's clothing, now owned and sold by ASOS.",
+          "style_description": "Characterized by a feminine, trend-responsive design language that prioritizes current silhouettes and patterns suitable for young consumers.",
+          "cultural_relevance": [
+            "Youth Culture",
+            "British High Street Culture"
+          ],
+          "known_partnerships": [
+            "ASOS"
+          ],
+          "market_positioning": "Accessible high-street fashion brand focused on fast-moving trends for a younger demographic.",
+          "short_descriptions": [
+            {
+              "value": "Une marque de mode axée sur les tendances proposant des vêtements jeunes et accessibles, conçus pour les jeunes femmes et les occasions sociales.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Eine trendorientierte Modemarke, die erschwingliche und jugendliche Kleidung für junge Frauen und gesellschaftliche Anlässe anbietet.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "A trend-focused fashion brand offering accessible, youthful apparel designed for young women and social occasions.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Una marca de moda centrada en las tendencias que ofrece ropa juvenil y accesible diseñada para mujeres jóvenes y ocasiones sociales.",
+              "languages": [
+                "es"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": "Asos",
+          "price_range_usd_max": 120,
+          "price_range_usd_min": 15,
+          "target_income_level": [
+            "Low to Medium",
+            "Medium"
+          ],
+          "aesthetic_properties": [
+            "Feminine",
+            "Trendy",
+            "Vibrant",
+            "Youthful"
+          ],
+          "category_description": "A high-street fashion label that serves as an accessible, trend-responsive retailer for young women's apparel.",
+          "headquarters_address": "London, United Kingdom",
+          "interest_adjacencies": [
+            "Pop Culture",
+            "Social Media Trends",
+            "Music Festivals",
+            "Beauty",
+            "Nightlife"
+          ],
+          "situational_contexts": "Designed for social gatherings, nights out with friends, parties, and everyday youthful expression.",
+          "aspirational_lifestyle": [
+            "Trendsetting",
+            "Party Lifestyle",
+            "Main Character Energy"
+          ],
+          "sustainability_initiatives": [],
+          "cultural_context_description": "Deeply embedded in British high-street youth culture and the fast-paced evolution of online retail trends.",
+          "target_demographics_description": "Primarily targets young women and teens across lower to middle-income brackets seeking affordable, trend-focused fashion."
+        },
+        "popularity": 0.9606634910410062,
+        "tags": [
+          {
+            "id": "urn:tag:wikipedia_category:companies_based_in_london",
+            "name": "Companies based in London",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:clothing_retailers_of_the_united_kingdom",
+            "name": "Clothing retailers of the United Kingdom",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:genre:brand:retail:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:2021_disestablishments_in_england",
+            "name": "2021 disestablishments in England",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:casual",
+            "name": "Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:retail_companies_disestablished_in_2021",
+            "name": "Retail companies disestablished in 2021",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:1966_establishments_in_england",
+            "name": "1966 establishments in England",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:retail_companies_established_in_1966",
+            "name": "Retail companies established in 1966",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:accessories:jewelry",
+            "name": "Jewelry",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:accessories:bags_and_leather",
+            "name": "Bags & Leather",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:2021_mergers_and_acquisitions",
+            "name": "2021 mergers and acquisitions",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:selfridges",
+            "name": "Selfridges",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:feminine",
+            "name": "Feminine",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:trendy",
+            "name": "Trendy",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:vibrant",
+            "name": "Vibrant",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:youthful",
+            "name": "Youthful",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:trendsetting",
+            "name": "Trendsetting",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:party_lifestyle",
+            "name": "Party Lifestyle",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:main_character_energy",
+            "name": "Main Character Energy",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:product_brand",
+            "name": "Product Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:continuous",
+            "name": "Continuous",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:zara",
+            "name": "Zara",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:topshop",
+            "name": "Topshop",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:river_island",
+            "name": "River Island",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:new_look",
+            "name": "New Look",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:bershka",
+            "name": "Bershka",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:accessibility",
+            "name": "Accessibility",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:trendiness",
+            "name": "Trendiness",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:inclusivity",
+            "name": "Inclusivity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:youth_culture",
+            "name": "Youth Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:british_high_street_culture",
+            "name": "British High Street Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:gen_z_shoppers",
+            "name": "Gen Z Shoppers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:young_urban_women",
+            "name": "Young Urban Women",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:street_style",
+            "name": "Street Style",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:pop_culture",
+            "name": "Pop Culture",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:vintage_fashion",
+            "name": "Vintage Fashion",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:youthful",
+            "name": "Youthful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:playful",
+            "name": "Playful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:trend_driven",
+            "name": "Trend-Driven",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:energetic",
+            "name": "Energetic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:fast_fashion",
+            "name": "Fast Fashion",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+            "name": "Ready-to-Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:casual_wear",
+            "name": "Casual Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:retail",
+            "name": "Retail",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:clothing_store_chain",
+            "name": "Clothing Store Chain",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:lifestyle_influencers",
+            "name": "Lifestyle Influencers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fashion_bloggers",
+            "name": "Fashion Bloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:social_media_content_creators",
+            "name": "Social Media Content Creators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:pop_culture",
+            "name": "Pop Culture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:social_media_trends",
+            "name": "Social Media Trends",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:music_festivals",
+            "name": "Music Festivals",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:beauty",
+            "name": "Beauty",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:nightlife",
+            "name": "Nightlife",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_kingdom",
+            "name": "United Kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:high_street",
+            "name": "High Street",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:youth_fashion",
+            "name": "Youth Fashion",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:partywear",
+            "name": "Partywear",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:trend_led",
+            "name": "Trend-Led",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:fast_fashion",
+            "name": "Fast Fashion",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:asos",
+            "name": "ASOS",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:going_out",
+            "name": "Going Out",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:socializing",
+            "name": "Socializing",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:school",
+            "name": "School",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:casual_daywear",
+            "name": "Casual Daywear",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:mainstream",
+            "name": "Mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:polyester",
+            "name": "Polyester",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:cotton",
+            "name": "Cotton",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:viscose",
+            "name": "Viscose",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:girly",
+            "name": "Girly",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:trend_driven",
+            "name": "Trend-Driven",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:casual",
+            "name": "Casual",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:dresses",
+            "name": "Dresses",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:outerwear",
+            "name": "Outerwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:dresses",
+            "name": "Dresses",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:tops",
+            "name": "Tops",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:skirts",
+            "name": "Skirts",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:jeans",
+            "name": "Jeans",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:outerwear",
+            "name": "Outerwear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:online_marketplace",
+            "name": "Online Marketplace",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:floral_tea_dresses",
+            "name": "Floral Tea Dresses",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:party_dresses",
+            "name": "Party Dresses",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:prettylittlething",
+            "name": "PrettyLittleThing",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:boohoo",
+            "name": "Boohoo",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:asos_design",
+            "name": "ASOS Design",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:h_m",
+            "name": "H&M",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:urban_outfitters",
+            "name": "Urban Outfitters",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:teens",
+            "name": "Teens",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:low_to_medium",
+            "name": "Low to Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium",
+            "name": "Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8639982909421701,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "MissSelfridge"
+            },
+            {
+              "id": "missselfridge"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "missselfridge"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "Q6877374"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "missselfridge"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Try Tuesday",
+        "entity_id": "75F51E30-78D7-4CF4-BC08-2797B5085E97",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [],
+          "image": {
+            "url": "https://images.qloo.com/i/75F51E30-78D7-4CF4-BC08-2797B5085E97-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Styling",
+            "Wardrobe",
+            "Fashion Advice",
+            "Personal Shopper"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Remote Working",
+            "Busy Daily Schedules",
+            "Online Shopping",
+            "Casual Socializing"
+          ],
+          "brand_type": [
+            "Service Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Professional Services",
+            "Personal Styling"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Accessibility",
+            "Personalization",
+            "Confidence"
+          ],
+          "description": "Try Tuesday is a specialized styling service operating under the M&S umbrella, designed to bring personal shopping expertise to a digital platform. It focuses on helping customers curate cohesive outfits and discover new styles from the parent retailer's collection. By offering professional fashion guidance, the brand aims to build customer confidence and streamline the online shopping experience. It serves as a modern tool for individuals seeking a personalized approach to their daily wardrobe needs.",
+          "key_markets": [
+            "United Kingdom"
+          ],
+          "founded_year": 2022,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Female"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Encouraging",
+            "Helpful",
+            "Approachable",
+            "Inspiring"
+          ],
+          "personal_style": null,
+          "similar_brands": [
+            "Lookiero",
+            "Personal Shopping Services"
+          ],
+          "ultimate_parent": "Marks and Spencer Group plc",
+          "immediate_parent": "Marks and Spencer Group plc",
+          "target_age_group": [
+            "Young Adults",
+            "Adults",
+            "Middle-Aged"
+          ],
+          "audience_identity": "People who feel overwhelmed by wardrobe choices and desire accessible professional guidance to elevate their personal style without the friction of traditional luxury shopping.",
+          "competitor_brands": [
+            "Stitch Fix",
+            "Thread"
+          ],
+          "customer_segments": [
+            "Busy Professionals",
+            "Fashion-Conscious Shoppers",
+            "Online Retail Users"
+          ],
+          "influencer_appeal": [
+            "Lifestyle Vloggers",
+            "Fashion Bloggers",
+            "Personal Stylists",
+            "Career Coaches",
+            "Workplace Consultants"
+          ],
+          "products_services": [
+            "Personal Styling Sessions",
+            "Wardrobe Consultation",
+            "Style Inspiration Guides",
+            "Virtual Shopping Assistance"
+          ],
+          "short_description": "Try Tuesday is a personal stylist and style inspiration service offered by M&S, designed to help customers with fashion choices online.",
+          "style_description": "The visual identity is clean, modern, and accessible, focusing on clear, helpful imagery that emphasizes outfit pairings and ease of use.",
+          "cultural_relevance": [
+            "Sustainable Fashion",
+            "Smart Shopping"
+          ],
+          "known_partnerships": [
+            "Marks and Spencer"
+          ],
+          "market_positioning": "Accessible digital styling service integrated with mainstream retail offerings.",
+          "short_descriptions": [
+            {
+              "value": "A personalized digital styling service providing curated fashion inspiration and expert wardrobe advice.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Un service de stylisme numérique personnalisé offrant des inspirations mode et des conseils d'experts pour renouveler sa garde-robe.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Ein digitaler, persönlicher Styling-Service, der kuratierte Mode-Inspirationen und fachkundige Beratung für die Garderobe bietet.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Un servicio digital de estilismo personalizado que ofrece inspiración de moda experta y asesoramiento para renovar el vestuario.",
+              "languages": [
+                "es"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": null,
+          "price_range_usd_min": null,
+          "target_income_level": [
+            "Medium"
+          ],
+          "aesthetic_properties": [
+            "Minimalist Design",
+            "Clean Layouts",
+            "Soft Color Palette",
+            "Modern Typography"
+          ],
+          "category_description": "A digital styling service that acts as a bridge between consumer fashion retail and personalized professional curation, helping users navigate brand collections.",
+          "headquarters_address": "London, United Kingdom",
+          "interest_adjacencies": [
+            "Personal Style",
+            "Fashion Trends",
+            "Wardrobe Organization",
+            "Sustainable Living",
+            "Digital Styling"
+          ],
+          "situational_contexts": "Engaged during morning routines, quiet moments of online browsing, or when preparing for a seasonal wardrobe refresh or a special upcoming event.",
+          "aspirational_lifestyle": [
+            "Effortless Style",
+            "Curated Living",
+            "Professional Presentation"
+          ],
+          "sustainability_initiatives": [
+            "Promoting Conscious Consumption"
+          ],
+          "cultural_context_description": "The brand fits into the movement of digitizing traditionally in-person services to enhance convenience and confidence in consumer fashion choices.",
+          "target_demographics_description": "Targeting female consumers across various age groups who value convenience and professional fashion curation within a mid-market income bracket."
+        },
+        "popularity": 0.7429777423674798,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:professional_services",
+            "name": "Professional Services",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:minimalist_design",
+            "name": "Minimalist Design",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:clean_layouts",
+            "name": "Clean Layouts",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:soft_color_palette",
+            "name": "Soft Color Palette",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:modern_typography",
+            "name": "Modern Typography",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:effortless_style",
+            "name": "Effortless Style",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:curated_living",
+            "name": "Curated Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:professional_presentation",
+            "name": "Professional Presentation",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:other",
+            "name": "Other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:service_brand",
+            "name": "Service Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:stitch_fix",
+            "name": "Stitch Fix",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:thread",
+            "name": "Thread",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:accessibility",
+            "name": "Accessibility",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:personalization",
+            "name": "Personalization",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:confidence",
+            "name": "Confidence",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:sustainable_fashion",
+            "name": "Sustainable Fashion",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:smart_shopping",
+            "name": "Smart Shopping",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:busy_professionals",
+            "name": "Busy Professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:fashion_conscious_shoppers",
+            "name": "Fashion-Conscious Shoppers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:online_retail_users",
+            "name": "Online Retail Users",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:encouraging",
+            "name": "Encouraging",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:helpful",
+            "name": "Helpful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:approachable",
+            "name": "Approachable",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:inspiring",
+            "name": "Inspiring",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:professional_services",
+            "name": "Professional Services",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:personal_styling",
+            "name": "Personal Styling",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:lifestyle_vloggers",
+            "name": "Lifestyle Vloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fashion_bloggers",
+            "name": "Fashion Bloggers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:personal_stylists",
+            "name": "Personal Stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:career_coaches",
+            "name": "Career Coaches",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:workplace_consultants",
+            "name": "Workplace Consultants",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:personal_style",
+            "name": "Personal Style",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:fashion_trends",
+            "name": "Fashion Trends",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:wardrobe_organization",
+            "name": "Wardrobe Organization",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:sustainable_living",
+            "name": "Sustainable Living",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:digital_styling",
+            "name": "Digital Styling",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_kingdom",
+            "name": "United Kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:styling",
+            "name": "Styling",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:wardrobe",
+            "name": "Wardrobe",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:fashion_advice",
+            "name": "Fashion Advice",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:personal_shopper",
+            "name": "Personal Shopper",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:marks_and_spencer",
+            "name": "Marks and Spencer",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:remote_working",
+            "name": "Remote Working",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:busy_daily_schedules",
+            "name": "Busy Daily Schedules",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:online_shopping",
+            "name": "Online Shopping",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:casual_socializing",
+            "name": "Casual Socializing",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:mainstream",
+            "name": "Mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:personal_styling_sessions",
+            "name": "Personal Styling Sessions",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:wardrobe_consultation",
+            "name": "Wardrobe Consultation",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:style_inspiration_guides",
+            "name": "Style Inspiration Guides",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:virtual_shopping_assistance",
+            "name": "Virtual Shopping Assistance",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:lookiero",
+            "name": "Lookiero",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:personal_shopping_services",
+            "name": "Personal Shopping Services",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:promoting_conscious_consumption",
+            "name": "Promoting Conscious Consumption",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:middle_aged",
+            "name": "Middle-Aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium",
+            "name": "Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8630879801682723,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "instagram": [
+            {
+              "id": "try_tuesday"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "duration": 17,
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "parents": [
+          {
+            "type": "urn:entity:artist"
+          },
+          {
+            "type": "urn:entity:album"
+          }
+        ],
+        "type": "urn:tag:genre:music",
+        "id": "urn:tag:genre:music:analog",
+        "name": "Analog",
+        "popularity": 0.96846974,
+        "properties": {
+          "description": "Analog music is not a genre per se, but a descriptor for how the recording was made. Analog equipment records physical waveforms of sound directly onto a physical medium, like a vinyl disc or magnetic tape.",
+          "history": "Analog production in music began in the early 20th century with phonograph and tape recording technologies. Analog sound was the predominant method of audio recording until the development and widespread adoption of digital technologies in the late 20th century.",
+          "melody": "Variable",
+          "performance": "Variable",
+          "rhythm": "Variable",
+          "tempo": "Variable",
+          "vocals": "Variable"
+        },
+        "tags": []
+      }
+    ]
+  }
+}

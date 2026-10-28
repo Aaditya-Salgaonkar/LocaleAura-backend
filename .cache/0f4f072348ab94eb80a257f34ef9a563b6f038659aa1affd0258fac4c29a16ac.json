@@ -1,0 +1,21 @@
+{
+  "duration": 16,
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "parents": [
+          {
+            "type": "urn:entity:place"
+          }
+        ],
+        "type": "urn:tag:setting:qloo",
+        "id": "urn:tag:setting:qloo:tropical",
+        "name": "Tropical",
+        "popularity": 0.9981009,
+        "properties": {},
+        "tags": []
+      }
+    ]
+  }
+}

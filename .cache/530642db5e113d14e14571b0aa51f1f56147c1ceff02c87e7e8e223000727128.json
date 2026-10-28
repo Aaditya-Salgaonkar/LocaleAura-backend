@@ -1,0 +1,185 @@
+{
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "tag_id": "urn:tag:genre:music:indie",
+        "name": " indie",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "subtype": "urn:tag:genre:music",
+        "tag_value": "urn:tag:genre:music:indie",
+        "popularity": 0.9997377458838513,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:cost_description:place:inexpensive",
+        "name": "Inexpensive",
+        "types": [
+          "urn:entity:place"
+        ],
+        "subtype": "urn:tag:cost_description:place",
+        "tag_value": "urn:tag:cost_description:place:inexpensive",
+        "popularity": 0.9999875117087548,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:hotel_rating:place:four_star",
+        "name": "Four Star",
+        "types": [
+          "urn:entity:place"
+        ],
+        "subtype": "urn:tag:hotel_rating:place",
+        "tag_value": "urn:tag:hotel_rating:place:four_star",
+        "popularity": 0.9998966377907004,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:inclusivity:place:identifies_as_women_owned",
+        "name": "Identifies as women-owned",
+        "types": [
+          "urn:entity:place"
+        ],
+        "subtype": "urn:tag:inclusivity:place",
+        "tag_value": "urn:tag:inclusivity:place:identifies_as_women_owned",
+        "popularity": 0.9999950518091293,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:genre:place:restaurant:bar",
+        "name": "Bar",
+        "types": [
+          "urn:entity:place"
+        ],
+        "subtype": "urn:tag:genre:place",
+        "tag_value": "urn:tag:genre:place:restaurant:bar",
+        "popularity": 0.9999871189951937,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:style:qloo:narratively_focused",
+        "name": "Narratively Focused",
+        "types": [
+          "urn:entity:tv_show",
+          "urn:entity:podcast",
+          "urn:entity:writer",
+          "urn:entity:director",
+          "urn:entity:podcaster",
+          "urn:entity:tv_episode",
+          "urn:entity:actor",
+          "urn:entity:movie"
+        ],
+        "subtype": "urn:tag:style:qloo",
+        "tag_value": "urn:tag:style:qloo:narratively_focused",
+        "popularity": 0.9832374297445787,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:credit_card:place:discover",
+        "name": "Discover",
+        "types": [
+          "urn:entity:place"
+        ],
+        "subtype": "urn:tag:credit_card:place",
+        "tag_value": "urn:tag:credit_card:place:discover",
+        "popularity": 0.9999869619097692,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:specialty_dish:place:esquites",
+        "name": "Esquites",
+        "types": [
+          "urn:entity:place"
+        ],
+        "subtype": "urn:tag:specialty_dish:place",
+        "tag_value": "urn:tag:specialty_dish:place:esquites",
+        "popularity": 0.975999153623733,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:keyword:qloo:lies",
+        "name": "Lies",
+        "types": [
+          "urn:entity:tv_show",
+          "urn:entity:podcast",
+          "urn:entity:writer",
+          "urn:entity:director",
+          "urn:entity:tv_episode",
+          "urn:entity:author",
+          "urn:entity:book",
+          "urn:entity:podcaster",
+          "urn:entity:actor",
+          "urn:entity:movie"
+        ],
+        "subtype": "urn:tag:keyword:qloo",
+        "tag_value": "urn:tag:keyword:qloo:lies",
+        "popularity": 0.9962319067039044,
+        "query": {
+          "affinity": 0.9997470915528579
+        }
+      },
+      {
+        "tag_id": "urn:tag:plot:qloo:episodic",
+        "name": " episodic",
+        "types": [
+          "urn:entity:movie",
+          "urn:entity:tv_show"
+        ],
+        "subtype": "urn:tag:plot:qloo",
+        "tag_value": "urn:tag:plot:qloo:episodic",
+        "popularity": 0.9989422652943475,
+        "query": {
+          "affinity": 0.9995460843805246
+        }
+      },
+      {
+        "tag_id": "urn:tag:genre:music:indie_rock",
+        "name": " indie rock",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "subtype": "urn:tag:genre:music",
+        "tag_value": "urn:tag:genre:music:indie_rock",
+        "popularity": 0.999544452269044,
+        "query": {
+          "affinity": 0.9995242626070409
+        }
+      },
+      {
+        "tag_id": "urn:tag:keyword:media:female_protagonist",
+        "name": "female protagonist",
+        "types": [
+          "urn:entity:tv_show",
+          "urn:entity:writer",
+          "urn:entity:director",
+          "urn:entity:tv_episode",
+          "urn:entity:actor",
+          "urn:entity:movie"
+        ],
+        "subtype": "urn:tag:keyword:media",
+        "tag_value": "urn:tag:keyword:media:female_protagonist",
+        "popularity": 0.9984291361399291,
+        "query": {
+          "affinity": 0.9992743121638548
+        }
+      }
+    ]
+  }
+}

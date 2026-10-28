@@ -1,0 +1,178 @@
+{
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "tag_id": "urn:tag:specialty_dish:place:pastel_queso",
+        "name": "Pastel Queso",
+        "types": [
+          "urn:entity:place"
+        ],
+        "subtype": "urn:tag:specialty_dish:place",
+        "tag_value": "urn:tag:specialty_dish:place:pastel_queso",
+        "popularity": 0.6144991731808683,
+        "query": {
+          "affinity": 1
+        }
+      },
+      {
+        "tag_id": "urn:tag:genre:music:house",
+        "name": " house",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "subtype": "urn:tag:genre:music",
+        "tag_value": "urn:tag:genre:music:house",
+        "popularity": 0.9995717851329013,
+        "query": {
+          "affinity": 0.9995766299745978
+        }
+      },
+      {
+        "tag_id": "urn:tag:keyword:media:london_england",
+        "name": "london england",
+        "types": [
+          "urn:entity:tv_show",
+          "urn:entity:writer",
+          "urn:entity:director",
+          "urn:entity:tv_episode",
+          "urn:entity:actor",
+          "urn:entity:movie"
+        ],
+        "subtype": "urn:tag:keyword:media",
+        "tag_value": "urn:tag:keyword:media:london_england",
+        "popularity": 0.9980459855612166,
+        "query": {
+          "affinity": 0.9993927167789807
+        }
+      },
+      {
+        "tag_id": "urn:tag:genre:music:techno",
+        "name": " Techno",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "subtype": "urn:tag:genre:music",
+        "tag_value": "urn:tag:genre:music:techno",
+        "popularity": 0.9995882791024704,
+        "query": {
+          "affinity": 0.9991532599491956
+        }
+      },
+      {
+        "tag_id": "urn:tag:music:qloo:hypnotic",
+        "name": "Hypnotic",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "subtype": "urn:tag:music:qloo",
+        "tag_value": "urn:tag:music:qloo:hypnotic",
+        "popularity": 0.9983037130438867,
+        "query": {
+          "affinity": 0.9988126872844462
+        }
+      },
+      {
+        "tag_id": "urn:tag:style:qloo:driving",
+        "name": "Driving",
+        "types": [
+          "urn:entity:artist",
+          "urn:entity:book",
+          "urn:entity:podcast"
+        ],
+        "subtype": "urn:tag:style:qloo",
+        "tag_value": "urn:tag:style:qloo:driving",
+        "popularity": 0.99316152167394,
+        "query": {
+          "affinity": 0.9987015474999468
+        }
+      },
+      {
+        "tag_id": "urn:tag:occupation:qloo:singer_songwriter",
+        "name": "Singer-Songwriter",
+        "types": [
+          "urn:entity:person"
+        ],
+        "subtype": "urn:tag:occupation:qloo",
+        "tag_value": "urn:tag:occupation:qloo:singer_songwriter",
+        "popularity": 0.9956362454510025,
+        "query": {
+          "affinity": 0.9986320376775908
+        }
+      },
+      {
+        "tag_id": "urn:tag:instrument:qloo:drum_machine",
+        "name": "Drum Machine",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "subtype": "urn:tag:instrument:qloo",
+        "tag_value": "urn:tag:instrument:qloo:drum_machine",
+        "popularity": 0.9996316346796235,
+        "query": {
+          "affinity": 0.9985428363262332
+        }
+      },
+      {
+        "tag_id": "urn:tag:music:qloo:groovy",
+        "name": "Groovy",
+        "types": [
+          "urn:entity:artist"
+        ],
+        "subtype": "urn:tag:music:qloo",
+        "tag_value": "urn:tag:music:qloo:groovy",
+        "popularity": 0.9993228047351203,
+        "query": {
+          "affinity": 0.9984977949283351
+        }
+      },
+      {
+        "tag_id": "urn:tag:subgenre:qloo:observational",
+        "name": "Observational",
+        "types": [
+          "urn:entity:artist",
+          "urn:entity:movie",
+          "urn:entity:tv_show",
+          "urn:entity:podcast",
+          "urn:entity:videogame"
+        ],
+        "subtype": "urn:tag:subgenre:qloo",
+        "tag_value": "urn:tag:subgenre:qloo:observational",
+        "popularity": 0.995390171133574,
+        "query": {
+          "affinity": 0.9983560503589637
+        }
+      },
+      {
+        "tag_id": "urn:tag:archetype:qloo:the_romantic_heroine",
+        "name": "The Romantic Heroine",
+        "types": [
+          "urn:entity:movie",
+          "urn:entity:tv_show",
+          "urn:entity:podcast"
+        ],
+        "subtype": "urn:tag:archetype:qloo",
+        "tag_value": "urn:tag:archetype:qloo:the_romantic_heroine",
+        "popularity": 0.9844842013690623,
+        "query": {
+          "affinity": 0.998345635021634
+        }
+      },
+      {
+        "tag_id": "urn:tag:audience:qloo:urban_dwellers",
+        "name": "Urban Dwellers",
+        "types": [
+          "urn:entity:book",
+          "urn:entity:movie",
+          "urn:entity:tv_show"
+        ],
+        "subtype": "urn:tag:audience:qloo",
+        "tag_value": "urn:tag:audience:qloo:urban_dwellers",
+        "popularity": 0.9750169770072493,
+        "query": {
+          "affinity": 0.9983318409851951
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,887 @@
+{
+  "results": [
+    {
+      "name": "Le Labo",
+      "entity_id": "AC73CA10-697F-432F-BB02-10E7D0A5C7D1",
+      "types": [
+        "urn:entity:place"
+      ],
+      "properties": {
+        "akas": [
+          {
+            "language": "",
+            "value": "Le Labo, 19 Rue Léon Blum 44000 Nantes France"
+          }
+        ],
+        "address": "19 Rue Léon Blum 44000 Nantes France",
+        "business_rating": 4.6,
+        "description": "Warm, colorful rum-focused bar in Nantes with a large global rum selection, creative cocktails, and an outdoor terrace.",
+        "external": {
+          "google_place": {
+            "id": "367b3b8d1386c710",
+            "place_id": "ChIJRSYq4qPuBUgREMeGE407ezY"
+          }
+        },
+        "geocode": {
+          "name": "Centre Ville",
+          "city": "Nantes",
+          "admin1_region": "Pays de la Loire",
+          "admin2_region": "Loire-Atlantique",
+          "country_code": "FR",
+          "country": "France"
+        },
+        "hours": {
+          "sunday": [
+            {
+              "closed": true
+            }
+          ],
+          "monday": [
+            {
+              "closed": true
+            }
+          ],
+          "tuesday": [
+            {
+              "closed": true
+            }
+          ],
+          "wednesday": [
+            {
+              "closed": false,
+              "opens": "T18:00:00",
+              "closes": "T01:00:00"
+            }
+          ],
+          "thursday": [
+            {
+              "closed": false,
+              "opens": "T18:00:00",
+              "closes": "T02:00:00"
+            }
+          ],
+          "friday": [
+            {
+              "closed": false,
+              "opens": "T18:00:00",
+              "closes": "T02:00:00"
+            }
+          ],
+          "saturday": [
+            {
+              "closed": false,
+              "opens": "T18:00:00",
+              "closes": "T02:00:00"
+            }
+          ]
+        },
+        "image": {
+          "url": "https://images.qloo.com/i/AC73CA10-697F-432F-BB02-10E7D0A5C7D1-420x-auto.jpg"
+        },
+        "is_closed": false,
+        "neighborhood": "Centre Ville",
+        "phone": "+33652602591",
+        "price_level": 1,
+        "price_range": {
+          "currency": "usd"
+        },
+        "website": "http://www.lelabo-nantes.com/",
+        "primary_genre": {
+          "id": "urn:tag:genre:place:restaurant:cocktail_bar",
+          "name": "Cocktail bar",
+          "type": "urn:tag:genre:place",
+          "akas": [
+            {
+              "language": "el",
+              "value": "\"Κοκτέιλ μπαρ\""
+            },
+            {
+              "language": "th",
+              "value": "\"ค็อกเทลบาร์\""
+            },
+            {
+              "language": "ms",
+              "value": "\"Bar koktel\""
+            },
+            {
+              "language": "ca",
+              "value": "\"Cocteleria\""
+            },
+            {
+              "language": "it",
+              "value": "\"Cocktail bar\""
+            },
+            {
+              "language": "tl",
+              "value": "\"Cocktail bar\""
+            },
+            {
+              "language": "hi",
+              "value": "\"कॉकटेल बार\""
+            },
+            {
+              "language": "ro",
+              "value": "\"Bar de cocktailuri\""
+            },
+            {
+              "language": "es_la",
+              "value": "\"Bar de cocteles\""
+            },
+            {
+              "language": "pt_pt",
+              "value": "\"Bar de cocktails\""
+            },
+            {
+              "language": "zh",
+              "value": "\"鸡尾酒吧\""
+            },
+            {
+              "language": "es",
+              "value": "\"Coctelería\""
+            },
+            {
+              "language": "es_ar",
+              "value": "\"Coctelería\""
+            },
+            {
+              "language": "id",
+              "value": "\"Bar koktail\""
+            },
+            {
+              "language": "he",
+              "value": "\"בר קוקטיילים\""
+            },
+            {
+              "language": "tr",
+              "value": "\"Kokteyl barı\""
+            },
+            {
+              "language": "az",
+              "value": "\"Kokteyl barı\""
+            },
+            {
+              "language": "hu",
+              "value": "\"Koktélbár\""
+            },
+            {
+              "language": "ta",
+              "value": "\"காக்டெய்ல் பார்\""
+            },
+            {
+              "language": "ja",
+              "value": "\"カクテルバー\""
+            },
+            {
+              "language": "ko",
+              "value": "\"칵테일 바\""
+            },
+            {
+              "language": "sl",
+              "value": "\"Koktajl bar\""
+            },
+            {
+              "language": "my",
+              "value": "\"ကော့တေးဘား\""
+            },
+            {
+              "language": "af",
+              "value": "\"Skemerkelkroeg\""
+            },
+            {
+              "language": "vi",
+              "value": "\"Quán bar cocktail\""
+            },
+            {
+              "language": "bn",
+              "value": "\"ককটেল বার\""
+            },
+            {
+              "language": "et",
+              "value": "\"Kokteilibaar\""
+            },
+            {
+              "language": "sq",
+              "value": "\"Bar koktejlesh\""
+            },
+            {
+              "language": "zh_tw",
+              "value": "\"雞尾酒吧\""
+            },
+            {
+              "language": "eu",
+              "value": "\"Koktel-taberna\""
+            },
+            {
+              "language": "ka",
+              "value": "\"კოქტეილ-ბარი\""
+            },
+            {
+              "language": "ar",
+              "value": "\"بار كوكتيل\""
+            },
+            {
+              "language": "kk",
+              "value": "\"Коктейль-бар\""
+            },
+            {
+              "language": "ru",
+              "value": "\"Коктейль-бар\""
+            },
+            {
+              "language": "uk",
+              "value": "\"Коктейль-бар\""
+            },
+            {
+              "language": "sv",
+              "value": "\"Cocktailbar\""
+            },
+            {
+              "language": "de",
+              "value": "\"Cocktailbar\""
+            },
+            {
+              "language": "nl",
+              "value": "\"Cocktailbar\""
+            },
+            {
+              "language": "nb",
+              "value": "\"Cocktailbar\""
+            },
+            {
+              "language": "da",
+              "value": "\"Cocktailbar\""
+            },
+            {
+              "language": "lv",
+              "value": "\"Kokteiļbārs\""
+            },
+            {
+              "language": "sk",
+              "value": "\"Koktailový bar\""
+            },
+            {
+              "language": "sw",
+              "value": "\"Ba ya koktel\""
+            },
+            {
+              "language": "fi",
+              "value": "\"Cocktailbaari\""
+            },
+            {
+              "language": "cs",
+              "value": "\"Koktejlový bar\""
+            },
+            {
+              "language": "pt",
+              "value": "\"Bar de coquetéis\""
+            },
+            {
+              "language": "bg",
+              "value": "\"Коктейл бар\""
+            },
+            {
+              "language": "te",
+              "value": "\"కాక్టెయిల్ బార్\""
+            },
+            {
+              "language": "km",
+              "value": "\"បារស្រាក្រឡុក\""
+            },
+            {
+              "language": "en_gb",
+              "value": "\"Cocktail Bar\""
+            },
+            {
+              "language": "lt",
+              "value": "\"Kokteilių baras\""
+            },
+            {
+              "language": "hr",
+              "value": "\"Koktel bar\""
+            },
+            {
+              "language": "bs",
+              "value": "\"Koktel bar\""
+            },
+            {
+              "language": "pl",
+              "value": "\"Koktajlbar\""
+            },
+            {
+              "language": "lo",
+              "value": "\"ຄັອກເທວບາ\""
+            },
+            {
+              "language": "gl",
+              "value": "\"Cóctel bar\""
+            },
+            {
+              "language": "sr",
+              "value": "\"Коктел бар\""
+            },
+            {
+              "language": "mk",
+              "value": "\"Коктел бар\""
+            },
+            {
+              "language": "fr_ca",
+              "value": "\"Bar à cocktails\""
+            },
+            {
+              "language": "fr",
+              "value": "\"Bar à cocktails\""
+            }
+          ]
+        }
+      },
+      "popularity": 0.8650864139198343,
+      "disambiguation": "19 Rue Léon Blum 44000 Nantes France",
+      "location": {
+        "lat": 47.219325999999995,
+        "lon": -1.5550665
+      },
+      "tags": [
+        {
+          "name": "Seating",
+          "tag_id": "urn:tag:dining_options:place:seating",
+          "type": "urn:tag:dining_options:place",
+          "value": "urn:tag:dining_options:place:seating"
+        },
+        {
+          "name": "Street side",
+          "tag_id": "urn:tag:setting:qloo:street_side",
+          "type": "urn:tag:setting:qloo",
+          "value": "urn:tag:setting:qloo:street_side"
+        },
+        {
+          "name": "Mastercard",
+          "tag_id": "urn:tag:credit_card:place:mastercard",
+          "type": "urn:tag:credit_card:place",
+          "value": "urn:tag:credit_card:place:mastercard"
+        },
+        {
+          "name": "Delivery",
+          "tag_id": "urn:tag:service_type:qloo:delivery",
+          "type": "urn:tag:service_type:qloo",
+          "value": "urn:tag:service_type:qloo:delivery"
+        },
+        {
+          "name": "Spirits",
+          "tag_id": "urn:tag:beverage_offering:qloo:spirits",
+          "type": "urn:tag:beverage_offering:qloo",
+          "value": "urn:tag:beverage_offering:qloo:spirits"
+        },
+        {
+          "name": "Cocktail bar",
+          "tag_id": "urn:tag:category:place:cocktail_bar",
+          "type": "urn:tag:category:place",
+          "value": "urn:tag:category:place:cocktail_bar"
+        },
+        {
+          "name": "Colorful",
+          "tag_id": "urn:tag:decor:qloo:colorful",
+          "type": "urn:tag:decor:qloo",
+          "value": "urn:tag:decor:qloo:colorful"
+        },
+        {
+          "name": "Nightlife",
+          "tag_id": "urn:tag:activity_type:qloo:nightlife",
+          "type": "urn:tag:activity_type:qloo",
+          "value": "urn:tag:activity_type:qloo:nightlife"
+        },
+        {
+          "name": "Nightlife culture",
+          "tag_id": "urn:tag:interests:qloo:nightlife_culture",
+          "type": "urn:tag:interests:qloo",
+          "value": "urn:tag:interests:qloo:nightlife_culture"
+        },
+        {
+          "name": "25 29",
+          "tag_id": "urn:tag:age_range:qloo:25_29",
+          "type": "urn:tag:age_range:qloo",
+          "value": "urn:tag:age_range:qloo:25_29"
+        },
+        {
+          "name": "Walkable",
+          "tag_id": "urn:tag:neighborhood_characteristic:qloo:walkable",
+          "type": "urn:tag:neighborhood_characteristic:qloo",
+          "value": "urn:tag:neighborhood_characteristic:qloo:walkable"
+        },
+        {
+          "name": "Cocktail tasting",
+          "tag_id": "urn:tag:activity_type:qloo:cocktail_tasting",
+          "type": "urn:tag:activity_type:qloo",
+          "value": "urn:tag:activity_type:qloo:cocktail_tasting"
+        },
+        {
+          "name": "Full bar",
+          "tag_id": "urn:tag:amenity:qloo:full_bar",
+          "type": "urn:tag:amenity:qloo",
+          "value": "urn:tag:amenity:qloo:full_bar"
+        },
+        {
+          "name": "Moderate",
+          "tag_id": "urn:tag:noise_level:qloo:moderate",
+          "type": "urn:tag:noise_level:qloo",
+          "value": "urn:tag:noise_level:qloo:moderate"
+        },
+        {
+          "name": "18 24",
+          "tag_id": "urn:tag:age_range:qloo:18_24",
+          "type": "urn:tag:age_range:qloo",
+          "value": "urn:tag:age_range:qloo:18_24"
+        },
+        {
+          "name": "Groups of friends",
+          "tag_id": "urn:tag:customer_identity:qloo:groups_of_friends",
+          "type": "urn:tag:customer_identity:qloo",
+          "value": "urn:tag:customer_identity:qloo:groups_of_friends"
+        },
+        {
+          "name": "Outdoor terrace",
+          "tag_id": "urn:tag:amenity:qloo:outdoor_terrace",
+          "type": "urn:tag:amenity:qloo",
+          "value": "urn:tag:amenity:qloo:outdoor_terrace"
+        },
+        {
+          "name": "Cocktail enthusiasts",
+          "tag_id": "urn:tag:customer_identity:qloo:cocktail_enthusiasts",
+          "type": "urn:tag:customer_identity:qloo",
+          "value": "urn:tag:customer_identity:qloo:cocktail_enthusiasts"
+        },
+        {
+          "name": "Debit cards",
+          "tag_id": "urn:tag:payments:place:debit_cards",
+          "type": "urn:tag:payments:place",
+          "value": "urn:tag:payments:place:debit_cards"
+        },
+        {
+          "name": "Rum bar",
+          "tag_id": "urn:tag:cuisine:qloo:rum_bar",
+          "type": "urn:tag:cuisine:qloo",
+          "value": "urn:tag:cuisine:qloo:rum_bar"
+        },
+        {
+          "name": "Cocktails",
+          "tag_id": "urn:tag:offerings:place:cocktails",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:cocktails"
+        },
+        {
+          "name": "Cocktail bar",
+          "tag_id": "urn:tag:genre:place:restaurant:cocktail_bar",
+          "type": "urn:tag:genre:place",
+          "value": "urn:tag:genre:place:restaurant:cocktail_bar"
+        },
+        {
+          "name": "Counter seating",
+          "tag_id": "urn:tag:dining_options:place:counter_seating",
+          "type": "urn:tag:dining_options:place",
+          "value": "urn:tag:dining_options:place:counter_seating"
+        },
+        {
+          "name": "Casual socializing",
+          "tag_id": "urn:tag:interests:qloo:casual_socializing",
+          "type": "urn:tag:interests:qloo",
+          "value": "urn:tag:interests:qloo:casual_socializing"
+        },
+        {
+          "name": "Outdoor seating",
+          "tag_id": "urn:tag:service_type:qloo:outdoor_seating",
+          "type": "urn:tag:service_type:qloo",
+          "value": "urn:tag:service_type:qloo:outdoor_seating"
+        },
+        {
+          "name": "Dine in",
+          "tag_id": "urn:tag:service_options:place:dine_in",
+          "type": "urn:tag:service_options:place",
+          "value": "urn:tag:service_options:place:dine_in"
+        },
+        {
+          "name": "Creative cocktails",
+          "tag_id": "urn:tag:menu_highlight:qloo:creative_cocktails",
+          "type": "urn:tag:menu_highlight:qloo",
+          "value": "urn:tag:menu_highlight:qloo:creative_cocktails"
+        },
+        {
+          "name": "Solo diners",
+          "tag_id": "urn:tag:customer_identity:qloo:solo_diners",
+          "type": "urn:tag:customer_identity:qloo",
+          "value": "urn:tag:customer_identity:qloo:solo_diners"
+        },
+        {
+          "name": "Social",
+          "tag_id": "urn:tag:ambience:qloo:social",
+          "type": "urn:tag:ambience:qloo",
+          "value": "urn:tag:ambience:qloo:social"
+        },
+        {
+          "name": "Trendy crowd",
+          "tag_id": "urn:tag:customer_identity:qloo:trendy_crowd",
+          "type": "urn:tag:customer_identity:qloo",
+          "value": "urn:tag:customer_identity:qloo:trendy_crowd"
+        },
+        {
+          "name": "Bar",
+          "tag_id": "urn:tag:category:place:bar",
+          "type": "urn:tag:category:place",
+          "value": "urn:tag:category:place:bar"
+        },
+        {
+          "name": "Welcoming",
+          "tag_id": "urn:tag:ambience:qloo:welcoming",
+          "type": "urn:tag:ambience:qloo",
+          "value": "urn:tag:ambience:qloo:welcoming"
+        },
+        {
+          "name": "Warm",
+          "tag_id": "urn:tag:decor:qloo:warm",
+          "type": "urn:tag:decor:qloo",
+          "value": "urn:tag:decor:qloo:warm"
+        },
+        {
+          "name": "Ok to order just drinks",
+          "tag_id": "urn:tag:offerings:place:ok_to_order_just_drinks",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:ok_to_order_just_drinks"
+        },
+        {
+          "name": "Mixology",
+          "tag_id": "urn:tag:interests:qloo:mixology",
+          "type": "urn:tag:interests:qloo",
+          "value": "urn:tag:interests:qloo:mixology"
+        },
+        {
+          "name": "Warm",
+          "tag_id": "urn:tag:ambience:qloo:warm",
+          "type": "urn:tag:ambience:qloo",
+          "value": "urn:tag:ambience:qloo:warm"
+        },
+        {
+          "name": "Date night",
+          "tag_id": "urn:tag:event:place:date_night",
+          "type": "urn:tag:event:place",
+          "value": "urn:tag:event:place:date_night"
+        },
+        {
+          "name": "Hard liquor",
+          "tag_id": "urn:tag:offerings:place:hard_liquor",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:hard_liquor"
+        },
+        {
+          "name": "City center",
+          "tag_id": "urn:tag:setting:qloo:city_center",
+          "type": "urn:tag:setting:qloo",
+          "value": "urn:tag:setting:qloo:city_center"
+        },
+        {
+          "name": "Cocktails",
+          "tag_id": "urn:tag:beverage_offering:qloo:cocktails",
+          "type": "urn:tag:beverage_offering:qloo",
+          "value": "urn:tag:beverage_offering:qloo:cocktails"
+        },
+        {
+          "name": "Street view",
+          "tag_id": "urn:tag:view:qloo:street_view",
+          "type": "urn:tag:view:qloo",
+          "value": "urn:tag:view:qloo:street_view"
+        },
+        {
+          "name": "Outdoor seating",
+          "tag_id": "urn:tag:service_options:place:outdoor_seating",
+          "type": "urn:tag:service_options:place",
+          "value": "urn:tag:service_options:place:outdoor_seating"
+        },
+        {
+          "name": "Dine in",
+          "tag_id": "urn:tag:service_type:qloo:dine_in",
+          "type": "urn:tag:service_type:qloo",
+          "value": "urn:tag:service_type:qloo:dine_in"
+        },
+        {
+          "name": "Restroom",
+          "tag_id": "urn:tag:amenities:place:restroom",
+          "type": "urn:tag:amenities:place",
+          "value": "urn:tag:amenities:place:restroom"
+        },
+        {
+          "name": "Price level",
+          "tag_id": "urn:tag:payments:place:price_level",
+          "type": "urn:tag:payments:place",
+          "value": "urn:tag:payments:place:price_level"
+        },
+        {
+          "name": "Eclectic",
+          "tag_id": "urn:tag:decor:qloo:eclectic",
+          "type": "urn:tag:decor:qloo",
+          "value": "urn:tag:decor:qloo:eclectic"
+        },
+        {
+          "name": "Food menu",
+          "tag_id": "urn:tag:amenity:qloo:food_menu",
+          "type": "urn:tag:amenity:qloo",
+          "value": "urn:tag:amenity:qloo:food_menu"
+        },
+        {
+          "name": "Large group",
+          "tag_id": "urn:tag:ambience:place:large_group",
+          "type": "urn:tag:ambience:place",
+          "value": "urn:tag:ambience:place:large_group"
+        },
+        {
+          "name": "Colorful",
+          "tag_id": "urn:tag:ambience:qloo:colorful",
+          "type": "urn:tag:ambience:qloo",
+          "value": "urn:tag:ambience:qloo:colorful"
+        },
+        {
+          "name": "Table service",
+          "tag_id": "urn:tag:dining_options:place:table_service",
+          "type": "urn:tag:dining_options:place",
+          "value": "urn:tag:dining_options:place:table_service"
+        },
+        {
+          "name": "Specialty cocktails",
+          "tag_id": "urn:tag:beverage_offering:qloo:specialty_cocktails",
+          "type": "urn:tag:beverage_offering:qloo",
+          "value": "urn:tag:beverage_offering:qloo:specialty_cocktails"
+        },
+        {
+          "name": "Bar",
+          "tag_id": "urn:tag:culinary_style:qloo:bar",
+          "type": "urn:tag:culinary_style:qloo",
+          "value": "urn:tag:culinary_style:qloo:bar"
+        },
+        {
+          "name": "Wheelchair accessible restroom",
+          "tag_id": "urn:tag:accessibility:place:wheelchair_accessible_restroom",
+          "type": "urn:tag:accessibility:place",
+          "value": "urn:tag:accessibility:place:wheelchair_accessible_restroom"
+        },
+        {
+          "name": "Beer",
+          "tag_id": "urn:tag:beverage_offering:qloo:beer",
+          "type": "urn:tag:beverage_offering:qloo",
+          "value": "urn:tag:beverage_offering:qloo:beer"
+        },
+        {
+          "name": "Special occasion",
+          "tag_id": "urn:tag:visit_intent:qloo:special_occasion",
+          "type": "urn:tag:visit_intent:qloo",
+          "value": "urn:tag:visit_intent:qloo:special_occasion"
+        },
+        {
+          "name": "Destination",
+          "tag_id": "urn:tag:visit_intent:qloo:destination",
+          "type": "urn:tag:visit_intent:qloo",
+          "value": "urn:tag:visit_intent:qloo:destination"
+        },
+        {
+          "name": "Central",
+          "tag_id": "urn:tag:neighborhood_characteristic:qloo:central",
+          "type": "urn:tag:neighborhood_characteristic:qloo",
+          "value": "urn:tag:neighborhood_characteristic:qloo:central"
+        },
+        {
+          "name": "Place",
+          "tag_id": "urn:tag:genre:place",
+          "type": "urn:tag:genre:place",
+          "value": "urn:tag:genre:place"
+        },
+        {
+          "name": "Authentic",
+          "tag_id": "urn:tag:neighborhood_characteristic:qloo:authentic",
+          "type": "urn:tag:neighborhood_characteristic:qloo",
+          "value": "urn:tag:neighborhood_characteristic:qloo:authentic"
+        },
+        {
+          "name": "Full bar",
+          "tag_id": "urn:tag:beverage_offering:qloo:full_bar",
+          "type": "urn:tag:beverage_offering:qloo",
+          "value": "urn:tag:beverage_offering:qloo:full_bar"
+        },
+        {
+          "name": "Casual",
+          "tag_id": "urn:tag:decor:qloo:casual",
+          "type": "urn:tag:decor:qloo",
+          "value": "urn:tag:decor:qloo:casual"
+        },
+        {
+          "name": "Planteur",
+          "tag_id": "urn:tag:menu_highlight:qloo:planteur",
+          "type": "urn:tag:menu_highlight:qloo",
+          "value": "urn:tag:menu_highlight:qloo:planteur"
+        },
+        {
+          "name": "Beer",
+          "tag_id": "urn:tag:offerings:place:beer",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:beer"
+        },
+        {
+          "name": "Flavor exploration",
+          "tag_id": "urn:tag:interests:qloo:flavor_exploration",
+          "type": "urn:tag:interests:qloo",
+          "value": "urn:tag:interests:qloo:flavor_exploration"
+        },
+        {
+          "name": "Evening",
+          "tag_id": "urn:tag:time_of_day_fit:qloo:evening",
+          "type": "urn:tag:time_of_day_fit:qloo",
+          "value": "urn:tag:time_of_day_fit:qloo:evening"
+        },
+        {
+          "name": "€10 to €20",
+          "tag_id": "urn:tag:cost_description:place:€10_to_€20",
+          "type": "urn:tag:cost_description:place",
+          "value": "urn:tag:cost_description:place:€10_to_€20"
+        },
+        {
+          "name": "Alcohol",
+          "tag_id": "urn:tag:offerings:place:alcohol",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:alcohol"
+        },
+        {
+          "name": "Creative",
+          "tag_id": "urn:tag:ambience:qloo:creative",
+          "type": "urn:tag:ambience:qloo",
+          "value": "urn:tag:ambience:qloo:creative"
+        },
+        {
+          "name": "Wine",
+          "tag_id": "urn:tag:beverage_offering:qloo:wine",
+          "type": "urn:tag:beverage_offering:qloo",
+          "value": "urn:tag:beverage_offering:qloo:wine"
+        },
+        {
+          "name": "Credit cards",
+          "tag_id": "urn:tag:payments:place:credit_cards",
+          "type": "urn:tag:payments:place",
+          "value": "urn:tag:payments:place:credit_cards"
+        },
+        {
+          "name": "Restaurant",
+          "tag_id": "urn:tag:genre:place:restaurant",
+          "type": "urn:tag:genre:place",
+          "value": "urn:tag:genre:place:restaurant"
+        },
+        {
+          "name": "Rum appreciation",
+          "tag_id": "urn:tag:interests:qloo:rum_appreciation",
+          "type": "urn:tag:interests:qloo",
+          "value": "urn:tag:interests:qloo:rum_appreciation"
+        },
+        {
+          "name": "Late night",
+          "tag_id": "urn:tag:time_of_day_fit:qloo:late_night",
+          "type": "urn:tag:time_of_day_fit:qloo",
+          "value": "urn:tag:time_of_day_fit:qloo:late_night"
+        },
+        {
+          "name": "Nfc mobile payments",
+          "tag_id": "urn:tag:payments:place:nfc_mobile_payments",
+          "type": "urn:tag:payments:place",
+          "value": "urn:tag:payments:place:nfc_mobile_payments"
+        },
+        {
+          "name": "Wine",
+          "tag_id": "urn:tag:offerings:place:wine",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:wine"
+        },
+        {
+          "name": "Arranged rum",
+          "tag_id": "urn:tag:menu_highlight:qloo:arranged_rum",
+          "type": "urn:tag:menu_highlight:qloo",
+          "value": "urn:tag:menu_highlight:qloo:arranged_rum"
+        },
+        {
+          "name": "Bar",
+          "tag_id": "urn:tag:genre:place:restaurant:bar",
+          "type": "urn:tag:genre:place",
+          "value": "urn:tag:genre:place:restaurant:bar"
+        },
+        {
+          "name": "30 34",
+          "tag_id": "urn:tag:age_range:qloo:30_34",
+          "type": "urn:tag:age_range:qloo",
+          "value": "urn:tag:age_range:qloo:30_34"
+        },
+        {
+          "name": "Takeout",
+          "tag_id": "urn:tag:service_type:qloo:takeout",
+          "type": "urn:tag:service_type:qloo",
+          "value": "urn:tag:service_type:qloo:takeout"
+        },
+        {
+          "name": "Food",
+          "tag_id": "urn:tag:offerings:place:food",
+          "type": "urn:tag:offerings:place",
+          "value": "urn:tag:offerings:place:food"
+        },
+        {
+          "name": "Bustling",
+          "tag_id": "urn:tag:neighborhood_characteristic:qloo:bustling",
+          "type": "urn:tag:neighborhood_characteristic:qloo",
+          "value": "urn:tag:neighborhood_characteristic:qloo:bustling"
+        },
+        {
+          "name": "Lively",
+          "tag_id": "urn:tag:ambience:qloo:lively",
+          "type": "urn:tag:ambience:qloo",
+          "value": "urn:tag:ambience:qloo:lively"
+        },
+        {
+          "name": "Casual",
+          "tag_id": "urn:tag:ambience:qloo:casual",
+          "type": "urn:tag:ambience:qloo",
+          "value": "urn:tag:ambience:qloo:casual"
+        },
+        {
+          "name": "Urban",
+          "tag_id": "urn:tag:setting:qloo:urban",
+          "type": "urn:tag:setting:qloo",
+          "value": "urn:tag:setting:qloo:urban"
+        },
+        {
+          "name": "Locals",
+          "tag_id": "urn:tag:customer_identity:qloo:locals",
+          "type": "urn:tag:customer_identity:qloo",
+          "value": "urn:tag:customer_identity:qloo:locals"
+        },
+        {
+          "name": "Birthday",
+          "tag_id": "urn:tag:event:place:birthday",
+          "type": "urn:tag:event:place",
+          "value": "urn:tag:event:place:birthday"
+        },
+        {
+          "name": "Casual",
+          "tag_id": "urn:tag:culinary_style:qloo:casual",
+          "type": "urn:tag:culinary_style:qloo",
+          "value": "urn:tag:culinary_style:qloo:casual"
+        },
+        {
+          "name": "Afternoon",
+          "tag_id": "urn:tag:time_of_day_fit:qloo:afternoon",
+          "type": "urn:tag:time_of_day_fit:qloo",
+          "value": "urn:tag:time_of_day_fit:qloo:afternoon"
+        },
+        {
+          "name": "Charcuterie boards",
+          "tag_id": "urn:tag:menu_highlight:qloo:charcuterie_boards",
+          "type": "urn:tag:menu_highlight:qloo",
+          "value": "urn:tag:menu_highlight:qloo:charcuterie_boards"
+        },
+        {
+          "name": "Dining drinking",
+          "tag_id": "urn:tag:activity_type:qloo:dining_drinking",
+          "type": "urn:tag:activity_type:qloo",
+          "value": "urn:tag:activity_type:qloo:dining_drinking"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "results": [
+    {
+      "name": "Sabyasachi",
+      "entity_id": "0CE37115-938A-4301-8544-2C74B30C2784",
+      "types": [
+        "urn:entity:brand"
+      ],
+      "properties": {
+        "akas": [],
+        "description": "Sabyasachi is a world-renowned luxury fashion house representing the pinnacle of Indian bridal couture and fine jewelry. Established with a deep commitment to preserving and reviving indigenous Indian crafts and textiles, the brand is known for its intricate hand-embroidery and regal design language. Its offerings span elaborate wedding collections for men and women, alongside high-end jewelry that often draws inspiration from historical Indian aesthetics. By merging tradition with global luxury standards, the brand has become a hallmark of opulence and cultural prestige for high-net-worth clients worldwide.",
+        "external": {
+          "instagram": {
+            "id": "sabyasachiofficial"
+          }
+        },
+        "founded_year": "1999",
+        "image": {
+          "url": "https://images.qloo.com/i/0CE37115-938A-4301-8544-2C74B30C2784-420x-auto.jpg"
+        },
+        "short_description": "Sabyasachi is a luxury Indian brand known for high jewellery, fine jewellery, womenswear, menswear, weddings, and accessories.",
+        "short_descriptions": [
+          {
+            "language": "es",
+            "value": "Una marca de lujo de gran opulencia arraigada en la tradición india, celebrada por su costura nupcial, alta joyería y exquisita artesanía."
+          },
+          {
+            "language": "en",
+            "value": "An opulent luxury brand rooted in Indian tradition, celebrated for its intricate bridal couture, fine jewelry, and exquisite craftsmanship."
+          },
+          {
+            "language": "fr",
+            "value": "Une marque de luxe opulente ancrée dans la tradition indienne, célèbre pour sa couture nuptiale complexe, sa haute joaillerie et son artisanat exquis."
+          },
+          {
+            "language": "de",
+            "value": "Eine opulente Luxusmarke mit Wurzeln in der indischen Tradition, gefeiert für ihre komplexe Brautmode, feinen Schmuck und exquisite Handwerkskunst."
+          }
+        ]
+      },
+      "popularity": 0.9898120052211354,
+      "disambiguation": "",
+      "tags": [
+        {
+          "name": "Fashion",
+          "tag_id": "urn:tag:genre:brand:fashion",
+          "type": "urn:tag:genre:brand"
+        },
+        {
+          "name": "Intricate Embroidery",
+          "tag_id": "urn:tag:aesthetic_property:qloo:intricate_embroidery",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Traditional Motifs",
+          "tag_id": "urn:tag:aesthetic_property:qloo:traditional_motifs",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Gold Zari Work",
+          "tag_id": "urn:tag:aesthetic_property:qloo:gold_zari_work",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Rich Color Palettes",
+          "tag_id": "urn:tag:aesthetic_property:qloo:rich_color_palettes",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Vintage-Inspired Jewelry",
+          "tag_id": "urn:tag:aesthetic_property:qloo:vintage_inspired_jewelry",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Royal Grandeur",
+          "tag_id": "urn:tag:lifestyle:qloo:royal_grandeur",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Historical Preservation",
+          "tag_id": "urn:tag:lifestyle:qloo:historical_preservation",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Elite Social Status",
+          "tag_id": "urn:tag:lifestyle:qloo:elite_social_status",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Artistic Patronage",
+          "tag_id": "urn:tag:lifestyle:qloo:artistic_patronage",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Fashion",
+          "tag_id": "urn:tag:brand_subtype:qloo:fashion",
+          "type": "urn:tag:brand_subtype:qloo"
+        },
+        {
+          "name": "Product Brand",
+          "tag_id": "urn:tag:brand_type:qloo:product_brand",
+          "type": "urn:tag:brand_type:qloo"
+        },
+        {
+          "name": "B2C",
+          "tag_id": "urn:tag:business_model:qloo:b2c",
+          "type": "urn:tag:business_model:qloo"
+        },
+        {
+          "name": "Seasonal",
+          "tag_id": "urn:tag:collection_cadence:qloo:seasonal",
+          "type": "urn:tag:collection_cadence:qloo"
+        },
+        {
+          "name": "Limited Edition",
+          "tag_id": "urn:tag:collection_cadence:qloo:limited_edition",
+          "type": "urn:tag:collection_cadence:qloo"
+        },
+        {
+          "name": "Tarun Tahiliani",
+          "tag_id": "urn:tag:competitor_brand:qloo:tarun_tahiliani",
+          "type": "urn:tag:competitor_brand:qloo"
+        },
+        {
+          "name": "Anita Dongre",
+          "tag_id": "urn:tag:competitor_brand:qloo:anita_dongre",
+          "type": "urn:tag:competitor_brand:qloo"
+        },
+        {
+          "name": "Manish Malhotra",
+          "tag_id": "urn:tag:competitor_brand:qloo:manish_malhotra",
+          "type": "urn:tag:competitor_brand:qloo"
+        },
+        {
+          "name": "Rohit Bal",
+          "tag_id": "urn:tag:competitor_brand:qloo:rohit_bal",
+          "type": "urn:tag:competitor_brand:qloo"
+        },
+        {
+          "name": "Craftsmanship",
+          "tag_id": "urn:tag:core_value:qloo:craftsmanship",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Heritage",
+          "tag_id": "urn:tag:core_value:qloo:heritage",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Artistry",
+          "tag_id": "urn:tag:core_value:qloo:artistry",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Exclusivity",
+          "tag_id": "urn:tag:core_value:qloo:exclusivity",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Authenticity",
+          "tag_id": "urn:tag:core_value:qloo:authenticity",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Indian Heritage",
+          "tag_id": "urn:tag:cultural_relevance:qloo:indian_heritage",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "Bollywood Culture",
+          "tag_id": "urn:tag:cultural_relevance:qloo:bollywood_culture",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "South Asian Wedding Traditions",
+          "tag_id": "urn:tag:cultural_relevance:qloo:south_asian_wedding_traditions",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "Global Indian Diaspora",
+          "tag_id": "urn:tag:cultural_relevance:qloo:global_indian_diaspora",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "South Asian Elite",
+          "tag_id": "urn:tag:customer_segment:qloo:south_asian_elite",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Luxury Brides",
+          "tag_id": "urn:tag:customer_segment:qloo:luxury_brides",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "High-Net-Worth Collectors",
+          "tag_id": "urn:tag:customer_segment:qloo:high_net_worth_collectors",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Cultural Connoisseurs",
+          "tag_id": "urn:tag:customer_segment:qloo:cultural_connoisseurs",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "North Calcutta Architecture",
+          "tag_id": "urn:tag:design_inspiration:qloo:north_calcutta_architecture",
+          "type": "urn:tag:design_inspiration:qloo"
+        },
+        {
+          "name": "Mughal Art",
+          "tag_id": "urn:tag:design_inspiration:qloo:mughal_art",
+          "type": "urn:tag:design_inspiration:qloo"
+        },
+        {
+          "name": "Indian Textile Heritage",
+          "tag_id": "urn:tag:design_inspiration:qloo:indian_textile_heritage",
+          "type": "urn:tag:design_inspiration:qloo"
+        },
+        {
+          "name": "Botanical Motifs",
+          "tag_id": "urn:tag:design_inspiration:qloo:botanical_motifs",
+          "type": "urn:tag:design_inspiration:qloo"
+        },
+        {
+          "name": "Regal",
+          "tag_id": "urn:tag:emotional_tone:qloo:regal",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Nostalgic",
+          "tag_id": "urn:tag:emotional_tone:qloo:nostalgic",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Sophisticated",
+          "tag_id": "urn:tag:emotional_tone:qloo:sophisticated",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Opulent",
+          "tag_id": "urn:tag:emotional_tone:qloo:opulent",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Romantic",
+          "tag_id": "urn:tag:emotional_tone:qloo:romantic",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Luxury",
+          "tag_id": "urn:tag:fashion_segment:qloo:luxury",
+          "type": "urn:tag:fashion_segment:qloo"
+        },
+        {
+          "name": "Haute Couture",
+          "tag_id": "urn:tag:fashion_segment:qloo:haute_couture",
+          "type": "urn:tag:fashion_segment:qloo"
+        },
+        {
+          "name": "Ready-to-Wear",
+          "tag_id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+          "type": "urn:tag:fashion_segment:qloo"
+        },
+        {
+          "name": "Heritage",
+          "tag_id": "urn:tag:fashion_segment:qloo:heritage",
+          "type": "urn:tag:fashion_segment:qloo"
+        },
+        {
+          "name": "Bridal",
+          "tag_id": "urn:tag:fashion_segment:qloo:bridal",
+          "type": "urn:tag:fashion_segment:qloo"
+        },
+        {
+          "name": "Ethnic Wear",
+          "tag_id": "urn:tag:fashion_segment:qloo:ethnic_wear",
+          "type": "urn:tag:fashion_segment:qloo"
+        },
+        {
+          "name": "Fashion & Apparel",
+          "tag_id": "urn:tag:industry:qloo:fashion_apparel",
+          "type": "urn:tag:industry:qloo"
+        },
+        {
+          "name": "Fine Jewelry",
+          "tag_id": "urn:tag:industry:qloo:fine_jewelry",
+          "type": "urn:tag:industry:qloo"
+        },
+        {
+          "name": "Luxury Goods",
+          "tag_id": "urn:tag:industry:qloo:luxury_goods",
+          "type": "urn:tag:industry:qloo"
+        },
+        {
+          "name": "Celebrity Stylists",
+          "tag_id": "urn:tag:influencer_appeal:qloo:celebrity_stylists",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "High-Profile Socialites",
+          "tag_id": "urn:tag:influencer_appeal:qloo:high_profile_socialites",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Heritage Fashion Archivists",
+          "tag_id": "urn:tag:influencer_appeal:qloo:heritage_fashion_archivists",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Luxury Lifestyle Bloggers",
+          "tag_id": "urn:tag:influencer_appeal:qloo:luxury_lifestyle_bloggers",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Bridal Consultants",
+          "tag_id": "urn:tag:influencer_appeal:qloo:bridal_consultants",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Textile Art",
+          "tag_id": "urn:tag:interest_adjacency:qloo:textile_art",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Antique Jewelry",
+          "tag_id": "urn:tag:interest_adjacency:qloo:antique_jewelry",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Historical Preservation",
+          "tag_id": "urn:tag:interest_adjacency:qloo:historical_preservation",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Interior Design",
+          "tag_id": "urn:tag:interest_adjacency:qloo:interior_design",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Indian Classical Arts",
+          "tag_id": "urn:tag:interest_adjacency:qloo:indian_classical_arts",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "India",
+          "tag_id": "urn:tag:key_market:qloo:india",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "United States",
+          "tag_id": "urn:tag:key_market:qloo:united_states",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "United Kingdom",
+          "tag_id": "urn:tag:key_market:qloo:united_kingdom",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "United Arab Emirates",
+          "tag_id": "urn:tag:key_market:qloo:united_arab_emirates",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "Bridal",
+          "tag_id": "urn:tag:keyword:qloo:bridal",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Heritage",
+          "tag_id": "urn:tag:keyword:qloo:heritage",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Couture",
+          "tag_id": "urn:tag:keyword:qloo:couture",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Textiles",
+          "tag_id": "urn:tag:keyword:qloo:textiles",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Kolkata",
+          "tag_id": "urn:tag:keyword:qloo:kolkata",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "H&M",
+          "tag_id": "urn:tag:partnership:qloo:h_m",
+          "type": "urn:tag:partnership:qloo"
+        },
+        {
+          "name": "Pottery Barn",
+          "tag_id": "urn:tag:partnership:qloo:pottery_barn",
+          "type": "urn:tag:partnership:qloo"
+        },
+        {
+          "name": "Christian Louboutin",
+          "tag_id": "urn:tag:partnership:qloo:christian_louboutin",
+          "type": "urn:tag:partnership:qloo"
+        },
+        {
+          "name": "Estée Lauder",
+          "tag_id": "urn:tag:partnership:qloo:estee_lauder",
+          "type": "urn:tag:partnership:qloo"
+        },
+        {
+          "name": "Wedding Celebrations",
+          "tag_id": "urn:tag:lifestyle:qloo:wedding_celebrations",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "High-Society Gatherings",
+          "tag_id": "urn:tag:lifestyle:qloo:high_society_gatherings",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Cultural Festivals",
+          "tag_id": "urn:tag:lifestyle:qloo:cultural_festivals",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Fine Dining",
+          "tag_id": "urn:tag:lifestyle:qloo:fine_dining",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Heritage",
+          "tag_id": "urn:tag:market_archetype:qloo:heritage",
+          "type": "urn:tag:market_archetype:qloo"
+        },
+        {
+          "name": "Niche",
+          "tag_id": "urn:tag:market_archetype:qloo:niche",
+          "type": "urn:tag:market_archetype:qloo"
+        },
+        {
+          "name": "Silk",
+          "tag_id": "urn:tag:material:qloo:silk",
+          "type": "urn:tag:material:qloo"
+        },
+        {
+          "name": "Velvet",
+          "tag_id": "urn:tag:material:qloo:velvet",
+          "type": "urn:tag:material:qloo"
+        },
+        {
+          "name": "Gold",
+          "tag_id": "urn:tag:material:qloo:gold",
+          "type": "urn:tag:material:qloo"
+        },
+        {
+          "name": "Diamonds",
+          "tag_id": "urn:tag:material:qloo:diamonds",
+          "type": "urn:tag:material:qloo"
+        },
+        {
+          "name": "Semi-Precious Stones",
+          "tag_id": "urn:tag:material:qloo:semi_precious_stones",
+          "type": "urn:tag:material:qloo"
+        },
+        {
+          "name": "Hand-Woven Brocade",
+          "tag_id": "urn:tag:material:qloo:hand_woven_brocade",
+          "type": "urn:tag:material:qloo"
+        },
+        {
+          "name": "Maximalist",
+          "tag_id": "urn:tag:personal_style:qloo:maximalist",
+          "type": "urn:tag:personal_style:qloo"
+        },
+        {
+          "name": "Regal",
+          "tag_id": "urn:tag:personal_style:qloo:regal",
+          "type": "urn:tag:personal_style:qloo"
+        },
+        {
+          "name": "Traditional",
+          "tag_id": "urn:tag:personal_style:qloo:traditional",
+          "type": "urn:tag:personal_style:qloo"
+        },
+        {
+          "name": "Elegant",
+          "tag_id": "urn:tag:personal_style:qloo:elegant",
+          "type": "urn:tag:personal_style:qloo"
+        },
+        {
+          "name": "$$$$",
+          "tag_id": "urn:tag:price_level:qloo:_",
+          "type": "urn:tag:price_level:qloo"
+        },
+        {
+          "name": "Apparel",
+          "tag_id": "urn:tag:product_category:qloo:apparel",
+          "type": "urn:tag:product_category:qloo"
+        },
+        {
+          "name": "Fine Jewelry",
+          "tag_id": "urn:tag:product_category:qloo:fine_jewelry",
+          "type": "urn:tag:product_category:qloo"
+        },
+        {
+          "name": "Outerwear",
+          "tag_id": "urn:tag:product_category:qloo:outerwear",
+          "type": "urn:tag:product_category:qloo"
+        },
+        {
+          "name": "Handbags",
+          "tag_id": "urn:tag:product_category:qloo:handbags",
+          "type": "urn:tag:product_category:qloo"
+        },
+        {
+          "name": "Accessories",
+          "tag_id": "urn:tag:product_category:qloo:accessories",
+          "type": "urn:tag:product_category:qloo"
+        },
+        {
+          "name": "Footwear",
+          "tag_id": "urn:tag:product_category:qloo:footwear",
+          "type": "urn:tag:product_category:qloo"
+        },
+        {
+          "name": "Bridal Couture",
+          "tag_id": "urn:tag:product_service:qloo:bridal_couture",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "High Jewellery",
+          "tag_id": "urn:tag:product_service:qloo:high_jewellery",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Menswear",
+          "tag_id": "urn:tag:product_service:qloo:menswear",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Womenswear",
+          "tag_id": "urn:tag:product_service:qloo:womenswear",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Handbags",
+          "tag_id": "urn:tag:product_service:qloo:handbags",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Accessories",
+          "tag_id": "urn:tag:product_service:qloo:accessories",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Direct-to-Consumer",
+          "tag_id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+          "type": "urn:tag:retail_channel:qloo"
+        },
+        {
+          "name": "Department Store",
+          "tag_id": "urn:tag:retail_channel:qloo:department_store",
+          "type": "urn:tag:retail_channel:qloo"
+        },
+        {
+          "name": "Bridal Lehenga",
+          "tag_id": "urn:tag:signature_piece:qloo:bridal_lehenga",
+          "type": "urn:tag:signature_piece:qloo"
+        },
+        {
+          "name": "Heritage Jewelry Sets",
+          "tag_id": "urn:tag:signature_piece:qloo:heritage_jewelry_sets",
+          "type": "urn:tag:signature_piece:qloo"
+        },
+        {
+          "name": "Sabyasachi Saree",
+          "tag_id": "urn:tag:signature_piece:qloo:sabyasachi_saree",
+          "type": "urn:tag:signature_piece:qloo"
+        },
+        {
+          "name": "Embroidered Sherwani",
+          "tag_id": "urn:tag:signature_piece:qloo:embroidered_sherwani",
+          "type": "urn:tag:signature_piece:qloo"
+        },
+        {
+          "name": "Abu Jani Sandeep Khosla",
+          "tag_id": "urn:tag:similar_brand:qloo:abu_jani_sandeep_khosla",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "Anamika Khanna",
+          "tag_id": "urn:tag:similar_brand:qloo:anamika_khanna",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "Revival Of Traditional Indian Crafts",
+          "tag_id": "urn:tag:sustainability_initiative:qloo:revival_of_traditional_indian_crafts",
+          "type": "urn:tag:sustainability_initiative:qloo"
+        },
+        {
+          "name": "Slow Fashion",
+          "tag_id": "urn:tag:sustainability_initiative:qloo:slow_fashion",
+          "type": "urn:tag:sustainability_initiative:qloo"
+        },
+        {
+          "name": "Social Impact",
+          "tag_id": "urn:tag:sustainability_initiative:qloo:social_impact",
+          "type": "urn:tag:sustainability_initiative:qloo"
+        },
+        {
+          "name": "Young Adults",
+          "tag_id": "urn:tag:target_age_group:qloo:young_adults",
+          "type": "urn:tag:target_age_group:qloo"
+        },
+        {
+          "name": "Adults",
+          "tag_id": "urn:tag:target_age_group:qloo:adults",
+          "type": "urn:tag:target_age_group:qloo"
+        },
+        {
+          "name": "Middle-Aged",
+          "tag_id": "urn:tag:target_age_group:qloo:middle_aged",
+          "type": "urn:tag:target_age_group:qloo"
+        },
+        {
+          "name": "Male",
+          "tag_id": "urn:tag:target_gender:qloo:male",
+          "type": "urn:tag:target_gender:qloo"
+        },
+        {
+          "name": "Female",
+          "tag_id": "urn:tag:target_gender:qloo:female",
+          "type": "urn:tag:target_gender:qloo"
+        },
+        {
+          "name": "High",
+          "tag_id": "urn:tag:target_income_level:qloo:high",
+          "type": "urn:tag:target_income_level:qloo"
+        }
+      ]
+    }
+  ]
+}

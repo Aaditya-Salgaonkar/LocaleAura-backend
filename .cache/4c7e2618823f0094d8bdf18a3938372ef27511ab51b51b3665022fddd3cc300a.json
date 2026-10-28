@@ -1,0 +1,185 @@
+{
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "tag_id": "urn:tag:emotional_tone:qloo:romance",
+        "name": "romance",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:emotional_tone:qloo",
+        "tag_value": "urn:tag:emotional_tone:qloo:romance",
+        "popularity": 0.9916827962714525,
+        "query": {
+          "affinity": 0.999701569743151
+        }
+      },
+      {
+        "tag_id": "urn:tag:influencer_appeal:qloo:fashion_icons",
+        "name": "Fashion Icons",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:influencer_appeal:qloo",
+        "tag_value": "urn:tag:influencer_appeal:qloo:fashion_icons",
+        "popularity": 0.9833028404343538,
+        "query": {
+          "affinity": 0.9996148437430022
+        }
+      },
+      {
+        "tag_id": "urn:tag:keyword:qloo:couture",
+        "name": "Couture",
+        "types": [
+          "urn:entity:tv_show",
+          "urn:entity:podcast",
+          "urn:entity:writer",
+          "urn:entity:director",
+          "urn:entity:podcaster",
+          "urn:entity:author",
+          "urn:entity:book",
+          "urn:entity:tv_episode",
+          "urn:entity:brand",
+          "urn:entity:actor",
+          "urn:entity:movie"
+        ],
+        "subtype": "urn:tag:keyword:qloo",
+        "tag_value": "urn:tag:keyword:qloo:couture",
+        "popularity": 0.992262605841334,
+        "query": {
+          "affinity": 0.9995815492409498
+        }
+      },
+      {
+        "tag_id": "urn:tag:adjective:qloo:opulent",
+        "name": "opulent",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:adjective:qloo",
+        "tag_value": "urn:tag:adjective:qloo:opulent",
+        "popularity": 0.9901483210138293,
+        "query": {
+          "affinity": 0.9995505932169536
+        }
+      },
+      {
+        "tag_id": "urn:tag:lifestyle:qloo:luxurious_lifestyle",
+        "name": "Luxurious Lifestyle",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:lifestyle:qloo",
+        "tag_value": "urn:tag:lifestyle:qloo:luxurious_lifestyle",
+        "popularity": 0.9586864548223105,
+        "query": {
+          "affinity": 0.9993994703525404
+        }
+      },
+      {
+        "tag_id": "urn:tag:keyword:qloo:designer",
+        "name": "Designer",
+        "types": [
+          "urn:entity:tv_show",
+          "urn:entity:writer",
+          "urn:entity:director",
+          "urn:entity:tv_episode",
+          "urn:entity:author",
+          "urn:entity:book",
+          "urn:entity:brand",
+          "urn:entity:actor",
+          "urn:entity:movie"
+        ],
+        "subtype": "urn:tag:keyword:qloo",
+        "tag_value": "urn:tag:keyword:qloo:designer",
+        "popularity": 0.9941109327950675,
+        "query": {
+          "affinity": 0.9993735331793658
+        }
+      },
+      {
+        "tag_id": "urn:tag:aesthetic_property:qloo:luxurious",
+        "name": "Luxurious",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:aesthetic_property:qloo",
+        "tag_value": "urn:tag:aesthetic_property:qloo:luxurious",
+        "popularity": 0.9908524444769786,
+        "query": {
+          "affinity": 0.998989373989374
+        }
+      },
+      {
+        "tag_id": "urn:tag:customer_identity:qloo:luxury_connoisseurs",
+        "name": "luxury connoisseurs",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:customer_identity:qloo",
+        "tag_value": "urn:tag:customer_identity:qloo:luxury_connoisseurs",
+        "popularity": 0.9914722239911126,
+        "query": {
+          "affinity": 0.998944656252674
+        }
+      },
+      {
+        "tag_id": "urn:tag:archetype:qloo:the_underachiever",
+        "name": "The Underachiever",
+        "types": [
+          "urn:entity:movie",
+          "urn:entity:tv_show"
+        ],
+        "subtype": "urn:tag:archetype:qloo",
+        "tag_value": "urn:tag:archetype:qloo:the_underachiever",
+        "popularity": 0.9498163907016111,
+        "query": {
+          "affinity": 0.9989420388422883
+        }
+      },
+      {
+        "tag_id": "urn:tag:style:qloo:fly_on_the_wall",
+        "name": "Fly On The Wall",
+        "types": [
+          "urn:entity:book",
+          "urn:entity:movie",
+          "urn:entity:tv_show",
+          "urn:entity:podcast"
+        ],
+        "subtype": "urn:tag:style:qloo",
+        "tag_value": "urn:tag:style:qloo:fly_on_the_wall",
+        "popularity": 0.9986685439422127,
+        "query": {
+          "affinity": 0.9988930319272896
+        }
+      },
+      {
+        "tag_id": "urn:tag:personal_style:qloo:luxurious",
+        "name": "Luxurious",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:personal_style:qloo",
+        "tag_value": "urn:tag:personal_style:qloo:luxurious",
+        "popularity": 0.9904761463426665,
+        "query": {
+          "affinity": 0.998839695214428
+        }
+      },
+      {
+        "tag_id": "urn:tag:aesthetic_property:qloo:rich_textures",
+        "name": "Rich Textures",
+        "types": [
+          "urn:entity:brand"
+        ],
+        "subtype": "urn:tag:aesthetic_property:qloo",
+        "tag_value": "urn:tag:aesthetic_property:qloo:rich_textures",
+        "popularity": 0.9921356753094543,
+        "query": {
+          "affinity": 0.998634852920314
+        }
+      }
+    ]
+  }
+}

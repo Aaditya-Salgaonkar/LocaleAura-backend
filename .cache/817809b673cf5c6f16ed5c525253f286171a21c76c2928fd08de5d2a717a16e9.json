@@ -1,0 +1,5285 @@
+{
+  "success": true,
+  "results": {
+    "entities": [
+      {
+        "name": "Comme des Garcons",
+        "entity_id": "3637BC2E-B2D1-4496-9BD7-938E4FAE81AD",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [],
+          "image": {
+            "url": "https://images.qloo.com/i/3637BC2E-B2D1-4496-9BD7-938E4FAE81AD-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Deconstruction",
+            "Avant-Garde",
+            "Conceptual",
+            "Japanese Design",
+            "Subversion"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Art Gallery Hopping",
+            "Urban Exploration",
+            "Creative Professionalism"
+          ],
+          "brand_type": [
+            "Product Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Retail",
+            "Fragrance",
+            "Design"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Innovation",
+            "Non-Conformity",
+            "Creativity",
+            "Artistry",
+            "Independence"
+          ],
+          "description": "Founded by Rei Kawakubo in Tokyo, this label has fundamentally reshaped global fashion by consistently prioritizing conceptual innovation over commercial trends. The house is revered for its deconstructive techniques, experimental silhouettes, and a subversive design language that challenges the limits of garment construction. While it encompasses a wide range of sub-brands, including the globally recognized, accessible Play line, its core identity remains rooted in high-art expression and non-conformist luxury. The brand maintains a dedicated following among those who view clothing as a profound medium for artistic and intellectual discourse.",
+          "key_markets": [
+            "Japan",
+            "France",
+            "United States",
+            "United Kingdom"
+          ],
+          "founded_year": 1969,
+          "manufacturer": null,
+          "subsidiaries": [
+            "Comme Des Garçons Shirt",
+            "Comme Des Garçons Homme",
+            "Comme Des Garçons Girl",
+            "Play Comme Des Garçons"
+          ],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Male",
+            "Female",
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C",
+            "B2B",
+            "Licensing"
+          ],
+          "emotional_tone": [
+            "Provocative",
+            "Intellectual",
+            "Mysterious",
+            "Subversive",
+            "Sophisticated"
+          ],
+          "personal_style": [
+            "Avant-Garde",
+            "Minimalist",
+            "Androgynous",
+            "Edgy",
+            "Conceptual"
+          ],
+          "similar_brands": [
+            "Junya Watanabe",
+            "Sacai",
+            "Ann Demeulemeester",
+            "Undercover",
+            "Prada"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Young Adults",
+            "Adults"
+          ],
+          "audience_identity": "People who prioritize intellectual exploration and boundary-pushing design over traditional notions of elegance and status.",
+          "competitor_brands": [
+            "Yohji Yamamoto",
+            "Issey Miyake",
+            "Rick Owens",
+            "Martin Margiela",
+            "Dries Van Noten"
+          ],
+          "customer_segments": [
+            "Fashion Insiders",
+            "Art Collectors",
+            "Urban Creatives"
+          ],
+          "influencer_appeal": [
+            "Fashion Curators",
+            "Contemporary Artists",
+            "Creative Directors",
+            "Stylists",
+            "Musicians"
+          ],
+          "products_services": [
+            "Ready-To-Wear",
+            "Sneakers",
+            "Fragrance",
+            "Wallets",
+            "T-Shirts"
+          ],
+          "short_description": "Comme des Garçons is a Japanese fashion label founded by Rei Kawakubo, known for avant-garde clothing, accessories, and collaborations.",
+          "style_description": "The brand utilizes a visual language defined by structural experimentation, intentional asymmetry, and a rigorous, often somber, conceptual focus.",
+          "cultural_relevance": [
+            "Punk Aesthetic",
+            "Minimalism",
+            "Modern Art",
+            "Streetwear Culture"
+          ],
+          "known_partnerships": [
+            "Nike",
+            "Supreme",
+            "Converse",
+            "Gucci",
+            "Salomon"
+          ],
+          "market_positioning": "Experimental luxury brand that defines intellectual fashion through radical design and structural deconstruction.",
+          "short_descriptions": [
+            {
+              "value": "Une maison de mode japonaise d'avant-garde célèbre pour remettre en question les conventions grâce à ses designs déconstructivistes et ses silhouettes expérimentales.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Una marca de moda japonesa de vanguardia célebre por desafiar las convenciones mediante diseños deconstructivos y siluetas experimentales.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "An avant-garde Japanese fashion house celebrated for challenging conventions through deconstructive design and experimental silhouettes.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Ein japanisches Avantgarde-Modehaus, das dafür bekannt ist, Konventionen durch dekonstruktives Design und experimentelle Silhouetten herauszufordern.",
+              "languages": [
+                "de"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 3000,
+          "price_range_usd_min": 80,
+          "target_income_level": [
+            "Medium to High",
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Deconstructed Silhouettes",
+            "Asymmetry",
+            "Dark Palette",
+            "Conceptual Graphics",
+            "Raw Edges"
+          ],
+          "category_description": "A high-fashion designer brand that operates at the intersection of haute couture, art, and streetwear through experimental, intellectual design.",
+          "headquarters_address": "Tokyo, Japan",
+          "interest_adjacencies": [
+            "Contemporary Art",
+            "Architecture",
+            "Graphic Design",
+            "Independent Music",
+            "Cultural Theory"
+          ],
+          "situational_contexts": "Artistic installations, high-fashion events, urban street culture, and any environment where experimental self-expression is the primary objective.",
+          "aspirational_lifestyle": [
+            "Intellectual Mastery",
+            "Cultural Influence",
+            "Artistic Patronage"
+          ],
+          "sustainability_initiatives": [
+            "Archive Preservation"
+          ],
+          "cultural_context_description": "Deeply embedded within international avant-garde art and high-fashion circles, the brand is a cornerstone of experimental creative culture.",
+          "target_demographics_description": "Targeting creative, style-conscious adults across all genders who possess high disposable income and an appreciation for conceptual fashion."
+        },
+        "popularity": 0.9907697784407791,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear:sneaker:lifestyle",
+            "name": "Lifestyle / Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:casual",
+            "name": "Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:deconstructed_silhouettes",
+            "name": "Deconstructed Silhouettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:asymmetry",
+            "name": "Asymmetry",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:dark_palette",
+            "name": "Dark Palette",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:conceptual_graphics",
+            "name": "Conceptual Graphics",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:raw_edges",
+            "name": "Raw Edges",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:intellectual_mastery",
+            "name": "Intellectual Mastery",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:cultural_influence",
+            "name": "Cultural Influence",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:artistic_patronage",
+            "name": "Artistic Patronage",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:product_brand",
+            "name": "Product Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2b",
+            "name": "B2B",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:licensing",
+            "name": "Licensing",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:permanent",
+            "name": "Permanent",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:capsule",
+            "name": "Capsule",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:yohji_yamamoto",
+            "name": "Yohji Yamamoto",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:issey_miyake",
+            "name": "Issey Miyake",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:rick_owens",
+            "name": "Rick Owens",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:martin_margiela",
+            "name": "Martin Margiela",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:dries_van_noten",
+            "name": "Dries Van Noten",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:innovation",
+            "name": "Innovation",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:non_conformity",
+            "name": "Non-Conformity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:creativity",
+            "name": "Creativity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:artistry",
+            "name": "Artistry",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:independence",
+            "name": "Independence",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:punk_aesthetic",
+            "name": "Punk Aesthetic",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:minimalism",
+            "name": "Minimalism",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:modern_art",
+            "name": "Modern Art",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:streetwear_culture",
+            "name": "Streetwear Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:fashion_insiders",
+            "name": "Fashion Insiders",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:art_collectors",
+            "name": "Art Collectors",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:urban_creatives",
+            "name": "Urban Creatives",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:architecture",
+            "name": "Architecture",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:japanese_traditional_aesthetics",
+            "name": "Japanese Traditional Aesthetics",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:surrealism",
+            "name": "Surrealism",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:deconstructivism",
+            "name": "Deconstructivism",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:provocative",
+            "name": "Provocative",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:intellectual",
+            "name": "Intellectual",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:mysterious",
+            "name": "Mysterious",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:subversive",
+            "name": "Subversive",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:high_fashion",
+            "name": "High Fashion",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+            "name": "Ready-to-Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:designer",
+            "name": "Designer",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:streetwear",
+            "name": "Streetwear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:retail",
+            "name": "Retail",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fragrance",
+            "name": "Fragrance",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:design",
+            "name": "Design",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fashion_curators",
+            "name": "Fashion Curators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:contemporary_artists",
+            "name": "Contemporary Artists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:creative_directors",
+            "name": "Creative Directors",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:stylists",
+            "name": "Stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:musicians",
+            "name": "Musicians",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:contemporary_art",
+            "name": "Contemporary Art",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:architecture",
+            "name": "Architecture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:graphic_design",
+            "name": "Graphic Design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:independent_music",
+            "name": "Independent Music",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:cultural_theory",
+            "name": "Cultural Theory",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:japan",
+            "name": "Japan",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:france",
+            "name": "France",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_kingdom",
+            "name": "United Kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:deconstruction",
+            "name": "Deconstruction",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:conceptual",
+            "name": "Conceptual",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:japanese_design",
+            "name": "Japanese Design",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:subversion",
+            "name": "Subversion",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:nike",
+            "name": "Nike",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:supreme",
+            "name": "Supreme",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:converse",
+            "name": "Converse",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:gucci",
+            "name": "Gucci",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:salomon",
+            "name": "Salomon",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:art_gallery_hopping",
+            "name": "Art Gallery Hopping",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:urban_exploration",
+            "name": "Urban Exploration",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:creative_professionalism",
+            "name": "Creative Professionalism",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:cult",
+            "name": "Cult",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:wool",
+            "name": "Wool",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:cotton",
+            "name": "Cotton",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:nylon",
+            "name": "Nylon",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:leather",
+            "name": "Leather",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:technical_fabrics",
+            "name": "Technical Fabrics",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:androgynous",
+            "name": "Androgynous",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:edgy",
+            "name": "Edgy",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:conceptual",
+            "name": "Conceptual",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:outerwear",
+            "name": "Outerwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:sneakers",
+            "name": "Sneakers",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:fragrance",
+            "name": "Fragrance",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:ready_to_wear",
+            "name": "Ready-To-Wear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:sneakers",
+            "name": "Sneakers",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:fragrance",
+            "name": "Fragrance",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:wallets",
+            "name": "Wallets",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:t_shirts",
+            "name": "T-Shirts",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:department_store",
+            "name": "Department Store",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:wholesale",
+            "name": "Wholesale",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:online_marketplace",
+            "name": "Online Marketplace",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:heart_logo_tee",
+            "name": "Heart Logo Tee",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:deconstructed_blazer",
+            "name": "Deconstructed Blazer",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:pleated_skirt",
+            "name": "Pleated Skirt",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:wallet",
+            "name": "Wallet",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:fragrance_series",
+            "name": "Fragrance Series",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:junya_watanabe",
+            "name": "Junya Watanabe",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:sacai",
+            "name": "Sacai",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:ann_demeulemeester",
+            "name": "Ann Demeulemeester",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:undercover",
+            "name": "Undercover",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:prada",
+            "name": "Prada",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:subsidiary:qloo:comme_des_garcons_shirt",
+            "name": "Comme Des Garçons Shirt",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "id": "urn:tag:subsidiary:qloo:comme_des_garcons_homme",
+            "name": "Comme Des Garçons Homme",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "id": "urn:tag:subsidiary:qloo:comme_des_garcons_girl",
+            "name": "Comme Des Garçons Girl",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "id": "urn:tag:subsidiary:qloo:play_comme_des_garcons",
+            "name": "Play Comme Des Garçons",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:archive_preservation",
+            "name": "Archive Preservation",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:male",
+            "name": "Male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9136099384391967,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "instagram": [
+            {
+              "id": "commedesgarcons"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Martin Margiela",
+        "entity_id": "9A0FA0D6-7A07-4F07-A905-E82547C74113",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [
+            {
+              "value": "มาร์แต็ง มาร์เจลา",
+              "languages": [
+                "th"
+              ]
+            },
+            {
+              "value": "Maison Margiela",
+              "languages": [
+                "de",
+                "en_au",
+                "fr"
+              ]
+            },
+            {
+              "value": "マルタン・マルジェラ",
+              "languages": [
+                "ja"
+              ]
+            },
+            {
+              "value": "Martin Margiela",
+              "languages": [
+                "pt_pt",
+                "pt"
+              ]
+            },
+            {
+              "value": "梅森·马丁·马吉拉",
+              "languages": [
+                "zh"
+              ]
+            },
+            {
+              "value": "Maison Martin Margiela",
+              "languages": [
+                "it",
+                "nl",
+                "es",
+                "es_ar",
+                "pl"
+              ]
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/9A0FA0D6-7A07-4F07-A905-E82547C74113-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Deconstruction",
+            "Anonymity",
+            "Replica",
+            "Avant-Garde",
+            "Conceptual"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Urban Living",
+            "Creative Industry Work",
+            "Gallery Hopping",
+            "Minimalist Home Environments"
+          ],
+          "brand_type": [
+            "Product Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Luxury Goods",
+            "Fragrance"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Anonymity",
+            "Deconstruction",
+            "Craftsmanship",
+            "Originality",
+            "Conceptualism"
+          ],
+          "description": "Founded in 1988, this Parisian house is a pioneer of deconstructive fashion, maintaining a core identity centered on anonymity and conceptual design. The brand balances high-fashion runways with popular, functional collections like the Replica line. It targets an audience that values intellectual design and non-conformity over traditional status symbols. Its legacy remains defined by a rigorous focus on craftsmanship and a subversion of luxury norms.",
+          "key_markets": [
+            "France",
+            "Japan",
+            "United States",
+            "Italy",
+            "South Korea"
+          ],
+          "founded_year": 1988,
+          "manufacturer": null,
+          "subsidiaries": [
+            "MM6 Maison Margiela"
+          ],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Male",
+            "Female",
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Intellectual",
+            "Mysterious",
+            "Sophisticated",
+            "Subversive",
+            "Provocative"
+          ],
+          "personal_style": [
+            "Minimalist",
+            "Edgy",
+            "Avant-Garde",
+            "Conceptual"
+          ],
+          "similar_brands": [
+            "Jil Sander",
+            "Helmut Lang",
+            "Prada",
+            "Balenciaga",
+            "Loewe"
+          ],
+          "ultimate_parent": "OTB Group",
+          "immediate_parent": "OTB Group",
+          "target_age_group": [
+            "Young Adults",
+            "Adults",
+            "Middle-Aged"
+          ],
+          "audience_identity": "People who value intellectualism, subversion, and anonymity in fashion, often drawn to deconstructed aesthetics that challenge traditional luxury norms.",
+          "competitor_brands": [
+            "Rick Owens",
+            "Comme des Garçons",
+            "Ann Demeulemeester",
+            "Yohji Yamamoto",
+            "Dries Van Noten"
+          ],
+          "customer_segments": [
+            "Fashion Enthusiasts",
+            "Design Professionals",
+            "Urban Creatives",
+            "Luxury Connoisseurs"
+          ],
+          "influencer_appeal": [
+            "Creative Directors",
+            "Fashion Stylists",
+            "Contemporary Artists",
+            "Fashion Curators",
+            "Experimental Performers"
+          ],
+          "products_services": [
+            "Ready-to-Wear",
+            "Footwear",
+            "Handbags",
+            "Accessories",
+            "Fragrance",
+            "Leather Goods",
+            "Jewelry",
+            "Eyewear",
+            "Scented Candles"
+          ],
+          "short_description": "Maison Margiela is a Parisian luxury fashion house known for avant-garde clothing, shoes, accessories, and the REPLICA fragrance and scented candle collections.",
+          "style_description": "The brand maintains an instantly recognizable aesthetic defined by deconstruction, raw edges, and a signature white stitch that challenges the traditional presentation of luxury fashion.",
+          "cultural_relevance": [
+            "Deconstructivist Architecture",
+            "Minimalist Design Movement",
+            "Contemporary Art Scene"
+          ],
+          "known_partnerships": [
+            "Reebok",
+            "Gentle Monster"
+          ],
+          "market_positioning": "A highly prestigious, avant-garde luxury house known for intellectual design and unconventional, deconstructive aesthetic.",
+          "short_descriptions": [
+            {
+              "value": "Une maison de luxe parisienne emblématique, célèbre pour son approche intellectuelle, avant-gardiste et déconstructiviste de la mode.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "An iconic Parisian luxury house celebrated for its intellectual, avant-garde deconstruction and conceptual approach to fashion design.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Ein ikonisches Pariser Luxusmodehaus, bekannt für seinen intellektuellen, avantgardistischen Dekonstruktivismus und konzeptionellen Designansatz.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Una icónica casa de moda de lujo parisina, reconocida por su enfoque intelectual, vanguardista y deconstructivo del diseño.",
+              "languages": [
+                "es"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 5000,
+          "price_range_usd_min": 400,
+          "target_income_level": [
+            "Medium to High",
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Deconstructed Silhouettes",
+            "Monochromatic Palette",
+            "White Stitch Detail",
+            "Trompe L'oeil",
+            "Asymmetrical Cuts"
+          ],
+          "category_description": "A high-fashion luxury brand specializing in deconstructed apparel, avant-garde footwear, and iconic signature accessories.",
+          "headquarters_address": "Paris, France",
+          "interest_adjacencies": [
+            "Contemporary Art",
+            "Conceptual Design",
+            "Avant-Garde Architecture",
+            "Experimental Music",
+            "Artisan Craftsmanship"
+          ],
+          "situational_contexts": "Artistic gatherings, professional creative settings, or urban environments where a deliberate, non-conformist aesthetic is appreciated.",
+          "aspirational_lifestyle": [
+            "Artistic Expression",
+            "Curated Living",
+            "Avant-Garde Travel",
+            "Intellectual Pursuit"
+          ],
+          "sustainability_initiatives": [
+            "Archive Preservation",
+            "Slow Fashion"
+          ],
+          "cultural_context_description": "The brand is deeply rooted in the world of high fashion, contemporary art, and experimental design, resonating with cultural circles that value non-conformity.",
+          "target_demographics_description": "A global demographic of fashion-forward adults with high disposable income who appreciate avant-garde design and intellectual luxury."
+        },
+        "popularity": 0.9906850197487752,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion:casual",
+            "name": "Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:formalwear",
+            "name": "Formalwear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear:other",
+            "name": "Other",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:deconstructed_silhouettes",
+            "name": "Deconstructed Silhouettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:monochromatic_palette",
+            "name": "Monochromatic Palette",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:white_stitch_detail",
+            "name": "White Stitch Detail",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:trompe_l_oeil",
+            "name": "Trompe L'oeil",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:asymmetrical_cuts",
+            "name": "Asymmetrical Cuts",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:artistic_expression",
+            "name": "Artistic Expression",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:curated_living",
+            "name": "Curated Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:avant_garde_travel",
+            "name": "Avant-Garde Travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:intellectual_pursuit",
+            "name": "Intellectual Pursuit",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:product_brand",
+            "name": "Product Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:permanent",
+            "name": "Permanent",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:capsule",
+            "name": "Capsule",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:rick_owens",
+            "name": "Rick Owens",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:comme_des_garcons",
+            "name": "Comme des Garçons",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:ann_demeulemeester",
+            "name": "Ann Demeulemeester",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:yohji_yamamoto",
+            "name": "Yohji Yamamoto",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:dries_van_noten",
+            "name": "Dries Van Noten",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:anonymity",
+            "name": "Anonymity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:deconstruction",
+            "name": "Deconstruction",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:craftsmanship",
+            "name": "Craftsmanship",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:originality",
+            "name": "Originality",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:conceptualism",
+            "name": "Conceptualism",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:deconstructivist_architecture",
+            "name": "Deconstructivist Architecture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:minimalist_design_movement",
+            "name": "Minimalist Design Movement",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:contemporary_art_scene",
+            "name": "Contemporary Art Scene",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:fashion_enthusiasts",
+            "name": "Fashion Enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:design_professionals",
+            "name": "Design Professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:urban_creatives",
+            "name": "Urban Creatives",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:luxury_connoisseurs",
+            "name": "Luxury Connoisseurs",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:deconstruction",
+            "name": "Deconstruction",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:archival_fashion",
+            "name": "Archival Fashion",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:workwear",
+            "name": "Workwear",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:vintage_clothing",
+            "name": "Vintage Clothing",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:intellectual",
+            "name": "Intellectual",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:mysterious",
+            "name": "Mysterious",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:subversive",
+            "name": "Subversive",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:provocative",
+            "name": "Provocative",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:luxury",
+            "name": "Luxury",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:high_fashion",
+            "name": "High Fashion",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+            "name": "Ready-to-Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:designer",
+            "name": "Designer",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:luxury_goods",
+            "name": "Luxury Goods",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fragrance",
+            "name": "Fragrance",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:creative_directors",
+            "name": "Creative Directors",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fashion_stylists",
+            "name": "Fashion Stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:contemporary_artists",
+            "name": "Contemporary Artists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fashion_curators",
+            "name": "Fashion Curators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:experimental_performers",
+            "name": "Experimental Performers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:contemporary_art",
+            "name": "Contemporary Art",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:conceptual_design",
+            "name": "Conceptual Design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:avant_garde_architecture",
+            "name": "Avant-Garde Architecture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:experimental_music",
+            "name": "Experimental Music",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:artisan_craftsmanship",
+            "name": "Artisan Craftsmanship",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:france",
+            "name": "France",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:japan",
+            "name": "Japan",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:italy",
+            "name": "Italy",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:south_korea",
+            "name": "South Korea",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:deconstruction",
+            "name": "Deconstruction",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:anonymity",
+            "name": "Anonymity",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:replica",
+            "name": "Replica",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:conceptual",
+            "name": "Conceptual",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:reebok",
+            "name": "Reebok",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:gentle_monster",
+            "name": "Gentle Monster",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:urban_living",
+            "name": "Urban Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:creative_industry_work",
+            "name": "Creative Industry Work",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:gallery_hopping",
+            "name": "Gallery Hopping",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:minimalist_home_environments",
+            "name": "Minimalist Home Environments",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:leather",
+            "name": "Leather",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:suede",
+            "name": "Suede",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:cotton",
+            "name": "Cotton",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:nylon",
+            "name": "Nylon",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:rubber",
+            "name": "Rubber",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:edgy",
+            "name": "Edgy",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:conceptual",
+            "name": "Conceptual",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:handbags",
+            "name": "Handbags",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:fragrance",
+            "name": "Fragrance",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:ready_to_wear",
+            "name": "Ready-to-Wear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:handbags",
+            "name": "Handbags",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:fragrance",
+            "name": "Fragrance",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:leather_goods",
+            "name": "Leather Goods",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:jewelry",
+            "name": "Jewelry",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:eyewear",
+            "name": "Eyewear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:scented_candles",
+            "name": "Scented Candles",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:department_store",
+            "name": "Department Store",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:online_marketplace",
+            "name": "Online Marketplace",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:wholesale",
+            "name": "Wholesale",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:tabi_boots",
+            "name": "Tabi Boots",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:replica_sneakers",
+            "name": "Replica Sneakers",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:glam_slam_bag",
+            "name": "Glam Slam Bag",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:replica_fragrance",
+            "name": "Replica Fragrance",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:jil_sander",
+            "name": "Jil Sander",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:helmut_lang",
+            "name": "Helmut Lang",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:prada",
+            "name": "Prada",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:balenciaga",
+            "name": "Balenciaga",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:loewe",
+            "name": "Loewe",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:subsidiary:qloo:mm6_maison_margiela",
+            "name": "MM6 Maison Margiela",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:archive_preservation",
+            "name": "Archive Preservation",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:slow_fashion",
+            "name": "Slow Fashion",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:middle_aged",
+            "name": "Middle-Aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:male",
+            "name": "Male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9078596712540629,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "margiela"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "Q978265"
+            },
+            {
+              "id": "Q1726925"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "margiela"
+            },
+            {
+              "id": "maisonmargiela"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Opening Ceremony",
+        "entity_id": "47B7265A-778E-44A5-B037-2E8AC5505609",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [
+            {
+              "value": "오프닝세레모니",
+              "languages": [
+                "ko"
+              ]
+            },
+            {
+              "value": "Opening Ceremony",
+              "languages": [
+                "zh",
+                "tr"
+              ]
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/47B7265A-778E-44A5-B037-2E8AC5505609-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Curation",
+            "Collaboration",
+            "Discovery",
+            "Globalism",
+            "Experimental"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Urban Exploration",
+            "Art Gallery Hopping",
+            "Global Travel",
+            "Creative Networking"
+          ],
+          "brand_type": [
+            "Retail Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Retail",
+            "Cultural Curation"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Creativity",
+            "Cultural Exchange",
+            "Curated Discovery",
+            "Authenticity"
+          ],
+          "description": "Established in 2002, the entity is a celebrated fashion brand and retail platform that bridges the worlds of style, travel, and culture. It operates as both a retailer of curated global fashion and a creative house known for its innovative collaborations and unique design perspective. With a strong commitment to discovery and global storytelling, the brand attracts creative, fashion-forward audiences who value originality. It occupies a premium, niche position in the market as an influential tastemaker that consistently pushes aesthetic boundaries.",
+          "key_markets": [
+            "United States",
+            "Japan",
+            "Global"
+          ],
+          "founded_year": 2002,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Male",
+            "Female",
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C",
+            "Marketplace"
+          ],
+          "emotional_tone": [
+            "Innovative",
+            "Eclectic",
+            "Curious",
+            "Bold",
+            "Inclusive"
+          ],
+          "personal_style": [
+            "Eclectic",
+            "Artistic",
+            "Contemporary",
+            "Expressive"
+          ],
+          "similar_brands": [
+            "Acne Studios",
+            "Comme des Garçons",
+            "Marni",
+            "A.P.C.",
+            "Proenza Schouler"
+          ],
+          "ultimate_parent": "Farfetch",
+          "immediate_parent": "New Guards Group",
+          "target_age_group": [
+            "Young Adults",
+            "Adults"
+          ],
+          "audience_identity": "People who view style as a medium for global storytelling and appreciate a curated, eclectic mix of established designers and emerging creative talents.",
+          "competitor_brands": [
+            "Dover Street Market",
+            "SSENSE",
+            "Hanon",
+            "Bodega",
+            "Union Los Angeles"
+          ],
+          "customer_segments": [
+            "Creative Professionals",
+            "Urban Trendsetters",
+            "Fashion Enthusiasts"
+          ],
+          "influencer_appeal": [
+            "Creative Directors",
+            "Independent Artists",
+            "Stylists",
+            "Culture Critics",
+            "Design Innovators"
+          ],
+          "products_services": [
+            "Apparel",
+            "Footwear",
+            "Accessories",
+            "Curated Multi-Brand Selection"
+          ],
+          "short_description": "Opening Ceremony is an innovative global fashion brand that bridges style, travel, and culture, known for its unique apparel and collaborations.",
+          "style_description": "An experimental and eclectic aesthetic that prioritizes unexpected design details, vibrant graphics, and a mix of avant-garde and accessible influences.",
+          "cultural_relevance": [
+            "Globalism",
+            "Streetwear Culture",
+            "Indie Fashion Scene",
+            "Modern Art Movement"
+          ],
+          "known_partnerships": [
+            "Adidas",
+            "Kenzo",
+            "Chloë Sevigny",
+            "Vans",
+            "Timberland"
+          ],
+          "market_positioning": "A premium, curator-led fashion platform that blends exclusive collaborations with an eclectic, forward-thinking aesthetic.",
+          "short_descriptions": [
+            {
+              "value": "Eine wegweisende Boutique und Modemarke, die für ihre kuratierte, globale Perspektive auf Mode und ihre Rolle als kulturelle Plattform gefeiert wird.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "A pioneering boutique and clothing label celebrated for its curated, global perspective on fashion and its role as a cultural platform.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Una boutique y marca de ropa pionera, famosa por su perspectiva global y curada de la moda y por actuar como una plataforma cultural.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Une boutique et marque de vêtements pionnière, célèbre pour sa perspective mondiale et curatée de la mode et son rôle de plateforme culturelle.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 800,
+          "price_range_usd_min": 50,
+          "target_income_level": [
+            "Medium to High",
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Eclectic Prints",
+            "Bold Color Palettes",
+            "Experimental Silhouettes",
+            "Graphic Design Focus"
+          ],
+          "category_description": "A multi-brand fashion retailer and label that bridges the gap between high-end design, streetwear, and global cultural discovery.",
+          "headquarters_address": "New York City, United States",
+          "interest_adjacencies": [
+            "Contemporary Art",
+            "Independent Publishing",
+            "Experimental Music",
+            "Global Travel",
+            "Modern Design"
+          ],
+          "situational_contexts": "Engaged with during moments of creative exploration, international travel, urban cultural discovery, and fashion-forward social gatherings.",
+          "aspirational_lifestyle": [
+            "International Cultural Immersion",
+            "Creative Industry Leadership",
+            "Curated Living",
+            "Advocacy For New Artistic Talent"
+          ],
+          "sustainability_initiatives": [
+            "Limited Run Production"
+          ],
+          "cultural_context_description": "Occupies the intersection of international travel, contemporary art, and the evolving global fashion landscape.",
+          "target_demographics_description": "Primarily targets creative young adults and professionals with a mid-to-high income level who prioritize unique, globally-influenced style."
+        },
+        "popularity": 0.9844383041480904,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:casual",
+            "name": "Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:eclectic_prints",
+            "name": "Eclectic Prints",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:bold_color_palettes",
+            "name": "Bold Color Palettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:experimental_silhouettes",
+            "name": "Experimental Silhouettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:graphic_design_focus",
+            "name": "Graphic Design Focus",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:international_cultural_immersion",
+            "name": "International Cultural Immersion",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:creative_industry_leadership",
+            "name": "Creative Industry Leadership",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:curated_living",
+            "name": "Curated Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:advocacy_for_new_artistic_talent",
+            "name": "Advocacy For New Artistic Talent",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:retail_brand",
+            "name": "Retail Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:marketplace",
+            "name": "Marketplace",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:capsule",
+            "name": "Capsule",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:limited_edition",
+            "name": "Limited Edition",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:dover_street_market",
+            "name": "Dover Street Market",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:ssense",
+            "name": "SSENSE",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:hanon",
+            "name": "Hanon",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:bodega",
+            "name": "Bodega",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:union_los_angeles",
+            "name": "Union Los Angeles",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:creativity",
+            "name": "Creativity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:cultural_exchange",
+            "name": "Cultural Exchange",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:curated_discovery",
+            "name": "Curated Discovery",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:authenticity",
+            "name": "Authenticity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:globalism",
+            "name": "Globalism",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:streetwear_culture",
+            "name": "Streetwear Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:indie_fashion_scene",
+            "name": "Indie Fashion Scene",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:modern_art_movement",
+            "name": "Modern Art Movement",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:creative_professionals",
+            "name": "Creative Professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:urban_trendsetters",
+            "name": "Urban Trendsetters",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:fashion_enthusiasts",
+            "name": "Fashion Enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:global_street_style",
+            "name": "Global Street Style",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:artistic_collaborations",
+            "name": "Artistic Collaborations",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:travel_experiences",
+            "name": "Travel Experiences",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:urban_youth_culture",
+            "name": "Urban Youth Culture",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:innovative",
+            "name": "Innovative",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:curious",
+            "name": "Curious",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:bold",
+            "name": "Bold",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:inclusive",
+            "name": "Inclusive",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:contemporary",
+            "name": "Contemporary",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:designer",
+            "name": "Designer",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:streetwear",
+            "name": "Streetwear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:retail",
+            "name": "Retail",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:cultural_curation",
+            "name": "Cultural Curation",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:creative_directors",
+            "name": "Creative Directors",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:independent_artists",
+            "name": "Independent Artists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:stylists",
+            "name": "Stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:culture_critics",
+            "name": "Culture Critics",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:design_innovators",
+            "name": "Design Innovators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:contemporary_art",
+            "name": "Contemporary Art",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:independent_publishing",
+            "name": "Independent Publishing",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:experimental_music",
+            "name": "Experimental Music",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:global_travel",
+            "name": "Global Travel",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:modern_design",
+            "name": "Modern Design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:japan",
+            "name": "Japan",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:global",
+            "name": "Global",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:curation",
+            "name": "Curation",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:collaboration",
+            "name": "Collaboration",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:discovery",
+            "name": "Discovery",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:globalism",
+            "name": "Globalism",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:experimental",
+            "name": "Experimental",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:adidas",
+            "name": "Adidas",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:kenzo",
+            "name": "Kenzo",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:chloe_sevigny",
+            "name": "Chloë Sevigny",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:vans",
+            "name": "Vans",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:timberland",
+            "name": "Timberland",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:urban_exploration",
+            "name": "Urban Exploration",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:art_gallery_hopping",
+            "name": "Art Gallery Hopping",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:global_travel",
+            "name": "Global Travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:creative_networking",
+            "name": "Creative Networking",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:challenger",
+            "name": "Challenger",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:cult",
+            "name": "Cult",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:cotton",
+            "name": "Cotton",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:technical_fabrics",
+            "name": "Technical Fabrics",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:leather",
+            "name": "Leather",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:denim",
+            "name": "Denim",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:eclectic",
+            "name": "Eclectic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:artistic",
+            "name": "Artistic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:contemporary",
+            "name": "Contemporary",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:expressive",
+            "name": "Expressive",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:curated_multi_brand_selection",
+            "name": "Curated Multi-Brand Selection",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:online_marketplace",
+            "name": "Online Marketplace",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:wholesale",
+            "name": "Wholesale",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:collaborative_footwear",
+            "name": "Collaborative Footwear",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:graphic_sweatshirts",
+            "name": "Graphic Sweatshirts",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:acne_studios",
+            "name": "Acne Studios",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:comme_des_garcons",
+            "name": "Comme des Garçons",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:marni",
+            "name": "Marni",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:a_p_c_",
+            "name": "A.P.C.",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:proenza_schouler",
+            "name": "Proenza Schouler",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:limited_run_production",
+            "name": "Limited Run Production",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:male",
+            "name": "Male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9056734728784076,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "openingceremony"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "Q39079077"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "openingceremony"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Balenciaga",
+        "entity_id": "BB047D19-D3D5-47A1-B9AA-ECCEBE9470AE",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [
+            {
+              "value": "BALENCIAGA",
+              "languages": [
+                "en_au",
+                "tr"
+              ]
+            },
+            {
+              "value": "ဘလင်စီယာဂါ",
+              "languages": [
+                "my"
+              ]
+            },
+            {
+              "value": "बलेनसिआगा",
+              "languages": [
+                "hi"
+              ]
+            },
+            {
+              "value": "บาเลนเซียกา",
+              "languages": [
+                "th"
+              ]
+            },
+            {
+              "value": "ბალენსიაგა",
+              "languages": [
+                "ka"
+              ]
+            },
+            {
+              "value": "بالانسياغا",
+              "languages": [
+                "ar"
+              ]
+            },
+            {
+              "value": "BALENCIAGA S A",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "巴黎世家",
+              "languages": [
+                "zh"
+              ]
+            },
+            {
+              "value": "バレンシアガ",
+              "languages": [
+                "ja"
+              ]
+            },
+            {
+              "value": "Баленсијага",
+              "languages": [
+                "sr",
+                "mk"
+              ]
+            },
+            {
+              "value": "Баленсиага",
+              "languages": [
+                "ru"
+              ]
+            },
+            {
+              "value": "발렌시아가",
+              "languages": [
+                "ko"
+              ]
+            },
+            {
+              "value": "Balenciaga",
+              "languages": [
+                "uk",
+                "sw",
+                "pt",
+                "cs",
+                "id",
+                "ro",
+                "ms",
+                "vi",
+                "fi",
+                "eu",
+                "gl",
+                "ca",
+                "pt_pt",
+                "pl",
+                "sk",
+                "nb",
+                "hu"
+              ]
+            },
+            {
+              "value": "בלנסיאגה",
+              "languages": [
+                "he"
+              ]
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/BB047D19-D3D5-47A1-B9AA-ECCEBE9470AE-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": [
+            "fashion",
+            "luxury"
+          ],
+          "keywords": [
+            "Avant-Garde",
+            "Luxury",
+            "Streetwear",
+            "Silhouette",
+            "Couture"
+          ],
+          "owned_by": "Kering",
+          "products": [
+            "shoe",
+            "clothing"
+          ],
+          "inception": "1917-00-00",
+          "lifestyle": [
+            "Urban Living",
+            "Global Travel",
+            "High-End Socializing"
+          ],
+          "brand_type": [
+            "Corporate Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Retail",
+            "Luxury Goods"
+          ],
+          "subsidiary": [],
+          "core_values": [
+            "Innovation",
+            "Craftsmanship",
+            "Disruption",
+            "Exclusivity"
+          ],
+          "description": "Balenciaga is a legendary French fashion house founded in 1917, celebrated for its revolutionary contributions to structural design and haute couture. Under contemporary creative leadership, it has become a global leader in defining the intersection of high fashion and street-inspired disruption. The brand's product offerings include ready-to-wear, footwear, and luxury accessories, catering to an affluent, trend-conscious audience. Known for its avant-garde silhouettes and unapologetic aesthetic, the house maintains a dominant position in the global luxury market as part of the Kering group.",
+          "key_markets": [
+            "Global"
+          ],
+          "founded_year": 1917,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": "Paris",
+          "official_site": "http://www.balenciaga.com/",
+          "target_gender": [
+            "Male",
+            "Female",
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Provocative",
+            "Bold",
+            "Sophisticated",
+            "Edgy",
+            "Prestige-Driven"
+          ],
+          "personal_style": [
+            "Edgy",
+            "Minimalist",
+            "Avant-Garde",
+            "Street-Chic"
+          ],
+          "similar_brands": [
+            "Maison Margiela",
+            "Givenchy",
+            "Saint Laurent",
+            "Off-White"
+          ],
+          "ultimate_parent": "Kering",
+          "immediate_parent": "Kering",
+          "target_age_group": [
+            "Young Adults",
+            "Adults"
+          ],
+          "audience_identity": "Individuals who value provocative, boundary-pushing design and seek to signal cultural literacy through avant-garde fashion statements.",
+          "competitor_brands": [
+            "Gucci",
+            "Prada",
+            "Louis Vuitton",
+            "Rick Owens",
+            "Vetements"
+          ],
+          "customer_segments": [
+            "Fashion Enthusiasts",
+            "High-Net-Worth Individuals",
+            "Streetwear Collectors",
+            "Trend-Driven Consumers"
+          ],
+          "influencer_appeal": [
+            "Street Style Icons",
+            "Contemporary Artists",
+            "Music Producers",
+            "Luxury Fashion Models"
+          ],
+          "products_services": [
+            "Ready-To-Wear",
+            "Sneakers",
+            "Handbags",
+            "Accessories",
+            "Eyewear",
+            "Jewelry",
+            "Fragrance"
+          ],
+          "short_description": "Balenciaga is a luxury fashion brand known for its innovative clothing, shoes, bags, and accessories, founded by Cristóbal Balenciaga.",
+          "style_description": "Characterized by bold, architectural shapes and a subversive approach to luxury, the brand frequently blends classical couture techniques with futuristic and industrial visual elements.",
+          "cultural_relevance": [
+            "Streetwear Culture",
+            "High Fashion",
+            "Pop Culture",
+            "Digital Aesthetics"
+          ],
+          "known_partnerships": [
+            "Adidas",
+            "Crocs",
+            "Gucci",
+            "Epi"
+          ],
+          "market_positioning": "Luxury-tier fashion house positioned as an experimental, trend-setting leader in global couture and streetwear.",
+          "short_descriptions": [
+            {
+              "value": "Una casa de moda de lujo pionera, conocida por su estética provocadora, siluetas arquitectónicas y su exploración constante del estilo contemporáneo.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Ein wegweisendes Luxusmodehaus, das für seine provokante Ästhetik, architektonischen Silhouetten und ständige Erforschung zeitgenössischer Stile bekannt ist.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Une maison de couture pionnière connue pour son esthétique provocatrice, ses silhouettes architecturales et son exploration constante du style contemporain.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "A pioneering luxury fashion house known for its provocative aesthetic, architectural silhouettes, and constant exploration of contemporary style.",
+              "languages": [
+                "en"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": "Kering",
+          "price_range_usd_max": 5000,
+          "price_range_usd_min": 300,
+          "target_income_level": [
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Architectural Silhouettes",
+            "Oversized Proportions",
+            "Bold Branding",
+            "Industrial Design",
+            "Minimalist Palette"
+          ],
+          "category_description": "A luxury fashion house operating at the high end of the market, offering avant-garde, designer-led collections that influence global street fashion trends.",
+          "headquarters_address": "Paris, France",
+          "interest_adjacencies": [
+            "Contemporary Art",
+            "Street Culture",
+            "Avant-Garde Architecture",
+            "Experimental Music",
+            "Digital Culture"
+          ],
+          "situational_contexts": "High-fashion events, urban environments, exclusive social gatherings, and street-style showcases.",
+          "aspirational_lifestyle": [
+            "Front-Row Fashion Presence",
+            "Cultural Trend-Setting",
+            "Luxury Lifestyle"
+          ],
+          "sustainability_initiatives": [
+            "Climate-Conscious Logistics",
+            "Supply Chain Transparency",
+            "Reduced Carbon Emissions"
+          ],
+          "cultural_context_description": "The brand is deeply embedded in the intersection of traditional luxury craftsmanship and contemporary digital, street, and subculture movements.",
+          "target_demographics_description": "Targets affluent, fashion-forward young adults and adults who prioritize prestige, innovation, and avant-garde design."
+        },
+        "popularity": 0.9988049024427456,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion:haute_couture",
+            "name": "Haute Couture",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:french_brands",
+            "name": "French brands",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear:other",
+            "name": "Other",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:design_companies_established_in_1919",
+            "name": "Design companies established in 1919",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:fashion_accessory_brands",
+            "name": "Fashion accessory brands",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:formalwear",
+            "name": "Formalwear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:companies_based_in_paris",
+            "name": "Companies based in Paris",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:clothing_companies_established_in_1919",
+            "name": "Clothing companies established in 1919",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:accessories:eyewear",
+            "name": "Eyewear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:high_fashion_brands",
+            "name": "High fashion brands",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear:sneaker:lifestyle",
+            "name": "Lifestyle / Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:accessories:bags_and_leather",
+            "name": "Bags & Leather",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:french_companies_established_in_1919",
+            "name": "French companies established in 1919",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear:sneaker:designer",
+            "name": "High-end / Designer",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:casual",
+            "name": "Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:clothing_companies_of_france",
+            "name": "Clothing companies of France",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:kering_brands",
+            "name": "Kering brands",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:1919_establishments_in_france",
+            "name": "1919 establishments in France",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:shoe_companies_of_france",
+            "name": "Shoe companies of France",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:architectural_silhouettes",
+            "name": "Architectural Silhouettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:oversized_proportions",
+            "name": "Oversized Proportions",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:bold_branding",
+            "name": "Bold Branding",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:industrial_design",
+            "name": "Industrial Design",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:minimalist_palette",
+            "name": "Minimalist Palette",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:front_row_fashion_presence",
+            "name": "Front-Row Fashion Presence",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:cultural_trend_setting",
+            "name": "Cultural Trend-Setting",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:luxury_lifestyle",
+            "name": "Luxury Lifestyle",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:corporate_brand",
+            "name": "Corporate Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:drops",
+            "name": "Drops",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:gucci",
+            "name": "Gucci",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:prada",
+            "name": "Prada",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:louis_vuitton",
+            "name": "Louis Vuitton",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:rick_owens",
+            "name": "Rick Owens",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:vetements",
+            "name": "Vetements",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:innovation",
+            "name": "Innovation",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:craftsmanship",
+            "name": "Craftsmanship",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:disruption",
+            "name": "Disruption",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:exclusivity",
+            "name": "Exclusivity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:streetwear_culture",
+            "name": "Streetwear Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:high_fashion",
+            "name": "High Fashion",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:pop_culture",
+            "name": "Pop Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:digital_aesthetics",
+            "name": "Digital Aesthetics",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:fashion_enthusiasts",
+            "name": "Fashion Enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:high_net_worth_individuals",
+            "name": "High-Net-Worth Individuals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:streetwear_collectors",
+            "name": "Streetwear Collectors",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:trend_driven_consumers",
+            "name": "Trend-Driven Consumers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:architectural_forms",
+            "name": "Architectural Forms",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:utility_wear",
+            "name": "Utility Wear",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:historical_archives",
+            "name": "Historical Archives",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:modern_subcultures",
+            "name": "Modern Subcultures",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:provocative",
+            "name": "Provocative",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:bold",
+            "name": "Bold",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:edgy",
+            "name": "Edgy",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:prestige_driven",
+            "name": "Prestige-Driven",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:luxury",
+            "name": "Luxury",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:high_fashion",
+            "name": "High Fashion",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+            "name": "Ready-to-Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:designer",
+            "name": "Designer",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:streetwear",
+            "name": "Streetwear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:retail",
+            "name": "Retail",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:luxury_goods",
+            "name": "Luxury Goods",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:street_style_icons",
+            "name": "Street Style Icons",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:contemporary_artists",
+            "name": "Contemporary Artists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:music_producers",
+            "name": "Music Producers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:luxury_fashion_models",
+            "name": "Luxury Fashion Models",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:contemporary_art",
+            "name": "Contemporary Art",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:street_culture",
+            "name": "Street Culture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:avant_garde_architecture",
+            "name": "Avant-Garde Architecture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:experimental_music",
+            "name": "Experimental Music",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:digital_culture",
+            "name": "Digital Culture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:global",
+            "name": "Global",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:luxury",
+            "name": "Luxury",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:streetwear",
+            "name": "Streetwear",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:silhouette",
+            "name": "Silhouette",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:couture",
+            "name": "Couture",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:adidas",
+            "name": "Adidas",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:crocs",
+            "name": "Crocs",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:gucci",
+            "name": "Gucci",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:epi",
+            "name": "Epi",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:urban_living",
+            "name": "Urban Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:global_travel",
+            "name": "Global Travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:high_end_socializing",
+            "name": "High-End Socializing",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:mainstream",
+            "name": "Mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:leather",
+            "name": "Leather",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:technical_fabrics",
+            "name": "Technical Fabrics",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:cotton",
+            "name": "Cotton",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:cashmere",
+            "name": "Cashmere",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:edgy",
+            "name": "Edgy",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:street_chic",
+            "name": "Street-Chic",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:outerwear",
+            "name": "Outerwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:sneakers",
+            "name": "Sneakers",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:handbags",
+            "name": "Handbags",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:eyewear",
+            "name": "Eyewear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:ready_to_wear",
+            "name": "Ready-To-Wear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:sneakers",
+            "name": "Sneakers",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:handbags",
+            "name": "Handbags",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:eyewear",
+            "name": "Eyewear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:jewelry",
+            "name": "Jewelry",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:fragrance",
+            "name": "Fragrance",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:department_store",
+            "name": "Department Store",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:online_marketplace",
+            "name": "Online Marketplace",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:wholesale",
+            "name": "Wholesale",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:concession",
+            "name": "Concession",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:triple_s_sneaker",
+            "name": "Triple S Sneaker",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:speed_trainer",
+            "name": "Speed Trainer",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:hourglass_bag",
+            "name": "Hourglass Bag",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:city_bag",
+            "name": "City Bag",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:maison_margiela",
+            "name": "Maison Margiela",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:givenchy",
+            "name": "Givenchy",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:saint_laurent",
+            "name": "Saint Laurent",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:off_white",
+            "name": "Off-White",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:climate_conscious_logistics",
+            "name": "Climate-Conscious Logistics",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:supply_chain_transparency",
+            "name": "Supply Chain Transparency",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:reduced_carbon_emissions",
+            "name": "Reduced Carbon Emissions",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:male",
+            "name": "Male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9053682107070617,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "balenciaga"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "Q1530892"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "Balenciaga"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Vetements",
+        "entity_id": "17F9BDB5-F913-40C8-86B3-63850A541FAC",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [
+            {
+              "value": "베트멍",
+              "languages": [
+                "ko"
+              ]
+            },
+            {
+              "value": "แว็ตม็อง",
+              "languages": [
+                "th"
+              ]
+            },
+            {
+              "value": "Vetements Group AG",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Ветмо",
+              "languages": [
+                "ru"
+              ]
+            },
+            {
+              "value": "ヴェトモン",
+              "languages": [
+                "ja"
+              ]
+            },
+            {
+              "value": "Vetements",
+              "languages": [
+                "da",
+                "uk",
+                "ca"
+              ]
+            },
+            {
+              "value": "Vetements Group",
+              "languages": [
+                "en_au"
+              ]
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/17F9BDB5-F913-40C8-86B3-63850A541FAC-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": [
+            "clothing industry"
+          ],
+          "keywords": [
+            "Deconstruction",
+            "Oversized",
+            "Irony",
+            "Streetwear",
+            "Luxury"
+          ],
+          "owned_by": null,
+          "products": [
+            "clothing"
+          ],
+          "inception": "2014-00-00",
+          "lifestyle": [
+            "Urban Living",
+            "Late Night Culture",
+            "Creative Industry"
+          ],
+          "brand_type": [
+            "Product Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel",
+            "Luxury Goods"
+          ],
+          "subsidiary": [],
+          "core_values": [
+            "Nonconformity",
+            "Deconstruction",
+            "Originality",
+            "Experimentalism"
+          ],
+          "description": "A disruptive fashion collective that rose to prominence for its irreverent and deconstructive take on high-end luxury goods. Since its inception in 2014, the brand has defined its aesthetic through exaggerated silhouettes, subverted cultural references, and a nonconformist design philosophy. Operating in the luxury segment, it merges the exclusivity of designer fashion with the visual language of underground streetwear. Its reach is global, appealing to a dedicated audience of trendsetters and industry insiders who value provocative and boundary-pushing design.",
+          "key_markets": [
+            "France",
+            "United States",
+            "Japan",
+            "China",
+            "South Korea"
+          ],
+          "founded_year": 2014,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": "http://www.vetementswebsite.com",
+          "target_gender": [
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Subversive",
+            "Ironic",
+            "Provocative",
+            "Bold",
+            "Edgy"
+          ],
+          "personal_style": [
+            "Edgy",
+            "Avant-Garde",
+            "Minimalist",
+            "Subversive"
+          ],
+          "similar_brands": [
+            "Maison Margiela",
+            "Comme des Garçons",
+            "A-Cold-Wall*",
+            "Dries Van Noten",
+            "Marine Serre"
+          ],
+          "ultimate_parent": "Vetements Group AG",
+          "immediate_parent": "Vetements Group AG",
+          "target_age_group": [
+            "Young Adults",
+            "Adults"
+          ],
+          "audience_identity": "People drawn to this label identify with a subversive, anti-establishment mindset that values irony, oversized silhouettes, and the deconstruction of traditional luxury signifiers.",
+          "competitor_brands": [
+            "Balenciaga",
+            "Off-White",
+            "Rick Owens",
+            "Raf Simons",
+            "Y/Project"
+          ],
+          "customer_segments": [
+            "Fashion Insiders",
+            "Trendsetters",
+            "Luxury Consumers"
+          ],
+          "influencer_appeal": [
+            "Street Style Stars",
+            "Fashion Editors",
+            "Creative Directors",
+            "Avant-Garde Musicians",
+            "Stylists"
+          ],
+          "products_services": [
+            "Outerwear",
+            "Hoodies",
+            "Denim",
+            "T-shirts",
+            "Footwear"
+          ],
+          "short_description": "Vetements is a fashion brand known for its womenswear and menswear collections under the creative direction of Guram Gvasalia.",
+          "style_description": "Characterized by architectural tailoring, warped proportions, and a gritty, street-inspired sensibility that transforms everyday garments into elevated, provocative statement pieces.",
+          "cultural_relevance": [
+            "Streetwear Culture",
+            "Post-Soviet Aesthetics",
+            "Modern Luxury"
+          ],
+          "known_partnerships": [
+            "Levi's",
+            "Reebok",
+            "DHL",
+            "Manolo Blahnik",
+            "Champion"
+          ],
+          "market_positioning": "An avant-garde, luxury-priced fashion label positioned at the intersection of high fashion and global streetwear culture.",
+          "short_descriptions": [
+            {
+              "value": "A Zurich-based fashion collective known for its subversive, deconstructed approach to luxury and oversized, irony-infused streetwear silhouettes.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Una firma de moda con sede en Zúrich reconocida por su enfoque subversivo y deconstruido del lujo, caracterizada por siluetas oversize e irónicas.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Un collectif de mode basé à Zurich connu pour son approche subversive et déconstruite du luxe ainsi que pour ses silhouettes oversized teintées d'ironie.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Ein in Zürich ansässiges Modekollektiv, das für seinen subversiven, dekonstruierten Ansatz und seine ironisch geprägten Oversized-Silhouetten bekannt ist.",
+              "languages": [
+                "de"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 2500,
+          "price_range_usd_min": 400,
+          "target_income_level": [
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Deconstructed Silhouettes",
+            "Oversized Proportions",
+            "Distressed Finishes",
+            "Graphic Prints",
+            "Exaggerated Volumes"
+          ],
+          "category_description": "The brand operates as a high-end luxury fashion house that reinterprets utilitarian and everyday clothing through an avant-garde, deconstructivist design lens.",
+          "headquarters_address": "Zurich, Switzerland",
+          "interest_adjacencies": [
+            "Contemporary Art",
+            "Underground Music",
+            "Digital Culture",
+            "Street Photography",
+            "Fashion Theory"
+          ],
+          "situational_contexts": "This apparel is typically worn in urban environments, high-fashion social scenes, or street-style contexts where the wearer intends to challenge conventional standards of elegance and status.",
+          "aspirational_lifestyle": [
+            "Global Travel",
+            "Front Row Access",
+            "Cultural Influencer"
+          ],
+          "sustainability_initiatives": [],
+          "cultural_context_description": "The brand inhabits the space between elite runway fashion and underground street subcultures, constantly critiquing and reclaiming the visual language of modern consumerism.",
+          "target_demographics_description": "The brand targets affluent young adults and fashion-conscious individuals who prioritize exclusivity and avant-garde aesthetic expression over traditional luxury markers."
+        },
+        "popularity": 0.9932108287704904,
+        "tags": [
+          {
+            "id": "urn:tag:wikipedia_category:companies_based_in_zurich",
+            "name": "Companies based in Zürich",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:footwear:sneaker:lifestyle",
+            "name": "Lifestyle / Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:luxury_brands",
+            "name": "Luxury brands",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:clothing_brands_of_france",
+            "name": "Clothing brands of France",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:deconstructed_silhouettes",
+            "name": "Deconstructed Silhouettes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:oversized_proportions",
+            "name": "Oversized Proportions",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:distressed_finishes",
+            "name": "Distressed Finishes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:graphic_prints",
+            "name": "Graphic Prints",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:exaggerated_volumes",
+            "name": "Exaggerated Volumes",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:global_travel",
+            "name": "Global Travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:front_row_access",
+            "name": "Front Row Access",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:cultural_influencer",
+            "name": "Cultural Influencer",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:product_brand",
+            "name": "Product Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:capsule",
+            "name": "Capsule",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:balenciaga",
+            "name": "Balenciaga",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:off_white",
+            "name": "Off-White",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:rick_owens",
+            "name": "Rick Owens",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:raf_simons",
+            "name": "Raf Simons",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:y_project",
+            "name": "Y/Project",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:nonconformity",
+            "name": "Nonconformity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:deconstruction",
+            "name": "Deconstruction",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:originality",
+            "name": "Originality",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:experimentalism",
+            "name": "Experimentalism",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:streetwear_culture",
+            "name": "Streetwear Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:post_soviet_aesthetics",
+            "name": "Post-Soviet Aesthetics",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:modern_luxury",
+            "name": "Modern Luxury",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:fashion_insiders",
+            "name": "Fashion Insiders",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:trendsetters",
+            "name": "Trendsetters",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:luxury_consumers",
+            "name": "Luxury Consumers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:workwear",
+            "name": "Workwear",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:post_soviet_youth",
+            "name": "Post-Soviet Youth",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:global_street_style",
+            "name": "Global Street Style",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:corporate_branding",
+            "name": "Corporate Branding",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:subversive",
+            "name": "Subversive",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:ironic",
+            "name": "Ironic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:provocative",
+            "name": "Provocative",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:bold",
+            "name": "Bold",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:edgy",
+            "name": "Edgy",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:luxury",
+            "name": "Luxury",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:high_fashion",
+            "name": "High Fashion",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+            "name": "Ready-to-Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:designer",
+            "name": "Designer",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:streetwear",
+            "name": "Streetwear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:luxury_goods",
+            "name": "Luxury Goods",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:street_style_stars",
+            "name": "Street Style Stars",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fashion_editors",
+            "name": "Fashion Editors",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:creative_directors",
+            "name": "Creative Directors",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:avant_garde_musicians",
+            "name": "Avant-Garde Musicians",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:stylists",
+            "name": "Stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:contemporary_art",
+            "name": "Contemporary Art",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:underground_music",
+            "name": "Underground Music",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:digital_culture",
+            "name": "Digital Culture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:street_photography",
+            "name": "Street Photography",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:fashion_theory",
+            "name": "Fashion Theory",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:france",
+            "name": "France",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:japan",
+            "name": "Japan",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:china",
+            "name": "China",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:south_korea",
+            "name": "South Korea",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:deconstruction",
+            "name": "Deconstruction",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:oversized",
+            "name": "Oversized",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:irony",
+            "name": "Irony",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:streetwear",
+            "name": "Streetwear",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:luxury",
+            "name": "Luxury",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:levi_s",
+            "name": "Levi's",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:reebok",
+            "name": "Reebok",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:dhl",
+            "name": "DHL",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:manolo_blahnik",
+            "name": "Manolo Blahnik",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:champion",
+            "name": "Champion",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:urban_living",
+            "name": "Urban Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:late_night_culture",
+            "name": "Late Night Culture",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:creative_industry",
+            "name": "Creative Industry",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:cult",
+            "name": "Cult",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:denim",
+            "name": "Denim",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:cotton",
+            "name": "Cotton",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:leather",
+            "name": "Leather",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:synthetic_blends",
+            "name": "Synthetic Blends",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:edgy",
+            "name": "Edgy",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:subversive",
+            "name": "Subversive",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:outerwear",
+            "name": "Outerwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:outerwear",
+            "name": "Outerwear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:hoodies",
+            "name": "Hoodies",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:denim",
+            "name": "Denim",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:t_shirts",
+            "name": "T-shirts",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:footwear",
+            "name": "Footwear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:department_store",
+            "name": "Department Store",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:online_marketplace",
+            "name": "Online Marketplace",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:wholesale",
+            "name": "Wholesale",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:oversized_hoodie",
+            "name": "Oversized Hoodie",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:deconstructed_denim",
+            "name": "Deconstructed Denim",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:tracksuit",
+            "name": "Tracksuit",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:lighter_heel_boots",
+            "name": "Lighter-Heel Boots",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:maison_margiela",
+            "name": "Maison Margiela",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:comme_des_garcons",
+            "name": "Comme des Garçons",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:a_cold_wall_",
+            "name": "A-Cold-Wall*",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:dries_van_noten",
+            "name": "Dries Van Noten",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:marine_serre",
+            "name": "Marine Serre",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.904906349995894,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "wikidata": [
+            {
+              "id": "Q29109956"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "vetements_official"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Helmut Lang",
+        "entity_id": "8BE27D89-C323-4294-9A8E-BC02814C3C62",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [],
+          "image": {
+            "url": "https://images.qloo.com/i/8BE27D89-C323-4294-9A8E-BC02814C3C62-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Minimalism",
+            "Architecture",
+            "Uniform",
+            "Tailoring",
+            "Deconstruction"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Metropolitan Living",
+            "Minimalist Home Aesthetic",
+            "Gallery Hopping",
+            "Urban Commuting"
+          ],
+          "brand_type": [
+            "Product Brand"
+          ],
+          "industries": [
+            "Fashion & Apparel"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Restraint",
+            "Adaptability",
+            "Clarity",
+            "Modernity"
+          ],
+          "description": "Helmut Lang is a seminal fashion house that redefined the landscape of luxury with its stark, minimalist aesthetic and intellectual rigor. The brand specializes in high-end, architectural ready-to-wear, creating core uniforms that balance restraint with adaptability. By prioritizing clean lines, innovative tailoring, and a largely monochromatic palette, it has cultivated a loyal following among those who value functional design. Today, the label continues to influence modern fashion by blending its rich, avant-garde heritage with contemporary urban sensibilities.",
+          "key_markets": [
+            "United States",
+            "Europe",
+            "Japan"
+          ],
+          "founded_year": 1986,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Male",
+            "Female",
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C"
+          ],
+          "emotional_tone": [
+            "Cool",
+            "Restrained",
+            "Intellectual",
+            "Sharp"
+          ],
+          "personal_style": [
+            "Minimalist",
+            "Androgynous",
+            "Edgy",
+            "Modern"
+          ],
+          "similar_brands": [
+            "Ann Demeulemeester",
+            "Acne Studios",
+            "The Row",
+            "Maison Margiela",
+            "Raf Simons"
+          ],
+          "ultimate_parent": "Fast Retailing Co., Ltd.",
+          "immediate_parent": "Link Theory Holdings Co., Ltd.",
+          "target_age_group": [
+            "Young Adults",
+            "Adults",
+            "Middle-Aged"
+          ],
+          "audience_identity": "People who value understated sophistication and architectural precision, often prioritizing a versatile, uniform-like wardrobe that balances intellectual restraint with an edgy, urban sensibility.",
+          "competitor_brands": [
+            "Jil Sander",
+            "Calvin Klein",
+            "Prada",
+            "Theory",
+            "Rick Owens"
+          ],
+          "customer_segments": [
+            "Urban Professionals",
+            "Creative Industry Workers",
+            "Minimalist Fashion Enthusiasts"
+          ],
+          "influencer_appeal": [
+            "Modern Architects",
+            "Independent Creatives",
+            "Minimalist Stylists",
+            "Fashion Editors",
+            "Conceptual Artists"
+          ],
+          "products_services": [
+            "Jeans",
+            "Jackets",
+            "Dresses",
+            "Trousers",
+            "Tops",
+            "Shirts",
+            "Outerwear",
+            "Accessories"
+          ],
+          "short_description": "Helmut Lang is a luxury fashion brand known for minimalist clothing including dresses, jackets, trousers, and outerwear for men and women.",
+          "style_description": "Defined by a rigorous, architectural approach to design, the aesthetic features clean-cut tailoring, innovative technical fabrics, and a stark, monochromatic palette.",
+          "cultural_relevance": [
+            "Minimalist Design Movement",
+            "Nineties Fashion",
+            "Streetwear Evolution"
+          ],
+          "known_partnerships": [
+            "Travis Scott",
+            "Saint Heron",
+            "Griffin"
+          ],
+          "market_positioning": "Premium contemporary fashion brand offering high-end, architectural basics to a style-conscious audience.",
+          "short_descriptions": [
+            {
+              "value": "Una marca de lujo pionera definida por siluetas minimalistas, sastrería precisa y un enfoque arquitectónico perdurable para los básicos modernos.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "A pioneering luxury brand defined by minimalist silhouettes, precise tailoring, and an enduring, architectural approach to modern essentials.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Une maison de luxe pionnière définie par des silhouettes minimalistes, une coupe précise et une approche architecturale durable des essentiels modernes.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Eine wegweisende Luxusmarke, die durch minimalistische Silhouetten, präzise Schnitte und einen beständigen, architektonischen Ansatz für moderne Basics definiert wird.",
+              "languages": [
+                "de"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": 1500,
+          "price_range_usd_min": 150,
+          "target_income_level": [
+            "Medium to High",
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Monochromatic",
+            "Architectural",
+            "Sleek",
+            "Tailored",
+            "Clean Lines"
+          ],
+          "category_description": "A luxury fashion house specializing in minimalist ready-to-wear, defined by clean lines, innovative fabric usage, and a fundamental focus on architectural form.",
+          "headquarters_address": "New York, New York, USA",
+          "interest_adjacencies": [
+            "Contemporary Art",
+            "Brutalist Architecture",
+            "Industrial Design",
+            "Electronic Music",
+            "Modern Photography"
+          ],
+          "situational_contexts": "Designed for everyday life in metropolitan environments, this aesthetic thrives in professional creative settings, gallery openings, or minimalist-focused urban social scenes.",
+          "aspirational_lifestyle": [
+            "Curated Living",
+            "Intellectual Exploration",
+            "Global Travel",
+            "Design-Led Lifestyle"
+          ],
+          "sustainability_initiatives": [],
+          "cultural_context_description": "Deeply embedded in the intersection of high fashion and street-level subcultures, the brand is widely recognized for defining the minimalist aesthetic of the nineties and early 2000s.",
+          "target_demographics_description": "Targeting urban-dwelling, style-conscious adults in the middle-to-high income brackets who prioritize design integrity over trend-chasing."
+        },
+        "popularity": 0.9628587411639064,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:fashion:casual",
+            "name": "Casual",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion:formalwear",
+            "name": "Formalwear",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:monochromatic",
+            "name": "Monochromatic",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:architectural",
+            "name": "Architectural",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:sleek",
+            "name": "Sleek",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:tailored",
+            "name": "Tailored",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:clean_lines",
+            "name": "Clean Lines",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:curated_living",
+            "name": "Curated Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:intellectual_exploration",
+            "name": "Intellectual Exploration",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:global_travel",
+            "name": "Global Travel",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:design_led_lifestyle",
+            "name": "Design-Led Lifestyle",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:fashion",
+            "name": "Fashion",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:product_brand",
+            "name": "Product Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:seasonal",
+            "name": "Seasonal",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:permanent",
+            "name": "Permanent",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:collection_cadence:qloo:capsule",
+            "name": "Capsule",
+            "type": "urn:tag:collection_cadence:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:jil_sander",
+            "name": "Jil Sander",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:calvin_klein",
+            "name": "Calvin Klein",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:prada",
+            "name": "Prada",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:theory",
+            "name": "Theory",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:rick_owens",
+            "name": "Rick Owens",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:restraint",
+            "name": "Restraint",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:adaptability",
+            "name": "Adaptability",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:clarity",
+            "name": "Clarity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:modernity",
+            "name": "Modernity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:minimalist_design_movement",
+            "name": "Minimalist Design Movement",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:nineties_fashion",
+            "name": "Nineties Fashion",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:streetwear_evolution",
+            "name": "Streetwear Evolution",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:urban_professionals",
+            "name": "Urban Professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:creative_industry_workers",
+            "name": "Creative Industry Workers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:minimalist_fashion_enthusiasts",
+            "name": "Minimalist Fashion Enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:industrial_design",
+            "name": "Industrial Design",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:brutalism",
+            "name": "Brutalism",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:workwear",
+            "name": "Workwear",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:design_inspiration:qloo:street_style",
+            "name": "Street Style",
+            "type": "urn:tag:design_inspiration:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:cool",
+            "name": "Cool",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:restrained",
+            "name": "Restrained",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:intellectual",
+            "name": "Intellectual",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sharp",
+            "name": "Sharp",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:designer",
+            "name": "Designer",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:ready_to_wear",
+            "name": "Ready-to-Wear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:contemporary",
+            "name": "Contemporary",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:fashion_segment:qloo:streetwear",
+            "name": "Streetwear",
+            "type": "urn:tag:fashion_segment:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:fashion_apparel",
+            "name": "Fashion & Apparel",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:modern_architects",
+            "name": "Modern Architects",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:independent_creatives",
+            "name": "Independent Creatives",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:minimalist_stylists",
+            "name": "Minimalist Stylists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fashion_editors",
+            "name": "Fashion Editors",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:conceptual_artists",
+            "name": "Conceptual Artists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:contemporary_art",
+            "name": "Contemporary Art",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:brutalist_architecture",
+            "name": "Brutalist Architecture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:industrial_design",
+            "name": "Industrial Design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:electronic_music",
+            "name": "Electronic Music",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:modern_photography",
+            "name": "Modern Photography",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:europe",
+            "name": "Europe",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:japan",
+            "name": "Japan",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:minimalism",
+            "name": "Minimalism",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:architecture",
+            "name": "Architecture",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:uniform",
+            "name": "Uniform",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:tailoring",
+            "name": "Tailoring",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:deconstruction",
+            "name": "Deconstruction",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:travis_scott",
+            "name": "Travis Scott",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:saint_heron",
+            "name": "Saint Heron",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:griffin",
+            "name": "Griffin",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:metropolitan_living",
+            "name": "Metropolitan Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:minimalist_home_aesthetic",
+            "name": "Minimalist Home Aesthetic",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:gallery_hopping",
+            "name": "Gallery Hopping",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:urban_commuting",
+            "name": "Urban Commuting",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:avant_garde",
+            "name": "Avant-Garde",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:denim",
+            "name": "Denim",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:cotton",
+            "name": "Cotton",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:leather",
+            "name": "Leather",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:material:qloo:technical_fabrics",
+            "name": "Technical Fabrics",
+            "type": "urn:tag:material:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:androgynous",
+            "name": "Androgynous",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:edgy",
+            "name": "Edgy",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:personal_style:qloo:modern",
+            "name": "Modern",
+            "type": "urn:tag:personal_style:qloo"
+          },
+          {
+            "id": "urn:tag:price_level:qloo:_",
+            "name": "$$$",
+            "type": "urn:tag:price_level:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:apparel",
+            "name": "Apparel",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:outerwear",
+            "name": "Outerwear",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:denim",
+            "name": "Denim",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_category:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_category:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:jeans",
+            "name": "Jeans",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:jackets",
+            "name": "Jackets",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:dresses",
+            "name": "Dresses",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:trousers",
+            "name": "Trousers",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:tops",
+            "name": "Tops",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:shirts",
+            "name": "Shirts",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:outerwear",
+            "name": "Outerwear",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:accessories",
+            "name": "Accessories",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:direct_to_consumer",
+            "name": "Direct-to-Consumer",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:department_store",
+            "name": "Department Store",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:online_marketplace",
+            "name": "Online Marketplace",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:retail_channel:qloo:wholesale",
+            "name": "Wholesale",
+            "type": "urn:tag:retail_channel:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:destroyed_denim",
+            "name": "Destroyed Denim",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:minimalist_suit",
+            "name": "Minimalist Suit",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:bondage_gear",
+            "name": "Bondage Gear",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:signature_piece:qloo:cropped_trucker_jacket",
+            "name": "Cropped Trucker Jacket",
+            "type": "urn:tag:signature_piece:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:ann_demeulemeester",
+            "name": "Ann Demeulemeester",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:acne_studios",
+            "name": "Acne Studios",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:the_row",
+            "name": "The Row",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:maison_margiela",
+            "name": "Maison Margiela",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:raf_simons",
+            "name": "Raf Simons",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:middle_aged",
+            "name": "Middle-Aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:male",
+            "name": "Male",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:female",
+            "name": "Female",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.9023961441050089,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "helmutlang"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "helmutlang"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

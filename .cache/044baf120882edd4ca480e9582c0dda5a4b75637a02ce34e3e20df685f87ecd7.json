@@ -1,0 +1,21 @@
+{
+  "duration": 56,
+  "success": true,
+  "results": {
+    "tags": [
+      {
+        "parents": [
+          {
+            "type": "urn:entity:place"
+          }
+        ],
+        "type": "urn:tag:category:place",
+        "id": "urn:tag:category:place:craft",
+        "name": "Craft",
+        "popularity": 0.98919445,
+        "properties": {},
+        "tags": []
+      }
+    ]
+  }
+}

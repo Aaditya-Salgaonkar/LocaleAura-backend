@@ -1,0 +1,4096 @@
+{
+  "success": true,
+  "results": {
+    "entities": [
+      {
+        "name": "The New Yorker",
+        "entity_id": "399654ED-B417-49C5-A9AA-8682BE35A85D",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [
+            {
+              "value": "Người Niu-Giooc",
+              "languages": [
+                "vi"
+              ]
+            },
+            {
+              "value": "더 뉴 요커",
+              "languages": [
+                "ko"
+              ]
+            },
+            {
+              "value": "纽约客",
+              "languages": [
+                "zh"
+              ]
+            },
+            {
+              "value": "הניו יורקר",
+              "languages": [
+                "he"
+              ]
+            },
+            {
+              "value": "দ্য নিউ ইয়র্কার",
+              "languages": [
+                "bn"
+              ]
+            },
+            {
+              "value": "Нью-Йоркер",
+              "languages": [
+                "ru",
+                "uk"
+              ]
+            },
+            {
+              "value": "New Yorker",
+              "languages": [
+                "it",
+                "de",
+                "es",
+                "es_ar",
+                "ro",
+                "no",
+                "fr",
+                "ca",
+                "pt_pt",
+                "pl",
+                "pt",
+                "nb"
+              ]
+            },
+            {
+              "value": "Ню Йоркър",
+              "languages": [
+                "bg"
+              ]
+            },
+            {
+              "value": "ザ・ニューヨーカー",
+              "languages": [
+                "ja"
+              ]
+            },
+            {
+              "value": "ნიუ-იორკერი",
+              "languages": [
+                "ka"
+              ]
+            },
+            {
+              "value": "ذا نيو يوركر",
+              "languages": [
+                "ar"
+              ]
+            },
+            {
+              "value": "New Yorker magazine",
+              "languages": [
+                "en_au"
+              ]
+            },
+            {
+              "value": "The New Yorker",
+              "languages": [
+                "sr",
+                "cs",
+                "el",
+                "et",
+                "da",
+                "nn",
+                "id",
+                "ms",
+                "fi",
+                "az",
+                "eu",
+                "sl",
+                "gl",
+                "sk",
+                "tr",
+                "hu",
+                "sv"
+              ]
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/399654ED-B417-49C5-A9AA-8682BE35A85D-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Journalism",
+            "Fiction",
+            "Politics",
+            "Culture",
+            "Cartoons"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Metropolitan Living",
+            "Continuous Learning",
+            "Arts Engagement",
+            "Civic Participation"
+          ],
+          "brand_type": [
+            "Media Brand"
+          ],
+          "industries": [
+            "Media & Entertainment",
+            "Publishing",
+            "Journalism"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Journalistic Integrity",
+            "Literary Excellence",
+            "Intellectual Rigor",
+            "Cultural Relevance"
+          ],
+          "description": "Established in 1925, this publication is a cornerstone of American intellectual life, known for its deep-dive journalism, high-quality literary fiction, and trenchant cultural commentary. It has long defined the standard for the weekly magazine format, balancing news and politics with arts, cinema, and literature reviews. Its distinct identity is anchored by its commitment to rigorous fact-checking, insightful prose, and iconic cartoon tradition. The brand remains a primary source of information and creative stimulation for an educated and informed global audience.",
+          "key_markets": [
+            "United States"
+          ],
+          "founded_year": 1925,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C",
+            "Subscription",
+            "Advertising"
+          ],
+          "emotional_tone": [
+            "Sophisticated",
+            "Witty",
+            "Reflective",
+            "Serious",
+            "Incisive"
+          ],
+          "personal_style": [],
+          "similar_brands": [
+            "The Paris Review",
+            "London Review Of Books",
+            "Vanity Fair",
+            "The New York Review Of Books"
+          ],
+          "ultimate_parent": "Advance Publications",
+          "immediate_parent": "Condé Nast",
+          "target_age_group": [
+            "Adults",
+            "Middle-Aged",
+            "Seniors"
+          ],
+          "audience_identity": "Intellectually curious individuals who value nuanced storytelling, rigorous journalism, and a sophisticated, witty engagement with contemporary culture.",
+          "competitor_brands": [
+            "The Atlantic",
+            "Harper's Magazine",
+            "The New York Times",
+            "The Wall Street Journal",
+            "The Economist"
+          ],
+          "customer_segments": [
+            "Educated Professionals",
+            "Urban Intellectuals",
+            "Literary Enthusiasts"
+          ],
+          "influencer_appeal": [
+            "Public Intellectuals",
+            "Acclaimed Authors",
+            "Journalists",
+            "Artists",
+            "Political Commentators"
+          ],
+          "products_services": [
+            "Magazine",
+            "Podcast",
+            "Digital News Subscription",
+            "Cartoons",
+            "Newsletter"
+          ],
+          "short_description": "The New Yorker is a magazine known for its unparalleled reporting and commentary on politics, culture, humor, cartoons, fiction, and poetry.",
+          "style_description": "The brand maintains an understated, classic, and sophisticated visual identity defined by clean typography and distinctive, often satirical, illustrative art.",
+          "cultural_relevance": [
+            "Modern Intellectualism",
+            "American Political Discourse",
+            "Literary Canon"
+          ],
+          "known_partnerships": [],
+          "market_positioning": "Preeminent American cultural and political weekly magazine targeting an educated, affluent, and intellectually engaged readership.",
+          "short_descriptions": [
+            {
+              "value": "Ein Wochenmagazin, das für seinen anspruchsvollen Journalismus, kulturelle Kommentare, scharfsinnige politische Analysen und ikonische Cartoons bekannt ist.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Un semanario reconocido por su periodismo riguroso, comentarios culturales, análisis político incisivo y sus emblemáticas viñetas.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "A weekly magazine renowned for its rigorous journalism, cultural commentary, incisive political analysis, and iconic cartoons.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Un hebdomadaire célèbre pour son journalisme rigoureux, ses commentaires culturels, ses analyses politiques incisives et ses dessins satiriques emblématiques.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": null,
+          "price_range_usd_min": null,
+          "target_income_level": [
+            "Medium to High",
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Minimalist Typography",
+            "Signature Serif Font",
+            "Classic Illustration Style",
+            "Editorial Elegance"
+          ],
+          "category_description": "A long-form, weekly publication that occupies a prestigious role in American journalism, blending investigative reporting, fiction, criticism, and art.",
+          "headquarters_address": "New York City, New York, United States",
+          "interest_adjacencies": [
+            "Literature",
+            "Current Events",
+            "Visual Arts",
+            "Critical Theory",
+            "Political Commentary"
+          ],
+          "situational_contexts": "Engaged with during moments of leisure and reflection, such as during a morning commute, a quiet weekend morning, or while seeking deep-dive analysis on complex social, political, and cultural issues.",
+          "aspirational_lifestyle": [
+            "Academic Achievement",
+            "Global Citizenship",
+            "Critical Thinking",
+            "Social Commentary"
+          ],
+          "sustainability_initiatives": [],
+          "cultural_context_description": "Occupies a central position in the American literary and political establishment, serving as a primary outlet for serious long-form journalism and cultural critique.",
+          "target_demographics_description": null
+        },
+        "popularity": 0.9989489922191521,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:entertainment:media",
+            "name": "Media",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:entertainment",
+            "name": "Entertainment",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:platform_feature:qloo:advertising_enabled",
+            "name": "Advertising Enabled",
+            "type": "urn:tag:platform_feature:qloo"
+          },
+          {
+            "id": "urn:tag:genre:brand:entertainment:media:art",
+            "name": "Art",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:mobile_app:news",
+            "name": "News App",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:mobile_app:reading",
+            "name": "Reading App",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:mobile_app",
+            "name": "Mobile App",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:entertainment:media:news_and_politics",
+            "name": "News & Politics",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:minimalist_typography",
+            "name": "Minimalist Typography",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:signature_serif_font",
+            "name": "Signature Serif Font",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:classic_illustration_style",
+            "name": "Classic Illustration Style",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:editorial_elegance",
+            "name": "Editorial Elegance",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:academic_achievement",
+            "name": "Academic Achievement",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:global_citizenship",
+            "name": "Global Citizenship",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:critical_thinking",
+            "name": "Critical Thinking",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:social_commentary",
+            "name": "Social Commentary",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:other",
+            "name": "Other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:media_brand",
+            "name": "Media Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:subscription",
+            "name": "Subscription",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:advertising",
+            "name": "Advertising",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:the_atlantic",
+            "name": "The Atlantic",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:harper_s_magazine",
+            "name": "Harper's Magazine",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:the_new_york_times",
+            "name": "The New York Times",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:the_wall_street_journal",
+            "name": "The Wall Street Journal",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:the_economist",
+            "name": "The Economist",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:journalistic_integrity",
+            "name": "Journalistic Integrity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:literary_excellence",
+            "name": "Literary Excellence",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:intellectual_rigor",
+            "name": "Intellectual Rigor",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:cultural_relevance",
+            "name": "Cultural Relevance",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:modern_intellectualism",
+            "name": "Modern Intellectualism",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:american_political_discourse",
+            "name": "American Political Discourse",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:literary_canon",
+            "name": "Literary Canon",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:educated_professionals",
+            "name": "Educated Professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:urban_intellectuals",
+            "name": "Urban Intellectuals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:literary_enthusiasts",
+            "name": "Literary Enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sophisticated",
+            "name": "Sophisticated",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:witty",
+            "name": "Witty",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:reflective",
+            "name": "Reflective",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:serious",
+            "name": "Serious",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:incisive",
+            "name": "Incisive",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:media_entertainment",
+            "name": "Media & Entertainment",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:publishing",
+            "name": "Publishing",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:journalism",
+            "name": "Journalism",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:public_intellectuals",
+            "name": "Public Intellectuals",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:acclaimed_authors",
+            "name": "Acclaimed Authors",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:journalists",
+            "name": "Journalists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:artists",
+            "name": "Artists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:political_commentators",
+            "name": "Political Commentators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:literature",
+            "name": "Literature",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:current_events",
+            "name": "Current Events",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:visual_arts",
+            "name": "Visual Arts",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:critical_theory",
+            "name": "Critical Theory",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:political_commentary",
+            "name": "Political Commentary",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:journalism",
+            "name": "Journalism",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:fiction",
+            "name": "Fiction",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:politics",
+            "name": "Politics",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:culture",
+            "name": "Culture",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:cartoons",
+            "name": "Cartoons",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:metropolitan_living",
+            "name": "Metropolitan Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:continuous_learning",
+            "name": "Continuous Learning",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:arts_engagement",
+            "name": "Arts Engagement",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:civic_participation",
+            "name": "Civic Participation",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:mainstream",
+            "name": "Mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:magazine",
+            "name": "Magazine",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:podcast",
+            "name": "Podcast",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:digital_news_subscription",
+            "name": "Digital News Subscription",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:cartoons",
+            "name": "Cartoons",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:newsletter",
+            "name": "Newsletter",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:the_paris_review",
+            "name": "The Paris Review",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:london_review_of_books",
+            "name": "London Review Of Books",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:vanity_fair",
+            "name": "Vanity Fair",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:the_new_york_review_of_books",
+            "name": "The New York Review Of Books",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:middle_aged",
+            "name": "Middle-Aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:seniors",
+            "name": "Seniors",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8809437489203324,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "newyorker"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "Q217305"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "newyorker"
+            },
+            {
+              "id": "newyorkermag"
+            }
+          ]
+        }
+      },
+      {
+        "name": "hitRECord",
+        "entity_id": "B106D43C-3BFD-4AFC-B48D-69C58A734436",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [
+            {
+              "value": "最紅錄影影業",
+              "languages": [
+                "zh"
+              ]
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/B106D43C-3BFD-4AFC-B48D-69C58A734436-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": "Be creative together.",
+          "industry": [
+            "filmmaking",
+            "creative industries",
+            "music industry"
+          ],
+          "keywords": [
+            "Crowdsourcing",
+            "Collaboration",
+            "Multimedia",
+            "Community",
+            "Creativity"
+          ],
+          "owned_by": null,
+          "products": [],
+          "inception": null,
+          "lifestyle": [
+            "Creative Hobbies",
+            "Digital Collaboration",
+            "Community Engagement"
+          ],
+          "brand_type": [
+            "Media Brand"
+          ],
+          "industries": [
+            "Media & Entertainment",
+            "Art",
+            "Creative Communities"
+          ],
+          "subsidiary": [],
+          "core_values": [
+            "Collaboration",
+            "Community",
+            "Inclusivity",
+            "Creativity",
+            "Accessibility"
+          ],
+          "description": "An online platform dedicated to collaborative creative projects across multiple art forms including film, music, and literature. It allows users to contribute individual pieces of work to build larger, community-produced final products. The brand fosters a spirit of inclusivity and shared artistic achievement. It serves as a digital space for independent creators to connect and experiment with collective storytelling.",
+          "key_markets": [
+            "United States",
+            "United Kingdom",
+            "Canada"
+          ],
+          "founded_year": 2005,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": "http://www.hitrecord.org/",
+          "target_gender": [
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C",
+            "Advertising"
+          ],
+          "emotional_tone": [
+            "Inclusive",
+            "Collaborative",
+            "Inspiring",
+            "Creative",
+            "Accessible"
+          ],
+          "personal_style": null,
+          "similar_brands": [
+            "Behance",
+            "DeviantArt",
+            "Patreon",
+            "Skillshare",
+            "Wattpad"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Young Adults",
+            "Adults"
+          ],
+          "audience_identity": "People who value collaborative creative expression and are drawn to the process of building projects alongside like-minded individuals rather than creating in isolation.",
+          "competitor_brands": [],
+          "customer_segments": [
+            "Digital Artists",
+            "Independent Creatives",
+            "Aspiring Filmmakers",
+            "Collaborative Hobbyists"
+          ],
+          "influencer_appeal": [
+            "Multi-Disciplinary Artists",
+            "Indie Filmmakers",
+            "Creative Technologists",
+            "Digital Illustrators",
+            "Musicians"
+          ],
+          "products_services": [
+            "Collaborative Art Platform",
+            "Creative Workshops",
+            "Community Projects",
+            "Content Distribution"
+          ],
+          "short_description": "An online collaborative media platform founded by Joseph Gordon-Levitt for creative collaboration across various art forms.",
+          "style_description": "The visual identity is clean and functional, prioritizing community-contributed content and ease of navigation for creative collaboration.",
+          "cultural_relevance": [
+            "Digital Art Culture",
+            "Collaborative Media Movement",
+            "Independent Arts"
+          ],
+          "known_partnerships": [
+            "Samsung",
+            "LG Electronics"
+          ],
+          "market_positioning": "A unique community-driven platform for collaborative creative production that democratizes the content creation process.",
+          "short_descriptions": [
+            {
+              "value": "Eine kollaborative Community-Plattform, auf der Künstler gemeinsam an der Verwirklichung kreativer Ideen und Projekte arbeiten.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Une plateforme communautaire collaborative où les artistes travaillent ensemble pour concrétiser des idées et des projets créatifs.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "A collaborative community platform where artists work together to bring creative ideas and projects to life.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Una plataforma comunitaria colaborativa donde artistas trabajan juntos para hacer realidad ideas y proyectos creativos.",
+              "languages": [
+                "es"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": null,
+          "price_range_usd_min": null,
+          "target_income_level": [
+            "Low",
+            "Medium",
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Minimalist",
+            "Community-Focused",
+            "User-Centric",
+            "Functional"
+          ],
+          "category_description": "An online collaborative production company and community platform that facilitates the crowdsourced creation of multimedia projects across film, music, and literature.",
+          "headquarters_address": "Los Angeles, California, USA",
+          "interest_adjacencies": [
+            "Digital Art",
+            "Creative Writing",
+            "Independent Filmmaking",
+            "Music Production",
+            "Collaborative Design"
+          ],
+          "situational_contexts": "Engaging during moments of creative inspiration or when looking for a community-driven environment to refine artistic ideas and produce collective projects.",
+          "aspirational_lifestyle": [
+            "Professional Creative Accomplishment",
+            "Artistic Recognition",
+            "Global Creative Impact"
+          ],
+          "sustainability_initiatives": [],
+          "cultural_context_description": "The brand thrives at the intersection of digital community building and the democratized creative arts, fostering an environment for collective artistic production.",
+          "target_demographics_description": null
+        },
+        "popularity": 0.8703785323184893,
+        "tags": [
+          {
+            "id": "urn:tag:wikipedia_category:film_production_companies_of_the_united_states",
+            "name": "Film production companies of the United States",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:music_production_companies",
+            "name": "Music production companies",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:genre:brand:website",
+            "name": "Website",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:publishing_companies_of_the_united_states",
+            "name": "Publishing companies of the United States",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:genre:brand:entertainment",
+            "name": "Entertainment",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:mobile_app:photo_and_video",
+            "name": "Photo & Video App",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:mobile_app",
+            "name": "Mobile App",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:community_focused",
+            "name": "Community-Focused",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:user_centric",
+            "name": "User-Centric",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:functional",
+            "name": "Functional",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:professional_creative_accomplishment",
+            "name": "Professional Creative Accomplishment",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:artistic_recognition",
+            "name": "Artistic Recognition",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:global_creative_impact",
+            "name": "Global Creative Impact",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:other",
+            "name": "Other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:media_brand",
+            "name": "Media Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:advertising",
+            "name": "Advertising",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:collaboration",
+            "name": "Collaboration",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:community",
+            "name": "Community",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:inclusivity",
+            "name": "Inclusivity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:creativity",
+            "name": "Creativity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:accessibility",
+            "name": "Accessibility",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:digital_art_culture",
+            "name": "Digital Art Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:collaborative_media_movement",
+            "name": "Collaborative Media Movement",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:independent_arts",
+            "name": "Independent Arts",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:digital_artists",
+            "name": "Digital Artists",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:independent_creatives",
+            "name": "Independent Creatives",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:aspiring_filmmakers",
+            "name": "Aspiring Filmmakers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:collaborative_hobbyists",
+            "name": "Collaborative Hobbyists",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:inclusive",
+            "name": "Inclusive",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:collaborative",
+            "name": "Collaborative",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:inspiring",
+            "name": "Inspiring",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:creative",
+            "name": "Creative",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:accessible",
+            "name": "Accessible",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:media_entertainment",
+            "name": "Media & Entertainment",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:art",
+            "name": "Art",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:creative_communities",
+            "name": "Creative Communities",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:multi_disciplinary_artists",
+            "name": "Multi-Disciplinary Artists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:indie_filmmakers",
+            "name": "Indie Filmmakers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:creative_technologists",
+            "name": "Creative Technologists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:digital_illustrators",
+            "name": "Digital Illustrators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:musicians",
+            "name": "Musicians",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:digital_art",
+            "name": "Digital Art",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:creative_writing",
+            "name": "Creative Writing",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:independent_filmmaking",
+            "name": "Independent Filmmaking",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:music_production",
+            "name": "Music Production",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:collaborative_design",
+            "name": "Collaborative Design",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_kingdom",
+            "name": "United Kingdom",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:canada",
+            "name": "Canada",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:crowdsourcing",
+            "name": "Crowdsourcing",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:collaboration",
+            "name": "Collaboration",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:multimedia",
+            "name": "Multimedia",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:community",
+            "name": "Community",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:creativity",
+            "name": "Creativity",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:samsung",
+            "name": "Samsung",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:lg_electronics",
+            "name": "LG Electronics",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:creative_hobbies",
+            "name": "Creative Hobbies",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:digital_collaboration",
+            "name": "Digital Collaboration",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:community_engagement",
+            "name": "Community Engagement",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:challenger",
+            "name": "Challenger",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:collaborative_art_platform",
+            "name": "Collaborative Art Platform",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:creative_workshops",
+            "name": "Creative Workshops",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:community_projects",
+            "name": "Community Projects",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:content_distribution",
+            "name": "Content Distribution",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:behance",
+            "name": "Behance",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:deviantart",
+            "name": "DeviantArt",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:patreon",
+            "name": "Patreon",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:skillshare",
+            "name": "Skillshare",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:wattpad",
+            "name": "Wattpad",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:low",
+            "name": "Low",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium",
+            "name": "Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.879937416005889,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "hitRECord"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "Q5871268"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "hitrecord"
+            }
+          ]
+        }
+      },
+      {
+        "name": "NPR",
+        "entity_id": "36A3F981-5BFB-45B5-A8CF-A16F273B04F0",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [
+            {
+              "value": "Radio Pública Nacional",
+              "languages": [
+                "es",
+                "es_ar"
+              ]
+            },
+            {
+              "value": "NPR",
+              "languages": [
+                "et",
+                "he",
+                "af",
+                "az",
+                "sl",
+                "pt_pt",
+                "pt",
+                "tl",
+                "tr"
+              ]
+            },
+            {
+              "value": "এনপিআর",
+              "languages": [
+                "bn"
+              ]
+            },
+            {
+              "value": "ナショナル・パブリック・ラジオ",
+              "languages": [
+                "ja"
+              ]
+            },
+            {
+              "value": "الإذاعة الوطنية العامة",
+              "languages": [
+                "ar"
+              ]
+            },
+            {
+              "value": "National Public Radio",
+              "languages": [
+                "it",
+                "de",
+                "uk",
+                "en_au",
+                "cs",
+                "da",
+                "nl",
+                "nn",
+                "id",
+                "ro",
+                "ms",
+                "no",
+                "ru",
+                "fi",
+                "fr",
+                "ca",
+                "sk",
+                "pl",
+                "nb",
+                "hu",
+                "sv"
+              ]
+            },
+            {
+              "value": "全国公共广播电台",
+              "languages": [
+                "zh"
+              ]
+            },
+            {
+              "value": "내셔널 퍼블릭 라디오",
+              "languages": [
+                "ko"
+              ]
+            },
+            {
+              "value": "Đài Phát thanh Công cộng Quốc gia",
+              "languages": [
+                "vi"
+              ]
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/36A3F981-5BFB-45B5-A8CF-A16F273B04F0-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "Journalism",
+            "Public Radio",
+            "Podcasting",
+            "News Analysis",
+            "Arts and Culture"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Constant Learning",
+            "Thoughtful Consumption",
+            "Active Citizenship",
+            "Commuting",
+            "Community Participation"
+          ],
+          "brand_type": [
+            "Media Brand"
+          ],
+          "industries": [
+            "Media & Entertainment",
+            "Nonprofit Organization",
+            "Public Broadcasting"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Journalistic Integrity",
+            "Public Service",
+            "Diversity",
+            "Transparency",
+            "Accuracy"
+          ],
+          "description": "An American nonprofit media organization providing high-quality journalism, investigative reporting, and arts and cultural programming. Founded in 1970, it operates as a major public broadcasting institution, connecting listeners through a network of member stations and digital platforms. It is widely recognized for its objective, in-depth approach to national and international affairs. The entity serves a broad, informed audience committed to civic engagement and lifelong learning.",
+          "key_markets": [
+            "United States"
+          ],
+          "founded_year": 1970,
+          "manufacturer": null,
+          "subsidiaries": [
+            "NPR Music",
+            "NPR Podcasts"
+          ],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C",
+            "Nonprofit"
+          ],
+          "emotional_tone": [
+            "Objective",
+            "Informed",
+            "Thoughtful",
+            "Serious",
+            "Empathetic"
+          ],
+          "personal_style": [],
+          "similar_brands": [
+            "The Atlantic",
+            "The New Yorker",
+            "ProPublica",
+            "Reuters",
+            "AP"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Young Adults",
+            "Adults",
+            "Middle-Aged",
+            "Seniors"
+          ],
+          "audience_identity": "Intellectually curious and civic-minded individuals who value objective reporting, deep cultural exploration, and thoughtful analysis in their daily information intake.",
+          "competitor_brands": [
+            "BBC",
+            "The New York Times",
+            "PBS",
+            "The Washington Post",
+            "CNN"
+          ],
+          "customer_segments": [
+            "Civic-Minded Adults",
+            "Lifelong Learners",
+            "Urban Professionals",
+            "Education Enthusiasts"
+          ],
+          "influencer_appeal": [
+            "Investigative Journalists",
+            "Documentary Filmmakers",
+            "Academic Experts",
+            "Public Intellectuals",
+            "Cultural Critics"
+          ],
+          "products_services": [
+            "News Radio",
+            "Podcasts",
+            "Cultural Programming",
+            "Music Discovery",
+            "Digital News Articles"
+          ],
+          "short_description": "NPR is a nonprofit media organization known for its news, cultural programming, and music content, including the popular Tiny Desk Concert series.",
+          "style_description": "Characterized by a clean, professional, and accessible aesthetic that prioritizes clarity and the primacy of the spoken word.",
+          "cultural_relevance": [
+            "Journalism",
+            "Civic Society",
+            "Arts Education",
+            "Public Discourse"
+          ],
+          "known_partnerships": [
+            "Member Stations",
+            "Tiny Desk Concerts"
+          ],
+          "market_positioning": "Trusted public media source providing authoritative news and cultural depth for an engaged, informed audience.",
+          "short_descriptions": [
+            {
+              "value": "Eine unabhängige, gemeinnützige Medienorganisation, die fundierte Nachrichten, kulturelle Analysen und hochwertige Audio-Formate bereitstellt.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Una organización mediática sin ánimo de lucro que ofrece periodismo independiente, análisis cultural y narrativas sonoras de alta calidad.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Une organisation médiatique indépendante et à but non lucratif qui propose des actualités rigoureuses, des analyses culturelles et des récits audio de qualité.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "An independent, nonprofit media organization delivering rigorous news, arts, and cultural analysis through high-quality audio and digital storytelling.",
+              "languages": [
+                "en"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": null,
+          "price_range_usd_min": null,
+          "target_income_level": [
+            "Medium",
+            "Medium to High",
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Minimalist",
+            "Clean Typography",
+            "Professional",
+            "Audio-Focused",
+            "Accessible"
+          ],
+          "category_description": "A public radio network and digital news organization providing comprehensive national and international news coverage alongside arts and cultural programming.",
+          "headquarters_address": "Washington, D.C., United States",
+          "interest_adjacencies": [
+            "Investigative Journalism",
+            "Civic Engagement",
+            "Independent Music",
+            "Social Issues",
+            "Global Affairs"
+          ],
+          "situational_contexts": "Engaged with during morning commutes, while preparing meals, or during quiet moments of reflection when seeking a comprehensive understanding of current events and artistic enrichment.",
+          "aspirational_lifestyle": [
+            "Well-Informed Global Citizenship",
+            "Intellectual Engagement",
+            "Cultural Sophistication",
+            "Critical Thinking"
+          ],
+          "sustainability_initiatives": [
+            "Public Accountability",
+            "Social Impact"
+          ],
+          "cultural_context_description": "Deeply embedded in the fabric of American civil society and the global community of listeners seeking reliable information and artistic discovery.",
+          "target_demographics_description": "Broad appeal across diverse adult age groups with a high educational and intellectual inclination."
+        },
+        "popularity": 0.9988472817887475,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:entertainment",
+            "name": "Entertainment",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:entertainment:media:news_and_politics",
+            "name": "News & Politics",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:entertainment:media",
+            "name": "Media",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:website",
+            "name": "Website",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:minimalist",
+            "name": "Minimalist",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:clean_typography",
+            "name": "Clean Typography",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:professional",
+            "name": "Professional",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:audio_focused",
+            "name": "Audio-Focused",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:accessible",
+            "name": "Accessible",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:well_informed_global_citizenship",
+            "name": "Well-Informed Global Citizenship",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:intellectual_engagement",
+            "name": "Intellectual Engagement",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:cultural_sophistication",
+            "name": "Cultural Sophistication",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:critical_thinking",
+            "name": "Critical Thinking",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:other",
+            "name": "Other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:media_brand",
+            "name": "Media Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:nonprofit",
+            "name": "Nonprofit",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:bbc",
+            "name": "BBC",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:the_new_york_times",
+            "name": "The New York Times",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:pbs",
+            "name": "PBS",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:the_washington_post",
+            "name": "The Washington Post",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:cnn",
+            "name": "CNN",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:journalistic_integrity",
+            "name": "Journalistic Integrity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:public_service",
+            "name": "Public Service",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:diversity",
+            "name": "Diversity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:transparency",
+            "name": "Transparency",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:accuracy",
+            "name": "Accuracy",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:journalism",
+            "name": "Journalism",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:civic_society",
+            "name": "Civic Society",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:arts_education",
+            "name": "Arts Education",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:public_discourse",
+            "name": "Public Discourse",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:civic_minded_adults",
+            "name": "Civic-Minded Adults",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:lifelong_learners",
+            "name": "Lifelong Learners",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:urban_professionals",
+            "name": "Urban Professionals",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:education_enthusiasts",
+            "name": "Education Enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:objective",
+            "name": "Objective",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:informed",
+            "name": "Informed",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:thoughtful",
+            "name": "Thoughtful",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:serious",
+            "name": "Serious",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:empathetic",
+            "name": "Empathetic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:media_entertainment",
+            "name": "Media & Entertainment",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:nonprofit_organization",
+            "name": "Nonprofit Organization",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:public_broadcasting",
+            "name": "Public Broadcasting",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:investigative_journalists",
+            "name": "Investigative Journalists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:documentary_filmmakers",
+            "name": "Documentary Filmmakers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:academic_experts",
+            "name": "Academic Experts",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:public_intellectuals",
+            "name": "Public Intellectuals",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:cultural_critics",
+            "name": "Cultural Critics",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:investigative_journalism",
+            "name": "Investigative Journalism",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:civic_engagement",
+            "name": "Civic Engagement",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:independent_music",
+            "name": "Independent Music",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:social_issues",
+            "name": "Social Issues",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:global_affairs",
+            "name": "Global Affairs",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:journalism",
+            "name": "Journalism",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:public_radio",
+            "name": "Public Radio",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:podcasting",
+            "name": "Podcasting",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:news_analysis",
+            "name": "News Analysis",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:arts_and_culture",
+            "name": "Arts and Culture",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:member_stations",
+            "name": "Member Stations",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:tiny_desk_concerts",
+            "name": "Tiny Desk Concerts",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:constant_learning",
+            "name": "Constant Learning",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:thoughtful_consumption",
+            "name": "Thoughtful Consumption",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:active_citizenship",
+            "name": "Active Citizenship",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:commuting",
+            "name": "Commuting",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:community_participation",
+            "name": "Community Participation",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:mainstream",
+            "name": "Mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:news_radio",
+            "name": "News Radio",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:podcasts",
+            "name": "Podcasts",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:cultural_programming",
+            "name": "Cultural Programming",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:music_discovery",
+            "name": "Music Discovery",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:digital_news_articles",
+            "name": "Digital News Articles",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:the_atlantic",
+            "name": "The Atlantic",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:the_new_yorker",
+            "name": "The New Yorker",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:propublica",
+            "name": "ProPublica",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:reuters",
+            "name": "Reuters",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:ap",
+            "name": "AP",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:subsidiary:qloo:npr_music",
+            "name": "NPR Music",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "id": "urn:tag:subsidiary:qloo:npr_podcasts",
+            "name": "NPR Podcasts",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:public_accountability",
+            "name": "Public Accountability",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:social_impact",
+            "name": "Social Impact",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:middle_aged",
+            "name": "Middle-Aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:seniors",
+            "name": "Seniors",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium",
+            "name": "Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8789496271332561,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "nprmusic"
+            },
+            {
+              "id": "nprpolitics"
+            },
+            {
+              "id": "nprbooks"
+            },
+            {
+              "id": "nprhealth"
+            },
+            {
+              "id": "npr"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "Q671510"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "nprmusic"
+            },
+            {
+              "id": "nprpolitics"
+            },
+            {
+              "id": "npr"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Whitney Museum of American Art",
+        "entity_id": "5171F78A-6E2E-4215-9050-EE32056CE0A6",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [
+            {
+              "value": "Музей американського мистецтва Вітні",
+              "languages": [
+                "uk"
+              ]
+            },
+            {
+              "value": "惠特尼美术馆",
+              "languages": [
+                "zh"
+              ]
+            },
+            {
+              "value": "უიტნის ამერიკული ხელოვნების მუზეუმი",
+              "languages": [
+                "ka"
+              ]
+            },
+            {
+              "value": "Museo Whitney de Arte Estadounidense",
+              "languages": [
+                "es",
+                "es_ar"
+              ]
+            },
+            {
+              "value": "Музей американского искусства Уитни",
+              "languages": [
+                "ru"
+              ]
+            },
+            {
+              "value": "מוזיאון ויטני לאמנות אמריקאית",
+              "languages": [
+                "he"
+              ]
+            },
+            {
+              "value": "휘트니 미술관",
+              "languages": [
+                "ko"
+              ]
+            },
+            {
+              "value": "Museu Whitney d'Art Americà",
+              "languages": [
+                "ca"
+              ]
+            },
+            {
+              "value": "Whitney",
+              "languages": [
+                "pl"
+              ]
+            },
+            {
+              "value": "Μουσείο Γουίτνεϊ Αμερικανικής Τέχνης",
+              "languages": [
+                "el"
+              ]
+            },
+            {
+              "value": "Whitney Müzesi",
+              "languages": [
+                "tr"
+              ]
+            },
+            {
+              "value": "Muzej sodobne umetnosti Whitney",
+              "languages": [
+                "sl"
+              ]
+            },
+            {
+              "value": "ホイットニー美術館",
+              "languages": [
+                "ja"
+              ]
+            },
+            {
+              "value": "متحف ويتني للفن الأمريكي",
+              "languages": [
+                "ar"
+              ]
+            },
+            {
+              "value": "The Whitney Museum",
+              "languages": [
+                "en_au"
+              ]
+            },
+            {
+              "value": "Whitney Museum of American Art",
+              "languages": [
+                "da",
+                "id",
+                "fi",
+                "sk",
+                "nb",
+                "hu",
+                "sv"
+              ]
+            },
+            {
+              "value": "Muzeum amerického umění Whitneyové",
+              "languages": [
+                "cs"
+              ]
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/5171F78A-6E2E-4215-9050-EE32056CE0A6-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": null,
+          "industry": null,
+          "keywords": [
+            "American Art",
+            "Biennial",
+            "Contemporary Art",
+            "Modernism",
+            "Meatpacking District"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "City Living",
+            "Gallery Visiting",
+            "Intellectual Inquiry",
+            "Socializing In Cultural Spaces"
+          ],
+          "brand_type": [
+            "Nonprofit Brand"
+          ],
+          "industries": [
+            "Media & Entertainment",
+            "Art Museum",
+            "Cultural Institution"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Accessibility",
+            "Cultural Preservation",
+            "Artistic Freedom",
+            "Inclusivity"
+          ],
+          "description": "Founded in 1931 by Gertrude Vanderbilt Whitney, this premier institution is dedicated to the collection and presentation of American art. It maintains a vast collection featuring over 4,000 artists and is widely recognized for its long-running Biennial survey. Located in New York City’s Meatpacking District, the museum emphasizes accessibility through free programming and community engagement. It serves as a vital platform for artists to challenge boundaries and shape the national cultural conversation.",
+          "key_markets": [
+            "United States"
+          ],
+          "founded_year": 1931,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "Nonprofit"
+          ],
+          "emotional_tone": [
+            "Inspirational",
+            "Intellectual",
+            "Welcoming",
+            "Thought-Provoking"
+          ],
+          "personal_style": null,
+          "similar_brands": [
+            "Dia Art Foundation",
+            "Brooklyn Museum",
+            "Tate",
+            "Centre Pompidou"
+          ],
+          "ultimate_parent": null,
+          "immediate_parent": null,
+          "target_age_group": [
+            "Children",
+            "Teens",
+            "Young Adults",
+            "Adults",
+            "Middle-Aged",
+            "Seniors"
+          ],
+          "audience_identity": "Cultural explorers and lifelong learners who value artistic expression, creative history, and meaningful engagement with the sociopolitical narratives of their time.",
+          "competitor_brands": [
+            "Museum Of Modern Art",
+            "Guggenheim Museum",
+            "Metropolitan Museum Of Art",
+            "New Museum"
+          ],
+          "customer_segments": [
+            "Art Enthusiasts",
+            "Students",
+            "New York City Residents",
+            "Cultural Tourists",
+            "Families"
+          ],
+          "influencer_appeal": [
+            "Fine Artists",
+            "Curators",
+            "Art Critics",
+            "Cultural Historians",
+            "Designers"
+          ],
+          "products_services": [
+            "Art Exhibitions",
+            "Art Education Programs",
+            "Museum Tours",
+            "Biennial Survey",
+            "Public Programming",
+            "Digital Art Content",
+            "Podcasts",
+            "Workshops"
+          ],
+          "short_description": "The Whitney Museum of American Art is a New York City museum dedicated to showcasing American art, including contemporary and new-media works.",
+          "style_description": "A sophisticated and minimalist aesthetic defined by its iconic industrial-modern architecture and open gallery spaces designed for immersive viewing.",
+          "cultural_relevance": [
+            "American Modernism",
+            "Contemporary Art Movement",
+            "New York City Arts Scene"
+          ],
+          "known_partnerships": [
+            "Hyundai",
+            "Art Bridges",
+            "Bloomberg Philanthropies",
+            "Bank of America"
+          ],
+          "market_positioning": "A prominent, accessible art institution specializing in the preservation and exhibition of American artistic achievement.",
+          "short_descriptions": [
+            {
+              "value": "Una institución emblemática dedicada a la colección, preservación y exposición de arte estadounidense moderno y contemporáneo.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "A premier institution dedicated to the collection, preservation, and presentation of twentieth-century and contemporary American art.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Une institution de premier plan dédiée à la collection, la préservation et la présentation de l'art américain moderne et contemporain.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "Eine führende Institution, die sich der Sammlung, Bewahrung und Präsentation moderner und zeitgenössischer amerikanischer Kunst widmet.",
+              "languages": [
+                "de"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": null,
+          "price_range_usd_min": null,
+          "target_income_level": [
+            "Low",
+            "Low to Medium",
+            "Medium",
+            "Medium to High",
+            "High"
+          ],
+          "aesthetic_properties": [
+            "Industrial Architecture",
+            "Minimalist Design",
+            "Expansive Views",
+            "Modernist Influences"
+          ],
+          "category_description": "A cultural institution and art museum serving as a hub for the discovery and exhibition of American visual art through rotating displays and long-term collections.",
+          "headquarters_address": "99 Gansevoort Street, New York, NY 10014, United States",
+          "interest_adjacencies": [
+            "Modern Art",
+            "Contemporary Culture",
+            "Architecture",
+            "Art History",
+            "Urban Exploration"
+          ],
+          "situational_contexts": "Weekend afternoons spent wandering galleries with friends, contemplative solo visits seeking creative inspiration, or attending evening cultural programming and events.",
+          "aspirational_lifestyle": [
+            "Curated Living",
+            "Lifelong Learning",
+            "Civic Engagement",
+            "Creative Expression"
+          ],
+          "sustainability_initiatives": [
+            "Energy Efficiency"
+          ],
+          "cultural_context_description": "A central pillar of the New York City art scene that fosters deep engagement with American identity and the evolving landscape of creative expression.",
+          "target_demographics_description": null
+        },
+        "popularity": 0.9902612262887559,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:cultural_arts",
+            "name": "Cultural Arts",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:industrial_architecture",
+            "name": "Industrial Architecture",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:minimalist_design",
+            "name": "Minimalist Design",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:expansive_views",
+            "name": "Expansive Views",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:modernist_influences",
+            "name": "Modernist Influences",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:curated_living",
+            "name": "Curated Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:lifelong_learning",
+            "name": "Lifelong Learning",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:civic_engagement",
+            "name": "Civic Engagement",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:creative_expression",
+            "name": "Creative Expression",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:other",
+            "name": "Other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:nonprofit_brand",
+            "name": "Nonprofit Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:nonprofit",
+            "name": "Nonprofit",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:museum_of_modern_art",
+            "name": "Museum Of Modern Art",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:guggenheim_museum",
+            "name": "Guggenheim Museum",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:metropolitan_museum_of_art",
+            "name": "Metropolitan Museum Of Art",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:new_museum",
+            "name": "New Museum",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:accessibility",
+            "name": "Accessibility",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:cultural_preservation",
+            "name": "Cultural Preservation",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:artistic_freedom",
+            "name": "Artistic Freedom",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:inclusivity",
+            "name": "Inclusivity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:american_modernism",
+            "name": "American Modernism",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:contemporary_art_movement",
+            "name": "Contemporary Art Movement",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:new_york_city_arts_scene",
+            "name": "New York City Arts Scene",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:art_enthusiasts",
+            "name": "Art Enthusiasts",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:students",
+            "name": "Students",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:new_york_city_residents",
+            "name": "New York City Residents",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:cultural_tourists",
+            "name": "Cultural Tourists",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:families",
+            "name": "Families",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:inspirational",
+            "name": "Inspirational",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:intellectual",
+            "name": "Intellectual",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:welcoming",
+            "name": "Welcoming",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:thought_provoking",
+            "name": "Thought-Provoking",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:media_entertainment",
+            "name": "Media & Entertainment",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:art_museum",
+            "name": "Art Museum",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:cultural_institution",
+            "name": "Cultural Institution",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:fine_artists",
+            "name": "Fine Artists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:curators",
+            "name": "Curators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:art_critics",
+            "name": "Art Critics",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:cultural_historians",
+            "name": "Cultural Historians",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:designers",
+            "name": "Designers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:modern_art",
+            "name": "Modern Art",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:contemporary_culture",
+            "name": "Contemporary Culture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:architecture",
+            "name": "Architecture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:art_history",
+            "name": "Art History",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:urban_exploration",
+            "name": "Urban Exploration",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:american_art",
+            "name": "American Art",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:biennial",
+            "name": "Biennial",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:contemporary_art",
+            "name": "Contemporary Art",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:modernism",
+            "name": "Modernism",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:meatpacking_district",
+            "name": "Meatpacking District",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:hyundai",
+            "name": "Hyundai",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:art_bridges",
+            "name": "Art Bridges",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:bloomberg_philanthropies",
+            "name": "Bloomberg Philanthropies",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:partnership:qloo:bank_of_america",
+            "name": "Bank of America",
+            "type": "urn:tag:partnership:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:city_living",
+            "name": "City Living",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:gallery_visiting",
+            "name": "Gallery Visiting",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:intellectual_inquiry",
+            "name": "Intellectual Inquiry",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:socializing_in_cultural_spaces",
+            "name": "Socializing In Cultural Spaces",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:heritage",
+            "name": "Heritage",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:mainstream",
+            "name": "Mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:art_exhibitions",
+            "name": "Art Exhibitions",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:art_education_programs",
+            "name": "Art Education Programs",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:museum_tours",
+            "name": "Museum Tours",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:biennial_survey",
+            "name": "Biennial Survey",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:public_programming",
+            "name": "Public Programming",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:digital_art_content",
+            "name": "Digital Art Content",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:podcasts",
+            "name": "Podcasts",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:workshops",
+            "name": "Workshops",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:dia_art_foundation",
+            "name": "Dia Art Foundation",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:brooklyn_museum",
+            "name": "Brooklyn Museum",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:tate",
+            "name": "Tate",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:centre_pompidou",
+            "name": "Centre Pompidou",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:sustainability_initiative:qloo:energy_efficiency",
+            "name": "Energy Efficiency",
+            "type": "urn:tag:sustainability_initiative:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:children",
+            "name": "Children",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:teens",
+            "name": "Teens",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:middle_aged",
+            "name": "Middle-Aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:seniors",
+            "name": "Seniors",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:low",
+            "name": "Low",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:low_to_medium",
+            "name": "Low to Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium",
+            "name": "Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:high",
+            "name": "High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8745832560900605,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "whitneymuseum"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "Q639791"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "whitneymuseum"
+            }
+          ]
+        }
+      },
+      {
+        "name": "The Onion",
+        "entity_id": "1168A134-84EB-480E-850D-1DE202F4576A",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [
+            {
+              "value": "ذا أنيون",
+              "languages": [
+                "ar"
+              ]
+            },
+            {
+              "value": "The Onion",
+              "languages": [
+                "he",
+                "uk",
+                "pt",
+                "id",
+                "ms",
+                "no",
+                "vi",
+                "ru",
+                "fi",
+                "sl",
+                "ca",
+                "pt_pt",
+                "pl",
+                "nb",
+                "sv"
+              ]
+            },
+            {
+              "value": "The Onion News Network",
+              "languages": [
+                "nl"
+              ]
+            },
+            {
+              "value": "洋葱报",
+              "languages": [
+                "zh"
+              ]
+            },
+            {
+              "value": "Onion",
+              "languages": [
+                "en_au"
+              ]
+            },
+            {
+              "value": "디 어니언",
+              "languages": [
+                "ko"
+              ]
+            },
+            {
+              "value": "ジ・オニオン",
+              "languages": [
+                "ja"
+              ]
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/1168A134-84EB-480E-850D-1DE202F4576A-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": "America's Finest News Source",
+          "industry": [
+            "publishing"
+          ],
+          "keywords": [
+            "Satire",
+            "Irony",
+            "News Parody",
+            "Absurdism",
+            "Media Criticism"
+          ],
+          "owned_by": "Fusion Media Group",
+          "products": [],
+          "inception": "1988-00-00",
+          "lifestyle": [
+            "Digital Consumption",
+            "News Analysis",
+            "Cultural Observation"
+          ],
+          "brand_type": [
+            "Media Brand"
+          ],
+          "industries": [
+            "Media & Entertainment",
+            "Publishing",
+            "Digital Media"
+          ],
+          "subsidiary": [],
+          "core_values": [
+            "Satire",
+            "Critical Thinking",
+            "Absurdism",
+            "Journalistic Integrity"
+          ],
+          "description": "Originally founded in 1988, this publication serves as one of the most prominent satirical news organizations in the world. It provides biting, deadpan commentary on global news, politics, and culture by mimicking the style and authority of mainstream journalism. Its content ranges from absurd headlines to incisive social critique, maintaining a loyal audience that spans multiple generations. The brand is known for its ability to cut through media noise with irreverent humor and persistent irony.",
+          "key_markets": [
+            "United States"
+          ],
+          "founded_year": 1988,
+          "manufacturer": null,
+          "subsidiaries": [
+            "The A.V. Club",
+            "StarWipe"
+          ],
+          "headquartered": "Chicago",
+          "official_site": "http://www.theonion.com/",
+          "target_gender": [
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "B2C",
+            "Advertising"
+          ],
+          "emotional_tone": [
+            "Cynical",
+            "Deadpan",
+            "Sardonic",
+            "Witty",
+            "Irreverent"
+          ],
+          "personal_style": [],
+          "similar_brands": [
+            "McSweeney's",
+            "The Daily Show",
+            "Saturday Night Live"
+          ],
+          "ultimate_parent": "Global Tetrahedron",
+          "immediate_parent": "Global Tetrahedron",
+          "target_age_group": [
+            "Young Adults",
+            "Adults",
+            "Middle-Aged"
+          ],
+          "audience_identity": "People who value sharp, critical wit and irony, often finding catharsis in subverting the earnest and often absurd nature of modern media and current events.",
+          "competitor_brands": [
+            "The Babylon Bee",
+            "ClickHole"
+          ],
+          "customer_segments": [
+            "Culturally Engaged Adults",
+            "Political Junkies",
+            "Media Skeptics"
+          ],
+          "influencer_appeal": [
+            "Comedians",
+            "Political Commentators",
+            "Media Critics",
+            "Journalists",
+            "Digital Creators"
+          ],
+          "products_services": [
+            "Satirical News Articles",
+            "Video Content",
+            "Podcasts",
+            "Email Newsletters",
+            "Print Newspaper",
+            "Merchandise"
+          ],
+          "short_description": "The Onion is a satirical news organization known for its humorous and parody news articles, videos, and digital content.",
+          "style_description": "The visual identity mimics standard news reporting, utilizing a stark, professional layout and generic photography to heighten the impact of its satirical headlines.",
+          "cultural_relevance": [
+            "Political Satire",
+            "Internet Culture",
+            "Alternative Media"
+          ],
+          "known_partnerships": [],
+          "market_positioning": "A uniquely positioned cultural institution that uses deadpan satire to critique mainstream media and societal trends for a cynical, politically aware audience.",
+          "short_descriptions": [
+            {
+              "value": "Una influyente organización de noticias satíricas que ofrece comentarios ácidos y mordaces sobre la actualidad y la vida estadounidense.",
+              "languages": [
+                "es"
+              ]
+            },
+            {
+              "value": "Eine einflussreiche satirische Nachrichtenorganisation, die bissige und trockene Kommentare zum aktuellen Zeitgeschehen und dem amerikanischen Leben liefert.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "An influential satirical news organization providing biting, deadpan commentary on current events and American life.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Une organisation d'actualités satiriques influente proposant des commentaires cinglants et pince-sans-rire sur l'actualité et la vie américaine.",
+              "languages": [
+                "fr"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": null,
+          "price_range_usd_min": null,
+          "target_income_level": [
+            "Low to Medium",
+            "Medium",
+            "Medium to High"
+          ],
+          "aesthetic_properties": [
+            "Minimalist Typography",
+            "Journalistic Layout",
+            "Deadpan Presentation",
+            "Stock Photo Aesthetics"
+          ],
+          "category_description": "A satirical media publisher that replicates the format and tone of professional journalism to provide social and political commentary.",
+          "headquarters_address": "Chicago, United States",
+          "interest_adjacencies": [
+            "Political Commentary",
+            "Social Criticism",
+            "Digital Humor",
+            "Media Studies",
+            "Pop Culture"
+          ],
+          "situational_contexts": "Engaged with while scrolling through social media, taking a break from the relentless cycle of real-world news, or looking for a cynical, humorous perspective on contemporary culture.",
+          "aspirational_lifestyle": [
+            "Intellectual Independence",
+            "Media Literacy"
+          ],
+          "sustainability_initiatives": [],
+          "cultural_context_description": "The brand is a cornerstone of American digital satire, occupying a space where high-level cultural criticism meets absurd, dark comedy.",
+          "target_demographics_description": null
+        },
+        "popularity": 0.99846586767473,
+        "tags": [
+          {
+            "id": "urn:tag:wikipedia_category:former_univision_communications_subsidiaries",
+            "name": "Former Univision Communications subsidiaries",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:2000s_in_comedy",
+            "name": "2000s in comedy",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:2010s_in_comedy",
+            "name": "2010s in comedy",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:online_newspapers_with_defunct_print_editions",
+            "name": "Online newspapers with defunct print editions",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:the_onion",
+            "name": "The Onion",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:2020s_in_comedy",
+            "name": "2020s in comedy",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:fusion_media_group",
+            "name": "Fusion Media Group",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:genre:brand:entertainment:media:news_and_politics",
+            "name": "News & Politics",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:mass_media_in_madison",
+            "name": "Mass media in Madison",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:2019_mergers_and_acquisitions",
+            "name": "2019 mergers and acquisitions",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:1990s_in_comedy",
+            "name": "1990s in comedy",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:genre:brand:website",
+            "name": "Website",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:entertainment",
+            "name": "Entertainment",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:genre:brand:entertainment:media",
+            "name": "Media",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:satirical_websites",
+            "name": "Satirical websites",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:publications_disestablished_in_2013",
+            "name": "Publications disestablished in 2013",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:webby_award_winners",
+            "name": "Webby Award winners",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:internet_properties_established_in_1996",
+            "name": "Internet properties established in 1996",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:wikipedia_category:newspapers_published_in_wisconsin",
+            "name": "Newspapers published in Wisconsin",
+            "type": "urn:tag:wikipedia_category"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:minimalist_typography",
+            "name": "Minimalist Typography",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:journalistic_layout",
+            "name": "Journalistic Layout",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:deadpan_presentation",
+            "name": "Deadpan Presentation",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:stock_photo_aesthetics",
+            "name": "Stock Photo Aesthetics",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:intellectual_independence",
+            "name": "Intellectual Independence",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:media_literacy",
+            "name": "Media Literacy",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:other",
+            "name": "Other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:media_brand",
+            "name": "Media Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:b2c",
+            "name": "B2C",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:advertising",
+            "name": "Advertising",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:the_babylon_bee",
+            "name": "The Babylon Bee",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:clickhole",
+            "name": "ClickHole",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:satire",
+            "name": "Satire",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:critical_thinking",
+            "name": "Critical Thinking",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:absurdism",
+            "name": "Absurdism",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:journalistic_integrity",
+            "name": "Journalistic Integrity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:political_satire",
+            "name": "Political Satire",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:internet_culture",
+            "name": "Internet Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:alternative_media",
+            "name": "Alternative Media",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:culturally_engaged_adults",
+            "name": "Culturally Engaged Adults",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:political_junkies",
+            "name": "Political Junkies",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:media_skeptics",
+            "name": "Media Skeptics",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:cynical",
+            "name": "Cynical",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:deadpan",
+            "name": "Deadpan",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sardonic",
+            "name": "Sardonic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:witty",
+            "name": "Witty",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:irreverent",
+            "name": "Irreverent",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:media_entertainment",
+            "name": "Media & Entertainment",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:publishing",
+            "name": "Publishing",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:digital_media",
+            "name": "Digital Media",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:comedians",
+            "name": "Comedians",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:political_commentators",
+            "name": "Political Commentators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:media_critics",
+            "name": "Media Critics",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:journalists",
+            "name": "Journalists",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:digital_creators",
+            "name": "Digital Creators",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:political_commentary",
+            "name": "Political Commentary",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:social_criticism",
+            "name": "Social Criticism",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:digital_humor",
+            "name": "Digital Humor",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:media_studies",
+            "name": "Media Studies",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:pop_culture",
+            "name": "Pop Culture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:satire",
+            "name": "Satire",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:irony",
+            "name": "Irony",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:news_parody",
+            "name": "News Parody",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:absurdism",
+            "name": "Absurdism",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:media_criticism",
+            "name": "Media Criticism",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:digital_consumption",
+            "name": "Digital Consumption",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:news_analysis",
+            "name": "News Analysis",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:cultural_observation",
+            "name": "Cultural Observation",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:mainstream",
+            "name": "Mainstream",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:cult",
+            "name": "Cult",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:satirical_news_articles",
+            "name": "Satirical News Articles",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:video_content",
+            "name": "Video Content",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:podcasts",
+            "name": "Podcasts",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:email_newsletters",
+            "name": "Email Newsletters",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:print_newspaper",
+            "name": "Print Newspaper",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:merchandise",
+            "name": "Merchandise",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:mcsweeney_s",
+            "name": "McSweeney's",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:the_daily_show",
+            "name": "The Daily Show",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:saturday_night_live",
+            "name": "Saturday Night Live",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:subsidiary:qloo:the_a_v_club",
+            "name": "The A.V. Club",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "id": "urn:tag:subsidiary:qloo:starwipe",
+            "name": "StarWipe",
+            "type": "urn:tag:subsidiary:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:middle_aged",
+            "name": "Middle-Aged",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:low_to_medium",
+            "name": "Low to Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium",
+            "name": "Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium_to_high",
+            "name": "Medium to High",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8727142836008853,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "TheOnion"
+            }
+          ],
+          "facebook": [
+            {
+              "id": "theonion"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "Q618236"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "theonion"
+            }
+          ]
+        }
+      },
+      {
+        "name": "ClickHole",
+        "entity_id": "00D91AB2-CB13-4016-963A-9C6EAD6BF3B8",
+        "type": "urn:entity",
+        "subtype": "urn:entity:brand",
+        "properties": {
+          "akas": [
+            {
+              "value": "ClickHole",
+              "languages": [
+                "uk",
+                "fi"
+              ]
+            }
+          ],
+          "image": {
+            "url": "https://images.qloo.com/i/00D91AB2-CB13-4016-963A-9C6EAD6BF3B8-420x-auto.jpg"
+          },
+          "sport": null,
+          "tagline": "Because all content deserves to go viral.",
+          "industry": null,
+          "keywords": [
+            "Satire",
+            "Parody",
+            "Viral Content",
+            "Humor",
+            "Clickbait"
+          ],
+          "owned_by": null,
+          "products": null,
+          "inception": null,
+          "lifestyle": [
+            "Digital Native",
+            "Social Media Consumption",
+            "Casual Browsing"
+          ],
+          "brand_type": [
+            "Media Brand"
+          ],
+          "industries": [
+            "Media & Entertainment",
+            "Digital Media",
+            "Satire"
+          ],
+          "subsidiary": null,
+          "core_values": [
+            "Humor",
+            "Satire",
+            "Creativity"
+          ],
+          "description": "An influential online satirical publication known for its absurd, hyper-specific, and dry humor that parodies the architecture of viral digital media. Founded as a platform to mock the click-driven nature of the internet, it consistently subverts expectations through bizarre lists, quizzes, and articles. Its unique brand identity relies on deadpan delivery and a deep understanding of modern internet tropes. The brand maintains a cult following among internet-savvy audiences who appreciate its biting critique of contemporary media consumption habits.",
+          "key_markets": [
+            "United States"
+          ],
+          "founded_year": 2014,
+          "manufacturer": null,
+          "subsidiaries": [],
+          "headquartered": null,
+          "official_site": null,
+          "target_gender": [
+            "Gender-Neutral"
+          ],
+          "ticker_symbol": null,
+          "business_model": [
+            "Advertising"
+          ],
+          "emotional_tone": [
+            "Absurdist",
+            "Ironic",
+            "Witty",
+            "Sardonic"
+          ],
+          "personal_style": null,
+          "similar_brands": [
+            "The Babylon Bee",
+            "McSweeney's",
+            "Funny Or Die"
+          ],
+          "ultimate_parent": "G/O Media",
+          "immediate_parent": "G/O Media",
+          "target_age_group": [
+            "Young Adults",
+            "Adults"
+          ],
+          "audience_identity": "People who enjoy dry wit, absurdity, and meta-commentary find themselves drawn to this space as a way to engage with the absurdity of digital culture.",
+          "competitor_brands": [
+            "The Onion",
+            "Reductress",
+            "Hard Drive"
+          ],
+          "customer_segments": [
+            "Internet Users",
+            "Comedy Fans",
+            "Social Media Consumers"
+          ],
+          "influencer_appeal": [
+            "Comedians",
+            "Internet Personalities",
+            "Writers",
+            "Cultural Critics"
+          ],
+          "products_services": [
+            "Articles",
+            "Quizzes",
+            "Lists",
+            "Videos"
+          ],
+          "short_description": "ClickHole is a satirical website that parodies clickbait content, created by The Onion, known for humorous viral articles and merchandise.",
+          "style_description": "The visual identity intentionally mimics the mundane, high-contrast, and sensationalist aesthetic of mainstream clickbait platforms.",
+          "cultural_relevance": [
+            "Internet Culture",
+            "Memes",
+            "Media Criticism"
+          ],
+          "known_partnerships": [],
+          "market_positioning": "A niche, culturally disruptive digital satire brand that parodies modern viral content paradigms.",
+          "short_descriptions": [
+            {
+              "value": "Une publication satirique qui parodie la culture du clic viral via des articles absurdes, surréalistes et délibérément trompeurs.",
+              "languages": [
+                "fr"
+              ]
+            },
+            {
+              "value": "A satirical publication that parodies viral clickbait culture through absurd, surreal, and hilariously misleading articles.",
+              "languages": [
+                "en"
+              ]
+            },
+            {
+              "value": "Ein satirisches Online-Magazin, das die virale Clickbait-Kultur durch absurde, surreale und komisch irreführende Inhalte parodiert.",
+              "languages": [
+                "de"
+              ]
+            },
+            {
+              "value": "Una publicación satírica que parodia la cultura del clickbait viral mediante artículos absurdos, surrealistas y engañosos.",
+              "languages": [
+                "es"
+              ]
+            }
+          ],
+          "is_regional_variant": false,
+          "parent_organization": null,
+          "price_range_usd_max": null,
+          "price_range_usd_min": null,
+          "target_income_level": [
+            "Low",
+            "Low to Medium",
+            "Medium"
+          ],
+          "aesthetic_properties": [
+            "Minimalist Design",
+            "Clickbait Typography",
+            "Stock Photo Aesthetics"
+          ],
+          "category_description": "A digital media outlet that produces satirical and parody content to mimic the format and tone of viral online publishers.",
+          "headquarters_address": "United States",
+          "interest_adjacencies": [
+            "Internet Culture",
+            "Satire",
+            "Comedy",
+            "Digital Media",
+            "Surrealism"
+          ],
+          "situational_contexts": "This is frequently visited during downtime or while mindlessly scrolling through social media feeds when someone is seeking a quick laugh or a surreal distraction.",
+          "aspirational_lifestyle": [
+            "Cultural Literacy",
+            "Internet Savvy"
+          ],
+          "sustainability_initiatives": [],
+          "cultural_context_description": "The brand is deeply embedded in internet culture, specifically the subculture of meme-sharing and media commentary.",
+          "target_demographics_description": "Generally targets tech-savvy, younger adults who are active on social media and appreciate ironic or absurdist humor."
+        },
+        "popularity": 0.967215337932905,
+        "tags": [
+          {
+            "id": "urn:tag:genre:brand:website",
+            "name": "Website",
+            "type": "urn:tag:genre:brand"
+          },
+          {
+            "id": "urn:tag:platform_feature:qloo:advertising_enabled",
+            "name": "Advertising Enabled",
+            "type": "urn:tag:platform_feature:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:minimalist_design",
+            "name": "Minimalist Design",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:clickbait_typography",
+            "name": "Clickbait Typography",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:aesthetic_property:qloo:stock_photo_aesthetics",
+            "name": "Stock Photo Aesthetics",
+            "type": "urn:tag:aesthetic_property:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:cultural_literacy",
+            "name": "Cultural Literacy",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:internet_savvy",
+            "name": "Internet Savvy",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:brand_subtype:qloo:other",
+            "name": "Other",
+            "type": "urn:tag:brand_subtype:qloo"
+          },
+          {
+            "id": "urn:tag:brand_type:qloo:media_brand",
+            "name": "Media Brand",
+            "type": "urn:tag:brand_type:qloo"
+          },
+          {
+            "id": "urn:tag:business_model:qloo:advertising",
+            "name": "Advertising",
+            "type": "urn:tag:business_model:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:the_onion",
+            "name": "The Onion",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:reductress",
+            "name": "Reductress",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:competitor_brand:qloo:hard_drive",
+            "name": "Hard Drive",
+            "type": "urn:tag:competitor_brand:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:humor",
+            "name": "Humor",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:satire",
+            "name": "Satire",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:core_value:qloo:creativity",
+            "name": "Creativity",
+            "type": "urn:tag:core_value:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:internet_culture",
+            "name": "Internet Culture",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:memes",
+            "name": "Memes",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:cultural_relevance:qloo:media_criticism",
+            "name": "Media Criticism",
+            "type": "urn:tag:cultural_relevance:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:internet_users",
+            "name": "Internet Users",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:comedy_fans",
+            "name": "Comedy Fans",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:customer_segment:qloo:social_media_consumers",
+            "name": "Social Media Consumers",
+            "type": "urn:tag:customer_segment:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:absurdist",
+            "name": "Absurdist",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:ironic",
+            "name": "Ironic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:witty",
+            "name": "Witty",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:emotional_tone:qloo:sardonic",
+            "name": "Sardonic",
+            "type": "urn:tag:emotional_tone:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:media_entertainment",
+            "name": "Media & Entertainment",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:digital_media",
+            "name": "Digital Media",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:industry:qloo:satire",
+            "name": "Satire",
+            "type": "urn:tag:industry:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:comedians",
+            "name": "Comedians",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:internet_personalities",
+            "name": "Internet Personalities",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:writers",
+            "name": "Writers",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:influencer_appeal:qloo:cultural_critics",
+            "name": "Cultural Critics",
+            "type": "urn:tag:influencer_appeal:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:internet_culture",
+            "name": "Internet Culture",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:satire",
+            "name": "Satire",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:comedy",
+            "name": "Comedy",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:digital_media",
+            "name": "Digital Media",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:interest_adjacency:qloo:surrealism",
+            "name": "Surrealism",
+            "type": "urn:tag:interest_adjacency:qloo"
+          },
+          {
+            "id": "urn:tag:key_market:qloo:united_states",
+            "name": "United States",
+            "type": "urn:tag:key_market:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:satire",
+            "name": "Satire",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:parody",
+            "name": "Parody",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:viral_content",
+            "name": "Viral Content",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:humor",
+            "name": "Humor",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:keyword:qloo:clickbait",
+            "name": "Clickbait",
+            "type": "urn:tag:keyword:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:digital_native",
+            "name": "Digital Native",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:social_media_consumption",
+            "name": "Social Media Consumption",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:lifestyle:qloo:casual_browsing",
+            "name": "Casual Browsing",
+            "type": "urn:tag:lifestyle:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:niche",
+            "name": "Niche",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:challenger",
+            "name": "Challenger",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:market_archetype:qloo:cult",
+            "name": "Cult",
+            "type": "urn:tag:market_archetype:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:articles",
+            "name": "Articles",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:quizzes",
+            "name": "Quizzes",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:lists",
+            "name": "Lists",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:product_service:qloo:videos",
+            "name": "Videos",
+            "type": "urn:tag:product_service:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:the_babylon_bee",
+            "name": "The Babylon Bee",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:mcsweeney_s",
+            "name": "McSweeney's",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:similar_brand:qloo:funny_or_die",
+            "name": "Funny Or Die",
+            "type": "urn:tag:similar_brand:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:young_adults",
+            "name": "Young Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_age_group:qloo:adults",
+            "name": "Adults",
+            "type": "urn:tag:target_age_group:qloo"
+          },
+          {
+            "id": "urn:tag:target_gender:qloo:gender_neutral",
+            "name": "Gender-Neutral",
+            "type": "urn:tag:target_gender:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:low",
+            "name": "Low",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:low_to_medium",
+            "name": "Low to Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          },
+          {
+            "id": "urn:tag:target_income_level:qloo:medium",
+            "name": "Medium",
+            "type": "urn:tag:target_income_level:qloo"
+          }
+        ],
+        "query": {
+          "affinity": 0.8725206590910678,
+          "measurements": {
+            "audience_growth": 0
+          }
+        },
+        "disambiguation": "",
+        "external": {
+          "twitter": [
+            {
+              "id": "ClickHole"
+            }
+          ],
+          "wikidata": [
+            {
+              "id": "Q18148919"
+            }
+          ],
+          "instagram": [
+            {
+              "id": "clickhole"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

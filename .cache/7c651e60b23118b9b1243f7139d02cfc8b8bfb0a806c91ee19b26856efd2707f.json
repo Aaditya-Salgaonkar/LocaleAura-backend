@@ -1,0 +1,530 @@
+{
+  "results": [
+    {
+      "name": "The Criterion Collection",
+      "entity_id": "67F5FBDB-3164-4AE1-9988-B791FE0E59F7",
+      "types": [
+        "urn:entity:brand"
+      ],
+      "properties": {
+        "akas": [
+          {
+            "language": "ja",
+            "value": "クリテリオン・コレクション"
+          },
+          {
+            "language": "he",
+            "value": "קריטריון קולקשן"
+          },
+          {
+            "language": "ru",
+            "value": "Criterion"
+          },
+          {
+            "language": "it",
+            "value": "Criterion collection"
+          },
+          {
+            "language": "nn",
+            "value": "The Criterion Collection"
+          },
+          {
+            "language": "id",
+            "value": "The Criterion Collection"
+          },
+          {
+            "language": "ro",
+            "value": "The Criterion Collection"
+          },
+          {
+            "language": "ms",
+            "value": "The Criterion Collection"
+          },
+          {
+            "language": "no",
+            "value": "The Criterion Collection"
+          },
+          {
+            "language": "uk",
+            "value": "The Criterion Collection"
+          },
+          {
+            "language": "bs",
+            "value": "The Criterion Collection"
+          },
+          {
+            "language": "ca",
+            "value": "The Criterion Collection"
+          },
+          {
+            "language": "sk",
+            "value": "The Criterion Collection"
+          },
+          {
+            "language": "cs",
+            "value": "The Criterion Collection"
+          },
+          {
+            "language": "nb",
+            "value": "The Criterion Collection"
+          },
+          {
+            "language": "sv",
+            "value": "The Criterion Collection"
+          },
+          {
+            "language": "bn",
+            "value": "দ্য ক্রাইটেরিয়ন কালেকশন"
+          },
+          {
+            "language": "bg",
+            "value": "Крайтириън Кълекшън"
+          },
+          {
+            "language": "da",
+            "value": "Criterion Collection"
+          },
+          {
+            "language": "de",
+            "value": "Criterion Collection"
+          },
+          {
+            "language": "fr",
+            "value": "Criterion Collection"
+          },
+          {
+            "language": "tr",
+            "value": "Criterion Collection"
+          },
+          {
+            "language": "zh",
+            "value": "标准收藏"
+          },
+          {
+            "language": "ko",
+            "value": "크라이테리언 콜렉션"
+          }
+        ],
+        "description": "The Criterion Collection is a preeminent home video and streaming brand dedicated to gathering and publishing the most significant films from around the globe. Since 1984, it has been recognized for its rigorous commitment to high-quality restorations and the inclusion of extensive, scholarly supplemental material. By treating film as high art, it maintains a unique position as both an essential resource for cinephiles and an academic benchmark for film preservation. The brand serves a sophisticated global audience of filmmakers, students, and collectors through a curated library of both historic and contemporary cinema.",
+        "external": {
+          "instagram": {
+            "id": "criterion"
+          },
+          "twitter": {
+            "id": "criterion"
+          },
+          "wikidata": {
+            "id": "Q1204187"
+          }
+        },
+        "founded_year": "1984",
+        "image": {
+          "url": "https://images.qloo.com/i/67F5FBDB-3164-4AE1-9988-B791FE0E59F7-420x-auto.jpg"
+        },
+        "short_description": "The Criterion Collection is a company that distributes classic and contemporary films on 4K, Blu-ray, DVD, and via its streaming service, the Criterion Channel, featuring curated movies with special features and documentaries.",
+        "short_descriptions": [
+          {
+            "language": "de",
+            "value": "Ein führender Herausgeber für essentielles klassisches und zeitgenössisches Kino, bekannt für hochwertige Restaurierungen und kuratierte filmische Begleitmaterialien."
+          },
+          {
+            "language": "es",
+            "value": "Un editor líder de cine clásico y contemporáneo esencial, famoso por sus restauraciones de alta calidad y su contenido educativo y curado para cinéfilos."
+          },
+          {
+            "language": "fr",
+            "value": "Un éditeur de premier plan de cinéma classique et contemporain essentiel, célèbre pour ses restaurations de haute qualité et son contenu éducatif et curé."
+          },
+          {
+            "language": "en",
+            "value": "A premier publisher of essential classic and contemporary cinema, celebrated for high-quality restorations and curated, supplemental film educational content."
+          }
+        ]
+      },
+      "popularity": 0.9691308843721924,
+      "disambiguation": "",
+      "tags": [
+        {
+          "name": "Entertainment",
+          "tag_id": "urn:tag:genre:brand:entertainment",
+          "type": "urn:tag:genre:brand"
+        },
+        {
+          "name": "Production Company",
+          "tag_id": "urn:tag:genre:brand:entertainment:production_company",
+          "type": "urn:tag:genre:brand"
+        },
+        {
+          "name": "Minimalist Design",
+          "tag_id": "urn:tag:aesthetic_property:qloo:minimalist_design",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Clean Typography",
+          "tag_id": "urn:tag:aesthetic_property:qloo:clean_typography",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Illustrative Cover Art",
+          "tag_id": "urn:tag:aesthetic_property:qloo:illustrative_cover_art",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Cohesive Branding",
+          "tag_id": "urn:tag:aesthetic_property:qloo:cohesive_branding",
+          "type": "urn:tag:aesthetic_property:qloo"
+        },
+        {
+          "name": "Intellectual Enrichment",
+          "tag_id": "urn:tag:lifestyle:qloo:intellectual_enrichment",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Artistic Literacy",
+          "tag_id": "urn:tag:lifestyle:qloo:artistic_literacy",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Curating a Personal Archive",
+          "tag_id": "urn:tag:lifestyle:qloo:curating_a_personal_archive",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Other",
+          "tag_id": "urn:tag:brand_subtype:qloo:other",
+          "type": "urn:tag:brand_subtype:qloo"
+        },
+        {
+          "name": "Media Brand",
+          "tag_id": "urn:tag:brand_type:qloo:media_brand",
+          "type": "urn:tag:brand_type:qloo"
+        },
+        {
+          "name": "B2C",
+          "tag_id": "urn:tag:business_model:qloo:b2c",
+          "type": "urn:tag:business_model:qloo"
+        },
+        {
+          "name": "Subscription",
+          "tag_id": "urn:tag:business_model:qloo:subscription",
+          "type": "urn:tag:business_model:qloo"
+        },
+        {
+          "name": "Arrow Video",
+          "tag_id": "urn:tag:competitor_brand:qloo:arrow_video",
+          "type": "urn:tag:competitor_brand:qloo"
+        },
+        {
+          "name": "Kino Lorber",
+          "tag_id": "urn:tag:competitor_brand:qloo:kino_lorber",
+          "type": "urn:tag:competitor_brand:qloo"
+        },
+        {
+          "name": "Vinegar Syndrome",
+          "tag_id": "urn:tag:competitor_brand:qloo:vinegar_syndrome",
+          "type": "urn:tag:competitor_brand:qloo"
+        },
+        {
+          "name": "BFI",
+          "tag_id": "urn:tag:competitor_brand:qloo:bfi",
+          "type": "urn:tag:competitor_brand:qloo"
+        },
+        {
+          "name": "Authenticity",
+          "tag_id": "urn:tag:core_value:qloo:authenticity",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Preservation",
+          "tag_id": "urn:tag:core_value:qloo:preservation",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Curatorship",
+          "tag_id": "urn:tag:core_value:qloo:curatorship",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Excellence",
+          "tag_id": "urn:tag:core_value:qloo:excellence",
+          "type": "urn:tag:core_value:qloo"
+        },
+        {
+          "name": "Art House Cinema",
+          "tag_id": "urn:tag:cultural_relevance:qloo:art_house_cinema",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "Global Film Movements",
+          "tag_id": "urn:tag:cultural_relevance:qloo:global_film_movements",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "Academic Film Theory",
+          "tag_id": "urn:tag:cultural_relevance:qloo:academic_film_theory",
+          "type": "urn:tag:cultural_relevance:qloo"
+        },
+        {
+          "name": "Film Students",
+          "tag_id": "urn:tag:customer_segment:qloo:film_students",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Cinephiles",
+          "tag_id": "urn:tag:customer_segment:qloo:cinephiles",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Collectors",
+          "tag_id": "urn:tag:customer_segment:qloo:collectors",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Academic Researchers",
+          "tag_id": "urn:tag:customer_segment:qloo:academic_researchers",
+          "type": "urn:tag:customer_segment:qloo"
+        },
+        {
+          "name": "Sophisticated",
+          "tag_id": "urn:tag:emotional_tone:qloo:sophisticated",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Nostalgic",
+          "tag_id": "urn:tag:emotional_tone:qloo:nostalgic",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Intellectual",
+          "tag_id": "urn:tag:emotional_tone:qloo:intellectual",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Respectful",
+          "tag_id": "urn:tag:emotional_tone:qloo:respectful",
+          "type": "urn:tag:emotional_tone:qloo"
+        },
+        {
+          "name": "Media & Entertainment",
+          "tag_id": "urn:tag:industry:qloo:media_entertainment",
+          "type": "urn:tag:industry:qloo"
+        },
+        {
+          "name": "Film Restoration",
+          "tag_id": "urn:tag:industry:qloo:film_restoration",
+          "type": "urn:tag:industry:qloo"
+        },
+        {
+          "name": "Home Video",
+          "tag_id": "urn:tag:industry:qloo:home_video",
+          "type": "urn:tag:industry:qloo"
+        },
+        {
+          "name": "Film Critics",
+          "tag_id": "urn:tag:influencer_appeal:qloo:film_critics",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Film Directors",
+          "tag_id": "urn:tag:influencer_appeal:qloo:film_directors",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Academic Scholars",
+          "tag_id": "urn:tag:influencer_appeal:qloo:academic_scholars",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Video Essayists",
+          "tag_id": "urn:tag:influencer_appeal:qloo:video_essayists",
+          "type": "urn:tag:influencer_appeal:qloo"
+        },
+        {
+          "name": "Film History",
+          "tag_id": "urn:tag:interest_adjacency:qloo:film_history",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Cinematography",
+          "tag_id": "urn:tag:interest_adjacency:qloo:cinematography",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Cultural Studies",
+          "tag_id": "urn:tag:interest_adjacency:qloo:cultural_studies",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Literature",
+          "tag_id": "urn:tag:interest_adjacency:qloo:literature",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "Analog Media",
+          "tag_id": "urn:tag:interest_adjacency:qloo:analog_media",
+          "type": "urn:tag:interest_adjacency:qloo"
+        },
+        {
+          "name": "United States",
+          "tag_id": "urn:tag:key_market:qloo:united_states",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "Canada",
+          "tag_id": "urn:tag:key_market:qloo:canada",
+          "type": "urn:tag:key_market:qloo"
+        },
+        {
+          "name": "Restoration",
+          "tag_id": "urn:tag:keyword:qloo:restoration",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Cinephilia",
+          "tag_id": "urn:tag:keyword:qloo:cinephilia",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Cinema",
+          "tag_id": "urn:tag:keyword:qloo:cinema",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Archival",
+          "tag_id": "urn:tag:keyword:qloo:archival",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Home Video",
+          "tag_id": "urn:tag:keyword:qloo:home_video",
+          "type": "urn:tag:keyword:qloo"
+        },
+        {
+          "name": "Janus Films",
+          "tag_id": "urn:tag:partnership:qloo:janus_films",
+          "type": "urn:tag:partnership:qloo"
+        },
+        {
+          "name": "Martin Scorsese",
+          "tag_id": "urn:tag:partnership:qloo:martin_scorsese",
+          "type": "urn:tag:partnership:qloo"
+        },
+        {
+          "name": "Wes Anderson",
+          "tag_id": "urn:tag:partnership:qloo:wes_anderson",
+          "type": "urn:tag:partnership:qloo"
+        },
+        {
+          "name": "Home Cinema",
+          "tag_id": "urn:tag:lifestyle:qloo:home_cinema",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Film Festivals",
+          "tag_id": "urn:tag:lifestyle:qloo:film_festivals",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Book Reading",
+          "tag_id": "urn:tag:lifestyle:qloo:book_reading",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Academic Inquiry",
+          "tag_id": "urn:tag:lifestyle:qloo:academic_inquiry",
+          "type": "urn:tag:lifestyle:qloo"
+        },
+        {
+          "name": "Niche",
+          "tag_id": "urn:tag:market_archetype:qloo:niche",
+          "type": "urn:tag:market_archetype:qloo"
+        },
+        {
+          "name": "Heritage",
+          "tag_id": "urn:tag:market_archetype:qloo:heritage",
+          "type": "urn:tag:market_archetype:qloo"
+        },
+        {
+          "name": "Cult",
+          "tag_id": "urn:tag:market_archetype:qloo:cult",
+          "type": "urn:tag:market_archetype:qloo"
+        },
+        {
+          "name": "$$$",
+          "tag_id": "urn:tag:price_level:qloo:_",
+          "type": "urn:tag:price_level:qloo"
+        },
+        {
+          "name": "Blu-ray Discs",
+          "tag_id": "urn:tag:product_service:qloo:blu_ray_discs",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "DVDs",
+          "tag_id": "urn:tag:product_service:qloo:dvds",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Ultra HD Blu-ray Discs",
+          "tag_id": "urn:tag:product_service:qloo:ultra_hd_blu_ray_discs",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "Film Streaming",
+          "tag_id": "urn:tag:product_service:qloo:film_streaming",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "LaserDiscs",
+          "tag_id": "urn:tag:product_service:qloo:laserdiscs",
+          "type": "urn:tag:product_service:qloo"
+        },
+        {
+          "name": "MUBI",
+          "tag_id": "urn:tag:similar_brand:qloo:mubi",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "A24",
+          "tag_id": "urn:tag:similar_brand:qloo:a24",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "Neon",
+          "tag_id": "urn:tag:similar_brand:qloo:neon",
+          "type": "urn:tag:similar_brand:qloo"
+        },
+        {
+          "name": "Adults",
+          "tag_id": "urn:tag:target_age_group:qloo:adults",
+          "type": "urn:tag:target_age_group:qloo"
+        },
+        {
+          "name": "Middle-Aged",
+          "tag_id": "urn:tag:target_age_group:qloo:middle_aged",
+          "type": "urn:tag:target_age_group:qloo"
+        },
+        {
+          "name": "Seniors",
+          "tag_id": "urn:tag:target_age_group:qloo:seniors",
+          "type": "urn:tag:target_age_group:qloo"
+        },
+        {
+          "name": "Gender-Neutral",
+          "tag_id": "urn:tag:target_gender:qloo:gender_neutral",
+          "type": "urn:tag:target_gender:qloo"
+        },
+        {
+          "name": "Medium to High",
+          "tag_id": "urn:tag:target_income_level:qloo:medium_to_high",
+          "type": "urn:tag:target_income_level:qloo"
+        },
+        {
+          "name": "High",
+          "tag_id": "urn:tag:target_income_level:qloo:high",
+          "type": "urn:tag:target_income_level:qloo"
+        }
+      ]
+    }
+  ]
+}
