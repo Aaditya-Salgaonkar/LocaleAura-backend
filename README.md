@@ -21,7 +21,7 @@
 
 ## Overview & Architecture
 
-- **Type:** Enterprise B2B SaaS Monorepo (Next.js 14 Frontend + NestJS 10 Agentic Microservice Backend)
+- **Type:** Enterprise B2B SaaS Repo (Next.js 14 Frontend + NestJS 10 Agentic Microservice Backend)
 - **Language / Runtime:** TypeScript / Node.js 20 LTS (ESM)
 - **Data Stores:** Qloo REST API (External Vector & Knowledge Graph), In-Memory Response Caching / SQLite Local Store
 
@@ -61,6 +61,7 @@ Ensure you have the following installed locally before proceeding:
 - **Environment Keys:**
   - Qloo API Key (`QLOO_API_KEY`)
   - OpenRouter API Key (`OPENROUTER_API_KEY`)
+  - Tom Tom API Key (`NEXT_PUBLIC_TOMTOM_API_KEY`)
 
 ---
 
@@ -68,8 +69,13 @@ Ensure you have the following installed locally before proceeding:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/locale-aura-enterprise.git
-cd locale-aura-enterprise
+git clone https://github.com/Aaditya-Salgaonkar/localeAura-backend.git
+cd localeAura-backend
+```
+---
+```bash
+git clone https://github.com/Aaditya-Salgaonkar/localeAura-frontend.git
+cd localeAura-frontend
 ```
 
 ### 2. Configure Backend (NestJS)
@@ -82,6 +88,7 @@ Create a `.env` file inside `backend/`:
 ```env
 PORT=4000
 QLOO_API_KEY=your_qloo_api_key_here
+QLOO_BASE_URL=your_qloo_base_url_here
 OPENROUTER_API_KEY=your_openrouter_api_key_here
 ```
 
@@ -99,7 +106,8 @@ npm install
 
 Create a `.env.local` file inside `frontend/`:
 ```env
-NEXT_PUBLIC_API_BASE=http://localhost:4000/api
+NEXT_PUBLIC_API_BASE=http://localhost:4000/api/architect
+NEXT_PUBLIC_TOMTOM_API_KEY=your_tomtom_api_key_here
 ```
 
 Run the frontend development server:
