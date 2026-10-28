@@ -19,7 +19,7 @@
 
 ---
 
-## 🏛️ Overview & Architecture
+## Overview & Architecture
 
 - **Type:** Enterprise B2B SaaS Monorepo (Next.js 14 Frontend + NestJS 10 Agentic Microservice Backend)
 - **Language / Runtime:** TypeScript / Node.js 20 LTS (ESM)
@@ -53,7 +53,7 @@ LocaleAura makes cultural intelligence the core differentiator. By querying Qloo
 
 ---
 
-## 🧰 Prerequisites & Tech Stack
+## Prerequisites & Tech Stack
 
 Ensure you have the following installed locally before proceeding:
 - **Node.js:** v18.x or v20.x LTS
@@ -64,7 +64,7 @@ Ensure you have the following installed locally before proceeding:
 
 ---
 
-## 🚀 Local Development Setup
+## Local Development Setup
 
 ### 1. Clone the Repository
 ```bash
@@ -124,9 +124,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 - **CI/CD Pipeline:** GitHub Actions automated build & lint workflow.
 - **Hosting:**
-  - Frontend deployed on Vercel ([https://locale-aura-enterprise.vercel.app](https://locale-aura-enterprise.vercel.app))
-  - Backend deployed on Railway ([https://locale-aura-api.railway.app](https://locale-aura-api.railway.app))
-- **Zero-Friction Testing:** The live deployment includes pre-configured Judge Presets (Tokyo Café, Senior Bistro, Brooklyn Hotel) requiring zero login friction.
+  - Frontend deployed on Vercel [([https://locale-aura-enterprise.vercel.app](https://locale-aura-enterprise.vercel.app))](https://locale-aura-frontend.vercel.app/)
+  - Backend deployed on Render [([https://locale-aura-api.railway.app](https://locale-aura-api.railway.app))](https://localeaura-backend.onrender.com/)
+- **Zero-Friction Testing:** The live deployment includes pre-configured Judge Presets (Tokyo Café, Senior Bistro, Brooklyn Hotel) requiring zero friction.
 
 ---
 
@@ -150,13 +150,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 👥 Ownership & Support
 
-| Role | Contact / Handle | Slack Channel |
-|---|---|---|
-| Primary Engineering | @aaditya-salgaonkar | `#team-locale-aura` |
-| Project Lead | support@galuxium.com (@aaditya) | — |
-| On-Call Support | GitHub Issues | `#alerts-localeaura` |
-
-- **Incident Response SLA:** 15 minutes for Sev-1; see full Incident Response Runbook.
+| Role | Contact / Handle |
+|---|---|
+| Developer | @Aaditya-Salgaonkar |
 
 ---
 
