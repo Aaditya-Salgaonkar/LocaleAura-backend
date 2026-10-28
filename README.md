@@ -124,8 +124,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 - **CI/CD Pipeline:** GitHub Actions automated build & lint workflow.
 - **Hosting:**
-  - Frontend deployed on Vercel [([https://locale-aura-enterprise.vercel.app](https://locale-aura-enterprise.vercel.app))](https://locale-aura-frontend.vercel.app/)
-  - Backend deployed on Render [([https://locale-aura-api.railway.app](https://locale-aura-api.railway.app))](https://localeaura-backend.onrender.com/)
+  - Frontend deployed on Vercel: https://locale-aura-frontend.vercel.app
+  - Backend deployed on Render: https://localeaura-backend.onrender.com
 - **Zero-Friction Testing:** The live deployment includes pre-configured Judge Presets (Tokyo Café, Senior Bistro, Brooklyn Hotel) requiring zero friction.
 
 ---
