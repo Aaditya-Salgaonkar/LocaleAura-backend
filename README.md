@@ -3,6 +3,10 @@
 > **Summary:** LocaleAura is an autonomous spatial intelligence platform that harnesses Qloo’s 250M+ entity Taste AI Graph to solve commercial real estate (CRE) site selection through programmatic cultural grounding, replacing lagging demographic heuristics with predictive, cross-domain consumer affinity mapping.
 
 ---
+> ⚠️ **Note to Judges:** This project uses a decoupled architecture. 
+> * **Backend (Current Repo):** NestJS Agent Orchestrator & Qloo Graph Integration
+> * **Frontend Repository:** https://github.com/Aaditya-Salgaonkar/LocaleAura-frontend (Contains the Next.js Evaluation Mode and Heatmap Dashboard)
+---
 
 ## 📑 Table of Contents
 
